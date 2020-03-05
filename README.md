@@ -12,3 +12,6 @@ En el anexo I de este documento, encontrarás un tutorial detallado sobre cómo 
 ## ¿En qué procesador de textos lo escribimos?
 En realidad, vamos a usar un editor de texto plano con formato **Markdown**. Se trata de un formato de texto que podemos editar con cualquier editor de código como Visual Studio Code, Sublime Text o Atom, en el que el formato se introduce con una serie de comandos que veremos a continuación.
 
+Es muy importante que, antes de hacer absolutamente nada, creemos una rama. La nombraremos con nuestro nombre de usuario en WordPress.org y un pequeño texto descriptivo. separado por guiones.
+
+Una vez que terminemos de hacer los cambios, haremos un commit y posteriormente un pull request.
