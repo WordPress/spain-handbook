@@ -63,3 +63,5 @@ Por favor, envíanos esto respondiendo a este email.
 Esperamos que compartas la misma ilusión que nosotros tenemos en la organización de este evento, y te agradecemos formar parte de él. Esperamos verte hablando en WordCamp XXX XXX :D
 
 Saludos!
+
+[Volver al índice](../README.md)
