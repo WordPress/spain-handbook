@@ -21,7 +21,6 @@ Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encu
 ## ¿En qué procesador de textos lo escribimos?
 En realidad, vamos a usar un editor de texto plano con formato **Markdown**. Se trata de un formato de texto que podemos editar con cualquier editor de código como Visual Studio Code, Sublime Text o Atom, en el que el formato se introduce con una serie de comandos que veremos a continuación.
 
-<<<<<<< HEAD
 ### Cómo funciona Markdown
 
 Es muy fácil, consulta el siguiente manual y, en apenas 10 minutos lo tendrás listo.
@@ -35,3 +34,38 @@ Es muy fácil, consulta el siguiente manual y, en apenas 10 minutos lo tendrás 
 Es muy importante que, antes de hacer absolutamente nada, creemos una rama. La nombraremos con nuestro nombre de usuario en WordPress.org y un pequeño texto descriptivo. separado por guiones.
 
 Una vez que terminemos de hacer los cambios, haremos un commit y posteriormente un pull request.
+
+# Fases de una WordCamp
+Las fases normales de una WordCamp, las detallamos a continuación:
+- [Fase 1.](#fase-1) Previa a la Web.
+- [Fase 2.](#fase-2) Publicación de la Web.
+- [Fase 3.](#fase-3) Llamada a Patrocinadores.
+- [Fase 4.](#fase-4) Llamada a Ponentes.
+- [Fase 5.](#fase-5) Publicación del Programa.
+- [Fase 6.](#fase-6) Llamada a Voluntarios.
+- [Fase 7.](#fase-7) Recta final.
+
+A continuación detallaremos las tareas que tendremos que realizar en las fases.
+
+## <a name="fase-1"></a>Fase 1. Previa de la Web
+
+Necesitaremos crear las siguientes páginas:
+- Página de inicio.
+- Página Código de conducta.
+- Página del Venue.
+
+## <a name="fase-2"></a>Fase 2. Publicación de la Web
+
+- Diseño Gráfico de la Página Web WordCamp.
+- Publicación de la página web.
+- Comunicación Grupo Meetup.
+
+## <a name="fase-3"></a>Fase 3. Llamada a Patrocinadores
+
+## <a name="fase-4"></a>Fase 4. Llamada a Ponentes
+
+## <a name="fase-5"></a>Fase 5. Publicación del Programa
+
+## <a name="fase-6"></a>Fase 6. Llamada a Voluntarios
+
+## <a name="fase-7"></a>Fase 7. Recta final
