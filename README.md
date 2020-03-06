@@ -30,7 +30,7 @@ Es muy fácil, consulta el siguiente manual y, en apenas 10 minutos lo tendrás 
 [Generador de tablas en Markdown](https://www.tablesgenerator.com/markdown_tables)
 
 [Cómo colaborar en un proyecto en Github](https://gist.github.com/BCasal/026e4c7f5c71418485c1)
-=======
+
 Es muy importante que, antes de hacer absolutamente nada, creemos una rama. La nombraremos con nuestro nombre de usuario en WordPress.org y un pequeño texto descriptivo. separado por guiones.
 
 Una vez que terminemos de hacer los cambios, haremos un commit y posteriormente un pull request.
