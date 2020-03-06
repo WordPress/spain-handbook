@@ -64,6 +64,8 @@ Necesitaremos crear las siguientes páginas:
 
 ## <a name="fase-4"></a>Fase 4. Llamada a Ponentes
 - [Correo a posibles Ponentes para que manden ponencia](fase-4-llamada-ponentes/correo-solicitar-ponencia.md).
+- [Correo ponencia no seleccionada](fase-4-llamada-ponentes/correo-ponencia-seleccionada.md).
+- [Correo ponencia NO seleccionada](fase-4-llamada-ponentes/correo-ponencia-no-seleccionada.md).
 
 ## <a name="fase-5"></a>Fase 5. Publicación del Programa
 
