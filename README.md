@@ -35,4 +35,3 @@ Es muy fácil, consulta el siguiente manual y, en apenas 10 minutos lo tendrás 
 Es muy importante que, antes de hacer absolutamente nada, creemos una rama. La nombraremos con nuestro nombre de usuario en WordPress.org y un pequeño texto descriptivo. separado por guiones.
 
 Una vez que terminemos de hacer los cambios, haremos un commit y posteriormente un pull request.
->>>>>>> c72a1290f40e5636a8cdd3e786c7a712c21b09d8
