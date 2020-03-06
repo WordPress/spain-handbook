@@ -1,5 +1,7 @@
 # Email para animar a Ponentes a mandar ponencia
 
+## Asunto: Nos encantaría que fueras ponente en WordCamp XXX
+
 Hola,
 
 Somos el equipo el equipo que está organizando WordCamp XXX, un evento de la comunidad WordPress en la ciudad de XXX, España. Este evento sucederá los días XX de XX de XXXX y esperamos contar con XX asistentes.
