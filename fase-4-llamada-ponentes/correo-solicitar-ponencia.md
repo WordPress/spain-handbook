@@ -1,4 +1,4 @@
-# Email para animar a Ponentes a mandar ponencia
+# Correo para animar a Ponentes a mandar ponencia
 
 ## Asunto: Nos encantaría que fueras ponente en WordCamp XXX
 

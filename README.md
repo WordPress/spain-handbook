@@ -35,6 +35,8 @@ Es muy importante que, antes de hacer absolutamente nada, creemos una rama. La n
 
 Una vez que terminemos de hacer los cambios, haremos un commit y posteriormente un pull request.
 
+Nota: en los documentos hemos puesto genéricos los nombres del lugar como LLL, el año como YYY, DDD fechas. De manera que si haces búsqueda y reemplazar, podrás tener adaptado a tu WordCamp. Recuerda repasar el texto antes de publicarlo.
+
 # Fases de una WordCamp
 Las fases normales de una WordCamp, las detallamos a continuación:
 - [Fase 1.](#fase-1) Previa a la Web.
