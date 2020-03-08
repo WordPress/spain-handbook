@@ -63,6 +63,10 @@ Necesitaremos crear las siguientes páginas:
 - Comunicación Grupo Meetup
 
 ## <a name="fase-3"></a>Fase 3. Llamada a Patrocinadores
+- [Correo Llamada Patrocinadores](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
+- [Correo Anteriores Patrocinadores](fase-3-llamada-patrocinadores/correo-antiguos-patrocinadores.md).
+- [Correo Recordatorio apertura Llamada patrocinadores](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
+- [Correo Respuesta Alta Patrocinador](fase-3-llamada-patrocinadores/correo-respuesta-alta.md).
 
 ## <a name="fase-4"></a>Fase 4. Llamada a Ponentes
 - [Correo a posibles Ponentes para que manden ponencia](fase-4-llamada-ponentes/correo-solicitar-ponencia.md).

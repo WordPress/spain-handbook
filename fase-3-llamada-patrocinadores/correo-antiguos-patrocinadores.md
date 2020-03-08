@@ -1,3 +1,7 @@
+# Correo Aviso Anteriores Patrocinadores
+
+## Asunto: ¡Muchas gracias por patrocinar WordCamp LLL YYY!
+
 Hola XXX,
 
 Soy XXX, responsable de patrocinios del Congreso sobre WordPress WordCamp LLL YYY.
@@ -27,3 +31,6 @@ Creo que con esto lo hemos resumido todo bastante y tienes una buena idea del al
 Para cualquier duda o consulta puedes contactarme cuando necesites.
 
 Un saludo.
+
+
+[Volver al índice](../README.md)
