@@ -58,9 +58,9 @@ Necesitaremos crear las siguientes páginas:
 
 ## <a name="fase-2"></a>Fase 2. Publicación de la Web
 
-- Diseño Gráfico de la Página Web WordCamp.
 - Publicación de la página web.
-- Comunicación Grupo Meetup.
+- Post lanzamiento web
+- Comunicación Grupo Meetup
 
 ## <a name="fase-3"></a>Fase 3. Llamada a Patrocinadores
 
@@ -74,3 +74,8 @@ Necesitaremos crear las siguientes páginas:
 ## <a name="fase-6"></a>Fase 6. Llamada a Voluntarios
 
 ## <a name="fase-7"></a>Fase 7. Recta final
+
+- Nota de prensa
+- Email a medios
+- Email a interesados: centros educativos 
+- Mensaje a Grupo de Meetup
