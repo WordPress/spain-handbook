@@ -1,16 +1,16 @@
 # Correo Ponencia Seleccionada en la WordCamp
 
-## Asunto: ¡Ponencia Seleccionada en la WordCamp XXX!
+## Asunto: ¡Ponencia Seleccionada en la WordCamp LLL!
 
 Hola,
 
-Muchas gracias por enviar tu propuesta de ponencia para WordCamp XX XX.
+Muchas gracias por enviar tu propuesta de ponencia para WordCamp LLL YYY.
 
 ¡Nos alegra anunciarte oficialmente que tu ponencia ha sido seleccionada! 
 
 (poner ponencia específica seleccionada)
 
-A nosotros, y estamos seguro a los asistentes, nos encantará tenerte como ponente en la próxima WordCamp XXX. 
+A nosotros, y estamos seguro a los asistentes, nos encantará tenerte como ponente en la próxima WordCamp LLL. 
 
 Tu ponencia será el Sábado XXX de XXX, en el (venue). Para saber exactamente a qué hora será, por favor espera a la publicación oficial del programa en nuestro sitio web, donde publicaremos un horario con todas las ponencias seleccionadas y con ponente confirmado.
 
