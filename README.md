@@ -72,10 +72,13 @@ Necesitaremos crear las siguientes páginas:
 ## <a name="fase-5"></a>Fase 5. Publicación del Programa
 
 ## <a name="fase-6"></a>Fase 6. Llamada a Voluntarios
+- [Correo Confirmar Voluntario](fase-6-llamada-voluntarios/correo-confirmar-voluntario.md).
+- [Correo Voluntario NO seleccionado](fase-6-llamada-voluntarios/correo-voluntario-no-seleccionado.md)
 
 ## <a name="fase-7"></a>Fase 7. Recta final
 
-- Nota de prensa
-- Email a medios
-- Email a interesados: centros educativos 
-- Mensaje a Grupo de Meetup
+- Nota de prensa.
+- Correo a medios.
+- Correo a interesados: centros educativos.
+- Correo Encuesta a Asistentes.
+- Mensaje a Grupo de Meetup.

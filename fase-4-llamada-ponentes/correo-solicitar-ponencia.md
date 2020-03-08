@@ -1,6 +1,6 @@
 # Correo para animar a Ponentes a mandar ponencia
 
-## Asunto: Nos encantaría que fueras ponente en WordCamp XXX
+## Asunto: Nos encantaría que fueras ponente en WordCamp LLL
 
 Hola,
 
@@ -14,7 +14,7 @@ Por el momento el requisito es rellenar un formulario con la idea que tienes en 
 
 Esta llamada a ponentes estará abierta hasta el 7 de Septiembre, date prisa :D
 
-Esperamos verte en WordCamp XX XX :D
+Esperamos verte en WordCamp LLL DDD :D
 
 Saludos!
 
