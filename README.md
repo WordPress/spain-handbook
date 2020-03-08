@@ -46,6 +46,7 @@ Las fases normales de una WordCamp, las detallamos a continuación:
 - [Fase 5.](#fase-5) Publicación del Programa.
 - [Fase 6.](#fase-6) Llamada a Voluntarios.
 - [Fase 7.](#fase-7) Recta final.
+- [Fase 8.](#fase-8) Post-WordCamp.
 
 A continuación detallaremos las tareas que tendremos que realizar en las fases.
 
@@ -86,3 +87,5 @@ Necesitaremos crear las siguientes páginas:
 - Correo a interesados: centros educativos.
 - Correo Encuesta a Asistentes.
 - Mensaje a Grupo de Meetup.
+
+## <a name="fase-8"></a>Fase 8. Después de la WordCamp
