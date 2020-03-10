@@ -85,7 +85,8 @@ Necesitaremos crear las siguientes páginas:
 - Nota de prensa.
 - Correo a medios.
 - Correo a interesados: centros educativos.
-- Correo Encuesta a Asistentes.
+- Información completa del Evento.
 - Mensaje a Grupo de Meetup.
 
 ## <a name="fase-8"></a>Fase 8. Después de la WordCamp
+- Correo Encuesta a Asistentes.
