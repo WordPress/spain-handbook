@@ -12,7 +12,7 @@ A continuación te contamos cómo empezar en **Github**, desde darte de alta has
 ### Crear una cuenta en Github
 Para crearte una cuenta en Github, debes ir a su página principal [github.com](https://github.com/) y crearte una cuenta.
 
-Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encuentra el manual dentro de Github, que se encuentra en [jesusyesares/hb-comunicacion-wordcamp](https://github.com/jesusyesares/hb-comunicacion-wordcamp).
+Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encuentra el manual dentro de Github, que se encuentra en [WPGranada/HandBook](https://github.com/WPGranada/HandBook-Comunicacion-WordCamp).
 
 [Cómo colaborar en un proyecto en Github](https://gist.github.com/BCasal/026e4c7f5c71418485c1)
 
