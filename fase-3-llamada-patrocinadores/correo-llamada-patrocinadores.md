@@ -1,4 +1,7 @@
-Llamada a patrocinadores
+# Llamada a patrocinadores
+
+## Asunto: ¡Queremos presentarte la WordCamp LLL YYY!
+
 ¡Buenas!
 
 Quería aprovechar para presentarme. Soy XXX, Responsable de Patrocinios de WordCamp LLL y quería presentarte el evento que estamos organizando: WordCamp LLL YYY, que se celebrará los días XXX en el XXX como lugar principal del evento.
