@@ -1,4 +1,4 @@
-# Correo Ponencia NO seleccionada en la WordCamp
+# Correo Llamada a Patrocinadores
 
 ## Asunto: Ya está aquí WordCamp LLL YYY ¿Quieres ser nuestro patrocinador?
 
