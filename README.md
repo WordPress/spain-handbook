@@ -1,4 +1,14 @@
 # Handbook Comunidad WordPress España
+
+## ¿Qué es WordPress España?
+La comunidad de WordPress España es un grupo de personas que colaboran en el desarrollo de WordPress.org, organizamos la documentación estandar que le llamamos manuales o "HandBook".
+
+La finalidad es unificar criterios a la hora de desarrollar los distintos proyectos/formas de organizar.
+
+Este Manual recoje los diferentes manuales exitentes que ha generado la comunidad WordPress España a lo largo de los años. Lo tienes disponibles a continuación.
+Tu también puedes colaborar [Sección Colabora] (https://es.wordpress.org/colabora)
+
+
 ## Objetivos del handbook
 Para organizar los manuales y guías, hemos creado este repositorio para la comunidad de WordPress España.
 
