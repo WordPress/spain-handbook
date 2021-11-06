@@ -4,7 +4,7 @@
 
 Hola,
 
-Somos el equipo el equipo que está organizando WordCamp LUGAR, un evento de la comunidad WordPress en la ciudad de XXX, España. Este evento sucederá los días XX de XX de XXXX y esperamos contar con XX asistentes.
+Somos el equipo que está organizando WordCamp LUGAR, un evento de la comunidad WordPress en la ciudad de XXX, España. Este evento sucederá los días XX de XX de XXXX y esperamos contar con XX asistentes.
 
 Te contactamos porque hemos abierto la llamada a ponentes para este evento y queríamos notificarte de ello, nos gustaría que formaras parte de esta WordCamp compartiendo tus conocimientos en una ponencia.
 
