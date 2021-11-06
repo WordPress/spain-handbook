@@ -1,10 +1,10 @@
 # Correo para animar a Ponentes a mandar ponencia
 
-## Asunto: Nos encantaría que fueras ponente en WordCamp LLL
+## Asunto: Nos encantaría que fueras ponente en WordCamp LUGAR
 
 Hola,
 
-Somos el equipo el equipo que está organizando WordCamp LLL, un evento de la comunidad WordPress en la ciudad de XXX, España. Este evento sucederá los días XX de XX de XXXX y esperamos contar con XX asistentes.
+Somos el equipo el equipo que está organizando WordCamp LUGAR, un evento de la comunidad WordPress en la ciudad de XXX, España. Este evento sucederá los días XX de XX de XXXX y esperamos contar con XX asistentes.
 
 Te contactamos porque hemos abierto la llamada a ponentes para este evento y queríamos notificarte de ello, nos gustaría que formaras parte de esta WordCamp compartiendo tus conocimientos en una ponencia.
 
@@ -14,7 +14,7 @@ Por el momento el requisito es rellenar un formulario con la idea que tienes en 
 
 Esta llamada a ponentes estará abierta hasta el 7 de Septiembre, date prisa :D
 
-Esperamos verte en WordCamp LLL DDD :D
+Esperamos verte en WordCamp LUGAR DDD :D
 
 Saludos!
 
