@@ -4,6 +4,7 @@ Para organizar los manuales y guías, hemos creado este repositorio para la comu
 
 Manuales actuales:
 - [Manual Comunicación WordCamps](manual-comunicacion-wordcamps/README.md)
+- [Manual GitHub](manual-github/README.md)
 
 ## ¿Cómo colaboramos?
 Colaboraremos a través de un repositorio en Github. Hemos propuesto este sistema porque es el mejor para llevar un control de las aportaciones y las diferentes versiones del documento. Este es el sistema mediante el cual millones de programadores en el mundo han construido cosas tan chulas como WordPress.
