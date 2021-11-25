@@ -1,5 +1,25 @@
 # Guía de uso de Github para la colaboración en la Comunidad WordPress de España
 
+## Pasos a seguir (esquema WCES)
+
+Como editor:
+Paso 1: Hacer Fork
+Paso 2: 
+- Hacer modificación (editar archivo)
+- Comentar la modificación
+- Enviar la propuesta de cambio
+Paso 3: Pull request
+
+Como moderador:
+Paso 1: Revisar los pull request
+Paso 2: Aprovación o modificación de los pull request.
+
+
+Como editor cuando volvemos a editar:
+Paso 1: Hacer "Fetch upstream" y dar a "fetch and merge" si queremos unir o "compare" si no tenemos claro.
+
+
+## Fallo H2
 ### Crear una cuenta en Github
 Para crearte una cuenta en Github, debes ir a su página principal [github.com](https://github.com/) y crearte una cuenta.
 
