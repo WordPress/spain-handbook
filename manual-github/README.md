@@ -22,7 +22,7 @@ Paso 2: Aprovación o modificación de los pull request.
 Como editor cuando volvemos a editar:
 Paso 1: Hacer "Fetch upstream" y dar a "fetch and merge" si queremos unir o "compare" si no tenemos claro.
 
-![Captura de los proyectos en Github](manual-github/assets/Pasted-image-20211125184751.png "Imagen de prueba")
+![Captura de los proyectos en Github](manual-github/assets/Pasted-image-20211125184751.png)
 
 ## Fallo H2
 ### Crear una cuenta en Github
