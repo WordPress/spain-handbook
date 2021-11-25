@@ -3,7 +3,9 @@
 ## Pasos a seguir (esquema WCES)
 
 Como editor:
+
 Paso 1: Hacer Fork
+
 Paso 2: 
 - Hacer modificación (editar archivo)
 - Comentar la modificación
@@ -11,7 +13,9 @@ Paso 2:
 Paso 3: Pull request
 
 Como moderador:
+
 Paso 1: Revisar los pull request
+
 Paso 2: Aprovación o modificación de los pull request.
 
 
