@@ -1,5 +1,24 @@
 # Guía de uso de Github para la colaboración en la Comunidad WordPress de España
 
+## Pasos a seguir para colaborar en el manual a través de Github
+
+### ¿En qué procesador de textos lo escribimos?
+En realidad, vamos a usar un editor de texto plano con formato **Markdown**. Se trata de un formato de texto que podemos editar con cualquier editor de código como Visual Studio Code, Sublime Text o Atom, en el que el formato se introduce con una serie de comandos que veremos a continuación.
+
+## Crear una cuenta en Github
+Para crearte una cuenta en Github, debes ir a su página principal [github.com](https://github.com/) y crearte una cuenta.
+
+Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encuentra el manual dentro de Github, que se encuentra en [WPGranada/HandBook](https://github.com/WPES/handbook-wpes).
+
+[Cómo colaborar en un proyecto en Github](https://gist.github.com/BCasal/026e4c7f5c71418485c1) **(esto queda provisional)**
+
+## Hacer una copia del repositorio en nuestra cuenta de github (fork)
+
+
+## Edición del archivo
+
+
+
 ## Pasos a seguir (esquema WCES)
 
 Como editor:
@@ -25,20 +44,12 @@ Paso 1: Hacer "Fetch upstream" y dar a "fetch and merge" si queremos unir o "com
 
 ![Captura de los proyectos en Github](https://github.com/WPES/spain-handbook/blob/master/manual-github/assets/Pasted-image-20211125184751.png "pie de foto")
 
-## Fallo H2
-### Crear una cuenta en Github
-Para crearte una cuenta en Github, debes ir a su página principal [github.com](https://github.com/) y crearte una cuenta.
 
-Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encuentra el manual dentro de Github, que se encuentra en [WPGranada/HandBook](https://github.com/WPES/handbook-wpes).
 
-[Cómo colaborar en un proyecto en Github](https://gist.github.com/BCasal/026e4c7f5c71418485c1)
 
-### Pasos a seguir para colaborar en el manual a través de Github
 
-## ¿En qué procesador de textos lo escribimos?
-En realidad, vamos a usar un editor de texto plano con formato **Markdown**. Se trata de un formato de texto que podemos editar con cualquier editor de código como Visual Studio Code, Sublime Text o Atom, en el que el formato se introduce con una serie de comandos que veremos a continuación.
 
-### Cómo funciona Markdown
+## Cómo funciona Markdown
 
 Es muy fácil, consulta el siguiente manual y, en apenas 10 minutos lo tendrás listo.
 
