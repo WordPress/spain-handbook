@@ -10,6 +10,7 @@ Paso 2:
 - Hacer modificación (editar archivo)
 - Comentar la modificación
 - Enviar la propuesta de cambio
+
 Paso 3: Pull request
 
 Como moderador:
