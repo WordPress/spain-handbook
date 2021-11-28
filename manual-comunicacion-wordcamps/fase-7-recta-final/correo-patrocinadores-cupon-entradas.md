@@ -1,6 +1,6 @@
 # Correo Patrocinadores Cupón entradas
 
-## Asunto: WordCamp LLL YYY Finalizada. ¡Muchas gracias por tu patrocinio!
+## Asunto: Cupón para las entradas gratuitas de WordCamp LLL YYY
 
 Muy buenas ###.
 
