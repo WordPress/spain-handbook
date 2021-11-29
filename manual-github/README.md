@@ -37,16 +37,28 @@ Paso 4: Fetch Upstream
 Una vez creado el *fork*, trabajamos paralelamente al archivo máster. Es decir, los cambios producidos en el archivo principal (máster) no se sincronizan automáticamente con nuestro *fork*.
 
 GitHub nos lo indicará con la siguiente frase:
-“This branch is 18 commits behind WPES:master.”
-Significa que se han realizado 18 modificaciones desde que hicimos nuestra copia (*fork*).
+“This branch is 8 commits behind WPES:master.”
+Significa que se han realizado 8 modificaciones desde que hicimos nuestra copia (*fork*).
+
+A continuación un ejemplo del aviso:
+
+![branch-outdated](https://github.com/AlexMusetti/spain-handbook/blob/master/manual-github/assets/branch-outdated.png)
 
 Tenemos dos opciones: *Contribute* o *Fetch upstream*
 
 Si decidimos editar en ese momento y pulsamos *Contribute*, nos aparece una pequeña ventana que indica que el archivo no está actualizado y nos invita a hacer un *Pull request* para fusionar nuestra edición con el archivo principal (máster).
 
+![contribute](https://github.com/AlexMusetti/spain-handbook/blob/master/manual-github/assets/contribute.png)
+
 Para volver a trabajar en la versión aceptada más actualizada del archivo principal (máster), podemos pulsar en *Fetch Upstream*, que nos dará a su vez dos opciones más: *Compare* o *Fetch and merge*
 
+![fetch-upstream](https://github.com/AlexMusetti/spain-handbook/blob/master/manual-github/assets/fetch-upstream.png)
+
 *Compare* nos permite comparar las distintas versiones que se han creado y *Fetch and merge* sincronizará nuestro *fork* con el archivo principal (máster). Si hubiera algún conflicto entre ambas versiones, el sistema nos avisará y nos invitará a hacer antes un *Pull request*.
+
+A continuación una imagen de lo que nos mostraría la opción *compare*:
+
+![Comparing-changes](https://github.com/AlexMusetti/spain-handbook/blob/master/manual-github/assets/Comparing-changes.png)
 
 **Como moderador**:
 
