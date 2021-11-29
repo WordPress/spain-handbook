@@ -21,7 +21,7 @@ Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encu
 
 ## Pasos a seguir (esquema WCES)
 
-Como editor:
+**Como editor**:
 
 Paso 1: Hacer Fork
 
@@ -32,7 +32,23 @@ Paso 2:
 
 Paso 3: Pull request
 
-Como moderador:
+Paso 4: Fetch Upstream
+
+Una vez creado el *fork*, trabajamos paralelamente al archivo máster. Es decir, los cambios producidos en el archivo principal (máster) no se sincronizan automáticamente con nuestro *fork*.
+
+GitHub nos lo indicará con la siguiente frase:
+“This branch is 18 commits behind WPES:master.”
+Significa que se han realizado 18 modificaciones desde que hicimos nuestra copia (*fork*).
+
+Tenemos dos opciones: *Contribute* o *Fetch upstream*
+
+Si decidimos editar en ese momento y pulsamos *Contribute*, nos aparece una pequeña ventana que indica que el archivo no está actualizado y nos invita a hacer un *Pull request* para fusionar nuestra edición con el archivo principal (máster).
+
+Para volver a trabajar en la versión aceptada más actualizada del archivo principal (máster), podemos pulsar en *Fetch Upstream*, que nos dará a su vez dos opciones más: *Compare* o *Fetch and merge*
+
+*Compare* nos permite comparar las distintas versiones que se han creado y *Fetch and merge* sincronizará nuestro *fork* con el archivo principal (máster). Si hubiera algún conflicto entre ambas versiones, el sistema nos avisará y nos invitará a hacer antes un *Pull request*.
+
+**Como moderador**:
 
 Paso 1: Revisar los pull request
 
