@@ -16,10 +16,12 @@ Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encu
 A continuación, debemos realizar un Fork para poder tener acceso a dicho repositorio desde nuestra dé cuenta de GitHub.
 Antes de hacer nada debemos fijarnos si estamos en el repositorio correcto a través de la ruta que indica en la parte superior izquierda, esto es importante ya que una vez que hayamos hecho el Fork, si este está bien hecho la ruta cambiara.
 Para realizar el Fork debemos pinchar en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.
-![Captura realización Fork](https://github.com/WPES/spain-handbook/blob/master/manual-github/assets/ForkCuentaPrincipal.png "pie de foto")
+
+![Captura realización Fork](https://github.com/bertamin/spain-handbook/blob/9c066c6dfebd703d9317fd0d75a39590e52828ac/manual-github/assets/ForkCuentaPrincipal.png "Realización Fork")
 
 Después de realizarlo, la ventana cambiara y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectara al repositorio original hasta que no hagamos un Pull Request y este no sea verificado y aprobado.
-![Captura Fork realizado](https://github.com/WPES/spain-handbook/blob/master/manual-github/assets/ForkRealizado.PNG "pie de foto")
+
+![Captura Fork realizado](https://github.com/bertamin/spain-handbook/blob/9c066c6dfebd703d9317fd0d75a39590e52828ac/manual-github/assets/ForkRealizado.PNG "Realización Fork")
 
 
 ## Edición del archivo
