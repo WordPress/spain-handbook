@@ -87,6 +87,12 @@ Necesitaremos crear las siguientes páginas:
 - Correo a interesados: centros educativos.
 - Información completa del Evento.
 - Mensaje a Grupo de Meetup.
+- Patrocinadores: envío material.
+- [Correo Patrocinadores: cupón entradas](fase-7-recta-final/correo-patrocinadores-cupon-entradas.md).
+- [Correo Patrocinadores: asistencia cena](fase-7-recta-final/correo-patrocinadores-asistencia-cena.md).
+- [Correo Patrocinadores: envío material](fase-7-recta-final/correo-patrocinadores-envio-material.md).
 
 ## <a name="fase-8"></a>Fase 8. Después de la WordCamp
 - Correo Encuesta a Asistentes.
+- [Correo Agradecimiento a los Patrocinadores Retirar material](fase-8-postwordcamp/correo-agradecimiento-patrocinadores-retirar.md)
+- [Correo Agradecimiento a los Patrocinadores](fase-8-postwordcamp/correo-agradecimiento-patrocinadores.md).
