@@ -13,6 +13,13 @@ Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encu
 [Cómo colaborar en un proyecto en Github](https://gist.github.com/BCasal/026e4c7f5c71418485c1) **(esto queda provisional)**
 
 ## Hacer una copia del repositorio en nuestra cuenta de github (fork)
+A continuación, debemos realizar un Fork para poder tener acceso a dicho repositorio desde nuestra dé cuenta de GitHub.
+Antes de hacer nada debemos fijarnos si estamos en el repositorio correcto a través de la ruta que indica en la parte superior izquierda, esto es importante ya que una vez que hayamos hecho el Fork, si este está bien hecho la ruta cambiara.
+Para realizar el Fork debemos pinchar en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.
+![Captura realización Fork](https://github.com/WPES/spain-handbook/blob/master/manual-github/assets/ForkCuentaPrincipal.png "pie de foto")
+
+Después de realizarlo, la ventana cambiara y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectara al repositorio original hasta que no hagamos un Pull Request y este no sea verificado y aprobado.
+![Captura Fork realizado](https://github.com/WPES/spain-handbook/blob/master/manual-github/assets/ForkRealizado.PNG "pie de foto")
 
 
 ## Edición del archivo
@@ -40,6 +47,7 @@ Paso 2: Aprovación o modificación de los pull request.
 
 
 Como editor cuando volvemos a editar:
+
 Paso 1: Hacer "Fetch upstream" y dar a "fetch and merge" si queremos unir o "compare" si no tenemos claro.
 
 ![Captura de los proyectos en Github](https://github.com/WPES/spain-handbook/blob/master/manual-github/assets/Pasted-image-20211125184751.png "pie de foto")
