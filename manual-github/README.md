@@ -76,7 +76,7 @@ Para hacer *pull request* a partir de nuestro *fork*:
 ![pull-request-4](https://github.com/AlexMusetti/spain-handbook/blob/679a74e857e45abac3de1855ef13291e299c1cbc/manual-github/assets/pull-request-4.png)
 5. Si no hay ningún conflicto entre ambas versiones, el sistema nos indicará *Able to merge*, lo que significa que ya podemos pulsar la opción *Create pull request*
 ![pull-request-5](https://github.com/AlexMusetti/spain-handbook/blob/679a74e857e45abac3de1855ef13291e299c1cbc/manual-github/assets/pull-request-5.png).
-6. En la siguiente pantalla aparecerá una venmtana con los campos *Title* para poner un título a nuestra propuesta y *Write* para añadir los comentarios necesarios. Es imprescindible rellenar el campo *Title* para que se habilite la opción *Create pull request*, de lo contrario, la selección permanecerá deshabilitada.
+6. En la siguiente pantalla aparecerá una ventana con los campos *Title* para poner un título a nuestra propuesta y *Write* para añadir los comentarios necesarios. Es imprescindible rellenar el campo *Title* para que se habilite la opción *Create pull request*, de lo contrario, la selección permanecerá deshabilitada.
 ![pull-request-6](https://github.com/AlexMusetti/spain-handbook/blob/2198d3ee5d93c4bd7a77ffea5ac04f506afb738a/manual-github/assets/pull-request-6.png)
 7. Cuando terminamos de rellenar los campos, pulsamos sobre *create pull request* y se abre un desplegable con dos opciones como vemos en la siguiente imagen. Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para revisión.
 ![pull-request-7](https://github.com/AlexMusetti/spain-handbook/blob/15876801347ec678982a08cf3d4fbb93500156ea/manual-github/assets/pull-request-7.png)
