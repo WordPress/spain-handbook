@@ -1,8 +1,25 @@
 # "Handbook" de comunicación para WordCamps en España
-## Objetivos del handbook
+
 Dado el creciente número de WordCamps en España, muchos miembros de la comunidad hemos considerado necesario crear un manual de comunicación que facilite las múltiples subtareas que componen esta "gran tarea" a los organizadores.
 
 Este manual se ha creado con el fin de que sea colaborativo, de forma que entre todos lo hagamos crecer, recogiendo las diferentes visiones e ideas que puedan surgir de las diferentes WordCamps celebradas y en pleno proceso de organización a lo largo de España.
+
+## Definición 
+El Manual de Comunicación establece una guía de trabajo para todas aquellas personas involucradas en tareas de comunicación relativas a la organización de una WorldCamp, online o presencial.
+
+## Objetivos del handbook
+Sentar las bases de un sistema de calidad.
+Para ello es necesario estandarizar el proceso de trabajo que implica gestionar la comunicación antes, durante y después de la organización de una WorldCamp.
+De esta forma, se facilitará que cualquier miembro pueda contribuir en tareas de comunicación simplemente siguiendo las instrucciones marcadas en este Manual.
+
+## Herramientas para colaborar en la creación y mantenimiento de este manual
+Puesto que este manual se encuentra en un repositorio de Github, será necesario tener unas nociones básicas de Github. Para ello disponemos de un Manual de uso de Github. **(enlazar con el manual de uso de github)**
+
+Para editar texto se hará con Markdown. **(enlazar con el manual de uso de markdown)**
+
+Este manual cuenta con un anexo que incluye todas las plantillas necesarias para redactar las distintas comunicaciones. **(Yo crearía un anexo y allí agruparía los distintos formatos, para diferenciar por un lado la guía en sí y por otro las plantillas)**
+
+La herramienta habitual de comunicación entre miembros voluntarios es Slack **(aquí enlazaría a la explicación de uso de Slack**
 
 ## ¿Cómo colaboramos?
 Colaboraremos a través de un repositorio en Github. Hemos propuesto este sistema porque es el mejor para llevar un control de las aportaciones y las diferentes versiones del documento. Este es el sistema mediante el cual millones de programadores en el mundo han construido cosas tan chulas como WordPress.
