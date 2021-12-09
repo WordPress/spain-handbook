@@ -5,11 +5,11 @@ Dado el creciente número de WordCamps en España, muchos miembros de la comunid
 Este manual se ha creado con el fin de que sea colaborativo, de forma que entre todos lo hagamos crecer, recogiendo las diferentes visiones e ideas que puedan surgir de las diferentes WordCamps celebradas y en pleno proceso de organización a lo largo de España.
 
 ## Definición 
-El Manual de Comunicación establece una guía de trabajo para todas aquellas personas involucradas en tareas de comunicación relativas a la organización de una WorldCamp, online o presencial.
+El Manual de Comunicación establece una guía de trabajo para todas aquellas personas involucradas en tareas de comunicación relativas a la organización de una WordCamp, online o presencial.
 
 ## Objetivos del handbook
 Sentar las bases de un sistema de calidad.
-Para ello es necesario estandarizar el proceso de trabajo que implica gestionar la comunicación antes, durante y después de la organización de una WorldCamp.
+Para ello es necesario estandarizar el proceso de trabajo que implica gestionar la comunicación antes, durante y después de la organización de una WordCamp.
 De esta forma, se facilitará que cualquier miembro pueda contribuir en tareas de comunicación simplemente siguiendo las instrucciones marcadas en este Manual.
 
 ## Herramientas para colaborar en la creación y mantenimiento de este manual
