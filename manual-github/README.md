@@ -1,30 +1,43 @@
 # Guía de uso de Github para la colaboración en la Comunidad WordPress de España
 
-## Pasos a seguir para colaborar en el manual a través de Github
-
-### ¿En qué procesador de textos lo escribimos?
+## ¿En qué procesador de textos lo escribimos?
 En realidad, vamos a usar un editor de texto plano con formato **Markdown**. Se trata de un formato de texto que podemos editar con cualquier editor de código como Visual Studio Code, Sublime Text o Atom o en la misma web de GitHub (recomendado), en el que el formato se introduce con una serie de comandos que veremos a continuación.
 
-## Crear una cuenta en Github
+<a name="top"></a>
+## Pasos a seguir para colaborar en el manual a través de Github
+1. [Crear una cuenta en Github](#paso1)
+2. [Hacer una copia del repositorio en nuestra cuenta de github (fork)](#paso2)
+3. [Edición del archivo](#paso3)
+4. [Fetch upstream](#paso4)
+5. [Pull request](#paso5)
+
+
+<a name="paso1"></a>
+## 1. Crear una cuenta en Github
 Para crearte una cuenta en Github, debes ir a su página principal [github.com](https://github.com/) y crearte una cuenta.
 
 Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encuentra el manual dentro de Github, que se encuentra en [WPGranada/HandBook](https://github.com/WPES/spain-handbook).
 
 [Cómo colaborar en un proyecto en Github](https://gist.github.com/BCasal/026e4c7f5c71418485c1) **(esto queda provisional)**
 
-## Hacer una copia del repositorio en nuestra cuenta de github (fork)
-A continuación, debemos realizar un Fork para poder tener acceso a dicho repositorio desde nuestra dé cuenta de GitHub.
+[Volver](#top)
+
+<a name="paso2"></a>
+## 2. Hacer una copia del repositorio en nuestra cuenta de github (fork)
+A continuación, debemos realizar un Fork para poder tener acceso a dicho repositorio desde nuestra cuenta de GitHub.
 Antes de hacer nada debemos fijarnos si estamos en el repositorio correcto a través de la ruta que indica en la parte superior izquierda, esto es importante ya que una vez que hayamos hecho el Fork, si este está bien hecho la ruta cambiara.
 Para realizar el Fork debemos pinchar en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.
 
 ![Captura realización Fork](https://github.com/bertamin/spain-handbook/blob/9c066c6dfebd703d9317fd0d75a39590e52828ac/manual-github/assets/ForkCuentaPrincipal.png "Realización Fork")
 
-Después de realizarlo, la ventana cambiara y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectara al repositorio original hasta que no hagamos un Pull Request y este no sea verificado y aprobado.
+Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectará al repositorio original hasta que no hagamos un Pull Request y éste no sea verificado y aprobado.
 
 ![Captura Fork realizado](https://github.com/bertamin/spain-handbook/blob/9c066c6dfebd703d9317fd0d75a39590e52828ac/manual-github/assets/ForkRealizado.PNG "Realización Fork")
 
+[Volver](#top)
 
-## Edición del archivo
+<a name="paso3"></a>
+## 3. Edición del archivo
 
 **Para editar:**
 
@@ -35,9 +48,15 @@ Una vez creado nuestro *fork* podemos proceder a editar el archivo, para ello pu
 **Para validar los cambios de edición:**
 
 Al terminar la edición, para guardar los cambios, debemos ir al final de la página, rellenar los campos correspondientes a *commit changes* y pulsar *Commit changes*.
+
 Si queremos añadir los cambios en nuestro *fork*, dejaremos seleccionada la opción "*Commit directly to the master branch.*". De lo contrario estaríamos creando una nueva rama a partir de nuestro *fork*.
 
 ![commit-changes](https://github.com/AlexMusetti/spain-handbook/blob/32d9431ffc9bcc68a89f6a2fd8e999fbf944b702/manual-github/assets/commit-changes.png)
+
+[Volver](#top)
+
+<a name="paso4"></a>
+## 4. Fetch upstream
 
 **Si nuestro *fork* deja de estar actualizado:**
 
@@ -69,25 +88,45 @@ A continuación una imagen de lo que nos mostraría la opción *compare*:
 
 ![Comparing-changes](https://github.com/AlexMusetti/spain-handbook/blob/afa1336b95b12fab6848cedb8d76146e2de423a9/manual-github/assets/Comparing-changes.png)
 
-**Pull request:**
+[Volver](#top)
+
+<a name="paso5"></a>
+## 5. Pull request
 
 Cuando terminamos de editar nuestro archivo podemos proceder a realizar un *pull request*, nuestro archivo se enviará al administrador para su revisión y, una vez realizadas las comprobaciones pertinentes, nuestro *fork* se fusionará con el archivo principal.
 
 Para hacer *pull request* a partir de nuestro *fork*:
 
 1. Ir al repositorio principal y una vez allí, pulsar en *Pull requests*
+
 ![pull-request-1](https://github.com/AlexMusetti/spain-handbook/blob/679a74e857e45abac3de1855ef13291e299c1cbc/manual-github/assets/pull-request-1.png)
+
 2. En pantalla aparecerá un listado con los *pull requests* existentes en ese momento (si los hay), para crear el nuestro pulsaremos en *New pull request*
+
 ![pull-request-2](https://github.com/AlexMusetti/spain-handbook/blob/679a74e857e45abac3de1855ef13291e299c1cbc/manual-github/assets/pull-request-2.png)
+
 3. En este paso tenemos la oportunidad de comparar el archivo principal con nuestra propuesta, como en nuestro caso lo estamos haciendo desde un fork, pulsaremos *compare accross forks*, puesto que necesitamos indicar qué dos archivos vamos a comparar.
+
 ![pull-request-3](https://github.com/AlexMusetti/spain-handbook/blob/679a74e857e45abac3de1855ef13291e299c1cbc/manual-github/assets/pull-request-3.png)
+
 4. Nos aparecerá un nuevo encabezado en el que podremos seleccionar nuestro fork pulsando en el desplegable *head repository*
+
 ![pull-request-4](https://github.com/AlexMusetti/spain-handbook/blob/679a74e857e45abac3de1855ef13291e299c1cbc/manual-github/assets/pull-request-4.png)
+
 5. Si no hay ningún conflicto entre ambas versiones, el sistema nos indicará *Able to merge*, lo que significa que ya podemos pulsar la opción *Create pull request*
+
 ![pull-request-5](https://github.com/AlexMusetti/spain-handbook/blob/679a74e857e45abac3de1855ef13291e299c1cbc/manual-github/assets/pull-request-5.png).
-6. En la siguiente pantalla aparecerá una ventana con los campos *Title* para poner un título a nuestra propuesta y *Write* para añadir los comentarios necesarios. Es imprescindible rellenar el campo *Title* para que se habilite la opción *Create pull request*, de lo contrario, la selección permanecerá deshabilitada.
+
+6. En la siguiente pantalla aparecerá una ventana con los campos *Title* para poner un título a nuestra propuesta y *Write* para añadir los comentarios necesarios. 
+
+Es imprescindible rellenar el campo *Title* para que se habilite la opción *Create pull request*, de lo contrario, la selección permanecerá deshabilitada.
+
 ![pull-request-6](https://github.com/AlexMusetti/spain-handbook/blob/2198d3ee5d93c4bd7a77ffea5ac04f506afb738a/manual-github/assets/pull-request-6.png)
-7. Cuando terminamos de rellenar los campos, pulsamos sobre *create pull request* y se abre un desplegable con dos opciones como vemos en la siguiente imagen. Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para revisión.
+
+7. Cuando terminamos de rellenar los campos, pulsamos sobre *create pull request* y se abre un desplegable con dos opciones como vemos en la siguiente imagen. 
+
+Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para revisión.
+
 ![pull-request-7](https://github.com/AlexMusetti/spain-handbook/blob/15876801347ec678982a08cf3d4fbb93500156ea/manual-github/assets/pull-request-7.png)
 
 
