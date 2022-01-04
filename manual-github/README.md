@@ -1,4 +1,8 @@
 # Guía de uso de Github para la colaboración en la Comunidad WordPress de España
+
+## ¿En qué procesador de textos lo escribimos?
+En realidad, vamos a usar un editor de texto plano con formato **Markdown**. Se trata de un formato de texto que podemos editar con cualquier editor de código como Visual Studio Code, Sublime Text o Atom o en la misma web de GitHub (recomendado), en el que el formato se introduce con una serie de comandos que veremos a continuación.
+
 <a name="top"></a>
 ## Pasos a seguir para colaborar en el manual a través de Github
 1. [Crear una cuenta en Github](#paso1)
@@ -7,9 +11,6 @@
 4. [Fetch upstream](#paso4)
 5. [Pull request](#paso5)
 
-
-### ¿En qué procesador de textos lo escribimos?
-En realidad, vamos a usar un editor de texto plano con formato **Markdown**. Se trata de un formato de texto que podemos editar con cualquier editor de código como Visual Studio Code, Sublime Text o Atom o en la misma web de GitHub (recomendado), en el que el formato se introduce con una serie de comandos que veremos a continuación.
 
 <a name="paso1"></a>
 ## 1. Crear una cuenta en Github
@@ -23,13 +24,13 @@ Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encu
 
 <a name="paso2"></a>
 ## 2. Hacer una copia del repositorio en nuestra cuenta de github (fork)
-A continuación, debemos realizar un Fork para poder tener acceso a dicho repositorio desde nuestra dé cuenta de GitHub.
+A continuación, debemos realizar un Fork para poder tener acceso a dicho repositorio desde nuestra cuenta de GitHub.
 Antes de hacer nada debemos fijarnos si estamos en el repositorio correcto a través de la ruta que indica en la parte superior izquierda, esto es importante ya que una vez que hayamos hecho el Fork, si este está bien hecho la ruta cambiara.
 Para realizar el Fork debemos pinchar en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.
 
 ![Captura realización Fork](https://github.com/bertamin/spain-handbook/blob/9c066c6dfebd703d9317fd0d75a39590e52828ac/manual-github/assets/ForkCuentaPrincipal.png "Realización Fork")
 
-Después de realizarlo, la ventana cambiara y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectara al repositorio original hasta que no hagamos un Pull Request y este no sea verificado y aprobado.
+Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectará al repositorio original hasta que no hagamos un Pull Request y éste no sea verificado y aprobado.
 
 ![Captura Fork realizado](https://github.com/bertamin/spain-handbook/blob/9c066c6dfebd703d9317fd0d75a39590e52828ac/manual-github/assets/ForkRealizado.PNG "Realización Fork")
 
@@ -47,6 +48,7 @@ Una vez creado nuestro *fork* podemos proceder a editar el archivo, para ello pu
 **Para validar los cambios de edición:**
 
 Al terminar la edición, para guardar los cambios, debemos ir al final de la página, rellenar los campos correspondientes a *commit changes* y pulsar *Commit changes*.
+
 Si queremos añadir los cambios en nuestro *fork*, dejaremos seleccionada la opción "*Commit directly to the master branch.*". De lo contrario estaríamos creando una nueva rama a partir de nuestro *fork*.
 
 ![commit-changes](https://github.com/AlexMusetti/spain-handbook/blob/32d9431ffc9bcc68a89f6a2fd8e999fbf944b702/manual-github/assets/commit-changes.png)
@@ -115,11 +117,15 @@ Para hacer *pull request* a partir de nuestro *fork*:
 
 ![pull-request-5](https://github.com/AlexMusetti/spain-handbook/blob/679a74e857e45abac3de1855ef13291e299c1cbc/manual-github/assets/pull-request-5.png).
 
-6. En la siguiente pantalla aparecerá una ventana con los campos *Title* para poner un título a nuestra propuesta y *Write* para añadir los comentarios necesarios. Es imprescindible rellenar el campo *Title* para que se habilite la opción *Create pull request*, de lo contrario, la selección permanecerá deshabilitada.
+6. En la siguiente pantalla aparecerá una ventana con los campos *Title* para poner un título a nuestra propuesta y *Write* para añadir los comentarios necesarios. 
+
+Es imprescindible rellenar el campo *Title* para que se habilite la opción *Create pull request*, de lo contrario, la selección permanecerá deshabilitada.
 
 ![pull-request-6](https://github.com/AlexMusetti/spain-handbook/blob/2198d3ee5d93c4bd7a77ffea5ac04f506afb738a/manual-github/assets/pull-request-6.png)
 
-7. Cuando terminamos de rellenar los campos, pulsamos sobre *create pull request* y se abre un desplegable con dos opciones como vemos en la siguiente imagen. Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para revisión.
+7. Cuando terminamos de rellenar los campos, pulsamos sobre *create pull request* y se abre un desplegable con dos opciones como vemos en la siguiente imagen. 
+
+Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para revisión.
 
 ![pull-request-7](https://github.com/AlexMusetti/spain-handbook/blob/15876801347ec678982a08cf3d4fbb93500156ea/manual-github/assets/pull-request-7.png)
 
