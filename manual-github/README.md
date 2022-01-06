@@ -39,13 +39,13 @@ Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se 
 <a name="paso3"></a>
 ## 3. Edición del archivo
 
-**Para editar:**
+#### **Para editar:**
 
 Una vez creado nuestro *fork* podemos proceder a editar el archivo, para ello pulsaremos el icono en forma de lápiz.
 
 ![editar-archivo](assets/editar-archivo.png)
 
-**Para validar los cambios de edición:**
+#### **Para validar los cambios de edición:**
 
 Al terminar la edición, para guardar los cambios, debemos ir al final de la página, rellenar los campos correspondientes a *commit changes* y pulsar *Commit changes*.
 
@@ -63,7 +63,7 @@ Si queremos añadir los cambios en nuestro *fork*, dejaremos seleccionada la opc
 Cuando se trabaja en un *fork*, se trabaja paralelamente al archivo máster. Es decir, los cambios producidos en el archivo principal (máster) no se sincronizan automáticamente con nuestro *fork*.
 
 GitHub nos lo indicará con la siguiente frase:
-“This branch is 8 commits behind WPES:master.”
+*“This branch is 8 commits behind WPES:master.”*
 Significa que se han realizado 8 modificaciones desde que hicimos nuestra copia (*fork*).
 
 A continuación un ejemplo del aviso:
