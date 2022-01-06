@@ -26,3 +26,7 @@ A continuación te contamos cómo empezar en **Github**, desde darte de alta has
 
 
 Nota: en los documentos hemos puesto genéricos los nombres del lugar como LLL, el año como YYY, DDD fechas. De manera que si haces búsqueda y reemplazar, podrás tener adaptado a tu WordCamp. Recuerda repasar el texto antes de publicarlo.
+
+Nota: De forma provisional, durante la realización de este handbook, hemos añadido un mapa mental para facilitar la visualización rápida de su estructura.
+
+![Mapa-Mental-WPES](Mapa-mental-handbook-WPES.png)
