@@ -11,10 +11,12 @@ En realidad, vamos a usar un editor de texto plano con formato **Markdown**. Se 
 4. [Edición del archivo](#paso4)
 5. [Fetch upstream](#paso5)
 6. [Pull request](#paso6)
+7. [Crear y personalizar issues](#paso7)
 
 
 <a name="paso1"></a>
 ## 1. Crear una cuenta en Github
+
 Para crearte una cuenta en Github, debes ir a su página principal [github.com](https://github.com/) y crearte una cuenta.
 
 Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encuentra el manual dentro de Github, que se encuentra en [WPGranada/HandBook](https://github.com/WPES/spain-handbook).
@@ -25,6 +27,7 @@ Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encu
 
 <a name="paso2"></a>
 ## 2. Enlazar perfiles WordPress y Github
+
 Nos damos de alta en GitHub a través de la opción de “Sign up” que está rodeada con un círculo rojo.
 
 ![Alta cuenta Github](assets/1.AltaGitHub.png "Alta cuenta Github")
@@ -54,6 +57,7 @@ Se abrirá una ventana como esta donde debemos autorizar el acceso al perfil de 
 
 <a name="paso3"></a>
 ## 3. Hacer una copia del repositorio en nuestra cuenta de github (fork)
+
 A continuación, debemos realizar un Fork para poder tener acceso a dicho repositorio desde nuestra cuenta de GitHub.
 Antes de hacer nada debemos fijarnos si estamos en el repositorio correcto a través de la ruta que indica en la parte superior izquierda, esto es importante ya que una vez que hayamos hecho el Fork, si este está bien hecho la ruta cambiara.
 Para realizar el Fork debemos pinchar en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.
@@ -62,7 +66,7 @@ Para realizar el Fork debemos pinchar en el último botón que aparece en la par
 
 Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectará al repositorio original hasta que no hagamos un Pull Request y éste no sea verificado y aprobado.
 
-![Captura Fork realizado](assets/ForkRealizado.PNG "Realización Fork")
+![Captura Fork realizado](assets/ForkRealizado.PNG "Fork realizado")
 
 [Volver](#top)
 
@@ -158,6 +162,64 @@ Es imprescindible rellenar el campo *Title* para que se habilite la opción *Cre
 Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para revisión.
 
 ![pull-request-7](https://github.com/AlexMusetti/spain-handbook/blob/15876801347ec678982a08cf3d4fbb93500156ea/manual-github/assets/pull-request-7.png)
+
+[Volver](#top)
+
+<a name="paso7"></a>
+## 7. Crear y personalizar issues
+
+En el menú principal de GitHub accedemos al apartado de Issues y podemos ver un listado de todas las Issues ya creadas.
+Para crear una nueva Issue pinchamos en el botón "New Issue".
+
+![Panel principal Issues](assets/1.PanelIssues "Panel principal Issues")
+
+Se abrirá una ventana cómo está donde podemos asignar un título a la Issue y un comentario. 
+
+![Nueva Issue](assets/2.NuevaIssue "Nueva Issue")
+
+Grabamos estos cambios para no perderlos.
+
+![Issue creada](assets/3.IssueCreada "Issue ya creada")
+
+En lateral derecho podemos personalizar algunas opciones como "Projects" al que está asignado la Issue, para ello pinchamos sobre la rueda que aparece en la misma línea que la palabra Projects, en este caso lo asignaremos al Projects que está marcado en rojo, lo seleccionamos y pinchamos fuera de esa opción para que se pueda guardar.
+
+![Asignar project](assets/4.AsignarProyecto "Asignar project a dicha issue")
+
+Aquí podemos ver que el Project se ha asignado correctamente.
+
+![Project asignado](assets/5.AsignadoProyecto "Project asignado a dicha issue")
+
+También podemos incluir a que personas está asignada dicha Issue, pinchamos sobre la rueda y saldrá un desplegable con todos los usuarios a los que podemos seleccionar.
+
+![Asignar usuarios](assets/6.AsignarUsuario "Asignar usuarios a dicha issue")
+
+Una vez hayamos seleccionado dichos usuarios, pinchamos fuera de ese apartado y ya podemos ver las personas incluidas.
+
+![Usuarios asignados](assets/7.AsignadoUsuario "Usuarios asignados a dicha issue")
+
+Otra opción que podemos personalizar, es la de las etiquetas, si pinchamos sobre la rueda aparece un listado de etiquetas  debemos seleccionar la que corresponda al estado de realización en el que está la Issue.
+
+![Asignar etiqueta](assets/8.AsignarEtiqueta "Asignar etiqueta a dicha issue")
+
+A continuación se puede ver la etiqueta ya seleccionada.
+
+![Etiqueta asignada](assets/9.AsignadaEtiqueta "Etiqueta asignada a dicha issue")
+
+Despues accedemos al apartado de Projects desde el menú principal de GitHub y podemos ver un listado de todas las etiquetas y en qué estado de realización se encuentra cada una de ellas.
+En la parte de la derecha aparece la opción "Add cards" con un punto azul, notificando que hay una nueva Issue.
+
+![Panel principal projects](assets/10.Projects "Panel principal projects")
+
+Al pinchar sobre está opción podemos ver la Issue que hemos creado y arrastrarla a la columna correspondiente: "To Do", "In progress" y "Done".
+Si pinchamos sobre el título azul, saldrá una flecha de 4 puntas que servirá para arrastrar la Issue.
+
+![Mover issue](assets/11.MoverIssue "Mover issue")
+
+Aquí podemos que la issue de prueba ha sido incluida en la columna “To do”.
+
+![Issue desplazada](assets/12.IssueenToDo "Issue desplazada a la columna To do")
+
+[Volver](#top)
 
 ## Pasos a seguir (esquema WCES)
 
