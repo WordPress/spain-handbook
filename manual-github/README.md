@@ -24,23 +24,29 @@ Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encu
 [Volver](#top)
 
 <a name="paso2"></a>
-## 1. Enlazar perfiles WordPress y Github
+## 2. Enlazar perfiles WordPress y Github
 Nos damos de alta en GitHub a través de la opción de “Sign up” que está rodeada con un círculo rojo.
+
 ![Alta cuenta Github](assets/1.AltaGitHub.png "Alta cuenta Github")
 
-A continuación, nos logueamos en https://es.wordpress.org/ 
+A continuación, nos logueamos en https://es.wordpress.org/
+
 ![Login WordPress](assets/2.Login.png "Nos logueamos en WordPress")
 
 Pinchamos en la opción “Editar el perfil” que aparece en la parte superior a la derecha.
+
 ![Editar perfil WordPress](assets/3.EditarPerfil.png "Editar perfil cuenta de WordPress")
 
 A continuación, podemos ver la información de nuestro perfil.
+
 ![Perfil WordPress](assets/4.Perfil.png "Información perfil de WordPress")
 
 Y en el apartado GitHub Username podemos ver un enlace que permite vincular la cuenta de WordPress con la de GitHub, al pinchar sobre este enlace.
+
 ![Github Username](assets/5.GitHubUsername.png "Enlace para enlazar WordPress y Github")
 
 Se abrirá una ventana como esta donde debemos autorizar el acceso al perfil de WordPress.org
+
 ![Autorizacion](assets/6.Autorizacion.png "Autorizacion para enlazar las cuentas")
 
 
