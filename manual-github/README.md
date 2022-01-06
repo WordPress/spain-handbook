@@ -66,7 +66,7 @@ Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se 
 
 [Volver](#top)
 
-<a name="paso3"></a>
+<a name="paso4"></a>
 ## 4. Edición del archivo
 
 **Para editar:**
@@ -85,7 +85,7 @@ Si queremos añadir los cambios en nuestro *fork*, dejaremos seleccionada la opc
 
 [Volver](#top)
 
-<a name="paso4"></a>
+<a name="paso5"></a>
 ## 5. Fetch upstream
 
 **Si nuestro *fork* deja de estar actualizado:**
@@ -120,7 +120,7 @@ A continuación una imagen de lo que nos mostraría la opción *compare*:
 
 [Volver](#top)
 
-<a name="paso5"></a>
+<a name="paso6"></a>
 ## 6. Pull request
 
 Cuando terminamos de editar nuestro archivo podemos proceder a realizar un *pull request*, nuestro archivo se enviará al administrador para su revisión y, una vez realizadas las comprobaciones pertinentes, nuestro *fork* se fusionará con el archivo principal.
