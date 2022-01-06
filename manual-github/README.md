@@ -6,7 +6,7 @@ En realidad, vamos a usar un editor de texto plano con formato **Markdown**. Se 
 <a name="top"></a>
 ## Pasos a seguir para colaborar en el manual a través de Github
 1. [Crear una cuenta en Github](#paso1)
-2. [Enlazar perfiles WordPress y Github] (#paso2)
+2. [Enlazar perfiles WordPress y Github](#paso2)
 3. [Hacer una copia del repositorio en nuestra cuenta de github (fork)](#paso3)
 4. [Edición del archivo](#paso4)
 5. [Fetch upstream](#paso5)
@@ -32,13 +32,13 @@ A continuación, nos logueamos en https://es.wordpress.org/
 ![Login WordPress](assets/2.Login.png "Nos logueamos en WordPress")
 
 Pinchamos en la opción “Editar el perfil” que aparece en la parte superior a la derecha.
-![Editar perfil WordPress](assets/3.Editar perfil.png "Editar perfil cuenta de WordPress")
+![Editar perfil WordPress](assets/3.EditarPerfil.png "Editar perfil cuenta de WordPress")
 
 A continuación, podemos ver la información de nuestro perfil.
 ![Perfil WordPress](assets/4.Perfil.png "Información perfil de WordPress")
 
 Y en el apartado GitHub Username podemos ver un enlace que permite vincular la cuenta de WordPress con la de GitHub, al pinchar sobre este enlace.
-![Github Username](assets/5.GitHub Username.png "Enlace para enlazar WordPress y Github")
+![Github Username](assets/5.GitHubUsername.png "Enlace para enlazar WordPress y Github")
 
 Se abrirá una ventana como esta donde debemos autorizar el acceso al perfil de WordPress.org
 ![Autorizacion](assets/6.Autorizacion.png "Autorizacion para enlazar las cuentas")
