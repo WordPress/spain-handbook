@@ -12,14 +12,16 @@ Sentar las bases de un sistema de calidad.
 Para ello es necesario estandarizar el proceso de trabajo que implica gestionar la comunicación antes, durante y después de la organización de una WordCamp.
 De esta forma, se facilitará que cualquier miembro pueda contribuir en tareas de comunicación simplemente siguiendo las instrucciones marcadas en este Manual.
 
-## Herramientas para colaborar en la creación y mantenimiento de este manual
-Puesto que este manual se encuentra en un repositorio de Github, será necesario tener unas nociones básicas de Github. Para ello disponemos de un Manual de uso de Github. **(enlazar con el manual de uso de github)**
+## Cómo colaborar en la creación y mantenimiento de este manual
+Puesto que este manual se encuentra junto a otros manuales en un repositorio de Github, será necesario tener unas nociones básicas de esta herramienta. Para ello, te recomendamos que leas antes atentamente el [manual de github](../manual-github/README.md), con objeto de colaborar adecuadamente con el resto del equipo.
 
-Para editar texto se hará con Markdown. **(enlazar con el manual de uso de markdown)**
+El editor de texto que utiliza Github está basado en *Markdown*, un tipo de codificación muy sencilla que te permitirá dar formato al texto plano. Para aprender lo poco que necesitas conocer de Markdown, a la hora de escribir en github, te recomendamos que eches un vistazo a este [Manual de Markdown](https://commonmark.org/help/) y que hagas el tutorial de 10 minutos.
+
+La herramienta habitual de comunicación entre miembros voluntarios es **Slack**. Si quieres saber cómo darte de alta en esta herramienta o cómo entrar en los grupos de colaboración de WordPress en Slack, sigue [este tutorial](https://es.wordpress.org/guias/chat/).
+
+## Anexo
 
 Este manual cuenta con un anexo que incluye todas las plantillas necesarias para redactar las distintas comunicaciones. **(Yo crearía un anexo y allí agruparía los distintos formatos, para diferenciar por un lado la guía en sí y por otro las plantillas)**
-
-La herramienta habitual de comunicación entre miembros voluntarios es Slack **(aquí enlazaría a la explicación de uso de Slack**
 
 ## ¿Cómo colaboramos?
 Colaboraremos a través de un repositorio en Github. Hemos propuesto este sistema porque es el mejor para llevar un control de las aportaciones y las diferentes versiones del documento. Este es el sistema mediante el cual millones de programadores en el mundo han construido cosas tan chulas como WordPress.
