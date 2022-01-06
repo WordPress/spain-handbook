@@ -23,11 +23,6 @@ La herramienta habitual de comunicación entre miembros voluntarios es **Slack**
 
 Este manual cuenta con un anexo que incluye todas las plantillas necesarias para redactar las distintas comunicaciones. **(Yo crearía un anexo y allí agruparía los distintos formatos, para diferenciar por un lado la guía en sí y por otro las plantillas)**
 
-## ¿Cómo colaboramos?
-Colaboraremos a través de un repositorio en Github. Hemos propuesto este sistema porque es el mejor para llevar un control de las aportaciones y las diferentes versiones del documento. Este es el sistema mediante el cual millones de programadores en el mundo han construido cosas tan chulas como WordPress.
-
-A continuación te contamos cómo empezar en **Github**, desde darte de alta hasta finalizar tu colaboración.
-
 ### Crear una cuenta en Github
 Para crearte una cuenta en Github, debes ir a su página principal [github.com](https://github.com/) y crearte una cuenta.
 
