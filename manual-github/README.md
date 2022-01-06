@@ -16,7 +16,7 @@ En realidad, vamos a usar un editor de texto plano con formato **Markdown**. Se 
 ## 1. Crear una cuenta en Github
 Para crearte una cuenta en Github, debes ir a su página principal [github.com](https://github.com/) y crearte una cuenta.
 
-Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encuentra el manual dentro de Github, que se encuentra en [WPGranada/HandBook](https://github.com/WPES/spain-handbook).
+Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encuentra el manual dentro de Github, que se encuentra en [WPES/spain-handbook](https://github.com/WPES/spain-handbook).
 
 [Cómo colaborar en un proyecto en Github](https://gist.github.com/BCasal/026e4c7f5c71418485c1) **(esto queda provisional)**
 
