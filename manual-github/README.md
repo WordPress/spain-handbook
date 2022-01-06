@@ -28,11 +28,11 @@ A continuación, debemos realizar un Fork para poder tener acceso a dicho reposi
 Antes de hacer nada debemos fijarnos si estamos en el repositorio correcto a través de la ruta que indica en la parte superior izquierda, esto es importante ya que una vez que hayamos hecho el Fork, si este está bien hecho la ruta cambiara.
 Para realizar el Fork debemos pinchar en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.
 
-![Captura realización Fork](https://github.com/bertamin/spain-handbook/blob/9c066c6dfebd703d9317fd0d75a39590e52828ac/manual-github/assets/ForkCuentaPrincipal.png "Realización Fork")
+![Captura realización Fork](assets/ForkCuentaPrincipal.png "Realización Fork")
 
 Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectará al repositorio original hasta que no hagamos un Pull Request y éste no sea verificado y aprobado.
 
-![Captura Fork realizado](https://github.com/bertamin/spain-handbook/blob/9c066c6dfebd703d9317fd0d75a39590e52828ac/manual-github/assets/ForkRealizado.PNG "Realización Fork")
+![Captura Fork realizado](assets/ForkRealizado.PNG "Realización Fork")
 
 [Volver](#top)
 
@@ -43,7 +43,7 @@ Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se 
 
 Una vez creado nuestro *fork* podemos proceder a editar el archivo, para ello pulsaremos el icono en forma de lápiz.
 
-![editar-archivo](https://github.com/AlexMusetti/spain-handbook/blob/c932e5905c888d32679236e58023be6e68fb04ff/manual-github/assets/editar-archivo.png)
+![editar-archivo](assets/editar-archivo.png)
 
 **Para validar los cambios de edición:**
 
@@ -51,7 +51,7 @@ Al terminar la edición, para guardar los cambios, debemos ir al final de la pá
 
 Si queremos añadir los cambios en nuestro *fork*, dejaremos seleccionada la opción "*Commit directly to the master branch.*". De lo contrario estaríamos creando una nueva rama a partir de nuestro *fork*.
 
-![commit-changes](https://github.com/AlexMusetti/spain-handbook/blob/32d9431ffc9bcc68a89f6a2fd8e999fbf944b702/manual-github/assets/commit-changes.png)
+![commit-changes](assets/commit-changes.png)
 
 [Volver](#top)
 
@@ -68,17 +68,17 @@ Significa que se han realizado 8 modificaciones desde que hicimos nuestra copia 
 
 A continuación un ejemplo del aviso:
 
-![branch-outdated](https://github.com/AlexMusetti/spain-handbook/blob/afa1336b95b12fab6848cedb8d76146e2de423a9/manual-github/assets/branch-outdated.png)
+![branch-outdated](assets/branch-outdated.png)
 
 En este caso, si el archivo principal se ha adelantado a nuestra versión, tenemos dos opciones: *Contribute* o *Fetch upstream*
 
 Si ya hemos editado nuestro archivo, pulsaremos *Contribute*, aparecerá una pequeña ventana que indica que el archivo no está actualizado y nos invita a hacer un *Pull request* para fusionar nuestra edición con el archivo principal (máster).
 
-![contribute](https://github.com/AlexMusetti/spain-handbook/blob/afa1336b95b12fab6848cedb8d76146e2de423a9/manual-github/assets/contribute.png)
+![contribute](assets/contribute.png)
 
 Si no hemos realizado aun cambios en nuestro fork, para trabajar en la versión aceptada más actualizada del archivo principal (máster), podemos pulsar en *Fetch Upstream*, que nos dará a su vez dos opciones más: *Compare* o *Fetch and merge*
 
-![fetch-upstream](https://github.com/AlexMusetti/spain-handbook/blob/afa1336b95b12fab6848cedb8d76146e2de423a9/manual-github/assets/fetch-upstream.png)
+![fetch-upstream](assets/fetch-upstream.png)
 
 *Compare* nos permite comparar las distintas versiones que se han creado y *Fetch and merge* sincronizará nuestro *fork* con el archivo principal (máster). 
 
@@ -86,7 +86,7 @@ En cualquier caso, si hubiera algún conflicto entre ambas versiones, el sistema
 
 A continuación una imagen de lo que nos mostraría la opción *compare*:
 
-![Comparing-changes](https://github.com/AlexMusetti/spain-handbook/blob/afa1336b95b12fab6848cedb8d76146e2de423a9/manual-github/assets/Comparing-changes.png)
+![Comparing-changes](assets/Comparing-changes.png)
 
 [Volver](#top)
 
@@ -129,7 +129,6 @@ Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para
 
 ![pull-request-7](https://github.com/AlexMusetti/spain-handbook/blob/15876801347ec678982a08cf3d4fbb93500156ea/manual-github/assets/pull-request-7.png)
 
-
 ## Pasos a seguir (esquema WCES)
 
 Como editor:
@@ -155,7 +154,7 @@ Como editor cuando volvemos a editar:
 
 Paso 1: Hacer "Fetch upstream" y dar a "fetch and merge" si queremos unir o "compare" si no tenemos claro.
 
-![Captura de los proyectos en Github](https://github.com/WPES/spain-handbook/blob/master/manual-github/assets/Pasted-image-20211125184751.png "pie de foto")
+![Captura de los proyectos en Github](assets/Pasted-image-20211125184751.png "pie de foto")
 
 
 
