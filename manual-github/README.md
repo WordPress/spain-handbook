@@ -16,7 +16,7 @@ En realidad, vamos a usar un editor de texto plano con formato **Markdown**. Se 
 ## 1. Crear una cuenta en Github
 Para crearte una cuenta en Github, debes ir a su página principal [github.com](https://github.com/) y crearte una cuenta.
 
-Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encuentra el manual dentro de Github, que se encuentra en [WPGranada/HandBook](https://github.com/WPES/spain-handbook).
+Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encuentra el manual dentro de Github, que se encuentra en [WPES/spain-handbook](https://github.com/WPES/spain-handbook).
 
 [Cómo colaborar en un proyecto en Github](https://gist.github.com/BCasal/026e4c7f5c71418485c1) **(esto queda provisional)**
 
@@ -39,13 +39,13 @@ Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se 
 <a name="paso3"></a>
 ## 3. Edición del archivo
 
-**Para editar:**
+#### **Para editar:**
 
 Una vez creado nuestro *fork* podemos proceder a editar el archivo, para ello pulsaremos el icono en forma de lápiz.
 
 ![editar-archivo](assets/editar-archivo.png)
 
-**Para validar los cambios de edición:**
+#### **Para validar los cambios de edición:**
 
 Al terminar la edición, para guardar los cambios, debemos ir al final de la página, rellenar los campos correspondientes a *commit changes* y pulsar *Commit changes*.
 
@@ -63,7 +63,7 @@ Si queremos añadir los cambios en nuestro *fork*, dejaremos seleccionada la opc
 Cuando se trabaja en un *fork*, se trabaja paralelamente al archivo máster. Es decir, los cambios producidos en el archivo principal (máster) no se sincronizan automáticamente con nuestro *fork*.
 
 GitHub nos lo indicará con la siguiente frase:
-“This branch is 8 commits behind WPES:master.”
+*“This branch is 8 commits behind WPES:master.”*
 Significa que se han realizado 8 modificaciones desde que hicimos nuestra copia (*fork*).
 
 A continuación un ejemplo del aviso:
@@ -99,35 +99,35 @@ Para hacer *pull request* a partir de nuestro *fork*:
 
 1. Ir al repositorio principal y una vez allí, pulsar en *Pull requests*
 
-![pull-request-1](https://github.com/AlexMusetti/spain-handbook/blob/679a74e857e45abac3de1855ef13291e299c1cbc/manual-github/assets/pull-request-1.png)
+![pull-request-1](assets/pull-request-1.png)
 
 2. En pantalla aparecerá un listado con los *pull requests* existentes en ese momento (si los hay), para crear el nuestro pulsaremos en *New pull request*
 
-![pull-request-2](https://github.com/AlexMusetti/spain-handbook/blob/679a74e857e45abac3de1855ef13291e299c1cbc/manual-github/assets/pull-request-2.png)
+![pull-request-2](assets/pull-request-2.png)
 
 3. En este paso tenemos la oportunidad de comparar el archivo principal con nuestra propuesta, como en nuestro caso lo estamos haciendo desde un fork, pulsaremos *compare accross forks*, puesto que necesitamos indicar qué dos archivos vamos a comparar.
 
-![pull-request-3](https://github.com/AlexMusetti/spain-handbook/blob/679a74e857e45abac3de1855ef13291e299c1cbc/manual-github/assets/pull-request-3.png)
+![pull-request-3](assets/pull-request-3.png)
 
 4. Nos aparecerá un nuevo encabezado en el que podremos seleccionar nuestro fork pulsando en el desplegable *head repository*
 
-![pull-request-4](https://github.com/AlexMusetti/spain-handbook/blob/679a74e857e45abac3de1855ef13291e299c1cbc/manual-github/assets/pull-request-4.png)
+![pull-request-4](assets/pull-request-4.png)
 
 5. Si no hay ningún conflicto entre ambas versiones, el sistema nos indicará *Able to merge*, lo que significa que ya podemos pulsar la opción *Create pull request*
 
-![pull-request-5](https://github.com/AlexMusetti/spain-handbook/blob/679a74e857e45abac3de1855ef13291e299c1cbc/manual-github/assets/pull-request-5.png).
+![pull-request-5](assets/pull-request-5.png).
 
 6. En la siguiente pantalla aparecerá una ventana con los campos *Title* para poner un título a nuestra propuesta y *Write* para añadir los comentarios necesarios. 
 
 Es imprescindible rellenar el campo *Title* para que se habilite la opción *Create pull request*, de lo contrario, la selección permanecerá deshabilitada.
 
-![pull-request-6](https://github.com/AlexMusetti/spain-handbook/blob/2198d3ee5d93c4bd7a77ffea5ac04f506afb738a/manual-github/assets/pull-request-6.png)
+![pull-request-6](assets/pull-request-6.png)
 
 7. Cuando terminamos de rellenar los campos, pulsamos sobre *create pull request* y se abre un desplegable con dos opciones como vemos en la siguiente imagen. 
 
 Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para revisión.
 
-![pull-request-7](https://github.com/AlexMusetti/spain-handbook/blob/15876801347ec678982a08cf3d4fbb93500156ea/manual-github/assets/pull-request-7.png)
+![pull-request-7](assets/pull-request-7.png)
 
 ## Pasos a seguir (esquema WCES)
 
