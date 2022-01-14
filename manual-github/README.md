@@ -19,7 +19,7 @@ En realidad, vamos a usar un editor de texto plano con formato **Markdown**. Se 
 
 Para crearte una cuenta en Github, debes ir a su página principal [github.com](https://github.com/) y crearte una cuenta.
 
-Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encuentra el manual dentro de Github, que se encuentra en [WPGranada/HandBook](https://github.com/WPES/spain-handbook).
+Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encuentra el manual dentro de Github, que se encuentra en [WPES/spain-handbook](https://github.com/WPES/spain-handbook).
 
 [Cómo colaborar en un proyecto en Github](https://gist.github.com/BCasal/026e4c7f5c71418485c1) **(esto queda provisional)**
 
@@ -73,13 +73,13 @@ Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se 
 <a name="paso4"></a>
 ## 4. Edición del archivo
 
-**Para editar:**
+#### **Para editar:**
 
 Una vez creado nuestro *fork* podemos proceder a editar el archivo, para ello pulsaremos el icono en forma de lápiz.
 
 ![editar-archivo](assets/editar-archivo.png)
 
-**Para validar los cambios de edición:**
+#### **Para validar los cambios de edición:**
 
 Al terminar la edición, para guardar los cambios, debemos ir al final de la página, rellenar los campos correspondientes a *commit changes* y pulsar *Commit changes*.
 
@@ -97,7 +97,7 @@ Si queremos añadir los cambios en nuestro *fork*, dejaremos seleccionada la opc
 Cuando se trabaja en un *fork*, se trabaja paralelamente al archivo máster. Es decir, los cambios producidos en el archivo principal (máster) no se sincronizan automáticamente con nuestro *fork*.
 
 GitHub nos lo indicará con la siguiente frase:
-“This branch is 8 commits behind WPES:master.”
+*“This branch is 8 commits behind WPES:master.”*
 Significa que se han realizado 8 modificaciones desde que hicimos nuestra copia (*fork*).
 
 A continuación un ejemplo del aviso:
@@ -162,62 +162,6 @@ Es imprescindible rellenar el campo *Title* para que se habilite la opción *Cre
 Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para revisión.
 
 ![pull-request-7](assets/pull-request-7.png)
-
-[Volver](#top)
-
-<a name="paso7"></a>
-## 7. Crear y personalizar issues
-
-En el menú principal de GitHub accedemos al apartado de Issues y podemos ver un listado de todas las Issues ya creadas.
-Para crear una nueva Issue pinchamos en el botón "New Issue".
-
-![Panel principal Issues](assets/1.PanelIssues.png "Panel principal Issues")
-
-Se abrirá una ventana cómo está donde podemos asignar un título a la Issue y un comentario. 
-
-![Nueva Issue](assets/2.NuevaIssue.png "Nueva Issue")
-
-Grabamos estos cambios para no perderlos.
-
-![Issue creada](assets/3.IssueCreada.png "Issue ya creada")
-
-En lateral derecho podemos personalizar algunas opciones como "Projects" al que está asignado la Issue, para ello pinchamos sobre la rueda que aparece en la misma línea que la palabra Projects, en este caso lo asignaremos al Projects que está marcado en rojo, lo seleccionamos y pinchamos fuera de esa opción para que se pueda guardar.
-
-![Asignar project](assets/4.AsignarProyecto.png "Asignar project a dicha issue")
-
-Aquí podemos ver que el Project se ha asignado correctamente.
-
-![Project asignado](assets/5.AsignadoProyecto.png "Project asignado a dicha issue")
-
-También podemos incluir a que personas está asignada dicha Issue, pinchamos sobre la rueda y saldrá un desplegable con todos los usuarios a los que podemos seleccionar.
-
-![Asignar usuarios](assets/6.AsignarUsuario.png "Asignar usuarios a dicha issue")
-
-Una vez hayamos seleccionado dichos usuarios, pinchamos fuera de ese apartado y ya podemos ver las personas incluidas.
-
-![Usuarios asignados](assets/7.AsignadoUsuario.png "Usuarios asignados a dicha issue")
-
-Otra opción que podemos personalizar, es la de las etiquetas, si pinchamos sobre la rueda aparece un listado de etiquetas  debemos seleccionar la que corresponda al estado de realización en el que está la Issue.
-
-![Asignar etiqueta](assets/8.AsignarEtiqueta.png "Asignar etiqueta a dicha issue")
-
-A continuación se puede ver la etiqueta ya seleccionada.
-
-![Etiqueta asignada](assets/9.AsignadaEtiqueta.png "Etiqueta asignada a dicha issue")
-
-Despues accedemos al apartado de Projects desde el menú principal de GitHub y podemos ver un listado de todas las etiquetas y en qué estado de realización se encuentra cada una de ellas.
-En la parte de la derecha aparece la opción "Add cards" con un punto azul, notificando que hay una nueva Issue.
-
-![Panel principal projects](assets/10.Projects.png "Panel principal projects")
-
-Al pinchar sobre está opción podemos ver la Issue que hemos creado y arrastrarla a la columna correspondiente: "To Do", "In progress" y "Done".
-Si pinchamos sobre el título azul, saldrá una flecha de 4 puntas que servirá para arrastrar la Issue.
-
-![Mover issue](assets/11.MoverIssue.png "Mover issue")
-
-Aquí podemos que la issue de prueba ha sido incluida en la columna “To do”.
-
-![Issue desplazada](assets/12.IssueenToDo.png "Issue desplazada a la columna To do")
 
 [Volver](#top)
 
