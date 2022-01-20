@@ -165,6 +165,62 @@ Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para
 
 [Volver](#top)
 
+<a name="paso7"></a>
+## 7. Crear y personalizar issues
+
+En el menú principal de GitHub accedemos al apartado de Issues y podemos ver un listado de todas las Issues ya creadas.
+Para crear una nueva Issue pinchamos en el botón "New Issue".
+
+![Panel principal Issues](assets/1.PanelIssues.png "Panel principal Issues")
+
+Se abrirá una ventana cómo está donde podemos asignar un título a la Issue y un comentario. 
+
+![Nueva Issue](assets/2.NuevaIssue.png "Nueva Issue")
+
+Grabamos estos cambios para no perderlos.
+
+![Issue creada](assets/3.IssueCreada.png "Issue ya creada")
+
+En lateral derecho podemos personalizar algunas opciones como "Projects" al que está asignado la Issue, para ello pinchamos sobre la rueda que aparece en la misma línea que la palabra Projects, en este caso lo asignaremos al Projects que está marcado en rojo, lo seleccionamos y pinchamos fuera de esa opción para que se pueda guardar.
+
+![Asignar project](assets/4.AsignarProyecto.png "Asignar project a dicha issue")
+
+Aquí podemos ver que el Project se ha asignado correctamente.
+
+![Project asignado](assets/5.AsignadoProyecto.png "Project asignado a dicha issue")
+
+También podemos incluir a que personas está asignada dicha Issue, pinchamos sobre la rueda y saldrá un desplegable con todos los usuarios a los que podemos seleccionar.
+
+![Asignar usuarios](assets/6.AsignarUsuario.png "Asignar usuarios a dicha issue")
+
+Una vez hayamos seleccionado dichos usuarios, pinchamos fuera de ese apartado y ya podemos ver las personas incluidas.
+
+![Usuarios asignados](assets/7.AsignadoUsuario.png "Usuarios asignados a dicha issue")
+
+Otra opción que podemos personalizar, es la de las etiquetas, si pinchamos sobre la rueda aparece un listado de etiquetas  debemos seleccionar la que corresponda al estado de realización en el que está la Issue.
+
+![Asignar etiqueta](assets/8.AsignarEtiqueta.png "Asignar etiqueta a dicha issue")
+
+A continuación se puede ver la etiqueta ya seleccionada.
+
+![Etiqueta asignada](assets/9.AsignadaEtiqueta.png "Etiqueta asignada a dicha issue")
+
+Despues accedemos al apartado de Projects desde el menú principal de GitHub y podemos ver un listado de todas las etiquetas y en qué estado de realización se encuentra cada una de ellas.
+En la parte de la derecha aparece la opción "Add cards" con un punto azul, notificando que hay una nueva Issue.
+
+![Panel principal projects](assets/10.Projects.png "Panel principal projects")
+
+Al pinchar sobre está opción podemos ver la Issue que hemos creado y arrastrarla a la columna correspondiente: "To Do", "In progress" y "Done".
+Si pinchamos sobre el título azul, saldrá una flecha de 4 puntas que servirá para arrastrar la Issue.
+
+![Mover issue](assets/11.MoverIssue.png "Mover issue")
+
+Aquí podemos que la issue de prueba ha sido incluida en la columna “To do”.
+
+![Issue desplazada](assets/12.IssueenToDo.png "Issue desplazada a la columna To do")
+
+[Volver](#top)
+
 ## Pasos a seguir (esquema WCES)
 
 Como editor:
@@ -191,9 +247,6 @@ Como editor cuando volvemos a editar:
 Paso 1: Hacer "Fetch upstream" y dar a "fetch and merge" si queremos unir o "compare" si no tenemos claro.
 
 ![Captura de los proyectos en Github](assets/Pasted-image-20211125184751.png "pie de foto")
-
-
-
 
 
 
