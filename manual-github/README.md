@@ -6,14 +6,17 @@ En realidad, vamos a usar un editor de texto plano con formato **Markdown**. Se 
 <a name="top"></a>
 ## Pasos a seguir para colaborar en el manual a través de Github
 1. [Crear una cuenta en Github](#paso1)
-2. [Hacer una copia del repositorio en nuestra cuenta de github (fork)](#paso2)
-3. [Edición del archivo](#paso3)
-4. [Fetch upstream](#paso4)
-5. [Pull request](#paso5)
+2. [Enlazar perfiles WordPress y Github](#paso2)
+3. [Hacer una copia del repositorio en nuestra cuenta de github (fork)](#paso3)
+4. [Edición del archivo](#paso4)
+5. [Fetch upstream](#paso5)
+6. [Pull request](#paso6)
+7. [Crear y personalizar issues](#paso7)
 
 
 <a name="paso1"></a>
 ## 1. Crear una cuenta en Github
+
 Para crearte una cuenta en Github, debes ir a su página principal [github.com](https://github.com/) y crearte una cuenta.
 
 Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encuentra el manual dentro de Github, que se encuentra en [WPES/spain-handbook](https://github.com/WPES/spain-handbook).
@@ -23,7 +26,38 @@ Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encu
 [Volver](#top)
 
 <a name="paso2"></a>
-## 2. Hacer una copia del repositorio en nuestra cuenta de github (fork)
+## 2. Enlazar perfiles WordPress y Github
+
+Nos damos de alta en GitHub a través de la opción de “Sign up” que está rodeada con un círculo rojo.
+
+![Alta cuenta Github](assets/1.AltaGitHub.png "Alta cuenta Github")
+
+A continuación, nos logueamos en https://es.wordpress.org/
+
+![Login WordPress](assets/2.Login.png "Nos logueamos en WordPress")
+
+Pinchamos en la opción “Editar el perfil” que aparece en la parte superior a la derecha.
+
+![Editar perfil WordPress](assets/3.EditarPerfil.png "Editar perfil cuenta de WordPress")
+
+A continuación, podemos ver la información de nuestro perfil.
+
+![Perfil WordPress](assets/4.Perfil.png "Información perfil de WordPress")
+
+Y en el apartado GitHub Username podemos ver un enlace que permite vincular la cuenta de WordPress con la de GitHub, al pinchar sobre este enlace.
+
+![Github Username](assets/5.GitHubUsername.png "Enlace para enlazar WordPress y Github")
+
+Se abrirá una ventana como esta donde debemos autorizar el acceso al perfil de WordPress.org
+
+![Autorizacion](assets/6.Autorizacion.png "Autorizacion para enlazar las cuentas")
+
+
+[Volver](#top)
+
+<a name="paso3"></a>
+## 3. Hacer una copia del repositorio en nuestra cuenta de github (fork)
+
 A continuación, debemos realizar un Fork para poder tener acceso a dicho repositorio desde nuestra cuenta de GitHub.
 Antes de hacer nada debemos fijarnos si estamos en el repositorio correcto a través de la ruta que indica en la parte superior izquierda, esto es importante ya que una vez que hayamos hecho el Fork, si este está bien hecho la ruta cambiara.
 Para realizar el Fork debemos pinchar en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.
@@ -32,12 +66,12 @@ Para realizar el Fork debemos pinchar en el último botón que aparece en la par
 
 Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectará al repositorio original hasta que no hagamos un Pull Request y éste no sea verificado y aprobado.
 
-![Captura Fork realizado](assets/ForkRealizado.PNG "Realización Fork")
+![Captura Fork realizado](assets/ForkRealizado.PNG "Fork realizado")
 
 [Volver](#top)
 
-<a name="paso3"></a>
-## 3. Edición del archivo
+<a name="paso4"></a>
+## 4. Edición del archivo
 
 #### **Para editar:**
 
@@ -55,8 +89,8 @@ Si queremos añadir los cambios en nuestro *fork*, dejaremos seleccionada la opc
 
 [Volver](#top)
 
-<a name="paso4"></a>
-## 4. Fetch upstream
+<a name="paso5"></a>
+## 5. Fetch upstream
 
 **Si nuestro *fork* deja de estar actualizado:**
 
@@ -90,8 +124,8 @@ A continuación una imagen de lo que nos mostraría la opción *compare*:
 
 [Volver](#top)
 
-<a name="paso5"></a>
-## 5. Pull request
+<a name="paso6"></a>
+## 6. Pull request
 
 Cuando terminamos de editar nuestro archivo podemos proceder a realizar un *pull request*, nuestro archivo se enviará al administrador para su revisión y, una vez realizadas las comprobaciones pertinentes, nuestro *fork* se fusionará con el archivo principal.
 
@@ -128,6 +162,8 @@ Es imprescindible rellenar el campo *Title* para que se habilite la opción *Cre
 Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para revisión.
 
 ![pull-request-7](assets/pull-request-7.png)
+
+[Volver](#top)
 
 ## Pasos a seguir (esquema WCES)
 
