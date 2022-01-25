@@ -12,7 +12,8 @@ Este manual pretende ser una guía de introducción a Github para principiantes,
 4. [Edición del archivo](#paso4)
 5. [Fetch upstream](#paso5)
 6. [Pull request](#paso6)
-7. [Crear y personalizar issues](#paso7)
+7. [Gestión de proyectos](#paso7)
+8. [Crear y personalizar issues](#paso8)
 
 
 <a name="paso1"></a>
@@ -169,7 +170,16 @@ Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para
 [Volver arriba](#top)
 
 <a name="paso7"></a>
-## 7. Crear y personalizar issues
+## 7. Gestión de proyectos
+
+Al tratarse de un trabajo colaborativo se necesita un alto grado de organización y coordinación. 
+GitHub nos permite crear *issues*, que son como tareas o acciones que deben realizarse.
+
+Para facilitar la organización, estas issues se agrupan por proyectos. Y con el propósito de mantener la coordinación entre los distintos colaboradores, las issues pueden asignarse a personas.
+
+[Volver arriba](#top)
+<a name="paso8"></a>
+## 8. Crear y personalizar issues
 
 En el menú principal de GitHub accedemos al apartado de Issues y podemos ver un listado de todas las Issues ya creadas.
 Para crear una nueva Issue pinchamos en el botón "New Issue".
