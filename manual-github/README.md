@@ -195,44 +195,47 @@ Para crear una nueva Issue pinchamos en el botón "New Issue".
 
 ![Panel principal Issues](assets/1.PanelIssues.png "Panel principal Issues")
 
-Se abrirá una ventana cómo está donde podemos asignar un título a la Issue y un comentario. 
+Se abrirá una ventana como la que se ve a continuación. 
 
-![Nueva Issue](assets/2.NuevaIssue.png "Nueva Issue")
+En ella se pueden ver marcadas en rojo cuatro áreas: 
+1. espacio para introducir el título,  
+2. espacio para comentarios,
+3. botón de *Submit new issue*,
+4. opciones de edición de la issue
 
-Grabamos estos cambios para no perderlos.
+![Nueva Issue](/assets/New-issue.png "Nueva Issue")
 
-![Issue creada](assets/3.IssueCreada.png "Issue ya creada")
+Debemos introducir un título y un breve comentario al respecto, una vez hecho podemos pinchar en *Submit new issue* para guardarla.
 
-En lateral derecho podemos personalizar algunas opciones como "Projects" al que está asignado la Issue, para ello pinchamos sobre la rueda que aparece en la misma línea que la palabra Projects, en este caso lo asignaremos al Projects que está marcado en rojo, lo seleccionamos y pinchamos fuera de esa opción para que se pueda guardar.
+Adicionalmente, en el lateral derecho podemos personalizar algunas opciones como *Assignees*, para asignar la issue a una persona, *Labels*, para etiquetar/clasificar la issue, y finalmente *Projects* para asignar la issue al proyecto elegido. 
 
-![Asignar project](assets/4.AsignarProyecto.png "Asignar project a dicha issue")
+Para hacerlo pinchamos sobre la rueda correspondiente y se despliega una ventana con las opciones. Seleccionamos nuestra elección y pinchamos fuera del área para que la opción marcada quede guardada.
 
-Aquí podemos ver que el Project se ha asignado correctamente.
+A continuación varias capturas de ejemplo:
 
-![Project asignado](assets/5.AsignadoProyecto.png "Project asignado a dicha issue")
+**para seleccionar la persona asignada:**
 
-También podemos incluir a que personas está asignada dicha Issue, pinchamos sobre la rueda y saldrá un desplegable con todos los usuarios a los que podemos seleccionar.
+![Asignar persona](/assets/New-issue-assignees.png "Seleccionar persona asignada")
 
-![Asignar usuarios](assets/6.AsignarUsuario.png "Asignar usuarios a dicha issue")
+**para clasificar con etiquetas:**
 
-Una vez hayamos seleccionado dichos usuarios, pinchamos fuera de ese apartado y ya podemos ver las personas incluidas.
+![Etiquetar](/assets/New-issue-labels.png "Etiquetar")
 
-![Usuarios asignados](assets/7.AsignadoUsuario.png "Usuarios asignados a dicha issue")
+**para seleccionar el proyecto asignado:**
 
-Otra opción que podemos personalizar, es la de las etiquetas, si pinchamos sobre la rueda aparece un listado de etiquetas  debemos seleccionar la que corresponda al estado de realización en el que está la Issue.
+![Asignar proyecto](/assets/New-issue-projects.png "Asignar a un proyecto")
 
-![Asignar etiqueta](assets/8.AsignarEtiqueta.png "Asignar etiqueta a dicha issue")
+A continuación una imagen de la issue una vez editada y guardada
 
-A continuación se puede ver la etiqueta ya seleccionada.
+![Issue guardada](/assets/New-issue-submitted.png "Issue guardada")
 
-![Etiqueta asignada](assets/9.AsignadaEtiqueta.png "Etiqueta asignada a dicha issue")
 
-Despues accedemos al apartado de Projects desde el menú principal de GitHub y podemos ver un listado de todas las etiquetas y en qué estado de realización se encuentra cada una de ellas.
+Si accedemos al apartado de Projects desde el menú principal de GitHub podremos ver un listado de todas las etiquetas y en qué estado de realización se encuentra cada una de ellas.
 En la parte de la derecha aparece la opción "Add cards" con un punto azul, notificando que hay una nueva Issue.
 
 ![Panel principal projects](assets/10.Projects.png "Panel principal projects")
 
-Al pinchar sobre está opción podemos ver la Issue que hemos creado y arrastrarla a la columna correspondiente: "To Do", "In progress" y "Done".
+Al pinchar sobre esta opción podemos ver la Issue que hemos creado y arrastrarla a la columna correspondiente: "To Do", "In progress" y "Done".
 Si pinchamos sobre el título azul, saldrá una flecha de 4 puntas que servirá para arrastrar la Issue.
 
 ![Mover issue](assets/11.MoverIssue.png "Mover issue")
