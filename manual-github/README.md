@@ -243,46 +243,5 @@ Aquí podemos que la issue de prueba ha sido incluida en la columna “To do”.
 
 [Volver arriba](#top)
 
-## Pasos a seguir (esquema WCES)
 
-Como editor:
-
-Paso 1: Hacer Fork
-
-Paso 2: 
-- Hacer modificación (editar archivo)
-- Comentar la modificación
-- Enviar la propuesta de cambio
-
-Paso 3: Pull request
-
-
-Como moderador:
-
-Paso 1: Revisar los pull request
-
-Paso 2: Aprobación o modificación de los pull request.
-
-
-Como editor cuando volvemos a editar:
-
-Paso 1: Hacer "Fetch upstream" y dar a "fetch and merge" si queremos unir o "compare" si no tenemos claro.
-
-![Captura de los proyectos en Github](assets/Pasted-image-20211125184751.png "pie de foto")
-
-
-
-## Cómo funciona Markdown
-
-Es muy fácil, consulta el siguiente manual y, en apenas 10 minutos lo tendrás listo.
-
-[Manual de Markdown](https://commonmark.org/help/)
-
-[Generador de tablas en Markdown](https://www.tablesgenerator.com/markdown_tables)
-
-[Cómo colaborar en un proyecto en Github](https://gist.github.com/BCasal/026e4c7f5c71418485c1)
-
-Es muy importante que, antes de hacer absolutamente nada, creemos una rama. La nombraremos con nuestro nombre de usuario en WordPress.org y un pequeño texto descriptivo. separado por guiones.
-
-Una vez que terminemos de hacer los cambios, haremos un commit y posteriormente un pull request.
 
