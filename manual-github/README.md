@@ -57,9 +57,13 @@ Se abrirá una ventana como esta donde debemos autorizar el acceso al perfil de 
 <a name="paso3"></a>
 ## 3. Hacer una copia del repositorio en nuestra cuenta de github (fork)
 
-A continuación, debemos realizar un Fork para poder tener acceso a dicho repositorio desde nuestra cuenta de GitHub.
-Antes de hacer nada debemos fijarnos si estamos en el repositorio correcto a través de la ruta que indica en la parte superior izquierda, esto es importante ya que una vez que hayamos hecho el Fork, si este está bien hecho la ruta cambiara.
-Para realizar el Fork debemos pinchar en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.
+Una vez registrados podemos acceder a la página principal de ![Github](https://github.com/) y en la barra lateral aparecerá el listado de repositorios a los que tenemos acceso.
+
+Pinchamos en ![WPES/spain-handbook](https://github.com/WPES/spain-handbook) para acceder al repositorio de manuales de WordPress España. En la parte superior izquierda podremos ver en todo momento en qué repositorio estamos.
+
+Con el fin de evitar posibles errores o conflictos es importante no trabajar nunca directamente en este repositorio principal. Para poder editar con seguridad, crearemos una copia del repositorio principal (fork) que será donde trabajaremos.
+
+Crearemos el Fork pinchando en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.
 
 ![Captura realización Fork](assets/ForkCuentaPrincipal.png "Realización Fork")
 
