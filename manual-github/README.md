@@ -1,11 +1,11 @@
-# Guía de uso de Github para la colaboración en la Comunidad WordPress de España
+# Manual de Github
 
 Los manuales de este repositorio son el resultado de un trabajo colaborativo. Para ello es necesario usar herramientas como Github, que permite el registro y control de versiones.
 
 Este manual pretende ser una guía de introducción a Github para principiantes.
 
 <a name="top"></a>
-## Pasos a seguir para colaborar en el manual a través de Github
+## Guía de uso de Github
 1. [Crear una cuenta en Github](#paso1)
 2. [Enlazar perfiles WordPress y Github](#paso2)
 3. [Hacer una copia del repositorio en nuestra cuenta de github (fork)](#paso3)
@@ -22,9 +22,7 @@ Para crearte una cuenta en Github, debes ir a su página principal [github.com](
 
 Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encuentra el manual dentro de Github, que se encuentra en [WPES/spain-handbook](https://github.com/WPES/spain-handbook).
 
-[Cómo colaborar en un proyecto en Github](https://gist.github.com/BCasal/026e4c7f5c71418485c1) **(esto queda provisional)**
-
-[Volver](#top)
+[Volver arriba](#top)
 
 <a name="paso2"></a>
 ## 2. Enlazar perfiles WordPress y Github
@@ -54,7 +52,7 @@ Se abrirá una ventana como esta donde debemos autorizar el acceso al perfil de 
 ![Autorizacion](assets/6.Autorizacion.png "Autorizacion para enlazar las cuentas")
 
 
-[Volver](#top)
+[Volver arriba](#top)
 
 <a name="paso3"></a>
 ## 3. Hacer una copia del repositorio en nuestra cuenta de github (fork)
@@ -69,7 +67,7 @@ Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se 
 
 ![Captura Fork realizado](assets/ForkRealizado.PNG "Fork realizado")
 
-[Volver](#top)
+[Volver arriba](#top)
 
 <a name="paso4"></a>
 ## 4. Edición del archivo
@@ -88,7 +86,7 @@ Si queremos añadir los cambios en nuestro *fork*, dejaremos seleccionada la opc
 
 ![commit-changes](assets/commit-changes.png)
 
-[Volver](#top)
+[Volver arriba](#top)
 
 <a name="paso5"></a>
 ## 5. Fetch upstream
@@ -123,7 +121,7 @@ A continuación una imagen de lo que nos mostraría la opción *compare*:
 
 ![Comparing-changes](assets/Comparing-changes.png)
 
-[Volver](#top)
+[Volver arriba](#top)
 
 <a name="paso6"></a>
 ## 6. Pull request
@@ -164,7 +162,7 @@ Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para
 
 ![pull-request-7](assets/pull-request-7.png)
 
-[Volver](#top)
+[Volver arriba](#top)
 
 <a name="paso7"></a>
 ## 7. Crear y personalizar issues
@@ -220,7 +218,7 @@ Aquí podemos que la issue de prueba ha sido incluida en la columna “To do”.
 
 ![Issue desplazada](assets/12.IssueenToDo.png "Issue desplazada a la columna To do")
 
-[Volver](#top)
+[Volver arriba](#top)
 
 ## Pasos a seguir (esquema WCES)
 
