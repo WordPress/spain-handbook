@@ -22,16 +22,16 @@ Para crearte una cuenta en Github, debes ir a su página principal [github.com](
 
 Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encuentra el manual dentro de Github, que se encuentra en [WPES/spain-handbook](https://github.com/WPES/spain-handbook).
 
+Nos damos de alta en GitHub a través de la opción de “Sign up” que está rodeada con un círculo rojo.
+
+![Alta cuenta Github](assets/1.AltaGitHub.png "Alta cuenta Github")
+
 [Volver arriba](#top)
 
 <a name="paso2"></a>
 ## 2. Enlazar perfiles WordPress y Github
 
-Nos damos de alta en GitHub a través de la opción de “Sign up” que está rodeada con un círculo rojo.
-
-![Alta cuenta Github](assets/1.AltaGitHub.png "Alta cuenta Github")
-
-A continuación, nos logueamos en https://es.wordpress.org/
+Para enlazar ambos perfiles es necesario loguearse en https://es.wordpress.org/
 
 ![Login WordPress](assets/2.Login.png "Nos logueamos en WordPress")
 
