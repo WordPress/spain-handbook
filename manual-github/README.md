@@ -195,9 +195,8 @@ Para crear una nueva Issue pinchamos en el botón "New Issue".
 
 ![Panel principal Issues](assets/1.PanelIssues.png "Panel principal Issues")
 
-Se abrirá una ventana como la que se ve a continuación. 
+Se abrirá una ventana, como la que se ve a continuación, con cuatro áreas señaladas: 
 
-En ella se pueden ver marcadas en rojo cuatro áreas: 
 1. espacio para introducir el título,  
 2. espacio para comentarios,
 3. botón de *Submit new issue*,
