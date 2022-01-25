@@ -7,13 +7,15 @@ Este manual pretende ser una guía de introducción a Github para principiantes,
 <a name="top"></a>
 ## Guía de uso de Github
 1. [Crear una cuenta en Github](#paso1)
-2. [Enlazar perfiles WordPress y Github](#paso2)
-3. [Hacer una copia del repositorio en nuestra cuenta de github (fork)](#paso3)
-4. [Edición del archivo](#paso4)
-5. [Fetch upstream](#paso5)
-6. [Pull request](#paso6)
-7. [Gestión de proyectos](#paso7)
-8. [Crear y personalizar issues](#paso8)
+   * 1.1. [Enlazar perfiles WordPress y Github](#paso1-1)
+2. [Trabajar en repositorio](#paso2)
+   * 2.1. [Hacer una copia del repositorio en nuestra cuenta de github (fork)](#paso2-1)
+3. [Edición del archivo](#paso3)
+   * 3.1. [Editar](#paso3-1)
+   * 3.2. [Fetch upstream](#paso3-2)
+   * 3.3. [Pull request](#paso3-3)
+4. [Gestión de proyectos](#paso4)
+   * 4.1. [Crear y personalizar issues](#paso4-1)
 
 
 <a name="paso1"></a>
@@ -29,8 +31,8 @@ Nos damos de alta en GitHub a través de la opción de “Sign up” que está r
 
 [Volver arriba](#top)
 
-<a name="paso2"></a>
-## 2. Enlazar perfiles WordPress y Github
+<a name="paso1-1"></a>
+### 1.1. Enlazar perfiles WordPress y Github
 
 Para enlazar ambos perfiles es necesario loguearse en https://es.wordpress.org/
 
@@ -52,17 +54,21 @@ Se abrirá una ventana como esta donde debemos autorizar el acceso al perfil de 
 
 ![Autorizacion](assets/6.Autorizacion.png "Autorizacion para enlazar las cuentas")
 
-
 [Volver arriba](#top)
 
-<a name="paso3"></a>
-## 3. Hacer una copia del repositorio en nuestra cuenta de github (fork)
+<a name="paso2"></a>
+## 2. Trabajar en repositorio
 
 Una vez registrados podemos acceder a la página principal de ![Github](https://github.com/) y en la barra lateral aparecerá el listado de repositorios a los que tenemos acceso.
 
 Pinchamos en ![WPES/spain-handbook](https://github.com/WPES/spain-handbook) para acceder al repositorio de manuales de WordPress España. En la parte superior izquierda podremos ver en todo momento en qué repositorio estamos.
 
 Con el fin de evitar posibles errores o conflictos es importante no trabajar nunca directamente en este repositorio principal. Para poder editar con seguridad, crearemos una copia del repositorio principal (fork) que será donde trabajaremos.
+
+[Volver arriba](#top)
+
+<a name="paso2-1"></a>
+### 2.1. Hacer una copia del repositorio en nuestra cuenta de github (fork)
 
 Crearemos el Fork pinchando en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.
 
@@ -74,8 +80,11 @@ Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se 
 
 [Volver arriba](#top)
 
-<a name="paso4"></a>
-## 4. Edición del archivo
+<a name="paso3"></a>
+## 3. Edición del archivo
+
+<a name="paso3-1"></a>
+### 3.1. Editar:
 
 #### **Para editar:**
 
@@ -93,8 +102,8 @@ Si queremos añadir los cambios en nuestro *fork*, dejaremos seleccionada la opc
 
 [Volver arriba](#top)
 
-<a name="paso5"></a>
-## 5. Fetch upstream
+<a name="paso3-2"></a>
+### 3.2 Fetch upstream
 
 **Si nuestro *fork* deja de estar actualizado:**
 
@@ -128,8 +137,8 @@ A continuación una imagen de lo que nos mostraría la opción *compare*:
 
 [Volver arriba](#top)
 
-<a name="paso6"></a>
-## 6. Pull request
+<a name="paso3-3"></a>
+### 3.3 Pull request
 
 Cuando terminamos de editar nuestro archivo podemos proceder a realizar un *pull request*, nuestro archivo se enviará al administrador para su revisión y, una vez realizadas las comprobaciones pertinentes, nuestro *fork* se fusionará con el archivo principal.
 
@@ -169,8 +178,8 @@ Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para
 
 [Volver arriba](#top)
 
-<a name="paso7"></a>
-## 7. Gestión de proyectos
+<a name="paso4"></a>
+## 4. Gestión de proyectos
 
 Al tratarse de un trabajo colaborativo se necesita un alto grado de organización y coordinación. 
 GitHub nos permite crear *issues*, que son como tareas o acciones que deben realizarse.
@@ -178,8 +187,8 @@ GitHub nos permite crear *issues*, que son como tareas o acciones que deben real
 Para facilitar la organización, estas issues se agrupan por proyectos. Y con el propósito de mantener la coordinación entre los distintos colaboradores, las issues pueden asignarse a personas.
 
 [Volver arriba](#top)
-<a name="paso8"></a>
-## 8. Crear y personalizar issues
+<a name="paso4-1"></a>
+### 4.1. Crear y personalizar issues
 
 En el menú principal de GitHub accedemos al apartado de Issues y podemos ver un listado de todas las Issues ya creadas.
 Para crear una nueva Issue pinchamos en el botón "New Issue".
