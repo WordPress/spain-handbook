@@ -1,7 +1,8 @@
 # Guía de uso de Github para la colaboración en la Comunidad WordPress de España
 
-## ¿En qué procesador de textos lo escribimos?
-En realidad, vamos a usar un editor de texto plano con formato **Markdown**. Se trata de un formato de texto que podemos editar con cualquier editor de código como Visual Studio Code, Sublime Text o Atom o en la misma web de GitHub (recomendado), en el que el formato se introduce con una serie de comandos que veremos a continuación.
+Los manuales de este repositorio son el resultado de un trabajo colaborativo. Para ello es necesario usar herramientas como Github, que permite el registro y control de versiones.
+
+Este manual pretende ser una guía de introducción a Github para principiantes.
 
 <a name="top"></a>
 ## Pasos a seguir para colaborar en el manual a través de Github
