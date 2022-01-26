@@ -123,7 +123,7 @@ Si ya hemos editado nuestro archivo, pulsaremos *Contribute*, aparecerá una peq
 
 ![contribute](assets/contribute.png)
 
-Si no hemos realizado aun cambios en nuestro fork, para trabajar en la versión aceptada más actualizada del archivo principal (máster), podemos pulsar en *Fetch Upstream*, que nos dará a su vez dos opciones más: *Compare* o *Fetch and merge*
+Si no hemos realizado aun cambios en nuestro *fork*, para trabajar en la versión aceptada más actualizada del archivo principal (*master*), podemos pulsar en *Fetch Upstream*, que nos dará a su vez dos opciones más: *Compare* o *Fetch and merge*
 
 ![fetch-upstream](assets/fetch-upstream.png)
 
