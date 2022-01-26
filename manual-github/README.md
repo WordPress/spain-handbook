@@ -2,7 +2,7 @@
 
 Los manuales de este repositorio son el resultado de un trabajo colaborativo. Para ello es necesario usar herramientas como GitHub, que permite el registro y control de versiones.
 
-Este manual pretende ser una guía de introducción a GitHub para principiantes, para obtener información más completa se puede visitar la página oficial ![GitHub Documentation](https://docs.github.com/es).
+Este manual pretende ser una guía de introducción a GitHub para principiantes. Para obtener información más completa se puede visitar la página oficial ![GitHub Documentation](https://docs.github.com/es).
 
 <a name="top"></a>
 ## Guía de uso de Github
@@ -23,7 +23,7 @@ Este manual pretende ser una guía de introducción a GitHub para principiantes,
 
 Para crearte una cuenta en GitHub, debes ir a su página principal [github.com](https://github.com/) y crearte una cuenta.
 
-Nos damos de alta en GitHub a través de la opción de “Sign up” que está rodeada con un círculo rojo.
+Nos damos de alta en GitHub a través de la opción de *“Sign up”* que está rodeada con un círculo rojo.
 
 ![Alta cuenta Github](assets/1.AltaGitHub.png "Alta cuenta Github")
 
@@ -79,7 +79,7 @@ Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se 
 ![Captura Fork realizado](assets/ForkRealizado.PNG "Fork realizado")
 
 [Volver arriba](#top)
-
+corrección erratas
 <a name="paso3"></a>
 ## 3. Edición del archivo
 
