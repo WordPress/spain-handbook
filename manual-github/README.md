@@ -79,7 +79,7 @@ Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se 
 ![Captura Fork realizado](assets/ForkRealizado.PNG "Fork realizado")
 
 [Volver arriba](#top)
-corrección erratas
+
 <a name="paso3"></a>
 ## 3. Edición del archivo
 
