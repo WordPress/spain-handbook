@@ -228,20 +228,33 @@ A continuación una imagen de la issue una vez editada y guardada
 
 ![Issue guardada](/assets/New-issue-submitted.png "Issue guardada")
 
+### 4.2. Consultar issues
+
+Una vez creada la issue podemos ir al [repositorio principal](https://github.com/WPES/spain-handbook) y acceder al listado de issues pinchando en Issues. 
+
+![Acceso a Issues](/assets/Issue-acceso.png "Acceso a issues")
+
+A continuación podemos ver cómo la issue recién creada ya aparece en el listado.
+
+![Listado issues](/assets/issue-listado.png "Listado issues")
+
+### 4.3. Organizar issues en Proyectos
 
 Si accedemos al apartado de Projects desde el menú principal de GitHub podremos ver un listado de todas las etiquetas y en qué estado de realización se encuentra cada una de ellas.
+
 En la parte de la derecha aparece la opción "Add cards" con un punto azul, notificando que hay una nueva Issue.
 
-![Panel principal projects](assets/10.Projects.png "Panel principal projects")
+![Panel principal](/assets/Proyecto-panel.png "Panel principal")
 
 Al pinchar sobre esta opción podemos ver la Issue que hemos creado y arrastrarla a la columna correspondiente: "To Do", "In progress" y "Done".
+
 Si pinchamos sobre el título azul, saldrá una flecha de 4 puntas que servirá para arrastrar la Issue.
 
-![Mover issue](assets/11.MoverIssue.png "Mover issue")
+![Mover issue](/assets/Add-cards.png "Mover issue")
 
-Aquí podemos que la issue de prueba ha sido incluida en la columna “To do”.
+Aquí podemos ver que la issue de prueba ha sido incluida en la columna “To do”.
 
-![Issue desplazada](assets/12.IssueenToDo.png "Issue desplazada a la columna To do")
+![Issue desplazada](/assets/Card-añadida.png "Issue desplazada a la columna To do")
 
 [Volver arriba](#top)
 
