@@ -23,11 +23,11 @@ Este manual pretende ser una guía de introducción a GitHub para principiantes,
 
 Para crearte una cuenta en GitHub, debes ir a su página principal [github.com](https://github.com/) y crearte una cuenta.
 
-Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde está ubicado el manual dentro de GitHub, que se encuentra en [WPES/spain-handbook](https://github.com/WPES/spain-handbook).
-
 Nos damos de alta en GitHub a través de la opción de “Sign up” que está rodeada con un círculo rojo.
 
 ![Alta cuenta Github](assets/1.AltaGitHub.png "Alta cuenta Github")
+
+Una vez que hemos creado nuestra cuenta, ya podemos acceder el repositorio donde está ubicado el manual dentro de GitHub, que se encuentra en [WPES/spain-handbook](https://github.com/WPES/spain-handbook).
 
 [Volver arriba](#top)
 
