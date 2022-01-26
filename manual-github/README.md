@@ -46,7 +46,7 @@ A continuación, podemos ver la información de nuestro perfil.
 
 ![Perfil WordPress](assets/4.Perfil.png "Información perfil de WordPress")
 
-Y en el apartado GitHub Username podemos ver un enlace que permite vincular la cuenta de WordPress con la de GitHub, al pinchar sobre este enlace.
+Y en el apartado *GitHub Username* podemos ver un enlace que permite vincular la cuenta de WordPress con la de GitHub, al pinchar sobre este enlace.
 
 ![Github Username](assets/5.GitHubUsername.png "Enlace para enlazar WordPress y Github")
 
@@ -63,18 +63,18 @@ Una vez registrados podemos acceder a la página principal de ![GitHub](https://
 
 Pinchamos en ![WPES/spain-handbook](https://github.com/WPES/spain-handbook) para acceder al repositorio de manuales de WordPress España. En la parte superior izquierda podremos ver en todo momento en qué repositorio estamos.
 
-Con el fin de evitar posibles errores o conflictos es importante no trabajar nunca directamente en este repositorio principal. Para poder editar con seguridad, crearemos una copia del repositorio principal (fork) que será donde trabajaremos.
+Con el fin de evitar posibles errores o conflictos **es importante no trabajar nunca directamente en este repositorio principal**. Para poder editar con seguridad, crearemos una copia del repositorio principal (*fork*) que será donde trabajaremos.
 
 [Volver arriba](#top)
 
 <a name="paso2-1"></a>
-### 2.1. Hacer una copia del repositorio en nuestra cuenta de GitHub (fork)
+### 2.1. Hacer una copia del repositorio en nuestra cuenta de GitHub (*fork*)
 
-Crearemos el Fork pinchando en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.
+Crearemos el *fork* pinchando en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.
 
 ![Captura realización Fork](assets/ForkCuentaPrincipal.png "Realización Fork")
 
-Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectará al repositorio original hasta que no hagamos un Pull Request y éste no sea verificado y aprobado.
+Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectará al repositorio original hasta que no hagamos un *Pull request* y éste no sea verificado y aprobado.
 
 ![Captura Fork realizado](assets/ForkRealizado.PNG "Fork realizado")
 
@@ -152,11 +152,11 @@ Para hacer *pull request* a partir de nuestro *fork*:
 
 ![pull-request-2](assets/pull-request-2.png)
 
-3. En este paso tenemos la oportunidad de comparar el archivo principal con nuestra propuesta, como en nuestro caso lo estamos haciendo desde un fork, pulsaremos *compare accross forks*, puesto que necesitamos indicar qué dos archivos vamos a comparar.
+3. En este paso tenemos la oportunidad de comparar el archivo principal con nuestra propuesta, como en nuestro caso lo estamos haciendo desde un *fork*, pulsaremos *compare accross forks*, puesto que necesitamos indicar qué dos archivos vamos a comparar.
 
 ![pull-request-3](assets/pull-request-3.png)
 
-4. Nos aparecerá un nuevo encabezado en el que podremos seleccionar nuestro fork pulsando en el desplegable *head repository*
+4. Nos aparecerá un nuevo encabezado en el que podremos seleccionar nuestro *fork* pulsando en el desplegable *head repository*
 
 ![pull-request-4](assets/pull-request-4.png)
 
@@ -190,8 +190,8 @@ Para facilitar la organización, estas *issues* se agrupan por proyectos. Y con 
 <a name="paso4-1"></a>
 ### 4.1. Crear y personalizar issues
 
-En el menú principal de GitHub accedemos al apartado de Issues y podemos ver un listado de todas las *issues* ya creadas.
-Para crear una nueva *issue* pinchamos en el botón "New Issue".
+En el menú principal de GitHub accedemos al apartado de *Issues* y podemos ver un listado de todas las *issues* ya creadas.
+Para crear una nueva *issue* pinchamos en el botón *"New Issue"*.
 
 ![Panel principal Issues](assets/1.PanelIssues.png "Panel principal Issues")
 
@@ -206,7 +206,7 @@ Se abrirá una ventana, como la que se ve a continuación, con cuatro áreas se�
 
 Debemos introducir un título y un breve comentario al respecto, una vez hecho podemos pinchar en *Submit new issue* para guardarla.
 
-Adicionalmente, en el lateral derecho podemos personalizar algunas opciones como *Assignees*, para asignar la issue a una persona, *Labels*, para etiquetar/clasificar la issue, y finalmente *Projects* para asignar la issue al proyecto elegido. 
+Adicionalmente, en el lateral derecho podemos personalizar algunas opciones como *Assignees*, para asignar la *issue* a una persona, *Labels*, para etiquetar/clasificar la *issue*, y finalmente *Projects* para asignar la *issue* al proyecto elegido. 
 
 Para hacerlo pinchamos sobre la rueda correspondiente y se despliega una ventana con las opciones. Seleccionamos nuestra elección y pinchamos fuera del área para que la opción marcada quede guardada.
 
@@ -246,13 +246,13 @@ En la parte de la derecha aparece la opción "Add cards" con un punto azul, noti
 
 ![Panel principal](/assets/Proyecto-panel.png "Panel principal")
 
-Al pinchar sobre esta opción podemos ver la *issue* que hemos creado y arrastrarla a la columna correspondiente: "To Do", "In progress" y "Done".
+Al pinchar sobre esta opción podemos ver la *issue* que hemos creado y nos permite arrastrarla a la columna correspondiente: *"To Do"*, *"In progress"* y *"Done"*.
 
 Si pinchamos sobre el título azul, saldrá una flecha de 4 puntas que servirá para arrastrar la *issue*.
 
 ![Mover issue](/assets/Add-cards.png "Mover issue")
 
-Aquí podemos ver que la *issue* de prueba ha sido incluida en la columna “To do”.
+Aquí podemos ver que la *issue* de prueba ha sido incluida en la columna *“To do”*.
 
 ![Issue desplazada](/assets/Card-añadida.png "Issue desplazada a la columna To do")
 
