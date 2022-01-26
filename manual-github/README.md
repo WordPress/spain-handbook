@@ -107,7 +107,7 @@ Si queremos añadir los cambios en nuestro *fork*, dejaremos seleccionada la opc
 
 **Si nuestro *fork* deja de estar actualizado:**
 
-Cuando se trabaja en un *fork*, se trabaja paralelamente al archivo máster. Es decir, los cambios producidos en el archivo principal (máster) no se sincronizan automáticamente con nuestro *fork*.
+Cuando se trabaja en un *fork*, se trabaja paralelamente al archivo máster. Es decir, los cambios producidos en el archivo principal (*master*) no se sincronizan automáticamente con nuestro *fork*.
 
 GitHub nos lo indicará con la siguiente frase:
 *“This branch is 8 commits behind WPES:master.”*
@@ -119,7 +119,7 @@ A continuación un ejemplo del aviso:
 
 En este caso, si el archivo principal se ha adelantado a nuestra versión, tenemos dos opciones: *Contribute* o *Fetch upstream*
 
-Si ya hemos editado nuestro archivo, pulsaremos *Contribute*, aparecerá una pequeña ventana que indica que el archivo no está actualizado y nos invita a hacer un *Pull request* para fusionar nuestra edición con el archivo principal (máster).
+Si ya hemos editado nuestro archivo, pulsaremos *Contribute*, aparecerá una pequeña ventana que indica que el archivo no está actualizado y nos invita a hacer un *Pull request* para fusionar nuestra edición con el archivo principal (*master*).
 
 ![contribute](assets/contribute.png)
 
@@ -127,7 +127,7 @@ Si no hemos realizado aun cambios en nuestro fork, para trabajar en la versión 
 
 ![fetch-upstream](assets/fetch-upstream.png)
 
-*Compare* nos permite comparar las distintas versiones que se han creado y *Fetch and merge* sincronizará nuestro *fork* con el archivo principal (máster). 
+*Compare* nos permite comparar las distintas versiones que se han creado y *Fetch and merge* sincronizará nuestro *fork* con el archivo principal (*master*). 
 
 En cualquier caso, si hubiera algún conflicto entre ambas versiones, el sistema nos avisará y nos invitará a hacer antes un *Pull request*.
 
