@@ -1,15 +1,15 @@
-# Manual de Github
+# Manual de GitHub
 
-Los manuales de este repositorio son el resultado de un trabajo colaborativo. Para ello es necesario usar herramientas como Github, que permite el registro y control de versiones.
+Los manuales de este repositorio son el resultado de un trabajo colaborativo. Para ello es necesario usar herramientas como GitHub, que permite el registro y control de versiones.
 
-Este manual pretende ser una guía de introducción a Github para principiantes, para obtener información más completa se puede visitar la página oficial ![GitHub Documentation](https://docs.github.com/es).
+Este manual pretende ser una guía de introducción a GitHub para principiantes, para obtener información más completa se puede visitar la página oficial ![GitHub Documentation](https://docs.github.com/es).
 
 <a name="top"></a>
 ## Guía de uso de Github
-1. [Crear una cuenta en Github](#paso1)
-   * 1.1. [Enlazar perfiles WordPress y Github](#paso1-1)
+1. [Crear una cuenta en GitHub](#paso1)
+   * 1.1. [Enlazar perfiles WordPress y GitHub](#paso1-1)
 2. [Trabajar en repositorio](#paso2)
-   * 2.1. [Hacer una copia del repositorio en nuestra cuenta de github (fork)](#paso2-1)
+   * 2.1. [Hacer una copia del repositorio en nuestra cuenta de GitHub (fork)](#paso2-1)
 3. [Edición del archivo](#paso3)
    * 3.1. [Editar](#paso3-1)
    * 3.2. [Fetch upstream](#paso3-2)
@@ -19,11 +19,11 @@ Este manual pretende ser una guía de introducción a Github para principiantes,
 
 
 <a name="paso1"></a>
-## 1. Crear una cuenta en Github
+## 1. Crear una cuenta en GitHub
 
-Para crearte una cuenta en Github, debes ir a su página principal [github.com](https://github.com/) y crearte una cuenta.
+Para crearte una cuenta en GitHub, debes ir a su página principal [github.com](https://github.com/) y crearte una cuenta.
 
-Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encuentra el manual dentro de Github, que se encuentra en [WPES/spain-handbook](https://github.com/WPES/spain-handbook).
+Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde está ubicado el manual dentro de GitHub, que se encuentra en [WPES/spain-handbook](https://github.com/WPES/spain-handbook).
 
 Nos damos de alta en GitHub a través de la opción de “Sign up” que está rodeada con un círculo rojo.
 
@@ -32,7 +32,7 @@ Nos damos de alta en GitHub a través de la opción de “Sign up” que está r
 [Volver arriba](#top)
 
 <a name="paso1-1"></a>
-### 1.1. Enlazar perfiles WordPress y Github
+### 1.1. Enlazar perfiles WordPress y GitHub
 
 Para enlazar ambos perfiles es necesario loguearse en https://es.wordpress.org/
 
@@ -50,7 +50,7 @@ Y en el apartado GitHub Username podemos ver un enlace que permite vincular la c
 
 ![Github Username](assets/5.GitHubUsername.png "Enlace para enlazar WordPress y Github")
 
-Se abrirá una ventana como esta donde debemos autorizar el acceso al perfil de WordPress.org
+Se abrirá una ventana como la siguiente donde debemos autorizar el acceso al perfil de WordPress.org
 
 ![Autorizacion](assets/6.Autorizacion.png "Autorizacion para enlazar las cuentas")
 
@@ -59,7 +59,7 @@ Se abrirá una ventana como esta donde debemos autorizar el acceso al perfil de 
 <a name="paso2"></a>
 ## 2. Trabajar en repositorio
 
-Una vez registrados podemos acceder a la página principal de ![Github](https://github.com/) y en la barra lateral aparecerá el listado de repositorios a los que tenemos acceso.
+Una vez registrados podemos acceder a la página principal de ![GitHub](https://github.com/) y en la barra lateral aparecerá el listado de repositorios a los que tenemos acceso.
 
 Pinchamos en ![WPES/spain-handbook](https://github.com/WPES/spain-handbook) para acceder al repositorio de manuales de WordPress España. En la parte superior izquierda podremos ver en todo momento en qué repositorio estamos.
 
@@ -68,7 +68,7 @@ Con el fin de evitar posibles errores o conflictos es importante no trabajar nun
 [Volver arriba](#top)
 
 <a name="paso2-1"></a>
-### 2.1. Hacer una copia del repositorio en nuestra cuenta de github (fork)
+### 2.1. Hacer una copia del repositorio en nuestra cuenta de GitHub (fork)
 
 Crearemos el Fork pinchando en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.
 
@@ -184,14 +184,14 @@ Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para
 Al tratarse de un trabajo colaborativo se necesita un alto grado de organización y coordinación. 
 GitHub nos permite crear *issues*, que son como tareas o acciones que deben realizarse.
 
-Para facilitar la organización, estas issues se agrupan por proyectos. Y con el propósito de mantener la coordinación entre los distintos colaboradores, las issues pueden asignarse a personas.
+Para facilitar la organización, estas *issues* se agrupan por proyectos. Y con el propósito de mantener la coordinación entre los distintos colaboradores, las *issues* pueden asignarse a personas.
 
 [Volver arriba](#top)
 <a name="paso4-1"></a>
 ### 4.1. Crear y personalizar issues
 
-En el menú principal de GitHub accedemos al apartado de Issues y podemos ver un listado de todas las Issues ya creadas.
-Para crear una nueva Issue pinchamos en el botón "New Issue".
+En el menú principal de GitHub accedemos al apartado de Issues y podemos ver un listado de todas las *issues* ya creadas.
+Para crear una nueva *issue* pinchamos en el botón "New Issue".
 
 ![Panel principal Issues](assets/1.PanelIssues.png "Panel principal Issues")
 
@@ -200,7 +200,7 @@ Se abrirá una ventana, como la que se ve a continuación, con cuatro áreas se�
 1. espacio para introducir el título,  
 2. espacio para comentarios,
 3. botón de *Submit new issue*,
-4. opciones de edición de la issue
+4. opciones de edición de la *issue*
 
 ![Nueva Issue](/assets/New-issue.png "Nueva Issue")
 
@@ -224,35 +224,35 @@ A continuación varias capturas de ejemplo:
 
 ![Asignar proyecto](/assets/New-issue-projects.png "Asignar a un proyecto")
 
-A continuación una imagen de la issue una vez editada y guardada
+A continuación una imagen de la *issue* una vez editada y guardada
 
 ![Issue guardada](/assets/New-issue-submitted.png "Issue guardada")
 
-### 4.2. Consultar issues
+### 4.2. Consultar *issues*
 
-Una vez creada la issue podemos ir al [repositorio principal](https://github.com/WPES/spain-handbook) y acceder al listado de issues pinchando en Issues. 
+Una vez creada la *issue* podemos ir al [repositorio principal](https://github.com/WPES/spain-handbook) y acceder al listado de *issues* pinchando en *Issues*. 
 
 ![Acceso a Issues](/assets/Issue-acceso.png "Acceso a issues")
 
-A continuación podemos ver cómo la issue recién creada ya aparece en el listado.
+A continuación podemos ver cómo la *issue* recién creada ya aparece en el listado.
 
 ![Listado issues](/assets/issue-listado.png "Listado issues")
 
-### 4.3. Organizar issues en Proyectos
+### 4.3. Organizar *issues* en Proyectos
 
-Si accedemos al apartado de Projects desde el menú principal de GitHub podremos ver un listado de todas las etiquetas y en qué estado de realización se encuentra cada una de ellas.
+Si accedemos al apartado de *Projects* desde el menú principal de GitHub podremos ver un listado de todas las etiquetas y en qué estado de realización se encuentra cada una de ellas.
 
-En la parte de la derecha aparece la opción "Add cards" con un punto azul, notificando que hay una nueva Issue.
+En la parte de la derecha aparece la opción "Add cards" con un punto azul, notificando que hay una nueva *issue*.
 
 ![Panel principal](/assets/Proyecto-panel.png "Panel principal")
 
-Al pinchar sobre esta opción podemos ver la Issue que hemos creado y arrastrarla a la columna correspondiente: "To Do", "In progress" y "Done".
+Al pinchar sobre esta opción podemos ver la *issue* que hemos creado y arrastrarla a la columna correspondiente: "To Do", "In progress" y "Done".
 
-Si pinchamos sobre el título azul, saldrá una flecha de 4 puntas que servirá para arrastrar la Issue.
+Si pinchamos sobre el título azul, saldrá una flecha de 4 puntas que servirá para arrastrar la *issue*.
 
 ![Mover issue](/assets/Add-cards.png "Mover issue")
 
-Aquí podemos ver que la issue de prueba ha sido incluida en la columna “To do”.
+Aquí podemos ver que la *issue* de prueba ha sido incluida en la columna “To do”.
 
 ![Issue desplazada](/assets/Card-añadida.png "Issue desplazada a la columna To do")
 
