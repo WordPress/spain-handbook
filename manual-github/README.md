@@ -214,29 +214,29 @@ A continuación varias capturas de ejemplo:
 
 **para seleccionar la persona asignada:**
 
-![Asignar persona](/assets/New-issue-assignees.png "Seleccionar persona asignada")
+![Asignar persona](assets/New-issue-assignees.png "Seleccionar persona asignada")
 
 **para clasificar con etiquetas:**
 
-![Etiquetar](/assets/New-issue-labels.png "Etiquetar")
+![Etiquetar](assets/New-issue-labels.png "Etiquetar")
 
 **para seleccionar el proyecto asignado:**
 
-![Asignar proyecto](/assets/New-issue-projects.png "Asignar a un proyecto")
+![Asignar proyecto](assets/New-issue-projects.png "Asignar a un proyecto")
 
 A continuación una imagen de la *issue* una vez editada y guardada
 
-![Issue guardada](/assets/New-issue-submitted.png "Issue guardada")
+![Issue guardada](assets/New-issue-submitted.png "Issue guardada")
 
 ### 4.2. Consultar *issues*
 
 Una vez creada la *issue* podemos ir al [repositorio principal](https://github.com/WPES/spain-handbook) y acceder al listado de *issues* pinchando en *Issues*. 
 
-![Acceso a Issues](/assets/Issue-acceso.png "Acceso a issues")
+![Acceso a Issues](assets/Issue-acceso.png "Acceso a issues")
 
 A continuación podemos ver cómo la *issue* recién creada ya aparece en el listado.
 
-![Listado issues](/assets/issue-listado.png "Listado issues")
+![Listado issues](assets/issue-listado.png "Listado issues")
 
 ### 4.3. Organizar *issues* en Proyectos
 
@@ -244,17 +244,17 @@ Si accedemos al apartado de *Projects* desde el menú principal de GitHub podrem
 
 En la parte de la derecha aparece la opción "Add cards" con un punto azul, notificando que hay una nueva *issue*.
 
-![Panel principal](/assets/Proyecto-panel.png "Panel principal")
+![Panel principal](assets/Proyecto-panel.png "Panel principal")
 
 Al pinchar sobre esta opción podemos ver la *issue* que hemos creado y nos permite arrastrarla a la columna correspondiente: *"To Do"*, *"In progress"* y *"Done"*.
 
 Si pinchamos sobre el título azul, saldrá una flecha de 4 puntas que servirá para arrastrar la *issue*.
 
-![Mover issue](/assets/Add-cards.png "Mover issue")
+![Mover issue](assets/Add-cards.png "Mover issue")
 
 Aquí podemos ver que la *issue* de prueba ha sido incluida en la columna *“To do”*.
 
-![Issue desplazada](/assets/Card-añadida.png "Issue desplazada a la columna To do")
+![Issue desplazada](assets/Card-añadida.png "Issue desplazada a la columna To do")
 
 [Volver arriba](#top)
 
