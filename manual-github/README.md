@@ -202,7 +202,7 @@ Se abrirá una ventana, como la que se ve a continuación, con cuatro áreas se�
 3. botón de *Submit new issue*,
 4. opciones de edición de la *issue*
 
-![Nueva Issue](/assets/New-issue.png "Nueva Issue")
+![Nueva Issue](assets/New-issue.png "Nueva Issue")
 
 Debemos introducir un título y un breve comentario al respecto, una vez hecho podemos pinchar en *Submit new issue* para guardarla.
 
@@ -228,6 +228,8 @@ A continuación una imagen de la *issue* una vez editada y guardada
 
 ![Issue guardada](assets/New-issue-submitted.png "Issue guardada")
 
+[Volver arriba](#top)
+
 ### 4.2. Consultar *issues*
 
 Una vez creada la *issue* podemos ir al [repositorio principal](https://github.com/WPES/spain-handbook) y acceder al listado de *issues* pinchando en *Issues*. 
@@ -237,6 +239,8 @@ Una vez creada la *issue* podemos ir al [repositorio principal](https://github.c
 A continuación podemos ver cómo la *issue* recién creada ya aparece en el listado.
 
 ![Listado issues](assets/issue-listado.png "Listado issues")
+
+[Volver arriba](#top)
 
 ### 4.3. Organizar *issues* en Proyectos
 
