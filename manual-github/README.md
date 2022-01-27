@@ -16,6 +16,8 @@ Este manual pretende ser una guía de introducción a GitHub para principiantes.
    * 3.3. [Pull request](#paso3-3)
 4. [Gestión de proyectos](#paso4)
    * 4.1. [Crear y personalizar issues](#paso4-1)
+   * 4.2. [Consultar *issues*](#paso4-2)
+   * 4.3. [Organizar *issues* en Proyectos](#paso4-3)
 
 
 <a name="paso1"></a>
@@ -230,6 +232,7 @@ A continuación una imagen de la *issue* una vez editada y guardada
 
 [Volver arriba](#top)
 
+<a name="paso4-2"></a>
 ### 4.2. Consultar *issues*
 
 Una vez creada la *issue* podemos ir al [repositorio principal](https://github.com/WPES/spain-handbook) y acceder al listado de *issues* pinchando en *Issues*. 
@@ -242,6 +245,7 @@ A continuación podemos ver cómo la *issue* recién creada ya aparece en el lis
 
 [Volver arriba](#top)
 
+<a name="paso4-3"></a>
 ### 4.3. Organizar *issues* en Proyectos
 
 Si accedemos al apartado de *Projects* desde el menú principal de GitHub podremos ver un listado de todas las etiquetas y en qué estado de realización se encuentra cada una de ellas.
