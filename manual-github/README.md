@@ -2,7 +2,7 @@
 
 Los manuales de este repositorio son el resultado de un trabajo colaborativo. Para ello es necesario usar herramientas como GitHub, que permite el registro y control de versiones.
 
-Este manual pretende ser una guía de introducción a GitHub para principiantes. Para obtener información más completa se puede visitar la página oficial ![GitHub Documentation](https://docs.github.com/es).
+Este manual pretende ser una guía de introducción a GitHub para principiantes. Para obtener información más completa se puede visitar la página oficial [GitHub Documentation](https://docs.github.com/es).
 
 <a name="top"></a>
 ## Guía de uso de Github
