@@ -1,38 +1,42 @@
-# Guía de uso de Github para la colaboración en la Comunidad WordPress de España
+# Manual de GitHub
 
-## ¿En qué procesador de textos lo escribimos?
-En realidad, vamos a usar un editor de texto plano con formato **Markdown**. Se trata de un formato de texto que podemos editar con cualquier editor de código como Visual Studio Code, Sublime Text o Atom o en la misma web de GitHub (recomendado), en el que el formato se introduce con una serie de comandos que veremos a continuación.
+Los manuales de este repositorio son el resultado de un trabajo colaborativo. Para ello es necesario usar herramientas como GitHub, que permite el registro y control de versiones.
+
+Este manual pretende ser una guía de introducción a GitHub para principiantes. Para obtener información más completa se puede visitar la página oficial ![GitHub Documentation](https://docs.github.com/es).
 
 <a name="top"></a>
-## Pasos a seguir para colaborar en el manual a través de Github
-1. [Crear una cuenta en Github](#paso1)
-2. [Enlazar perfiles WordPress y Github](#paso2)
-3. [Hacer una copia del repositorio en nuestra cuenta de github (fork)](#paso3)
-4. [Edición del archivo](#paso4)
-5. [Fetch upstream](#paso5)
-6. [Pull request](#paso6)
-7. [Crear y personalizar issues](#paso7)
+## Guía de uso de Github
+1. [Crear una cuenta en GitHub](#paso1)
+   * 1.1. [Enlazar perfiles WordPress y GitHub](#paso1-1)
+2. [Trabajar en repositorio](#paso2)
+   * 2.1. [Hacer una copia del repositorio en nuestra cuenta de GitHub (fork)](#paso2-1)
+3. [Edición del archivo](#paso3)
+   * 3.1. [Editar](#paso3-1)
+   * 3.2. [Fetch upstream](#paso3-2)
+   * 3.3. [Pull request](#paso3-3)
+4. [Gestión de proyectos](#paso4)
+   * 4.1. [Crear y personalizar issues](#paso4-1)
+   * 4.2. [Consultar *issues*](#paso4-2)
+   * 4.3. [Organizar *issues* en Proyectos](#paso4-3)
 
 
 <a name="paso1"></a>
-## 1. Crear una cuenta en Github
+## 1. Crear una cuenta en GitHub
 
-Para crearte una cuenta en Github, debes ir a su página principal [github.com](https://github.com/) y crearte una cuenta.
+Para crearte una cuenta en GitHub, debes ir a su página principal [github.com](https://github.com/) y crearte una cuenta.
 
-Una vez que hemos creado nuestra cuenta, buscaremos el repositorio donde se encuentra el manual dentro de Github, que se encuentra en [WPES/spain-handbook](https://github.com/WPES/spain-handbook).
-
-[Cómo colaborar en un proyecto en Github](https://gist.github.com/BCasal/026e4c7f5c71418485c1) **(esto queda provisional)**
-
-[Volver](#top)
-
-<a name="paso2"></a>
-## 2. Enlazar perfiles WordPress y Github
-
-Nos damos de alta en GitHub a través de la opción de “Sign up” que está rodeada con un círculo rojo.
+Nos damos de alta en GitHub a través de la opción de *“Sign up”* que está rodeada con un círculo rojo.
 
 ![Alta cuenta Github](assets/1.AltaGitHub.png "Alta cuenta Github")
 
-A continuación, nos logueamos en https://es.wordpress.org/
+Una vez que hemos creado nuestra cuenta, ya podemos acceder el repositorio donde está ubicado el manual dentro de GitHub, que se encuentra en [WPES/spain-handbook](https://github.com/WPES/spain-handbook).
+
+[Volver arriba](#top)
+
+<a name="paso1-1"></a>
+### 1.1. Enlazar perfiles WordPress y GitHub
+
+Para enlazar ambos perfiles es necesario loguearse en https://es.wordpress.org/
 
 ![Login WordPress](assets/2.Login.png "Nos logueamos en WordPress")
 
@@ -44,34 +48,45 @@ A continuación, podemos ver la información de nuestro perfil.
 
 ![Perfil WordPress](assets/4.Perfil.png "Información perfil de WordPress")
 
-Y en el apartado GitHub Username podemos ver un enlace que permite vincular la cuenta de WordPress con la de GitHub, al pinchar sobre este enlace.
+Y en el apartado *GitHub Username* podemos ver un enlace que permite vincular la cuenta de WordPress con la de GitHub, al pinchar sobre este enlace.
 
 ![Github Username](assets/5.GitHubUsername.png "Enlace para enlazar WordPress y Github")
 
-Se abrirá una ventana como esta donde debemos autorizar el acceso al perfil de WordPress.org
+Se abrirá una ventana como la siguiente donde debemos autorizar el acceso al perfil de WordPress.org
 
 ![Autorizacion](assets/6.Autorizacion.png "Autorizacion para enlazar las cuentas")
 
+[Volver arriba](#top)
 
-[Volver](#top)
+<a name="paso2"></a>
+## 2. Trabajar en repositorio
 
-<a name="paso3"></a>
-## 3. Hacer una copia del repositorio en nuestra cuenta de github (fork)
+Una vez registrados podemos acceder a la página principal de ![GitHub](https://github.com/) y en la barra lateral aparecerá el listado de repositorios a los que tenemos acceso.
 
-A continuación, debemos realizar un Fork para poder tener acceso a dicho repositorio desde nuestra cuenta de GitHub.
-Antes de hacer nada debemos fijarnos si estamos en el repositorio correcto a través de la ruta que indica en la parte superior izquierda, esto es importante ya que una vez que hayamos hecho el Fork, si este está bien hecho la ruta cambiara.
-Para realizar el Fork debemos pinchar en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.
+Pinchamos en ![WPES/spain-handbook](https://github.com/WPES/spain-handbook) para acceder al repositorio de manuales de WordPress España. En la parte superior izquierda podremos ver en todo momento en qué repositorio estamos.
+
+Con el fin de evitar posibles errores o conflictos **es importante no trabajar nunca directamente en este repositorio principal**. Para poder editar con seguridad, crearemos una copia del repositorio principal (*fork*) que será donde trabajaremos.
+
+[Volver arriba](#top)
+
+<a name="paso2-1"></a>
+### 2.1. Hacer una copia del repositorio en nuestra cuenta de GitHub (*fork*)
+
+Crearemos el *fork* pinchando en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.
 
 ![Captura realización Fork](assets/ForkCuentaPrincipal.png "Realización Fork")
 
-Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectará al repositorio original hasta que no hagamos un Pull Request y éste no sea verificado y aprobado.
+Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectará al repositorio original hasta que no hagamos un *Pull request* y éste no sea verificado y aprobado.
 
 ![Captura Fork realizado](assets/ForkRealizado.PNG "Fork realizado")
 
-[Volver](#top)
+[Volver arriba](#top)
 
-<a name="paso4"></a>
-## 4. Edición del archivo
+<a name="paso3"></a>
+## 3. Edición del archivo
+
+<a name="paso3-1"></a>
+### 3.1. Editar:
 
 #### **Para editar:**
 
@@ -87,14 +102,14 @@ Si queremos añadir los cambios en nuestro *fork*, dejaremos seleccionada la opc
 
 ![commit-changes](assets/commit-changes.png)
 
-[Volver](#top)
+[Volver arriba](#top)
 
-<a name="paso5"></a>
-## 5. Fetch upstream
+<a name="paso3-2"></a>
+### 3.2 Fetch upstream
 
 **Si nuestro *fork* deja de estar actualizado:**
 
-Cuando se trabaja en un *fork*, se trabaja paralelamente al archivo máster. Es decir, los cambios producidos en el archivo principal (máster) no se sincronizan automáticamente con nuestro *fork*.
+Cuando se trabaja en un *fork*, se trabaja paralelamente al archivo máster. Es decir, los cambios producidos en el archivo principal (*master*) no se sincronizan automáticamente con nuestro *fork*.
 
 GitHub nos lo indicará con la siguiente frase:
 *“This branch is 8 commits behind WPES:master.”*
@@ -106,15 +121,15 @@ A continuación un ejemplo del aviso:
 
 En este caso, si el archivo principal se ha adelantado a nuestra versión, tenemos dos opciones: *Contribute* o *Fetch upstream*
 
-Si ya hemos editado nuestro archivo, pulsaremos *Contribute*, aparecerá una pequeña ventana que indica que el archivo no está actualizado y nos invita a hacer un *Pull request* para fusionar nuestra edición con el archivo principal (máster).
+Si ya hemos editado nuestro archivo, pulsaremos *Contribute*, aparecerá una pequeña ventana que indica que el archivo no está actualizado y nos invita a hacer un *Pull request* para fusionar nuestra edición con el archivo principal (*master*).
 
 ![contribute](assets/contribute.png)
 
-Si no hemos realizado aun cambios en nuestro fork, para trabajar en la versión aceptada más actualizada del archivo principal (máster), podemos pulsar en *Fetch Upstream*, que nos dará a su vez dos opciones más: *Compare* o *Fetch and merge*
+Si no hemos realizado aun cambios en nuestro *fork*, para trabajar en la versión aceptada más actualizada del archivo principal (*master*), podemos pulsar en *Fetch Upstream*, que nos dará a su vez dos opciones más: *Compare* o *Fetch and merge*
 
 ![fetch-upstream](assets/fetch-upstream.png)
 
-*Compare* nos permite comparar las distintas versiones que se han creado y *Fetch and merge* sincronizará nuestro *fork* con el archivo principal (máster). 
+*Compare* nos permite comparar las distintas versiones que se han creado y *Fetch and merge* sincronizará nuestro *fork* con el archivo principal (*master*). 
 
 En cualquier caso, si hubiera algún conflicto entre ambas versiones, el sistema nos avisará y nos invitará a hacer antes un *Pull request*.
 
@@ -122,10 +137,10 @@ A continuación una imagen de lo que nos mostraría la opción *compare*:
 
 ![Comparing-changes](assets/Comparing-changes.png)
 
-[Volver](#top)
+[Volver arriba](#top)
 
-<a name="paso6"></a>
-## 6. Pull request
+<a name="paso3-3"></a>
+### 3.3 Pull request
 
 Cuando terminamos de editar nuestro archivo podemos proceder a realizar un *pull request*, nuestro archivo se enviará al administrador para su revisión y, una vez realizadas las comprobaciones pertinentes, nuestro *fork* se fusionará con el archivo principal.
 
@@ -139,11 +154,11 @@ Para hacer *pull request* a partir de nuestro *fork*:
 
 ![pull-request-2](assets/pull-request-2.png)
 
-3. En este paso tenemos la oportunidad de comparar el archivo principal con nuestra propuesta, como en nuestro caso lo estamos haciendo desde un fork, pulsaremos *compare accross forks*, puesto que necesitamos indicar qué dos archivos vamos a comparar.
+3. En este paso tenemos la oportunidad de comparar el archivo principal con nuestra propuesta, como en nuestro caso lo estamos haciendo desde un *fork*, pulsaremos *compare accross forks*, puesto que necesitamos indicar qué dos archivos vamos a comparar.
 
 ![pull-request-3](assets/pull-request-3.png)
 
-4. Nos aparecerá un nuevo encabezado en el que podremos seleccionar nuestro fork pulsando en el desplegable *head repository*
+4. Nos aparecerá un nuevo encabezado en el que podremos seleccionar nuestro *fork* pulsando en el desplegable *head repository*
 
 ![pull-request-4](assets/pull-request-4.png)
 
@@ -163,104 +178,93 @@ Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para
 
 ![pull-request-7](assets/pull-request-7.png)
 
-[Volver](#top)
+[Volver arriba](#top)
 
-<a name="paso7"></a>
-## 7. Crear y personalizar issues
+<a name="paso4"></a>
+## 4. Gestión de proyectos
 
-En el menú principal de GitHub accedemos al apartado de Issues y podemos ver un listado de todas las Issues ya creadas.
-Para crear una nueva Issue pinchamos en el botón "New Issue".
+Al tratarse de un trabajo colaborativo se necesita un alto grado de organización y coordinación. 
+GitHub nos permite crear *issues*, que son como tareas o acciones que deben realizarse.
+
+Para facilitar la organización, estas *issues* se agrupan por proyectos. Y con el propósito de mantener la coordinación entre los distintos colaboradores, las *issues* pueden asignarse a personas.
+
+[Volver arriba](#top)
+<a name="paso4-1"></a>
+### 4.1. Crear y personalizar issues
+
+En el menú principal de GitHub accedemos al apartado de *Issues* y podemos ver un listado de todas las *issues* ya creadas.
+Para crear una nueva *issue* pinchamos en el botón *"New Issue"*.
 
 ![Panel principal Issues](assets/1.PanelIssues.png "Panel principal Issues")
 
-Se abrirá una ventana cómo está donde podemos asignar un título a la Issue y un comentario. 
+Se abrirá una ventana, como la que se ve a continuación, con cuatro áreas señaladas: 
 
-![Nueva Issue](assets/2.NuevaIssue.png "Nueva Issue")
+1. espacio para introducir el título,  
+2. espacio para comentarios,
+3. botón de *Submit new issue*,
+4. opciones de edición de la *issue*
 
-Grabamos estos cambios para no perderlos.
+![Nueva Issue](assets/New-issue.png "Nueva Issue")
 
-![Issue creada](assets/3.IssueCreada.png "Issue ya creada")
+Debemos introducir un título y un breve comentario al respecto, una vez hecho podemos pinchar en *Submit new issue* para guardarla.
 
-En lateral derecho podemos personalizar algunas opciones como "Projects" al que está asignado la Issue, para ello pinchamos sobre la rueda que aparece en la misma línea que la palabra Projects, en este caso lo asignaremos al Projects que está marcado en rojo, lo seleccionamos y pinchamos fuera de esa opción para que se pueda guardar.
+Adicionalmente, en el lateral derecho podemos personalizar algunas opciones como *Assignees*, para asignar la *issue* a una persona, *Labels*, para etiquetar/clasificar la *issue*, y finalmente *Projects* para asignar la *issue* al proyecto elegido. 
 
-![Asignar project](assets/4.AsignarProyecto.png "Asignar project a dicha issue")
+Para hacerlo pinchamos sobre la rueda correspondiente y se despliega una ventana con las opciones. Seleccionamos nuestra elección y pinchamos fuera del área para que la opción marcada quede guardada.
 
-Aquí podemos ver que el Project se ha asignado correctamente.
+A continuación varias capturas de ejemplo:
 
-![Project asignado](assets/5.AsignadoProyecto.png "Project asignado a dicha issue")
+**para seleccionar la persona asignada:**
 
-También podemos incluir a que personas está asignada dicha Issue, pinchamos sobre la rueda y saldrá un desplegable con todos los usuarios a los que podemos seleccionar.
+![Asignar persona](assets/New-issue-assignees.png "Seleccionar persona asignada")
 
-![Asignar usuarios](assets/6.AsignarUsuario.png "Asignar usuarios a dicha issue")
+**para clasificar con etiquetas:**
 
-Una vez hayamos seleccionado dichos usuarios, pinchamos fuera de ese apartado y ya podemos ver las personas incluidas.
+![Etiquetar](assets/New-issue-labels.png "Etiquetar")
 
-![Usuarios asignados](assets/7.AsignadoUsuario.png "Usuarios asignados a dicha issue")
+**para seleccionar el proyecto asignado:**
 
-Otra opción que podemos personalizar, es la de las etiquetas, si pinchamos sobre la rueda aparece un listado de etiquetas  debemos seleccionar la que corresponda al estado de realización en el que está la Issue.
+![Asignar proyecto](assets/New-issue-projects.png "Asignar a un proyecto")
 
-![Asignar etiqueta](assets/8.AsignarEtiqueta.png "Asignar etiqueta a dicha issue")
+A continuación una imagen de la *issue* una vez editada y guardada
 
-A continuación se puede ver la etiqueta ya seleccionada.
+![Issue guardada](assets/New-issue-submitted.png "Issue guardada")
 
-![Etiqueta asignada](assets/9.AsignadaEtiqueta.png "Etiqueta asignada a dicha issue")
+[Volver arriba](#top)
 
-Despues accedemos al apartado de Projects desde el menú principal de GitHub y podemos ver un listado de todas las etiquetas y en qué estado de realización se encuentra cada una de ellas.
-En la parte de la derecha aparece la opción "Add cards" con un punto azul, notificando que hay una nueva Issue.
+<a name="paso4-2"></a>
+### 4.2. Consultar *issues*
 
-![Panel principal projects](assets/10.Projects.png "Panel principal projects")
+Una vez creada la *issue* podemos ir al [repositorio principal](https://github.com/WPES/spain-handbook) y acceder al listado de *issues* pinchando en *Issues*. 
 
-Al pinchar sobre está opción podemos ver la Issue que hemos creado y arrastrarla a la columna correspondiente: "To Do", "In progress" y "Done".
-Si pinchamos sobre el título azul, saldrá una flecha de 4 puntas que servirá para arrastrar la Issue.
+![Acceso a Issues](assets/Issue-acceso.png "Acceso a issues")
 
-![Mover issue](assets/11.MoverIssue.png "Mover issue")
+A continuación podemos ver cómo la *issue* recién creada ya aparece en el listado.
 
-Aquí podemos que la issue de prueba ha sido incluida en la columna “To do”.
+![Listado issues](assets/issue-listado.png "Listado issues")
 
-![Issue desplazada](assets/12.IssueenToDo.png "Issue desplazada a la columna To do")
+[Volver arriba](#top)
 
-[Volver](#top)
+<a name="paso4-3"></a>
+### 4.3. Organizar *issues* en Proyectos
 
-## Pasos a seguir (esquema WCES)
+Si accedemos al apartado de *Projects* desde el menú principal de GitHub podremos ver un listado de todas las etiquetas y en qué estado de realización se encuentra cada una de ellas.
 
-Como editor:
+En la parte de la derecha aparece la opción "Add cards" con un punto azul, notificando que hay una nueva *issue*.
 
-Paso 1: Hacer Fork
+![Panel principal](assets/Proyecto-panel.png "Panel principal")
 
-Paso 2: 
-- Hacer modificación (editar archivo)
-- Comentar la modificación
-- Enviar la propuesta de cambio
+Al pinchar sobre esta opción podemos ver la *issue* que hemos creado y nos permite arrastrarla a la columna correspondiente: *"To Do"*, *"In progress"* y *"Done"*.
 
-Paso 3: Pull request
+Si pinchamos sobre el título azul, saldrá una flecha de 4 puntas que servirá para arrastrar la *issue*.
 
+![Mover issue](assets/Add-cards.png "Mover issue")
 
-Como moderador:
+Aquí podemos ver que la *issue* de prueba ha sido incluida en la columna *“To do”*.
 
-Paso 1: Revisar los pull request
+![Issue desplazada](assets/Card-añadida.png "Issue desplazada a la columna To do")
 
-Paso 2: Aprobación o modificación de los pull request.
-
-
-Como editor cuando volvemos a editar:
-
-Paso 1: Hacer "Fetch upstream" y dar a "fetch and merge" si queremos unir o "compare" si no tenemos claro.
-
-![Captura de los proyectos en Github](assets/Pasted-image-20211125184751.png "pie de foto")
+[Volver arriba](#top)
 
 
-
-## Cómo funciona Markdown
-
-Es muy fácil, consulta el siguiente manual y, en apenas 10 minutos lo tendrás listo.
-
-[Manual de Markdown](https://commonmark.org/help/)
-
-[Generador de tablas en Markdown](https://www.tablesgenerator.com/markdown_tables)
-
-[Cómo colaborar en un proyecto en Github](https://gist.github.com/BCasal/026e4c7f5c71418485c1)
-
-Es muy importante que, antes de hacer absolutamente nada, creemos una rama. La nombraremos con nuestro nombre de usuario en WordPress.org y un pequeño texto descriptivo. separado por guiones.
-
-Una vez que terminemos de hacer los cambios, haremos un commit y posteriormente un pull request.
 
