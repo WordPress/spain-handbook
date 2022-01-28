@@ -61,9 +61,9 @@ Se abrirá una ventana como la siguiente donde debemos autorizar el acceso al pe
 <a name="paso2"></a>
 ## 2. Trabajar en repositorio
 
-Una vez registrados podemos acceder a la página principal de ![GitHub](https://github.com/) y en la barra lateral aparecerá el listado de repositorios a los que tenemos acceso.
+Una vez registrados podemos acceder a la página principal de [GitHub](https://github.com/) y en la barra lateral aparecerá el listado de repositorios a los que tenemos acceso.
 
-Pinchamos en ![WPES/spain-handbook](https://github.com/WPES/spain-handbook) para acceder al repositorio de manuales de WordPress España. En la parte superior izquierda podremos ver en todo momento en qué repositorio estamos.
+Pinchamos en [WPES/spain-handbook](https://github.com/WPES/spain-handbook) para acceder al repositorio de manuales de WordPress España. En la parte superior izquierda podremos ver en todo momento en qué repositorio estamos.
 
 Con el fin de evitar posibles errores o conflictos **es importante no trabajar nunca directamente en este repositorio principal**. Para poder editar con seguridad, crearemos una copia del repositorio principal (*fork*) que será donde trabajaremos.
 
