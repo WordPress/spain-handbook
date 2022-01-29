@@ -14,6 +14,7 @@ Este manual pretende ser una guía de introducción a GitHub para principiantes.
    * 3.1. [Editar](#paso3-1)
    * 3.2. [Fetch upstream](#paso3-2)
    * 3.3. [Pull request](#paso3-3)
+   * 3.4. [Aceptación de los cambios propuestos (solo Administradores)](#paso3-4)
 4. [Gestión de proyectos](#paso4)
    * 4.1. [Crear y personalizar issues](#paso4-1)
    * 4.2. [Consultar *issues*](#paso4-2)
@@ -171,6 +172,45 @@ Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para
 ![pull-request-7](assets/pull-request-7.png)
 
 [Volver arriba](#top)
+
+## <a name="paso3-4">3.4. Aceptación de los cambios propuestos (**solo Administradores**)</a>
+
+A la hora de revisar los cambios realizados por los miembros del equipo, los administradores deberán seguir los siguientes pasos:
+
+1. Comprobar que existen solicitudes de cambios (*Pull requests*) en el repositorio. Esto se hará visualizando el número que aparece al lado de la opción *Pull requests* de la barra menú de opciones del propio repositorio y haciendo clic en dicha opción.
+![indicador-pull-requests](assets/indicador-pull-requests.jpeg)
+
+2. Una vez en esta página, se podrán visualizar las solicitudes de cambios disponibles. 
+![lista-pull-requests](assets/lista-pull-requests.jpeg)
+
+3. Haciendo clic en cada uno de los *pull request*, se podrán visualizar todos los cambios (*commits*) realizados por el colaborador, así como sus comentarios al *pull request* con aclaraciones y explicaciones de los cambios hechos.
+![commits-dentro-del-pull-request](assets/commits-dentro-del-pull-request.jpeg)
+
+4. Para revisar las modificaciones realizadas en cada uno de los *commits*, se hará clic en la pestaña *Files changed*, junto a la cual debe haber un número que indicará la cantidad de cambios realizados. En esta página se pueden ver fragmentos del texto, con los elementos eliminados en color rojo y marcados por un signo - al principio de cada línea, así como los elementos añadidos en color verde y marcados por un signo + al principio de cada línea.
+![revision-ficheros-cambiados](assets/revision-ficheros-cambiados.jpeg)
+
+5. El revisor podrá llevar un control de los *commits* revisados o vistos haciendo clic en cada uno de ellos, sobre la casilla *Viewed*. Arriba verá un marcador de la progresión en la revisión de los cambios.
+![commits-vistos](assets/commits-vistos.jpeg)
+
+6. Una vez revisados los cambios, el administrador podrá llevar a cabo tres acciones, una vez haga clic en el botón *Review changes*:
+![revision-de-cambios-por-administrador](assets/revision-de-cambios-por-administrador.jpeg)
+   - Haciendo clic en *Comment* podrá hacer un comentario a los cambios sin aprobar nada.
+   - Haciendo clic en *Aprove* aprobará los cambios y éstos se fusionarán con la rama principal del repositorio.
+   - Haciendo clic en *Request changes* solicitará cambios al colaborador para que los haga antes de volver a pedir un *pull request*.
+
+   En todos los casos se recomienda comentar para que le quede claro al colaborador en qué situación se encuentra su *pull request*.
+
+7. En ocasiones solo permitirá hacer un comentario, sobre todo si hay algún tipo de conflicto. En ese caso, se verán en gris las opciones *Approve* y *Request changes*. En ese caso, el administrador comentará y hará clic en el botón *Submit review* (Enviar revisión).
+![aprobacion-de-commits](assets/aprobacion-de-commits.jpeg)
+
+8. Finalmente, no olvidemos que el colaborador ha propuesto sus cambios desde su *Fork*, es decir, no está trabajando en el repositorio principal, sino desde el suyo propio. Esto se hace para evitar que haya problemas y que, si se producen choques, éstos se puedan detectar y gestionar sin problema.
+Lo normal, por tanto es que aparezca un mensaje de que es necesario **fusionar** (*merge*) las modificaciones solicitadas por el colaborador. El administrador se encargará de hacerlo, revisando antes cualquier posible conflicto que se produzca.
+![merge-pull-request](assets/merge-pull-request.jpeg)
+
+   En ese caso habrá que hacer clic en el botón *Merge pull request*, siempre que los administradores hayan comprobado y estén completamente seguros de que no hay ningún tipo de conflicto.
+
+[Volver arriba](#top)
+
 
 ## <a name="paso4">4. Gestión de proyectos</a>
 
