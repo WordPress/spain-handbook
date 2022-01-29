@@ -1,4 +1,4 @@
-# "Handbook" de comunicación para WordCamps en España
+# Manual de comunicación para WordCamps en España
 
 Dado el creciente número de WordCamps en España, muchos miembros de la comunidad hemos considerado necesario crear un manual de comunicación que facilite las múltiples subtareas que componen esta "gran tarea" a los organizadores.
 
