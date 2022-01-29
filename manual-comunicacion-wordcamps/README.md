@@ -14,7 +14,7 @@ De esta forma, se facilitará que cualquier miembro pueda contribuir en tareas d
 
 ## Anexo
 
-Este manual cuenta con un anexo que incluye todas las plantillas necesarias para redactar las distintas comunicaciones. **(Yo crearía un anexo y allí agruparía los distintos formatos, para diferenciar por un lado la guía en sí y por otro las plantillas)**
+Este manual cuenta con un anexo que incluye todas las plantillas necesarias para redactar las distintas comunicaciones.
 
 ## Fases de una WordCamp
 Las fases normales de una WordCamp, las detallamos a continuación:
