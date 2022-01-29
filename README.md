@@ -54,5 +54,6 @@ La herramienta habitual de comunicación entre miembros voluntarios es **Slack**
 
 **Nota**: De forma provisional, durante la realización de este handbook, hemos añadido un mapa mental para facilitar la visualización rápida de su estructura.
 
-[Mapa mental del repositorio de manuales de WPES en pdf](assets/Mapa-mental-WPES.pdf)
-![Mapa-Mental-WPES](assets/Mapa-mental-handbook-WPES.png)
+[Descargar Mapa mental del repositorio de manuales de WPES Ver. 1.0 en pdf](assets/Mapa-mental-WPES-V-1_0.pdf)
+
+![Mapa-Mental-WPES](assets/Mapa-mental-handbook-WPES-V-1_0.png)
