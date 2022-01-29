@@ -37,7 +37,7 @@ A continuación te contamos cómo empezar en **GitHub**, desde darte de alta has
 
 - [Manual GitHub](manual-github/README.md)
 
-## <a name="paso-3-2">¿Que herramientas utilizamos?</a>
+### <a name="paso-3-2">¿Que herramientas utilizamos?</a>
 
 Si tienes un conocimiento más avanzado de GIT, puedes editar tu fork del repositorio directamente en local con cualquier editor de código como Visual Studio Code, Atom, Sublime text, etc.
 
