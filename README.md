@@ -6,8 +6,9 @@
 2. [Objetivos del handbook](#paso-2)
 3. [¿Cómo colaboramos?](#paso-3)
     * 3.1. [Alojamiento y control de versiones de los manuales (handbooks)](#paso-3-1)
-    * 3.2. [Escritura de los textos del manual](#paso-3-2)
-    * 3.3. [Comunicación entre los miembros del equipo de marketing](#paso-3-3)
+    * 3.2. [¿Qué herramientas utilizamos?](#paso-3-2)
+    * 3.3. [Escritura de los textos del manual](#paso-3-3)
+    * 3.4. [Comunicación entre los miembros del equipo de marketing](#paso-3-4)
 
 ## <a name="paso-1">¿Qué es WordPress España?</a>
 
@@ -36,21 +37,19 @@ A continuación te contamos cómo empezar en **GitHub**, desde darte de alta has
 
 - [Manual GitHub](manual-github/README.md)
 
-### <a name="paso-3-2">Escritura de los textos del manual</a>
+## <a name="paso-3-2">¿Que herramientas utilizamos?</a>
+
+Si tienes un conocimiento más avanzado de GIT, puedes editar tu fork del repositorio directamente en local con cualquier editor de código como Visual Studio Code, Atom, Sublime text, etc.
+
+### <a name="paso-3-3">Escritura de los textos del manual</a>
 
 El editor de texto que utiliza GitHub está basado en *Markdown*, un tipo de codificación muy sencilla que te permitirá dar formato al texto plano. Para aprender lo poco que necesitas conocer de Markdown, a la hora de escribir en GitHub, te recomendamos que eches un vistazo a este [Manual de Markdown](https://commonmark.org/help/) y que hagas el tutorial de 10 minutos.
 
 Como escribir tablas en Markdown es engorroso, puedes utilizar como apoyo este [generador de tablas en Markdown](https://www.tablesgenerator.com/markdown_tables).
 
-Si tienes un conocimiento más avanzado de GIT, puedes editar tu fork del repositorio directamente en local con cualquier editor de código como Visual Studio Code, Atom, Sublime text, etc.
-
-Si quieres más información sobre cómo colaborar en un proyecto con GitHub, puedes consultar [este manual](https://gist.github.com/BCasal/026e4c7f5c71418485c1).
-
-### <a name="paso-3-3">Comunicación entre los miembros del equipo de Marketing</a>
+### <a name="paso-3-4">Comunicación entre los miembros del equipo de Marketing</a>
 
 La herramienta habitual de comunicación entre miembros voluntarios es **Slack**. Si quieres saber cómo darte de alta en esta herramienta o cómo entrar en los grupos de colaboración de WordPress en Slack, sigue [este tutorial](https://es.wordpress.org/guias/chat/).
-
-**Nota**: en los documentos hemos puesto genéricos los nombres del lugar como LLL, el año como YYY, DDD fechas. De manera que si haces búsqueda y reemplazar, podrás tener adaptado a tu WordCamp. Recuerda repasar el texto antes de publicarlo.
 
 **Nota**: De forma provisional, durante la realización de este handbook, hemos añadido un mapa mental para facilitar la visualización rápida de su estructura.
 
