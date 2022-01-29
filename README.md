@@ -53,6 +53,6 @@ La herramienta habitual de comunicación entre miembros voluntarios es **Slack**
 
 **Nota**: De forma provisional, durante la realización de este handbook, hemos añadido un mapa mental para facilitar la visualización rápida de su estructura.
 
-[Descargar Mapa mental del repositorio de manuales de WPES Ver. 1.0 en pdf](assets/Mapa-mental-WPES-V-1_0.pdf)
+[Descargar Mapa mental del repositorio de manuales de WPES Ver. 0.2 en pdf](assets/Mapa-mental-WPES-V-0_2.pdf)
 
-![Mapa-Mental-WPES](assets/Mapa-mental-handbook-WPES-V-1_0.png)
+![Esquema de los manuales de la Comunidad WordPress España](assets/Mapa-mental-WPES-V-0_2.png)
