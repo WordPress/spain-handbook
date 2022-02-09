@@ -137,6 +137,26 @@ Como puede verse, es muy importante añadir siempre la ruta relativa y no una ru
 
 [Volver arriba](#top)
 
+#### <a name="paso3-2-2">3.2.2. Reducir el tamaño de las imágenes</a>
+
+Aunque *GitHub* es muy potente y soporta imágenes de gran tamaño, es importante subir las imágenes reducidas para mejorar la experiencia del usuario que consulte el manual.
+
+Por ello, se va a explicar a continuación una forma muy sencilla de reducir el tamaño de estas imágenes que se van a subir durante la edición de los manuales. Para ello se va a utilizar una aplicación gratuita: https://squoosh.app.
+
+Con esta aplicacion solamente se puede redimensionar la imagen y reducir su tamaño de archivo.
+
+En cualquiera de los casos, una vez que se haya entrado en **Squoosh.app**, lo siguiente será pegar desde el portapapeles o arrastrar la imagen a la aplicación.
+
+
+
+##### Redimensionar una imagen
+
+
+
+##### Reducir el tamaño de imagen
+
+[Volver arriba](#top)
+
 ### <a name="paso3-2">3.2. Fetch upstream</a>
 
 **Si nuestro *fork* deja de estar actualizado:**
