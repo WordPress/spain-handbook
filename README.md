@@ -16,8 +16,8 @@ La comunidad de WordPress España es un grupo de personas que colaboran en el de
 
 La finalidad es unificar criterios a la hora de desarrollar los distintos proyectos/formas de organizar.
 
-Este Manual recoje, a su vez, los diferentes manuales exitentes que ha generado la comunidad WordPress España a lo largo de los años. Lo tienes disponibles a continuación.
-Tu también puedes colaborar [Sección Colabora](https://es.wordpress.org/colabora)
+Este Manual recoge, a su vez, los diferentes manuales existentes que ha generado la comunidad WordPress España a lo largo de los años. Lo tienes disponibles a continuación.
+Tú también puedes colaborar [Sección Colabora](https://es.wordpress.org/colabora)
 
 ## <a name="paso-2">Objetivos del handbook</a>
 
@@ -56,3 +56,5 @@ La herramienta habitual de comunicación entre miembros voluntarios es **Slack**
 [Descargar Mapa mental del repositorio de manuales de WPES Ver. 0.2 en pdf](assets/Mapa-mental-WPES-V-0_2.pdf)
 
 ![Esquema de los manuales de la Comunidad WordPress España](assets/Mapa-mental-WPES-V-0_2.png)
+
+### <a name="paso-4">Escritura general</a>
