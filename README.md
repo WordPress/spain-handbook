@@ -57,4 +57,3 @@ La herramienta habitual de comunicación entre miembros voluntarios es **Slack**
 
 ![Esquema de los manuales de la Comunidad WordPress España](assets/Mapa-mental-WPES-V-0_2.png)
 
-### <a name="paso-4">Escritura general</a>
