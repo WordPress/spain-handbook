@@ -56,3 +56,5 @@ La herramienta habitual de comunicación entre miembros voluntarios es **Slack**
 [Descargar Mapa mental del repositorio de manuales de WPES Ver. 0.2 en pdf](assets/Mapa-mental-WPES-V-0_2.pdf)
 
 ![Esquema de los manuales de la Comunidad WordPress España](assets/Mapa-mental-WPES-V-0_2.png)
+
+### <a name="paso-4">Escritura general</a>
