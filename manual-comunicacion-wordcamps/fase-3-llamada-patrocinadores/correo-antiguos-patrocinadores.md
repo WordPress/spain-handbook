@@ -6,7 +6,7 @@ Hola XXX,
 
 Soy XXX, responsable de patrocinios del Congreso sobre WordPress WordCamp LLL YYY.
 
-He visto que el año pasado trataste con mi compañero David un patrocinio para WordCamp LLL YYY. Te escribo porque estaríamos encantados de que nos patrocines también este año y para ello, me gustaría presentarte el evento que estamos organizado y detallarte toda la información sobre este congreso, que se celebrará los días XXX en el XXX como lugar principal del evento.
+He visto que el año pasado trataste con mi compañero ZZZ un patrocinio para WordCamp LLL YYY. Te escribo porque estaríamos encantados de que nos patrocines también este año y para ello, me gustaría presentarte el evento que estamos organizado y detallarte toda la información sobre este congreso, que se celebrará los días XXX en el XXX como lugar principal del evento.
 
 Como ya sabrás, WordCamp es un evento de la comunidad WordPress, auspiciado por la propia Fundación WordPress. En LLL, esta es nuestra segunda edición. La primera fue un gran éxito, XXX Explicación el éxito XXX. En cuanto al tipo de perfil del asistente a este tipo de eventos, ya sabrás que acuden perfiles de todo tipo, desde principiantes hasta desarrolladores de renombre a nivel internacional, incluido todo tipo de personas que tienen un negocio online o quiere montarlo con WordPress.
 
