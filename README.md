@@ -10,6 +10,9 @@
     * 3.3. [Escritura de los textos del manual](#paso-3-3)
     * 3.4. [Comunicación entre los miembros del equipo de marketing](#paso-3-4)
 
+| ⚠️ | Este documento está en proceso de elaboración. Ten en cuenta que es probable que encuentres incorrecciones y/o información errónea u obsoleta puesto que es un borrador. <br><br>Te avisaremos cuando esté listo. <br><br>Si tienes alguna sugerencia o aportación, te agradeceremos que nos lo hagas saber **contactando con el responsable de este proyecto a través del canal de WP-Marketing en Slack**. Gracias por interesarte en el proyecto. | 
+|-----------|--|
+
 ## <a name="paso-1">¿Qué es WordPress España?</a>
 
 La comunidad de WordPress España es un grupo de personas que colaboran en el desarrollo de WordPress.org, organizamos la documentación estandar, a la que llamamos manuales o "HandBook".
@@ -23,9 +26,17 @@ Tú también puedes colaborar [Sección Colabora](https://es.wordpress.org/colab
 
 Para organizar los manuales y guías, hemos creado este repositorio para la comunidad de WordPress España.
 
-Manuales actuales:
-- [Manual de Comunicación para WordCamps](manual-comunicacion-wordcamps/README.md)
-- [Manual de GitHub](manual-github/README.md)
+En este repositorio encontrarás diferentes carpetas, cada una de las cuales estará destinada a un equipo de colaboradores. Cada una de estas carpetas llevará el prefijo **ES-handbook-**, seguido del nombre del equipo (si hay espacios en blanco, se sustituirán por guiones medios).
+
+A continuación se detallan dos de estas carpetas de equipo:
+
+- [Equipo de Marketing (ES-handbook-marketing)](ES-handbook-marketing/)
+- [Equipo de WordPress TV (ES-handbook-TV)](ES-handbook-tv/)
+
+Si bien el Equipo de Marketing ha iniciado ya sus actividades en este repositorio, *la carpeta del equipo de WordPress TV se ha añadido a modo de ejemplo*.
+
+| ⚠️ | Si no has colaborado nunca en un proyecto de Github, te invitamos a que sigas leyendo, ya que encontrarás un manual paso a paso en el que aprenderás a hacerlo fácilmente. | 
+|-----------|--|
 
 ## <a name="paso-3">¿Cómo colaboramos?</a>
 
