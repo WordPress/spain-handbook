@@ -99,7 +99,7 @@ Si queremos añadir los cambios en nuestro *fork*, dejaremos seleccionada la opc
 
 [Volver arriba](#top)
 
-#### <a name="paso3-2-1">3.2.1. Inserción de imágenes</a>
+#### <a name="paso3-1-1">3.1.1. Inserción de imágenes</a>
 
 Para insertar imágenes en el manual, éstas se subirán a la carpeta **assets** que se encuentra en la misma carpeta donde está el documento donde se va a insertar dicha imagen.
 
