@@ -137,7 +137,7 @@ Como puede verse, es muy importante añadir siempre la ruta relativa y no una ru
 
 [Volver arriba](#top)
 
-#### <a name="paso3-2-2">3.2.2. Reducir el tamaño de las imágenes</a>
+#### <a name="paso3-1-2">3.1.2. Reducir el tamaño de las imágenes</a>
 
 Aunque *GitHub* es muy potente y soporta imágenes de gran tamaño, es importante subir las imágenes reducidas para mejorar la experiencia del usuario que consulte el manual.
 
