@@ -4,14 +4,15 @@ El Contributor Day es un evento paralelo a las WordCamp focalizado en contribuir
 
 Este evento suele ser de media jornada o una jornada completa y consta de varias partes.
 
-0. [Responsable en la organización]
-1. [Qué es un Contributor Day]
-2. [Llamada a responsables de Mesa]
-3. [Preparación de las Mesas y Objetivos]
-4. [Presentación en el Contributor Day]
-5. [Mesas de Trabajo]
-6. [Conclusiones y cierre]
-7. [Publicación de los resultados]
+0. Responsable en la organización
+1. Qué es un Contributor Day
+2. Llamada a responsables de Mesa
+3. Preparación de las Mesas y Objetivos
+4. Presentación en el Contributor Day
+5. Mesas de Trabajo y Mesa de Iniciación
+6. Conclusiones y cierre
+7. Publicación de los resultados
+8. Publicación final en la WordCamp
 
 ## Responsable en la organización
 
@@ -96,8 +97,6 @@ El objetivo de esta llamada es saber previamente al día del evento, qué equipo
 
 Es posible que algún asistente, el mismo día del evento, decida crear una Mesa que no estaba prevista, por lo que se ha de ser flexibles con ello.
 
-
-
 Este contenido se ha de considerar una llamada y debería incluir un formulario con la lista completa de mesas para que puedans er seleccionables, además del nombre y apellidos, correo electrónico y un campo de libre descripción.
 
 <details><summary>Expandir</summary>
@@ -136,22 +135,57 @@ Se pueden crear equipos de colaboración en las siguientes áreas de trabajo de 
 
 Si quieres ser el responsable de una de las mesas del Contributor Day, por favor, háznoslo saber en el siguiente formulario hasta el día 9 de septiembre de 2022. A partir del día 10 de septiembre nos pondremos en contacto con todos los que os hayáis interesado en liderar una mesa para organizarlas.
 
-* Aquí el formulario *
+*Aquí el formulario*
 
 </details>
 
 ## Preparación de las Mesas y Objetivos
 
+Cuando llegue la fecha de finalización de la Llamada a Responsables de Mesa, se deberá hacer un trabajo de comunicación con todos aquellos que hayan escrito para informeles de la necesidad de algunos asuntos, principalmente, cuál va a ser el objetivo u objetivos de trabajo de ese día.
+
+Los objetivos pueden ser variados, dependiendo del equipo, y pueden ir relacionado con Tickets del Track, Tickets de GitHub, Trabajos de Documentación o Formación.
+
+Estos objetivos han de ser medibles y explicables.
+
+El día del Contributir Day se planteará una agenda similar a la siguiente (las horas son orientativas):
+
+- 10:00 - 10:15 - Llegada al lugar del Contributor Day / registro.
+- 10:15 - 10:30 - Presentación de los equipos y objetivos. Cada responsable de Mesa saldrá y hará la explicación.
+- 10:30 - 13:30 - Mesas de Contribución.
+- 13:30 - 14:30 - Comida.
+- 14:30 - 17:30 - Mesas de Contribución.
+- 17:30 - 18:00 - Explicación de los Objetivos conseguidos y cierre del Contributor Day.
 
 ## Presentación en el Contributor Day
 
+Al inicio del día del Contributor Day se habrá una pequeña presentación, normalmente por el organizador del Contributor Day, reunirán todos los responsables y cada uno de ellos explicará de forma breve en qué consiste su equipo y los objetivos que se han marcado para ese día.
 
-##  Mesas de Trabajo
+Hay que dejar claro que los objetivos pueden ser variables y explicar otras mesas que no están presentes, por si alguien quiere adjundicarse la responsabilidad de la Mesa, que pueda hacerlo.
+
+Hay que informar que los asistentes puede ir a cada una de las mesas, moverse entre ellas y cambiar y adaptarse si lo consideran.
+
+Es muy recomendable preguntar a aquellos usuarios que no tienen cuenta en WordPress, que nunca haya asistido a un Contributor Day o que no sepan usar las herramientas, que se apunten a la Mesa de Iniciación donde se ayudará a guiar en esa creación de cuentas.
+
+## Mesas de Trabajo y Mesa de Iniciación
+
+
+- [Cuenta de WordPress.org](https://login.wordpress.org/register?locale=es_ES)
+- [Cuenta en el Slack de WordPress España](https://wpes.slack.com/signup)
+- [Cuenta en el Slack de WordPress Global](https://wordpress.slack.com/signup)
 
 
 ## Conclusiones y cierre
 
 
+
+
 ## Publicación de los resultados
+
+
+
+
+## Publicación final en la WordCamp
+
+
 
 
