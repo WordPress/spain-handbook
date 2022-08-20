@@ -4,17 +4,41 @@ El Contributor Day es un evento paralelo a las WordCamp focalizado en contribuir
 
 Este evento suele ser de media jornada o una jornada completa y consta de varias partes.
 
-1. Qué es un Contributor Day
-2. Llamada a responsables de Mesa
+0. [Responsable en la organización]
+1. [Qué es un Contributor Day]
+2. [Llamada a responsables de Mesa]
 3. Preparación de las Mesas y Objetivos
 4. Presentación en el Contributor Day
 5. Mesas de Trabajo
 6. Conclusiones y cierre
 7. Publicación de los resultados
 
+## Responsable en la organización
+
+Lo ideal es que dentro del equipo de organización haya una persona encargada del Contributor Day y que se responsabilice del lugar, el cableado de electricidad e Internet, los horarios y el cátering.
+
+Los elementos habituales a tener en cuenta son:
+
+- Publicación de Qué es un Contributor Day
+- Llamada a responsables de Mesa
+- Definir qué mesas habrá y qué objetivos
+- En el formulario de compra de entradas, pedir si se va a asistir al Contributor Day, y a qué equipos (según las mesas que se hayan conformado, si es posible).
+- Lugar del Contributor Day
+- Horarios del Contributor Day
+- Material necesario
+  - Conexión a Internet inalámbrica (y si es posible, por cable)
+  - Enchufes de electricidad en cada mesa
+- Cátering
+  - Agua (todo el día)
+  - Fruta y otros (todo el día)
+  - café (recomendable todo el día)
+  - Comida (si el horario lo requiere); puede ser muy informal, pizzas suele ser algo habitual.
+
 ## Qué es un Contributor Day
 
 Si la WordCamp va a tener un Contributor Day asociado, se deberá publicar un contenido que haga referencia a la explicación de dicho evento. Un ejemplo (utilizado en la WordCamp Valencia 2022) es el de publicar qué es y los diferentes equipos.
+
+Este contenido se puede publicar al principio de las comunicaciones, ya que es un contenido genérico que no debería afectar al resto de publicaciones.
 
 <details><summary>Expandir</summary>
 
@@ -61,5 +85,11 @@ Se pueden crear equipos de colaboración en las siguientes áreas de trabajo de 
 Sobre todo, muchas ganas de participar y aprender. También suele venir bien que tengas un ordenador a mano, con su cargador. Nosotros pondremos el lugar y la conexión a Internet.
 
 También deberías [tener tu cuenta de WordPress.org](https://login.wordpress.org/register?locale=es_ES) y una [cuenta en el Slack de WordPress España](https://wpes.slack.com/signup).
+
 </details>
+
+## Llamada a responsables de Mesa
+
+Habitualmente se hacen distintas llamadas en los eventos (patrocinadores, ponentes, voluntarios...) y otra de las llamadas es al equipo que va a liderar las distintas mensas en el Contributor Day.
+
 
