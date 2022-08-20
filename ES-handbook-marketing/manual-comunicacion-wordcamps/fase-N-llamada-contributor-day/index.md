@@ -215,3 +215,9 @@ Este reconocimiento aparecerá en el perfil de actividad del usuario, de forma q
 ## Publicación final en la WordCamp
 
 Aunque en la sección de equipo de WordPress España se publiquen los agradecimientos por parte de cada uno de los equipos, siempre es bienvenido hacer una entrada final recopilatoria, publicada por el responsable de organización del Contributor Day, en el que se reconozda la actividad y participación, y se haga mensión de las diferentes entradas publicadas en la sección de Equipo de la Comunidad, para así generar movimiento entre los usuarios e intentar mejorar su participación.
+
+---
+
+# Changelog
+
+- 2022-08-20: Primera versión.
