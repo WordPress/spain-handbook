@@ -202,16 +202,16 @@ Y se hará una presentación de los canales más habituales de la Comunidad de E
 
 ## Conclusiones y cierre
 
-
-
+Antes de la finalización del evento, los Responsables de Mesa, de nuevo, saldrán para explicar los objetivos conseguidos por cada equipo y hacer propuestas, si las hubiera, para continuar el trabajo y colaboración de forma remota.
 
 ## Publicación de los resultados
 
+Uno de los objetivos del evento siempre ha de ser la publicación de los Objetivos de Cada mesa en la sección de Equipo del sitio de WordPress España, en el que se explique todo, y, además, se de las gracias a los asistentes. Para ello, al final del contenido, se puede añadir una línea del estilo a:
 
+> Queremos dar las gracias por participar en el Contributor Day de la Wordcamp NoSéDónde 20xx (#props) a @Alguien, por liderar la Mesa de Equipo X, @OtraPersona y @UnaPersonaMas.
 
+Este reconocimiento aparecerá en el perfil de actividad del usuario, de forma que al entrar en su perfil, podrá ver su participación en el Contributor Day.
 
 ## Publicación final en la WordCamp
 
-
-
-
+Aunque en la sección de equipo de WordPress España se publiquen los agradecimientos por parte de cada uno de los equipos, siempre es bienvenido hacer una entrada final recopilatoria, publicada por el responsable de organización del Contributor Day, en el que se reconozda la actividad y participación, y se haga mensión de las diferentes entradas publicadas en la sección de Equipo de la Comunidad, para así generar movimiento entre los usuarios e intentar mejorar su participación.
