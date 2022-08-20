@@ -7,11 +7,11 @@ Este evento suele ser de media jornada o una jornada completa y consta de varias
 0. [Responsable en la organización]
 1. [Qué es un Contributor Day]
 2. [Llamada a responsables de Mesa]
-3. Preparación de las Mesas y Objetivos
-4. Presentación en el Contributor Day
-5. Mesas de Trabajo
-6. Conclusiones y cierre
-7. Publicación de los resultados
+3. [Preparación de las Mesas y Objetivos]
+4. [Presentación en el Contributor Day]
+5. [Mesas de Trabajo]
+6. [Conclusiones y cierre]
+7. [Publicación de los resultados]
 
 ## Responsable en la organización
 
@@ -91,5 +91,67 @@ También deberías [tener tu cuenta de WordPress.org](https://login.wordpress.or
 ## Llamada a responsables de Mesa
 
 Habitualmente se hacen distintas llamadas en los eventos (patrocinadores, ponentes, voluntarios...) y otra de las llamadas es al equipo que va a liderar las distintas mensas en el Contributor Day.
+
+El objetivo de esta llamada es saber previamente al día del evento, qué equipos se formarán, quién los va a liderar y qué objetivos tendrá ese equipo.
+
+Es posible que algún asistente, el mismo día del evento, decida crear una Mesa que no estaba prevista, por lo que se ha de ser flexibles con ello.
+
+
+
+Este contenido se ha de considerar una llamada y debería incluir un formulario con la lista completa de mesas para que puedans er seleccionables, además del nombre y apellidos, correo electrónico y un campo de libre descripción.
+
+<details><summary>Expandir</summary>
+
+## Contributor Day: llamada a Responsables de Mesa
+
+Al igual que en la mayoría de WordCamp, esta WordCamp Valencia 2022 también va a tener un día para contribuir, un Contributor Day al que esperamos que asiste la mayor cantidad de personas posibles.
+
+Es por esto por lo que, para preparar el lugar y la disponibilidad, se hace una llamada a aquellas personas que quieran liderar una de las mesas de trabajo.
+
+Se pueden crear equipos de colaboración en las siguientes áreas de trabajo de WordPress:
+
+-	**Core / Núcleo**: es el equipo, principalmente formado por desarrolladores, que mejora el propio WordPress.
+-	**Design / Diseño**: el equipo que ayuda a mejorar la interfaz de usuario de WordPress, además de los distintos elementos visuales que lo acompañan. También se encargan del frontal de los sitios de wordpress.org.
+-	**Mobile / Móvil**: el equipo encargado de las aplicaciones de Android y iOS.
+-	**Accessibility / Accesibilidad**: el equipo encargado de mejorar y resolver los problemas de accesibilidad del núcleo de WordPress y de los temas comunitarios (Twenty-algo).
+-	**Polyglots / Traducciones**: el equipo responsable de traducir WordPress y todos sus elementos asociados.
+-	**Support / Soporte**: el equipo que ayuda a la gestión y respuesta de las dudas que surgen en los foros de soporte.
+-	**Documentation / Documentación**: el equipo encargado de crear y mantener la documentación de todas las partes de WordPress, tanto del código como de otros elementos.
+-	**Themes / Temas**: el equipo responsable de revisar y aprobar los temas que se suben al Directorio de Temas y de los patrones del Directorio de Patrones.
+-	**Plugins / Plugins**: el equipo responsable de revisar y aprobar los plugins y bloques que se suben al Directorio de Plugins.
+-	**Community / Comunidad**: el equipo que se encarga de supervisor los eventos WordPress, ya sean Meetup, WordCamp, do_action o cualquier cosa que se te ocurra para dar a conocer WordPress.
+-	**Meta / Meta**: el equipo que se encarga de mejorar las funcionalidades de los sitios en la Comunidad WordPress.
+-	**Training / Formación**: el equipo que se encarga de la formación dentro de WordPress, ya sea mediante vídeos, eventos, presentaciones, todo a través de Learn WordPress.
+-	**Test / Pruebas**: el equipo que ayudar con las pruebas de WordPress, ofreciendo una serie de tutoriales para probar nuevas funcionalidades y código.
+-	**TV / TV**: el equipo que revisa y aprueba los vídeos de distintos eventos WordPress y los sube a WordPress.TV.
+-	**Marketing / Marketing**: el equipo responsable de dar a conocer y comunicar todo sobre WordPress.
+-	**CLI / WP-CLI**: el equipo responsable de la herramienta WP-CLI.
+-	**Hosting / Hosting**: el equipo responsable de la relación entre WordPress y las empresas y profesionales del alojamiento de WordPress.
+-	**Tide / Tide**: el equipo responsable de la herramienta de automatización y análisis del código de plugins y temas.
+-	**Openverse / Openverse**: el equipo responsable del motor de búsqueda de contenidos multimedia.
+-	**Photos / Fotos**: el equipo responsable de la gestión, aprobación y revisión de fotografías de WordPress Photos.
+-	**Core Performance / performance**: el equipo responsable de mejorar el rendimiento de WordPress.
+
+### Quiero liderar una mesa del Contributor Day
+
+Si quieres ser el responsable de una de las mesas del Contributor Day, por favor, háznoslo saber en el siguiente formulario hasta el día 9 de septiembre de 2022. A partir del día 10 de septiembre nos pondremos en contacto con todos los que os hayáis interesado en liderar una mesa para organizarlas.
+
+* Aquí el formulario *
+
+</details>
+
+## Preparación de las Mesas y Objetivos
+
+
+## Presentación en el Contributor Day
+
+
+##  Mesas de Trabajo
+
+
+## Conclusiones y cierre
+
+
+## Publicación de los resultados
 
 
