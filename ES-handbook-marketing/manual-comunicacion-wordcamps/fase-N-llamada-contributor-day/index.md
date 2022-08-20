@@ -42,6 +42,7 @@ Si la WordCamp va a tener un Contributor Day asociado, se deberá publicar un co
 Este contenido se puede publicar al principio de las comunicaciones, ya que es un contenido genérico que no debería afectar al resto de publicaciones.
 
 <details><summary>Expandir</summary>
+---
 
 # Contributor Day: ¿qué es un Contributor Day?
 
@@ -86,7 +87,7 @@ Se pueden crear equipos de colaboración en las siguientes áreas de trabajo de 
 Sobre todo, muchas ganas de participar y aprender. También suele venir bien que tengas un ordenador a mano, con su cargador. Nosotros pondremos el lugar y la conexión a Internet.
 
 También deberías [tener tu cuenta de WordPress.org](https://login.wordpress.org/register?locale=es_ES) y una [cuenta en el Slack de WordPress España](https://wpes.slack.com/signup).
-
+---
 </details>
 
 ## Llamada a responsables de Mesa
@@ -100,6 +101,7 @@ Es posible que algún asistente, el mismo día del evento, decida crear una Mesa
 Este contenido se ha de considerar una llamada y debería incluir un formulario con la lista completa de mesas para que puedans er seleccionables, además del nombre y apellidos, correo electrónico y un campo de libre descripción.
 
 <details><summary>Expandir</summary>
+---
 
 ## Contributor Day: llamada a Responsables de Mesa
 
@@ -136,7 +138,7 @@ Se pueden crear equipos de colaboración en las siguientes áreas de trabajo de 
 Si quieres ser el responsable de una de las mesas del Contributor Day, por favor, háznoslo saber en el siguiente formulario hasta el día 9 de septiembre de 2022. A partir del día 10 de septiembre nos pondremos en contacto con todos los que os hayáis interesado en liderar una mesa para organizarlas.
 
 *Aquí el formulario*
-
+---
 </details>
 
 ## Preparación de las Mesas y Objetivos
@@ -168,11 +170,35 @@ Es muy recomendable preguntar a aquellos usuarios que no tienen cuenta en WordPr
 
 ## Mesas de Trabajo y Mesa de Iniciación
 
+### Mesas de Trabajo
 
-- [Cuenta de WordPress.org](https://login.wordpress.org/register?locale=es_ES)
-- [Cuenta en el Slack de WordPress España](https://wpes.slack.com/signup)
-- [Cuenta en el Slack de WordPress Global](https://wordpress.slack.com/signup)
+Mientras los asistentes nuevos están en la Mesa de Iniciación se comenzará con los más experimentados a realizar la explicación correspondiente para que los asistentes puedan comenzar a trabajar en la contribución a WordPress.
 
+El objetivo es que al acabar esta primera explicación los más avanzados puedan ponerse con la contribución y que, cuando la Mesa de Iniciación finalice, el responsable de Mesa pueda dedicar tiempo con los nuevos para explicarles las herramientas particulares del equipo y el trabajo en concreto. De esta forma, no se bloquea la colaboración de los más experimentados.
+
+### Mesa de Iniciación
+
+La mesa de Iniciación será un grupo puntual al inicio del evento en el que se tienen 2 objetivos: que el asistente tenga su cuenta de WordPress.org y que esté registrado en el Slack (de España, y por extensión, en el Global, si lo considera).
+
+Se esperará unos minutos para que cada uno de los asistentes tenga su dispositivo disponible y pueda acceder a un navegador con Internet.
+
+Una vez allí se les pasará la URL con la que crear su [Cuenta de WordPress.org](https://login.wordpress.org/register?locale=es_ES).
+
+Cuando todos la hayan validado correctamente, se dará paso a la explicación para el registro de la [Cuenta en el Slack de WordPress España](https://wpes.slack.com/signup). Si alguno quiere, se le invitará a que haga lo propio con la [Cuenta en el Slack de WordPress Global](https://wordpress.slack.com/signup).
+
+Una vez dentro de ambas cuentas, se les hará una breve presentación de los distintos sitios de WordPress donde se puede conseguir información de interés, como:
+
+- [Página principal](https://es.wordpress.org/)
+- [Noticias](https://es.wordpress.org/news/)
+- [Soporte](https://es.wordpress.org/support/)
+- [Colabora](https://es.wordpress.org/colabora/)
+- [Equipo](https://es.wordpress.org/team/)
+- [Equipos Make](https://make.wordpress.org/)
+- [Ejemplo de Handbook (Soporte, en inglés)](https://make.wordpress.org/support/handbook/)
+- [GitHub de WordPress Global](https://github.com/WordPress/)
+- [GitHub de WordPress España](https://github.com/WPES/)
+
+Y se hará una presentación de los canales más habituales de la Comunidad de España y la Global.
 
 ## Conclusiones y cierre
 
