@@ -75,7 +75,7 @@ Crearemos el *fork* pinchando en el último botón que aparece en la parte super
 
 Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectará al repositorio original hasta que no hagamos un *Pull request* y éste no sea verificado y aprobado.
 
-![Captura Fork realizado](assets/ForkRealizado.PNG "Fork realizado")
+![Captura Fork realizado](assets/ForkRealizado.png "Fork realizado")
 
 [Volver arriba](#top)
 
