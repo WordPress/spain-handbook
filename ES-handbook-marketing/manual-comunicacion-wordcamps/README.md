@@ -75,28 +75,28 @@ A continuación detallaremos las tareas que tendremos que realizar en las fases.
 ### <a name="fase-1">Fase 1. Antes inicio comunicación</a>
 Hasta tener el venue concretado y el presupuesto aprobado, no se puede anunciar una WordCamp y por tanto el inicio de la comunicación. Pero si se puede ir preparando muchas tareas que después nos dará la tranquilidad de tener trabajo adelantado.
 
-- [Formación del equipo y asignación de roles **(Todo el equipo)**](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
-- [Reunión con el Líder (Responsable principal) y los responsables de los otros equipos. **(Responsable equipo comunicación)**](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
-- [Preparación Manual comunicación **(Responsable equipo comunicación)**](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
-- [Preparación RoadMap Comunicación **(Responsable equipo comunicación)**](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
-- [Preparación carpeta equipo y documentos **(Responsable equipo comunicación)**](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
-- [Preparación de la web **(Rol contenidos)**](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
-- [Obertura de cuentas en redes **(Rol redes)**](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
-- [Tu página en Central.WordCamp.org (B) **(Rol contenidos)**](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
-- [Documentación Diseño **(Todo el equipo)**](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
+- [Formación del equipo y asignación de roles **(Todo el equipo)**](fase-1-antes-inicio-comunicacion/fase-1-formacion-equipo-asignacion-roles.md).
+- [Reunión con el Líder (Responsable principal) y los responsables de los otros equipos. **(Responsable equipo comunicación)**](fase-3-llamada-patrocinadores/fase-1-reunion-lider-y-responsables-otros-equipos.md).
+- [Preparación Manual comunicación **(Responsable equipo comunicación)**](fase-1-antes-inicio-comunicacion/fase-1-preparacion-manual-comunicacion.md).
+- [Preparación RoadMap Comunicación **(Responsable equipo comunicación)**](fase-1-antes-inicio-comunicacion/fase-1-preparacion-roadmap-comunicacion.md).
+- [Preparación carpeta equipo y documentos **(Responsable equipo comunicación)**](fase-1-antes-inicio-comunicacion/fase-1-preparacion-carpeta-equipo-y-documentos.md).
+- [Preparación de la web **(Rol contenidos)**](fase-1-antes-inicio-comunicacion/fase-1-preparacion-de-la-web.md).
+- [Apertura de cuentas en redes **(Rol redes)**](fase-1-antes-inicio-comunicacion/fase-1-apertura-de-cuentas-en-redes.md).
+- [Tu página en Central.WordCamp.org (B) **(Rol contenidos)**](fase-1-antes-inicio-comunicacion/). NO SE HACE
+- [Documentación Diseño **(Todo el equipo)**](fase-1-antes-inicio-comunicacion/fase-1-documentacion-diseno.md).
 
 ### <a name="fase-2">Fase 2. Previo a la WordCamp</a>
 
-- [Publicación de la web **(Rol contenidos)**](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
-- [Creación de contenido constante **(Rol contenidos)**](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
-- [Llamada a Patrocinadores](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
-- [Llamada a Ponentes](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
-- [Publicación del programa](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
-- [Llamada a voluntarios](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
-- [Nota de prensa y correo a medios](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
-- [Correo a interesados](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
-- [Mensaje a Grupo de Meetup](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
-- [Patrocinadores: últimas directrices](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
+- [Publicación de la web **(Rol contenidos)**](fase-2-previo-wordcamp/fase-2-publicacion-web.md).
+- [Creación de contenido constante **(Rol contenidos)**](fase-2-previo-wordcamp/fase-2-creacion-contenido-constante.md).
+- [Llamada a Patrocinadores](fase-2-previo-wordcamp/fase-2-llamada-patrocinadores.md).
+- [Llamada a Ponentes](fase-2-previo-wordcamp/fase-2-llamada-ponentes.md).
+- [Publicación del programa](fase-2-previo-wordcamp/fase-2-publicacion-programa.md).
+- [Llamada a voluntarios](fase-2-previo-wordcamp/fase-2-llamada-voluntarios.md).
+- [Nota de prensa y correo a medios](fase-2-previo-wordcamp/fase-2-nota-de-prensa-y-correo-medios.md).
+- [Correo a interesados](fase-2-previo-wordcamp/fase-2-correo-interesados.md).
+- [Mensaje a Grupo de Meetup](fase-2-previo-wordcamp/fase-2-mensaje-grupo-meetup.md).
+- [Patrocinadores: últimas directrices](fase-2-previo-wordcamp/fase-2-patrocinadores-ultimas-directrices.md).
 
 ### <a name="fase-3">Fase 3. Días de la WordCamp</a>
 Dependerá mucho del formato elegido y el orden a realizar ya que como por ejemplo algunas WordCamp acompañan el Community Day un día antes del día de ponencia y otras un día después.
