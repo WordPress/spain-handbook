@@ -7,7 +7,7 @@ En este caso el equipo de patrocinadores suele gestionar todos o casi todos los 
 - [Correo Recordatorio apertura Llamada patrocinadores](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
 - [Correo Respuesta Alta Patrocinador](fase-3-llamada-patrocinadores/correo-respuesta-alta.md).
 
-- [Readme](anexos/readme.md)
+- [Readme](./anexos/readme.md)
 
 - (Correo) Anteriores Patrocinadores. (si ya patrocino el año anterior ya sabe loq ue es una WC) pondria los extras en el correo de abajo
 - (Correo) Llamada Patrocinadores. (Falta url web y sustituciones)
