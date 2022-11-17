@@ -81,8 +81,8 @@ Hasta tener el venue concretado y el presupuesto aprobado, no se puede anunciar 
 - [Preparación RoadMap Comunicación **(Responsable equipo comunicación)**](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
 - [Preparación carpeta equipo y documentos **(Responsable equipo comunicación)**](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
 - [Preparación de la web **(Rol contenidos)**](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
-- [Obertura de cuentas en redes **(Rol redes)**](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
-- [Tu página en Central.WordCamp.org (B) **(Rol contenidos)**](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
+- [Apertura de cuentas en redes **(Rol redes)**](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
+- [Tu página en Central.WordCamp.org (B) **(Rol contenidos)**](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md). NO SE HACE
 - [Documentación Diseño **(Todo el equipo)**](fase-3-llamada-patrocinadores/correo-presentacion-llamada.md).
 
 ### <a name="fase-2">Fase 2. Previo a la WordCamp</a>
