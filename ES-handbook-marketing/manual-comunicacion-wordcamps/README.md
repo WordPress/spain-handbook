@@ -87,16 +87,16 @@ Hasta tener el venue concretado y el presupuesto aprobado, no se puede anunciar 
 
 ### <a name="fase-2">Fase 2. Previo a la WordCamp</a>
 
-- [Publicación de la web **(Rol contenidos)**](fase-2-previo-wordcamp/).
-- [Creación de contenido constante **(Rol contenidos)**](fase-2-previo-wordcamp/).
-- [Llamada a Patrocinadores](fase-2-previo-wordcamp/).
-- [Llamada a Ponentes](fase-2-previo-wordcamp/).
-- [Publicación del programa](fase-2-previo-wordcamp/).
-- [Llamada a voluntarios](fase-2-previo-wordcamp/).
-- [Nota de prensa y correo a medios](fase-2-previo-wordcamp/).
-- [Correo a interesados](fase-2-previo-wordcamp/).
-- [Mensaje a Grupo de Meetup](fase-2-previo-wordcamp/).
-- [Patrocinadores: últimas directrices](fase-2-previo-wordcamp/).
+- [Publicación de la web **(Rol contenidos)**](fase-2-previo-wordcamp/fase-2-publicacion-web.md).
+- [Creación de contenido constante **(Rol contenidos)**](fase-2-previo-wordcamp/fase-2-creacion-contenido-constante.md).
+- [Llamada a Patrocinadores](fase-2-previo-wordcamp/fase-2-llamada-patrocinadores.md).
+- [Llamada a Ponentes](fase-2-previo-wordcamp/fase-2-llamada-ponentes.md).
+- [Publicación del programa](fase-2-previo-wordcamp/fase-2-publicacion-programa.md).
+- [Llamada a voluntarios](fase-2-previo-wordcamp/fase-2-llamada-voluntarios.md).
+- [Nota de prensa y correo a medios](fase-2-previo-wordcamp/fase-2-nota-de-prensa-y-correo-medios.md).
+- [Correo a interesados](fase-2-previo-wordcamp/fase-2-correo-interesados.md).
+- [Mensaje a Grupo de Meetup](fase-2-previo-wordcamp/fase-2-mensaje-grupo-meetup.md).
+- [Patrocinadores: últimas directrices](fase-2-previo-wordcamp/fase-2-patrocinadores-ultimas-directrices.md).
 
 ### <a name="fase-3">Fase 3. Días de la WordCamp</a>
 Dependerá mucho del formato elegido y el orden a realizar ya que como por ejemplo algunas WordCamp acompañan el Community Day un día antes del día de ponencia y otras un día después.
