@@ -52,7 +52,7 @@ Por favor, envíanos esto respondiendo a este email.
 
 Esperamos que compartas la misma ilusión que nosotros tenemos en la organización de este evento, y te agradecemos formar parte de la Comunidad. L_s voluntari_s hacen posible la WordCamp LLL YYY :D
 
-¡Saludos!
+¡Saludossss!
 
 
 [Volver al índice](../README.md)
