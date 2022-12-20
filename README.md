@@ -50,7 +50,7 @@ A continuación te contamos cómo empezar en **GitHub**, desde darte de alta has
 
 O si lo prefieres, puedes ver todo el proceso de colaboración y moderación con GIT en este vídeo:
 
-<iframe width="560" height="315" src="https://youtu.be/24YJJH8j69w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video-tutorial colaboración github](/assets/captura-pantalla-video-tutorial.png)](https://www.youtube.com/embed/24YJJH8j69w "Video-tutorial colaboración Github")
 
 ### <a name="paso-3-2">¿Que herramientas utilizamos?</a>
 
