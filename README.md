@@ -48,6 +48,10 @@ A continuación te contamos cómo empezar en **GitHub**, desde darte de alta has
 
 - [Manual GitHub](manual-github/README.md)
 
+O si lo prefieres, puedes ver todo el proceso de colaboración y moderación con GIT en este vídeo:
+
+[![Video-tutorial colaboración github](/assets/captura-pantalla-video-tutorial.png)](https://www.youtube.com/embed/24YJJH8j69w "Video-tutorial colaboración Github")
+
 ### <a name="paso-3-2">¿Que herramientas utilizamos?</a>
 
 Si tienes un conocimiento más avanzado de GIT, puedes editar tu fork del repositorio directamente en local con cualquier editor de código como Visual Studio Code, Atom, Sublime text, etc.
