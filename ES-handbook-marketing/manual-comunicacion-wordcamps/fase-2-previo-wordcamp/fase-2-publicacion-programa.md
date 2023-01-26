@@ -1,2 +1,0 @@
-# Publicación del programa
-

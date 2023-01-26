@@ -1,1 +1,0 @@
-# Documentación diseño

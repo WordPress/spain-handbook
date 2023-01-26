@@ -1,4 +1,0 @@
-# Patrocinadores: últimas directrices
-
-
-
