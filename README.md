@@ -1,14 +1,18 @@
 # Handbook Comunidad WordPress España
 
+Esta organización de carpetas es la que cuelga de la ruta [`https://es.wordpress.org/team/handbook/`](https://es.wordpress.org/team/handbook/).
+
+IMPORTANTE: No todo lo que hay en este repositorio se publica automaticamente en el sitio web. Solo aquellas páginas definidas en el manifiesto aparecerán y se sincronizarán de forma automática.
+
 ## <a name="top">Índice</a>
 
 1. [¿Qué es WordPress España?](#paso-1)
 2. [Objetivos del handbook](#paso-2)
 3. [¿Cómo colaboramos?](#paso-3)
-    * 3.1. [Alojamiento y control de versiones de los manuales (handbooks)](#paso-3-1)
-    * 3.2. [¿Qué herramientas utilizamos?](#paso-3-2)
-    * 3.3. [Escritura de los textos del manual](#paso-3-3)
-    * 3.4. [Comunicación entre los miembros del equipo de marketing](#paso-3-4)
+	* 3.1. [Alojamiento y control de versiones de los manuales (handbooks)](#paso-3-1)
+	* 3.2. [¿Qué herramientas utilizamos?](#paso-3-2)
+	* 3.3. [Escritura de los textos del manual](#paso-3-3)
+	* 3.4. [Comunicación entre los miembros del equipo de marketing](#paso-3-4)
 
 | ⚠️ | Este documento está en proceso de elaboración. Ten en cuenta que es probable que encuentres incorrecciones y/o información errónea u obsoleta puesto que es un borrador. <br><br>Te avisaremos cuando esté listo. <br><br>Si tienes alguna sugerencia o aportación, te agradeceremos que nos lo hagas saber **contactando con el responsable de este proyecto (@anagavilan) a través del canal de [Marketing](https://wpes.slack.com/archives/C2MA1HA20) en Slack**. Gracias por interesarte en el proyecto. | 
 |-----------|--|
@@ -20,7 +24,7 @@ La comunidad de WordPress España es un grupo de personas que colaboran en el de
 La finalidad es unificar criterios a la hora de desarrollar los distintos proyectos/formas de organizar.
 
 Este Manual recoge, a su vez, los diferentes manuales existentes que ha generado la comunidad WordPress España a lo largo de los años. Lo tienes disponibles a continuación.
-Tú también puedes colaborar [Sección Colabora](https://es.wordpress.org/colabora)
+Tú también puedes colaborar [Sección Colabora](https://es.wordpress.org/colabora/)
 
 ## <a name="paso-2">Objetivos del handbook</a>
 
@@ -30,8 +34,8 @@ En este repositorio encontrarás diferentes carpetas, cada una de las cuales est
 
 A continuación se detallan dos de estas carpetas de equipo:
 
-- [Equipo de Marketing (ES-handbook-marketing)](ES-handbook-marketing/)
-- [Equipo de WordPress TV (ES-handbook-TV)](ES-handbook-tv/)
+- [Equipo de Marketing](marketing/)
+- [Equipo de WordPress TV](tv/)
 
 Si bien el Equipo de Marketing ha iniciado ya sus actividades en este repositorio, *la carpeta del equipo de WordPress TV se ha añadido a modo de ejemplo*.
 
@@ -46,11 +50,11 @@ Colaboraremos a través de un repositorio en GitHub. Hemos propuesto este sistem
 
 A continuación te contamos cómo empezar en **GitHub**, desde darte de alta hasta finalizar tu colaboración.
 
-- [Manual GitHub](manual-github/README.md)
+- [Manual GitHub](equipo/github/index.md)
 
 O si lo prefieres, puedes ver todo el proceso de colaboración y moderación con GIT en este vídeo:
 
-[![Video-tutorial colaboración github](/assets/captura-pantalla-video-tutorial.png)](https://www.youtube.com/embed/24YJJH8j69w "Video-tutorial colaboración Github")
+[![Video-tutorial colaboración GitHub](/assets/captura-pantalla-video-tutorial.png)](https://www.youtube.com/embed/24YJJH8j69w)
 
 ### <a name="paso-3-2">¿Que herramientas utilizamos?</a>
 
@@ -71,4 +75,3 @@ La herramienta habitual de comunicación entre miembros voluntarios es **Slack**
 [Descargar Mapa mental del repositorio de manuales de WPES Ver. 0.2 en pdf](assets/Mapa-mental-WPES-V-0_3.pdf)
 
 ![Esquema de los manuales de la Comunidad WordPress España](assets/Mapa-mental-WPES-V-0_3.png)
-
