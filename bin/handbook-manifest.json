@@ -3,18 +3,21 @@
 		"title": "Manuales de la Comunidad de WordPress España",
 		"slug": null,
 		"markdown_source": "https:\/\/github.com\/WPES\/spain-handbook\/blob\/master\/index.md",
-		"parent": null
+		"parent": null,
+		"order": -1
 	},
 	"manuales": {
 		"title": "Documentación global",
 		"slug": "manuales",
 		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/index.md",
-		"parent": "index"
+		"parent": "index",
+		"order": 1
 	},
 	"manuales\/github": {
 		"title": "Manual de GitHub",
 		"slug": "github",
 		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/github\/index.md",
-		"parent": "manuales"
+		"parent": "manuales",
+		"order": 1
 	}
 }
