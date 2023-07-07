@@ -1,0 +1,1 @@
+# Equipo de Traducción
