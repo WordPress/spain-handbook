@@ -45,16 +45,16 @@ Los alumnos también se reúnen por primera vez con su mentor.
 
 #### Formación
 
-- [[https://learn.wordpress.org/course/open-source-basics-and-wordpress/|Open-source basics]] //(Conceptos básicos sobre código abierto)//
-- [[https://learn.wordpress.org/course/how-decisions-are-made-in-the-wordpress-project/|How Decisions Are Made in the WordPress Project]] //(Cómo se toman las decisiones en el proyecto WordPress)//
-- [[https://learn.wordpress.org/course/community-meeting-etiquette/|Community Meeting Etiquette]] //(Netiqueta para las reuniones de la Comunidad)//
-- [[https://learn.wordpress.org/course/writing-in-the-wordpress-voice/|Writing in the WordPress Voice]] //(Escribir con el estilo de WordPress)//
-- [[https://learn.wordpress.org/course/basic-principles-of-conflict-resolution/|Basic Principles of Conflict Resolution]] //(Principios básicos de resolución de conflictos)//
+- [Open-source basics](https://learn.wordpress.org/course/open-source-basics-and-wordpress/): Conceptos básicos sobre código abierto.
+- [How Decisions Are Made in the WordPress Project](https://learn.wordpress.org/course/how-decisions-are-made-in-the-wordpress-project/): Cómo se toman las decisiones en el proyecto WordPress.
+- [Community Meeting Etiquette](https://learn.wordpress.org/course/community-meeting-etiquette/): Netiqueta para las reuniones de la Comunidad.
+- [Writing in the WordPress Voice](https://learn.wordpress.org/course/writing-in-the-wordpress-voice/): Escribir con el estilo de WordPress.
+- [Basic Principles of Conflict Resolution](https://learn.wordpress.org/course/basic-principles-of-conflict-resolution/): Principios básicos de resolución de conflictos.
 
 #### Talleres en línea
 
-- Introduction to the WordPress Project //(Introducción al proyecto WordPress (taller en línea))//
-- Introduction to different WordPress Contributor Teams //(Introducción a los diferentes Equipos de Contribución de WordPress)//
+- Introduction to the WordPress Project: Introducción al proyecto WordPress (taller en línea).
+- Introduction to different WordPress Contributor Teams: Introducción a los diferentes Equipos de Contribución de WordPress.
 
 ### Semana 2
 
@@ -68,9 +68,9 @@ Nada en especial. Atender en caso de ser necesario.
 
 #### Talleres en línea / Formación
 
-- Organizing Diverse & Inclusive WordPress Events #WPDiversity //(Organizar eventos WordPress diversos e inclusivos #WPDiversity)//
-- Communicating in the WordPress open-source project //(Comunicación en el proyecto de código abierto WordPress)//
-- WordPress and GPL //(WordPress y GPL)//
+- Organizing Diverse & Inclusive WordPress Events #WPDiversity: Organizar eventos WordPress diversos e inclusivos.
+- Communicating in the WordPress open-source project: Comunicación en el proyecto de código abierto WordPress.
+- WordPress and GPL: WordPress y GPL.
 
 ### Semana 3
 
