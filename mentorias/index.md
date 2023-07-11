@@ -29,7 +29,11 @@ En su forma ideal, el programa:
 
 ## Proceso
 
+Las fechas aquí propuestas son del la edición actual del programa.
+
 ### Semana 1
+
+Fecha: 2023-07-12 a 2023-07-18.
 
 #### Alumnos
 
@@ -37,7 +41,7 @@ Los alumnos comienzan los cursos por su cuenta y a su ritmo. Se toman su tiempo 
 
 #### Facilitadores
 
-Los facilitadores ayudarán a que todo el mundo se presente en el canal y compartan, entre otras cosas:
+Los facilitadores ayudarán a que todo el mundo se presente en el canal y compartan. Entre otras cosas se responderán a las siguientes preguntas:
 - Su nombre
 - Su ciudad/ubicación
 - ¿Qué les emociona?
@@ -54,64 +58,124 @@ Estar disponible para responder cualquier pregunta que puedan tener.
 
 Los alumnos se reúnen por primera vez con su mentor. Lo ideal es que lo hagan posterirmente a la presentación primera general, por lo que sería ideal hacerlo al día siguiente.
 
+Este es un primer contacto, por lo que intenta conocer un poco a la persona, sus intereses. Concéntrate en hacer que el alumno se sienta cómodo e integrado en el programa.
+
 #### Presentación
 
-- _Welcome and Introduction to the Mentorship Program, Mentorship kicks-off!_: Bienvenida e introducción al programa de tutoría, ¡comienza la tutoría!
+- _Welcome and Introduction to the Mentorship Program, Mentorship kicks-off!_: Bienvenida e introducción al programa de tutoría, ¡comienza la tutoría! (Fecha: 2023-07-12)
 
 #### Formación
 
-- _[Open-source basics](https://learn.wordpress.org/course/open-source-basics-and-wordpress/)_: Conceptos básicos sobre código abierto.
-- _[How Decisions Are Made in the WordPress Project](https://learn.wordpress.org/course/how-decisions-are-made-in-the-wordpress-project/)_: Cómo se toman las decisiones en el proyecto WordPress.
-- _[Community Meeting Etiquette](https://learn.wordpress.org/course/community-meeting-etiquette/)_: Netiqueta para las reuniones de la Comunidad.
-- _[Writing in the WordPress Voice](https://learn.wordpress.org/course/writing-in-the-wordpress-voice/)_: Escribir con el estilo de WordPress.
-- _[Basic Principles of Conflict Resolution](https://learn.wordpress.org/course/basic-principles-of-conflict-resolution/)_: Principios básicos de resolución de conflictos.
+Fecha: 2023-07-12 a 2023-07-18.
+
+- _[Open-source basics](https://learn.wordpress.org/course/open-source-basics-and-wordpress/)_
+- _[How Decisions Are Made in the WordPress Project](https://learn.wordpress.org/course/how-decisions-are-made-in-the-wordpress-project/)_
+- _[Community Meeting Etiquette](https://learn.wordpress.org/course/community-meeting-etiquette/)_
+- _[Writing in the WordPress Voice](https://learn.wordpress.org/course/writing-in-the-wordpress-voice/)_
+- _[Basic Principles of Conflict Resolution](https://learn.wordpress.org/course/basic-principles-of-conflict-resolution/)_
 
 #### Talleres en línea
 
-- _Introduction to the WordPress Project_: Introducción al proyecto WordPress.
-- _Introduction to different WordPress Contributor Teams_: Introducción a los diferentes Equipos de Contribución de WordPress.
+- _Introduction to the WordPress Project_ (Fecha: 2023-07-13)
+- _Introduction to different WordPress Contributor Teams_ (Fecha: 2023-07-14)
+- _[Come join the WordPress Training Team](https://www.meetup.com/learn-wordpress-online-workshops/events/294592656/)_ (Fecha: 2023-07-17)
+
+#### Eventos interesantes
+
+- _[Bug Scrub](https://make.wordpress.org/core/2023/05/25/bug-scrub-schedule-for-6-3/)_ (Fecha: 2023-07-13 17:00 UTC)
+- _[Bug Scrub_](https://make.wordpress.org/core/2023/05/25/bug-scrub-schedule-for-6-3/)_ (Fecha: 2023-07-17 20:00 UTC)
+- _[Bug Scrub_](https://make.wordpress.org/core/2023/05/25/bug-scrub-schedule-for-6-3/)_ (Fecha: 2023-07-18 05:00 UTC)
+- _[Bug Scrub_](https://make.wordpress.org/core/2023/05/25/bug-scrub-schedule-for-6-3/)_ (Fecha: 2023-07-13 06:00 UTC)
+- _[WordPress 6.3 Release Candidate 1 Release Party_](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)_ (Fecha: 2023-07-18 16:00 UTC)
 
 ### Semana 2
+
+Fecha: 2023-07-19 a 2023-07-25.
 
 #### Alumnos
 
 Seguir trabajando en los cursos Learn WordPress y completarlos, al final de la semana. Mientras tanto, asisten a algunos talleres en línea y aprender sobre el proyecto también.
 
+#### Facilitadores
+
+Los facilitadores realizarán una reunión semanal en el canal del Slack. Entre otras cosas se responderán a las siguientes preguntas:
+- ¿Cómo se sienten?
+- ¿Qué lograron esta semana?
+- ¿Qué esperan con ansias esta semana?
+- _Pregunta para romper el hielo_
+
+Se compartirán los cursos que se aprenderán esa semana, y cuando sea necesario (con tranquilidad) se realizarán anuncios para ver cómo van, de manera asíncrona.
+
+De tanto en tanto se compartirán cosas, informal, para mantener el grupo activo; también se informará de los próximos eventos pata asegurarse de que todo el mundo asiste y no se los pierda.
+
+Estar disponible para responder cualquier pregunta que puedan tener.
+
 #### Mentores
 
-Nada en especial. Atender en caso de ser necesario.
+Atender en caso de ser necesario. Enviar algún mensaje para mantener la conversación de forma asíncrona.
 
 #### Talleres en línea / Formación
 
-- Organizing Diverse & Inclusive WordPress Events #WPDiversity: Organizar eventos WordPress diversos e inclusivos.
-- Communicating in the WordPress open-source project: Comunicación en el proyecto de código abierto WordPress.
-- WordPress and GPL: WordPress y GPL.
+- _[Live Stream: Reviewing Gutenberg 16.2 Features](https://www.meetup.com/learn-wordpress-online-workshops/events/294583132/)_ (Fecha: 2023-07-20 14:30 UTC)
+- _[Organizing Diverse & Inclusive WordPress Events #WPDiversity](https://www.eventbrite.com/e/organizing-diverse-inclusive-wordpress-events-wpdiversity-tickets-662421088307)_ (Fecha: 2023-07-21 19:00 UTC)
+- _Communicating in the WordPress open-source project_ (Fecha: 2023-07-24)
+- _[WordPress and GPL](https://www.meetup.com/learn-wordpress-online-workshops/events/294677746/)_ (Fecha: 2023-07-17)
+
+#### Eventos interesantes
+
+- _[WordPress 6.3 Release Candidate 2 Release Party_](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)_ (Fecha: 2023-07-25 16:00 UTC)
 
 ### Semana 3
+
+Fecha: 2023-07-26 a 2023-08-01.
 
 #### Alumnos
 
 Comienzan a integrarse en los equipos de colaboradores de su elección gracias a los representantes de Make/Team.
 
+#### Facilitadores
+
+Los facilitadores realizarán una reunión semanal en el canal del Slack. Entre otras cosas se responderán a las siguientes preguntas:
+- ¿Cómo se sienten?
+- ¿Qué lograron esta semana?
+- ¿Qué esperan con ansias esta semana?
+- _Pregunta para romper el hielo_
+
+En esta sesión se realizará u recordatorio de que la integración del proyecto ha finalizado y que ahora nos estamos centrando en la integración en los equipos, y cuando sea necesario (con tranquilidad) se realizarán anuncios para ver cómo van, de manera asíncrona.
+
+De tanto en tanto se compartirán cosas, informal, para mantener el grupo activo; también se informará de los próximos eventos pata asegurarse de que todo el mundo asiste y no se los pierda.
+
+Estar disponible para responder cualquier pregunta que puedan tener.
+
 #### Mentores
 
-Los mentores tienen una segunda llamada de control con su mentor. Soporte complementario al onboarding en los equipos.
+Se comprueba con con los alumnos si está haciendo siguiendo correctamente el onboarding con el equipo y cómo se siente acerca de las contribuciones (puede ser en Slack). Soporte complementario al onboarding en los equipos.
+
+Los mentores tienen una segunda llamada de control con su mentor.
 
 #### Formación
 
-A mitad de semana, reunión con el grupo.
+- _Midweek check-in_ (Fecha: 2023-07-26)
+- _Potentially do a Kahoot quiz_
 
 #### Talleres en línea
 
-- Incorporación al equipo de Fotografía (Photos)
-- Incorporación al equipo de Traducciones (Polyglots)
-- Incorporación al equipo de Core (Core)
-- Incorporación al equipo de Documentación (Documentation)
-- Incorporación al equipo de Comunidad (Community)
-- Incorporación al equipo de Soporte (Support)
-- Incorporación al equipo de Formación (Training)
+- Incorporación al [equipo de Fotografía / Photos](https://make.wordpress.org/photos/) (Fecha: 2023-07-26)
+- Incorporación al [equipo de Traducciones / Polyglots](https://make.wordpress.org/polyglots/) (Fecha: 2023-07-26)
+- Incorporación al [equipo de Core](https://make.wordpress.org/core/) (Fecha: 2023-07-27)
+- Incorporación al [equipo de Documentación / Documentation](https://make.wordpress.org/docs/) (Fecha: 2023-07-27)
+- Incorporación al [equipo de Comunidad / Community](https://make.wordpress.org/community/) (Fecha: 2023-07-28)
+- Incorporación al [equipo de Soporte / Support](https://make.wordpress.org/support/) (Fecha: 2023-07-28)
+- Incorporación al [equipo de Formación / Training](https://make.wordpress.org/training/) (Fecha: 2023-07-31)
+- Incorporación al [equipo de TV](https://make.wordpress.org/tv/) (Fecha: 2023-07-31)
+
+#### Eventos interesantes
+
+- _[WordPress 6.3 Release Candidate 3 Release Party_](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)_ (Fecha: 2023-08-01 16:00 UTC)
 
 ### Semana 4
+
+Fecha: 2023-07-26 a 2023-08-01.
 
 #### Alumnos
 
