@@ -35,26 +35,41 @@ En su forma ideal, el programa:
 
 Los alumnos comienzan los cursos por su cuenta y a su ritmo. Se toman su tiempo para participar.
 
+#### Facilitadores
+
+Los facilitadores ayudarán a que todo el mundo se presente en el canal y compartan, entre otras cosas:
+- Su nombre
+- Su ciudad/ubicación
+- ¿Qué les emociona?
+- Equipos a los que deseen contribuir
+- _Pregunta para romper el hielo_
+
+Se compartirán los cursos que se aprenderán esa semana, y cuando sea necesario (con tranquilidad) se realizarán anuncios para ver cómo van, de manera asíncrona.
+
+De tanto en tanto se compartirán cosas, informal, para mantener el grupo activo; también se informará de los próximos eventos pata asegurarse de que todo el mundo asiste y no se los pierda.
+
+Estar disponible para responder cualquier pregunta que puedan tener.
+
 #### Mentores
 
-Los alumnos también se reúnen por primera vez con su mentor.
+Los alumnos se reúnen por primera vez con su mentor. Lo ideal es que lo hagan posterirmente a la presentación primera general, por lo que sería ideal hacerlo al día siguiente.
 
 #### Presentación
 
-- Welcome and Introduction to the Mentorship Program, Mentorship kicks-off! (//Bienvenida e introducción al programa de tutoría, ¡comienza la tutoría!//)
+- _Welcome and Introduction to the Mentorship Program, Mentorship kicks-off!_: Bienvenida e introducción al programa de tutoría, ¡comienza la tutoría!
 
 #### Formación
 
-- [Open-source basics](https://learn.wordpress.org/course/open-source-basics-and-wordpress/): Conceptos básicos sobre código abierto.
-- [How Decisions Are Made in the WordPress Project](https://learn.wordpress.org/course/how-decisions-are-made-in-the-wordpress-project/): Cómo se toman las decisiones en el proyecto WordPress.
-- [Community Meeting Etiquette](https://learn.wordpress.org/course/community-meeting-etiquette/): Netiqueta para las reuniones de la Comunidad.
-- [Writing in the WordPress Voice](https://learn.wordpress.org/course/writing-in-the-wordpress-voice/): Escribir con el estilo de WordPress.
-- [Basic Principles of Conflict Resolution](https://learn.wordpress.org/course/basic-principles-of-conflict-resolution/): Principios básicos de resolución de conflictos.
+- _[Open-source basics](https://learn.wordpress.org/course/open-source-basics-and-wordpress/)_: Conceptos básicos sobre código abierto.
+- _[How Decisions Are Made in the WordPress Project](https://learn.wordpress.org/course/how-decisions-are-made-in-the-wordpress-project/)_: Cómo se toman las decisiones en el proyecto WordPress.
+- _[Community Meeting Etiquette](https://learn.wordpress.org/course/community-meeting-etiquette/)_: Netiqueta para las reuniones de la Comunidad.
+- _[Writing in the WordPress Voice](https://learn.wordpress.org/course/writing-in-the-wordpress-voice/)_: Escribir con el estilo de WordPress.
+- _[Basic Principles of Conflict Resolution](https://learn.wordpress.org/course/basic-principles-of-conflict-resolution/)_: Principios básicos de resolución de conflictos.
 
 #### Talleres en línea
 
-- Introduction to the WordPress Project: Introducción al proyecto WordPress (taller en línea).
-- Introduction to different WordPress Contributor Teams: Introducción a los diferentes Equipos de Contribución de WordPress.
+- _Introduction to the WordPress Project_: Introducción al proyecto WordPress.
+- _Introduction to different WordPress Contributor Teams_: Introducción a los diferentes Equipos de Contribución de WordPress.
 
 ### Semana 2
 
