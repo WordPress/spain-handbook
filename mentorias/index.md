@@ -9,7 +9,7 @@ A principios de 2023, el Equipo de Comunidad global planteó unas mentorías par
 
 ## ¿Qué es el Programa de Mentorización?
 
-El Programa de Mentorización de Contribuidores de la COmunidad WordPress tiene como objetivo proporcionar mentores individuales, y de grupo, a contribuidores nuevos o aspirantes. El programa pretende ser una vía para ayudar a los nuevos contribuidores a encontrar su camino en las contribuciones a WordPress.
+El Programa de Mentorización de Contribuidores de la Comunidad WordPress tiene como objetivo proporcionar mentores individuales, y de grupo, a contribuidores nuevos o aspirantes. El programa pretende ser una vía para ayudar a los nuevos contribuidores a encontrar su camino en las contribuciones a WordPress.
 
 Su objetivo es preparar a los nuevos contribuidores para el éxito, proporcionándoles la orientación, las habilidades y los conocimientos necesarios sobre el proyecto y ayudándoles a realizar sus primeras contribuciones.
 
@@ -21,48 +21,95 @@ En su forma ideal, el programa:
 - Proporcionará la orientación necesaria y las conexiones con la Comunidad que ayudarán a los participantes a tener éxito con sus contribuciones.
 - Ayudará a los participantes a encontrar el éxito en su carrera profesional a través de contribuciones exitosas al código abierto.
 
-## Ya he acabado la mentorización global
+## Comunicación
 
-Si ya has acabado el Programa de Mentorización global, ahora es el momento de ver las diferencias y elenentos complementarios de la Comunidad WordPress de España.
+- Anuncios: #contributor-mentorship _(abierto)_
+- Contribuidores / Mentores: #contributor-mentorship-program _(cerrado)_
+- Mentorías (julio 2023): #mentorship-cohort-july-2023 _(abierto)_
 
-La Comunidad WordPress de España es una de las más activas del mundo, y dispone de algunas herramientas e idiosincrasia propia. Y aquí vamos a listarte todo lo que necesitas para entenderla.
+## Proceso
 
-### Comunicación
+### Semana 1
 
-La Comunidad WordPress global se comunica a través del Slack en la dirección [wordpress.slack.com](https://wordpress.slack.com/) ([acceso](https://wordpress.slack.com/signin) y [registro](https://wordpress.slack.com/signup)).
+#### Alumnos
 
-En el caso de la Comunidad WordPress de España, también dispone de una dirección de Slack, que se encuentra en [wpes.slack.com](https://wpes.slack.com/) ([acceso](https://wpes.slack.com/signin) y [registro](https://wpes.slack.com/signup)). Tienes [instrucciones de cómo conectarte al Slack de WordPress España](https://es.wordpress.org/guias/chat/), aunque el sistema está configurado como en global, para poder acceder con tu cuenta de correo de usuario de WordPress _usuario@chat.wordpress.org_.
+Los alumnos comienzan los cursos por su cuenta y a su ritmo. Se toman su tiempo para participar.
 
-### Equipos y representantes
+#### Mentores
 
-En la Comunidad WordPress de España no tenemos tantos equipos como en la Comunidad global, y en algunos casos hay algunas diferencias o se centran en proyectos concretos.
+Los alumnos también se reúnen por primera vez con su mentor.
 
-| Equipo | URL global | URL España | Canal Slack | Representantes |
-|---|---|---|---|---|
-| Accesibilidad | [enlace](https://make.wordpress.org/accessibility/) | [enlace](https://es.wordpress.org/colabora/accesibilidad/) | [#accesibilidad](https://wpes.slack.com/archives/C03E5S46P) | @visanju |
-| Comunidad | [enlace](https://make.wordpress.org/community/) | [enlace](https://es.wordpress.org/colabora/comunidad/) | [#meetups](https://wpes.slack.com/archives/C03DCM27G) [#wordcamps](https://wpes.slack.com/archives/C03DCM392) | @_dorsvenabili |
-| Diseño | [enlace](https://make.wordpress.org/design/) | [enlace](https://es.wordpress.org/colabora/diseno/) | [#diseño](https://wpes.slack.com/archives/CAF724L03) | @acirujano |
-| Diversidad |  |  | [#diversidad](https://wpes.slack.com/archives/C056GU1HTCL) |  |
-| Documentación | [enlace](https://make.wordpress.org/docs/) |  | [#docs](https://wpes.slack.com/archives/C7SP11LQP) | @javiercasares |
-| Hosting | [enlace](https://make.wordpress.org/hosting/) |  | [#hosting](https://wpes.slack.com/archives/CGQF8PZ7T) [#seguridad](https://wpes.slack.com/archives/C2204GTBJ) | @javiercasares |
-| Marketing | [enlace](https://make.wordpress.org/marketing/) | [enlace](https://es.wordpress.org/colabora/marketing/) | [#marketing](https://wpes.slack.com/archives/C2MA1HA20) | @anagavilan |
-| Soporte | [enlace](https://make.wordpress.org/support/) | [enlace](https://es.wordpress.org/colabora/soporte/) |  | @josearcos, @fernandot |
-| Sostenibilidad | [enlace](https://make.wordpress.org/sustainability/) |  |  |  |
-| Traducciones | [enlace](https://make.wordpress.org/polyglots/) | [enlace](https://es.wordpress.org/colabora/traducciones/) | [#traducciones](https://wpes.slack.com/archives/C03DANZSC) | [General Translation Editors](https://make.wordpress.org/polyglots/teams/?locale=es_ES) |
-| TV | [enlace](https://make.wordpress.org/tv/) | [enlace](https://es.wordpress.org/colabora/tv/) |  | @pablo-moratinos |
+#### Presentación
 
-## Traducciones
+- Welcome and Introduction to the Mentorship Program, Mentorship kicks-off! (//Bienvenida e introducción al programa de tutoría, ¡comienza la tutoría!//)
 
-Uno de los equipos más activos de la Comunidad WordPress de España es el de traducciones. A diferencia de otros sistemas, la mayoría de la comunicación se hace a través del Slack, por lo que si alguien aprueba cadenas o necesita ayuda, se comunica e invita a que se haga a través de este espacio, aunque no es obligatorio.
+#### Formación
 
-## Marketing y Comunicación
+- [[https://learn.wordpress.org/course/open-source-basics-and-wordpress/|Open-source basics]] //(Conceptos básicos sobre código abierto)//
+- [[https://learn.wordpress.org/course/how-decisions-are-made-in-the-wordpress-project/|How Decisions Are Made in the WordPress Project]] //(Cómo se toman las decisiones en el proyecto WordPress)//
+- [[https://learn.wordpress.org/course/community-meeting-etiquette/|Community Meeting Etiquette]] //(Netiqueta para las reuniones de la Comunidad)//
+- [[https://learn.wordpress.org/course/writing-in-the-wordpress-voice/|Writing in the WordPress Voice]] //(Escribir con el estilo de WordPress)//
+- [[https://learn.wordpress.org/course/basic-principles-of-conflict-resolution/|Basic Principles of Conflict Resolution]] //(Principios básicos de resolución de conflictos)//
 
-Otro de los equipos muy activos de la Comunidad WordPress de España es el de Marketing y Comunicación. Este equipo tiene dos misiones principales.
+#### Talleres en línea
 
-Una de ellas es la de dar soporte a las Comunidades WordPress Locales (Meetup) y a las WordCamp en todo lo que tiene que ver con la Comunicación, tanto dentro de sus sitios web, dentro de Meetup.com o a través de las redes sociales.
+- Introduction to the WordPress Project //(Introducción al proyecto WordPress (taller en línea))//
+- Introduction to different WordPress Contributor Teams //(Introducción a los diferentes Equipos de Contribución de WordPress)//
 
-En redes sociales, la Comunidad tiene varias cuentas:
+### Semana 2
 
-- Linkedin: [WordPress España](https://www.linkedin.com/company/wordpress-espa%C3%B1a/)
-- Twitter: [@wp_es](https://twitter.com/wp_es/)
+#### Alumnos
 
+Seguir trabajando en los cursos Learn WordPress y completarlos, al final de la semana. Mientras tanto, asisten a algunos talleres en línea y aprender sobre el proyecto también.
+
+#### Mentores
+
+Nada en especial. Atender en caso de ser necesario.
+
+#### Talleres en línea / Formación
+
+- Organizing Diverse & Inclusive WordPress Events #WPDiversity //(Organizar eventos WordPress diversos e inclusivos #WPDiversity)//
+- Communicating in the WordPress open-source project //(Comunicación en el proyecto de código abierto WordPress)//
+- WordPress and GPL //(WordPress y GPL)//
+
+### Semana 3
+
+#### Alumnos
+
+Comienzan a integrarse en los equipos de colaboradores de su elección gracias a los representantes de Make/Team.
+
+#### Mentores
+
+Los mentores tienen una segunda llamada de control con su mentor. Soporte complementario al onboarding en los equipos.
+
+#### Formación
+
+A mitad de semana, reunión con el grupo.
+
+#### Talleres en línea
+
+- Incorporación al equipo de Fotografía (Photos)
+- Incorporación al equipo de Traducciones (Polyglots)
+- Incorporación al equipo de Core (Core)
+- Incorporación al equipo de Documentación (Documentation)
+- Incorporación al equipo de Comunidad (Community)
+- Incorporación al equipo de Soporte (Support)
+- Incorporación al equipo de Formación (Training)
+
+### Semana 4
+
+#### Alumnos
+
+Centrarse en contribuir a sus respectivos Make/Teams con la ayuda de los representantes de Make/Team o de sus mentores.
+
+#### Mentores
+
+Los mentores tienen una última llamada de control con su mentor.
+
+#### Formación
+
+[Sesión sobre la comunidad local](local.md), con los mentores.
+
+#### Formación
+
+- Conclusión, cierre del programa de tutoría. Sesión de clausura, comentarios.
