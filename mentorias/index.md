@@ -86,7 +86,7 @@ Fecha: 2023-07-12 a 2023-07-18.
 - _[Bug Scrub_](https://make.wordpress.org/core/2023/05/25/bug-scrub-schedule-for-6-3/)_ (Fecha: 2023-07-17 20:00 UTC)
 - _[Bug Scrub_](https://make.wordpress.org/core/2023/05/25/bug-scrub-schedule-for-6-3/)_ (Fecha: 2023-07-18 05:00 UTC)
 - _[Bug Scrub_](https://make.wordpress.org/core/2023/05/25/bug-scrub-schedule-for-6-3/)_ (Fecha: 2023-07-13 06:00 UTC)
-- _[WordPress 6.3 Release Candidate 1 Release Party_](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)_ (Fecha: 2023-07-18 16:00 UTC)
+- _[WordPress 6.3 RC1 party_](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)_ (Fecha: 2023-07-18 16:00 UTC)
 
 ### Semana 2
 
@@ -123,7 +123,7 @@ Atender en caso de ser necesario. Enviar algún mensaje para mantener la convers
 
 #### Eventos interesantes
 
-- _[WordPress 6.3 Release Candidate 2 Release Party_](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)_ (Fecha: 2023-07-25 16:00 UTC)
+- _[WordPress 6.3 RC2 party_](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)_ (Fecha: 2023-07-25 16:00 UTC)
 
 ### Semana 3
 
@@ -171,24 +171,72 @@ Los mentores tienen una segunda llamada de control con su mentor.
 
 #### Eventos interesantes
 
-- _[WordPress 6.3 Release Candidate 3 Release Party_](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)_ (Fecha: 2023-08-01 16:00 UTC)
+- _[WordPress 6.3 RC3 party_](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)_ (Fecha: 2023-08-01 16:00 UTC)
 
 ### Semana 4
 
-Fecha: 2023-07-26 a 2023-08-01.
+Fecha: 2023-08-02 a 2023-08-09.
 
 #### Alumnos
 
 Centrarse en contribuir a sus respectivos Make/Teams con la ayuda de los representantes de Make/Team o de sus mentores.
 
+#### Facilitadores
+
+Los facilitadores realizarán una reunión semanal en el canal del Slack. Entre otras cosas se responderán a las siguientes preguntas:
+- ¿Cómo se sienten?
+- ¿Qué lograron esta semana?
+- ¿Qué esperan con ansias esta semana?
+- _Pregunta para romper el hielo_
+
+En esta sesión se realizará u recordatorio de que la integración del proyecto ha finalizado y que ahora nos estamos centrando en la integración en los equipos, y cuando sea necesario (con tranquilidad) se realizarán anuncios para ver cómo van, de manera asíncrona.
+
+De tanto en tanto se compartirán cosas, informal, para mantener el grupo activo; también se informará de los próximos eventos pata asegurarse de que todo el mundo asiste y no se los pierda.
+
+Estar disponible para responder cualquier pregunta que puedan tener.
+
 #### Mentores
 
-Los mentores tienen una última llamada de control con su mentor.
+Los mentores se reúnen para ver cómo les va, trabajar en la conclusión de la tutoría y ayudarles a elaborar su plan de contribución.
+
+Opcionalmente, se puede hacer una llamada o un check-in sincrónico para concluir todo.
 
 #### Formación
 
-[Sesión sobre la comunidad local](local.md), con los mentores.
+- [Sesión sobre la comunidad local](local.md) con los mentores.
+- Conclusión, cierre del programa de tutoría. Sesión de clausura, comentarios. (Fecha: 2023-08-09)
 
-#### Formación
+#### Eventos interesantes
 
-- Conclusión, cierre del programa de tutoría. Sesión de clausura, comentarios.
+- _[WordPress 6.3 release dry-run_](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)_ (Fecha: 2023-08-07 16:00 UTC)
+- _[WordPress 6.3 release party_](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)_ (Fecha: 2023-08-08 17:00 UTC)
+
+## Material de referencia
+
+### General
+
+- _[How to start using WordPress Playground](https://learn.wordpress.org/tutorial/how-to-start-using-wordpress-playground/)_
+- _[Hugh Lashbrooke: Open-Source Principles and WordPress](https://wordpress.tv/2022/06/13/hugh-lashbrooke-open-source-principles-and-wordpress/)_
+- _[WordPress 6.3 Live Product Demo](https://wordpress.org/news/2023/07/6-3-live-product-demo/)_
+
+### Equipo de Formación / Training
+
+- _[Contributing to the WordPress Training Team](https://wordpress.tv/2023/07/07/contributing-to-the-wordpress-training-team/)_
+
+### Equipo de Core
+
+- _[How to use Trac](https://learn.wordpress.org/tutorial/how-to-use-trac/)_
+- _[How to do triage on GitHub](https://learn.wordpress.org/tutorial/how-to-do-triage-on-github/)_
+- _[How to use GitHub for Gutenberg](https://learn.wordpress.org/tutorial/how-to-use-github-for-gutenberg/)_
+
+### Equicpo de Documentación / Documentation
+
+- _[Overview – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-overview-onboarding-for-wordpress-documentation-team/)_
+- _[Developer documentation – Themes handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/30/milana-cap-developer-documentation-themes-handbook-onboarding-for-wordpress-documentation-team/)_
+- _[WordPress release 6.0 Trac ticket triage for docs](https://wordpress.tv/2022/03/30/milana-cap-birgit-pauli-haack-courtney-engle-robertson-femy-praseeth-akira-tachibana-wordpress-release-6-0-trac-ticket-triage-for-docs/)_
+- _[Set Up a Local Instance of HelpHub](https://wordpress.tv/2020/09/29/milana-cap-set-up-a-local-instance-of-helphub/)_
+- _[Update screenshots in WordPress documentation](https://wordpress.tv/2022/03/04/update-screenshots-in-wordpress-documentation/)_
+- _[End user documentation – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-end-user-documentation-onboarding-for-wordpress-documentation-team/)_
+- _[GitHub-related roles – onboarding for WordPress Documentation team](https://wordpress.tv/2023/02/08/github-related-roles-onboarding-for-wordpress-documentation-team/)_
+- _[Developer documentation – Plugin handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-plugin-handbook-onboarding-for-wordpress-documentation-team/)_
+- _[Developer documentation – Code reference handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-code-reference-handbook-onboarding-for-wordpress-documentation-team/)_
