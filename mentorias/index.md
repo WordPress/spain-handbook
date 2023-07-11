@@ -208,8 +208,8 @@ Opcionalmente, se puede hacer una llamada o un check-in sincrónico para conclui
 
 #### Eventos interesantes
 
-- _[WordPress 6.3 release dry-run_](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)_ (Fecha: 2023-08-07 16:00 UTC)
-- _[WordPress 6.3 release party_](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)_ (Fecha: 2023-08-08 17:00 UTC)
+- _[WordPress 6.3 release dry-run](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)_ (Fecha: 2023-08-07 16:00 UTC)
+- _[WordPress 6.3 release party](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)_ (Fecha: 2023-08-08 17:00 UTC)
 
 ## Material de referencia
 
