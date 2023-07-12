@@ -27,6 +27,15 @@ En su forma ideal, el programa:
 - Contribuidores / Mentores: #contributor-mentorship-program _(cerrado)_
 - Mentorías (julio 2023): #mentorship-cohort-july-2023 _(abierto)_
 
+## Por dónde empezar
+
+WordPress es una Comunidad muy diversa y hay algunos elementos básicos a conocer de su funcionamiento.
+
+- _[Contributor Handbook](https://make.wordpress.org/handbook/)_
+- _[Accessibility in WordPress](https://wordpress.org/about/accessibility/)_
+- _[Privacy Policy](https://wordpress.org/about/privacy/)_
+- _[Diversity, Equity, Inclusion Statement](https://make.wordpress.org/handbook/diversity-equity-and-inclusion-in-wordpress/)_
+
 ## Proceso
 
 Las fechas aquí propuestas son del la edición actual del programa.
@@ -38,6 +47,8 @@ Fecha: 2023-07-12 a 2023-07-18.
 #### Alumnos
 
 Los alumnos comienzan los cursos por su cuenta y a su ritmo. Se toman su tiempo para participar.
+
+- _[2023 WordPress Mentee Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSf54uzQcAU0LkZBc2Jc1EMJwJYOYufbi8B_ribOEkGwEd2pyw/viewform)_
 
 #### Facilitadores
 
