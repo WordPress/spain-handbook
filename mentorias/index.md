@@ -73,7 +73,7 @@ Este es un primer contacto, por lo que intenta conocer un poco a la persona, sus
 
 #### Presentación
 
-- _Welcome and Introduction to the Mentorship Program, Mentorship kicks-off!_: Bienvenida e introducción al programa de tutoría, ¡comienza la tutoría! (Fecha: 2023-07-12)
+- _[Welcome and Introduction to the Mentorship Program, Mentorship kicks-off!](- https://docs.google.com/presentation/d/1lIiaJbNnB4sH_xpQ36yMre5bCynS7tby9Za2VHHTX0M/)_ (Fecha: 2023-07-12)
 
 #### Formación
 
