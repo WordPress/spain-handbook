@@ -31,6 +31,7 @@ En su forma ideal, el programa:
 
 WordPress es una Comunidad muy diversa y hay algunos elementos básicos a conocer de su funcionamiento.
 
+- [Spotify: WP Contributors - July Cohort](https://open.spotify.com/playlist/5CNaQ4pK6BDoDDyNOhKarS)
 - _[Contributor Handbook](https://make.wordpress.org/handbook/)_
 - _[Accessibility in WordPress](https://wordpress.org/about/accessibility/)_
 - _[Privacy Policy](https://wordpress.org/about/privacy/)_
@@ -73,7 +74,7 @@ Este es un primer contacto, por lo que intenta conocer un poco a la persona, sus
 
 #### Presentación
 
-- _[Welcome and Introduction to the Mentorship Program, Mentorship kicks-off!](- https://docs.google.com/presentation/d/1lIiaJbNnB4sH_xpQ36yMre5bCynS7tby9Za2VHHTX0M/)_ (Fecha: 2023-07-12)
+- _[Welcome and Introduction to the Mentorship Program, Mentorship kicks-off!](https://docs.google.com/presentation/d/1lIiaJbNnB4sH_xpQ36yMre5bCynS7tby9Za2VHHTX0M/)_ _[(VIDEO)](https://wordpress.slack.com/archives/C05FZQ52NDS/p1689185394342499)_ (Fecha: 2023-07-12)
 
 #### Formación
 
@@ -87,9 +88,10 @@ Fecha: 2023-07-12 a 2023-07-18.
 
 #### Talleres en línea
 
-- _Introduction to the WordPress Project_ (Fecha: 2023-07-13)
+- _[Introduction to the WordPress Project](https://www.meetup.com/learn-wordpress-online-workshops/events/294759860/)_ (Fecha: 2023-07-13)
+- _[Introduction to the WordPress Open Source Project](https://www.meetup.com/learn-wordpress-online-workshops/events/294759860/)_ _[(SLIDES)](https://docs.google.com/presentation/d/1vMSnanAW38SV07X7QxxNvSHaSMQZELdze5CDs7dRGdA/)_ (Fecha: 2023-07-14)
 - _Introduction to different WordPress Contributor Teams_ (Fecha: 2023-07-14)
-- _[Come join the WordPress Training Team](https://www.meetup.com/learn-wordpress-online-workshops/events/294592656/)_ (Fecha: 2023-07-17)
+- _[Come join the WordPress Training Team](https://www.meetup.com/learn-wordpress-online-workshops/events/294592656/)_ (Fecha: 2023-07-17 07:00 UTC)
 
 #### Eventos interesantes
 
@@ -128,7 +130,7 @@ Atender en caso de ser necesario. Enviar algún mensaje para mantener la convers
 #### Talleres en línea / Formación
 
 - _[Live Stream: Reviewing Gutenberg 16.2 Features](https://www.meetup.com/learn-wordpress-online-workshops/events/294583132/)_ (Fecha: 2023-07-20 14:30 UTC)
-- _[Organizing Diverse & Inclusive WordPress Events #WPDiversity](https://www.eventbrite.com/e/organizing-diverse-inclusive-wordpress-events-wpdiversity-tickets-662421088307)_ (Fecha: 2023-07-21 19:00 UTC)
+- _[Organizing Diverse & Inclusive WordPress Events #WPDiversity](https://www.eventbrite.com/e/organizing-diverse-inclusive-wordpress-events-wpdiversity-tickets-662421088307)_ (Fecha: 2023-07-20 19:00 UTC)
 - _Communicating in the WordPress open-source project_ (Fecha: 2023-07-24)
 - _[WordPress and GPL](https://www.meetup.com/learn-wordpress-online-workshops/events/294677746/)_ (Fecha: 2023-07-17)
 
