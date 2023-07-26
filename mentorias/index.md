@@ -131,12 +131,14 @@ Atender en caso de ser necesario. Enviar algún mensaje para mantener la convers
 
 - _[Live Stream: Reviewing Gutenberg 16.2 Features](https://www.meetup.com/learn-wordpress-online-workshops/events/294583132/)_ (Fecha: 2023-07-20 14:30 UTC)
 - _[Organizing Diverse & Inclusive WordPress Events #WPDiversity](https://www.eventbrite.com/e/organizing-diverse-inclusive-wordpress-events-wpdiversity-tickets-662421088307)_ (Fecha: 2023-07-20 19:00 UTC)
-- _Communicating in the WordPress open-source project_ (Fecha: 2023-07-24)
 - _[WordPress and GPL](https://www.meetup.com/learn-wordpress-online-workshops/events/294677746/)_ (Fecha: 2023-07-17)
+- _Communicating in the WordPress open-source project_ (Fecha: 2023-07-24)
+- _[A Guide to Open Source and WordPress](https://www.meetup.com/learn-wordpress-online-workshops/events/294677746/)_ ([Video](https://wordpress.tv/2023/04/12/a-guide-to-open-source-and-wordpress/)) (Fecha: 2023-07-25 19:00 UTC)
 
 #### Eventos interesantes
 
-- _[WordPress 6.3 RC2 party_](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)_ (Fecha: 2023-07-25 16:00 UTC)
+- _[Docs Team Contributor Day](https://make.wordpress.org/docs/2023/07/24/online-monthly-docs-team-contributor-day-july-25-2023/)_ (Fecha: 2023-07-25 13:00 UTC)
+- _[WordPress 6.3 RC2 party](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)_ (Fecha: 2023-07-25 16:00 UTC)
 
 ### Semana 3
 
@@ -184,7 +186,8 @@ Los mentores tienen una segunda llamada de control con su mentor.
 
 #### Eventos interesantes
 
-- _[WordPress 6.3 RC3 party_](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)_ (Fecha: 2023-08-01 16:00 UTC)
+- _[Contributor Mentorship: A Primer for DEIB at WordPress Events](https://www.meetup.com/learn-wordpress-online-workshops/events/294903064/)_ (Fecha: 2023-07-31 17:00 UTC)
+- _[WordPress 6.3 RC3 party](https://make.wordpress.org/core/2023/06/30/6-3-release-parties-schedule-and-hosts/)_ (Fecha: 2023-08-01 16:00 UTC)
 
 ### Semana 4
 
@@ -242,7 +245,7 @@ Opcionalmente, se puede hacer una llamada o un check-in sincrónico para conclui
 - _[How to do triage on GitHub](https://learn.wordpress.org/tutorial/how-to-do-triage-on-github/)_
 - _[How to use GitHub for Gutenberg](https://learn.wordpress.org/tutorial/how-to-use-github-for-gutenberg/)_
 
-### Equicpo de Documentación / Documentation
+### Equipo de Documentación / Documentation
 
 - _[Overview – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-overview-onboarding-for-wordpress-documentation-team/)_
 - _[Developer documentation – Themes handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/30/milana-cap-developer-documentation-themes-handbook-onboarding-for-wordpress-documentation-team/)_
