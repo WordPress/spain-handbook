@@ -50,7 +50,7 @@ Colaboraremos a través de un repositorio en GitHub. Hemos propuesto este sistem
 
 A continuación te contamos cómo empezar en **GitHub**, desde darte de alta hasta finalizar tu colaboración.
 
-- [Manual GitHub](equipo/github/index.md)
+- [Manual GitHub](manuales/github/index.md)
 
 O si lo prefieres, puedes ver todo el proceso de colaboración y moderación con GIT en este vídeo:
 
