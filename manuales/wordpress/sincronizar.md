@@ -1,13 +1,4 @@
-# Cómo crear una cuenta en WordPress.org
-
-
-
-
-
-
-
-
-### Enlazar perfiles WordPress y GitHub {#enlazar}
+# Enlazar perfiles WordPress y GitHub
 
 Para enlazar ambos perfiles es necesario loguearse en [login.wordpress.org](https://login.wordpress.org/?locale=es_ES)
 
