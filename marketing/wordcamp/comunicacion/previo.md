@@ -1,0 +1,1 @@
+# Antes de comunicar una WordCamp
