@@ -6,7 +6,9 @@ Este compendio de guías es tu punto de partida para colaborar en cualquier áre
 
 ## Manual de WordPress
 
-_(pronto)_
+Una cuenta de WordPress es tu pasaporte personal para ingresar al mundo de WordPress.org, permitiéndote crear y colaborar en una amplia gama de proyectos. Con ella, no solo puedes iniciar sesión, contribuir y compartir en la comunidad, sino que también tienes la capacidad de recuperar contraseñas olvidadas y, crucialmente, sincronizar tu perfil con GitHub, lo que facilita la atribución y el seguimiento de tus aportaciones al código y la documentación en las plataformas de desarrollo colaborativo.
+
+Visitar el **[Manual de WordPress](https://es.wordpress.org/team/handbook/manuales/wordpress/)**.
 
 ## Manual de Markdown
 
