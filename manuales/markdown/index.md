@@ -51,17 +51,13 @@ Este cheatsheet proporciona una referencia rápida para la sintaxis de Markdown,
 
 ```markdown
 `Código en línea`
-
-```
-Bloque de código
 ```
 
-```javascript
-// Bloque de código con resaltado de sintaxis
-function test() {
-  console.log("test");
-}
-```
+~~~markdown
+ ```
+ Bloque de código
+ ```
+~~~
 
 ### Citas
 
@@ -306,24 +302,24 @@ El texto entre las comillas invertidas aparecerá como código dentro de la lín
 Si necesitas incluir múltiples líneas de código, puedes usar tres comillas invertidas (```) o tres tildes (~~~) para crear un bloque de código. También puedes indentar cada línea con cuatro espacios o un tabulador, aunque la primera opción es más clara y permite el resaltado de sintaxis. Así es como se ve un bloque de código:
 
 ~~~markdown
-```
+ ```
 function test() {
   console.log("notice the blank line before this function?");
 }
-```
+ ```
 ~~~
 
 ## Resaltado de sintaxis específica de lenguaje
 
 Markdown en GitHub soporta el resaltado de sintaxis para muchos lenguajes de programación. Para activar esta característica, especifica el lenguaje inmediatamente después de las comillas invertidas que abren el bloque de código:
 
-```markdown
-```javascript
+~~~markdown
+ ```javascript
 function test() {
   console.log("¡HOLA!");
 }
-```
-```
+ ```
+~~~
 
 Reemplaza "javascript" con el lenguaje correspondiente al código que estás incluyendo. Esto ayudará a GitHub a colorear y formatear adecuadamente el código, haciéndolo más legible.
 

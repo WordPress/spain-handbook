@@ -15,7 +15,7 @@ La Comunidad de WordPress España es una agrupación de personas apasionadas por
 
 Por ejemplo, el equipo de **Soporte** se enfoca en responder preguntas en los foros de soporte, ayudando a usuarios a resolver sus dudas.
 
-Además, el equipo de **Traducciones** trabaja para hacer WordPress accesible en español, traduciendo el sistema de gestión de contenidos y sus extensiones【22†fuente】.
+Además, el equipo de **Traducciones** trabaja para hacer WordPress accesible en español, traduciendo el sistema de gestión de contenidos y sus extensiones.
 
 El equipo de **Diseño** se ocupa de la experiencia de usuario, la interfaz y el diseño visual de WordPress, mientras que el equipo de **TV** gestiona la publicación y moderación de vídeos relacionados con la plataforma.
 
