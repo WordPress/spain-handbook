@@ -2,7 +2,7 @@
 
 Para enlazar ambos perfiles, debes acceder a la [pantalla de Inicio de sesión e ingresar](https://login.wordpress.org/?locale=es_ES).
 
-![Pantalla de acceso de WordPress]](https://raw.githubusercontent.com/WPES/spain-handbook/master/assets/manuales-wordpress-sincronizar-1.png)
+![Pantalla de acceso de WordPress](https://raw.githubusercontent.com/WPES/spain-handbook/master/assets/manuales-wordpress-sincronizar-1.png)
 
 Pinchamos en la opción [Editar el perfil](https://profiles.wordpress.org/me/profile/edit/).
 
