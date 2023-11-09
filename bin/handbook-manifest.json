@@ -7,16 +7,16 @@
 		"order": -1
 	},
 	"manuales": {
-		"title": "Documentación global",
+		"title": "Manuales generales",
 		"slug": "manuales",
 		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/index.md",
 		"parent": "index",
 		"order": 1
 	},
-	"manuales\/github": {
-		"title": "Manual de GitHub",
-		"slug": "github",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/github\/index.md",
+	"manuales\/markdown": {
+		"title": "Manual de Markdown",
+		"slug": "markdown",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/markdown\/index.md",
 		"parent": "manuales",
 		"order": 1
 	}
