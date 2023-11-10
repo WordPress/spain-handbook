@@ -20,4 +20,4 @@ Visitar el **[Manual de Markdown](https://es.wordpress.org/team/handbook/manuale
 
 Para llevar un mejor control de los cambios realizados en el manual de la comunidad de WordPress España, se trabaja con la plataforma de colaboración GitHub. Este manual te enseñará a trabajar con dicha herramienta, aunque no tengas experiencia con ella y no trabajes en desarrollo. 
 
-_(pronto)_
+Visitar el **[Manual de GitHub](https://es.wordpress.org/team/handbook/manuales/github/)**.
