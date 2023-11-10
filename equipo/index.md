@@ -18,7 +18,7 @@ Estos colaboradores se agrupan en equipos de proyecto, y [cada equipo tiene un s
 | Meta | 	ver los [Locale Manager](https://make.wordpress.org/polyglots/teams/?locale=es_ES) |
 | Traducción | 	ver los [General Translation Editors](https://make.wordpress.org/polyglots/teams/?locale=es_ES) |
 | TV |	[@davidperez](https://profiles.wordpress.org/davidperez/), [@mgelves](https://profiles.wordpress.org/mgelves/), [@pablo-moratinos](https://profiles.wordpress.org/pablo-moratinos/) |
-| Soporte |	[@josearcos](https://profiles.wordpress.org/josearcos/), [@fernandot](https://profiles.wordpress.org/fernandot/), [@jose64](https://profiles.wordpress.org/jose64/) |
+| Soporte |	[@josearcos](https://profiles.wordpress.org/josearcos/), [@fernandot](https://profiles.wordpress.org/fernandot/) |
 
 ## ¿Qué hacen los representantes de Equipo?
 
