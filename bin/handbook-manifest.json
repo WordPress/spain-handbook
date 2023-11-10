@@ -48,6 +48,20 @@
 		"parent": "manuales",
 		"order": 2
 	},
+	"manuales\/github": {
+		"title": "Manual de GitHub",
+		"slug": "github",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/github\/index.md",
+		"parent": "manuales",
+		"order": 3
+	},
+	"manuales\/github\/crear": {
+		"title": "Crear una cuenta en GitHub",
+		"slug": "crear",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/github\/crear.md",
+		"parent": "github",
+		"order": 1
+	},
 	"equipo": {
 		"title": "Quiénes somos",
 		"slug": "equipo",
