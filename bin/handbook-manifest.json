@@ -1,5 +1,5 @@
 {
-	"index": {
+	"handbook": {
 		"title": "Comunidad WordPress España",
 		"slug": null,
 		"markdown_source": "https:\/\/github.com\/WPES\/spain-handbook\/blob\/master\/index.md",
@@ -10,7 +10,7 @@
 		"title": "Manuales generales de la Comunidad",
 		"slug": "manuales",
 		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/index.md",
-		"parent": "index",
+		"parent": "handbook",
 		"order": 1
 	},
 	"manuales\/wordpress": {
@@ -46,6 +46,13 @@
 		"slug": "markdown",
 		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/markdown\/index.md",
 		"parent": "manuales",
+		"order": 2
+	},
+	"equipo": {
+		"title": "Equipo de la Comunidad WordPress España",
+		"slug": "equipo",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/equipo\/index.md",
+		"parent": "handbook",
 		"order": 2
 	}
 }
