@@ -1,4 +1,4 @@
-# Equipo de la Comunidad WordPress España
+# Quiénes somos
 
 ## Representantes de Equipo
 

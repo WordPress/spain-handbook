@@ -1,4 +1,4 @@
-# Manuales generales de la Comunidad
+# Cómo empezar
 
 Bienvenidos a los manuales generales de la Comunidad WordPress, donde encontrarás una amplia gama de recursos diseñados para ayudarte a integrarte y contribuir efectivamente en nuestra plataforma. Aquí, te proporcionamos material esencial que te guiará paso a paso en procesos como registrarte en WordPress.org, y adquirir habilidades fundamentales en herramientas como Markdown o GitHub, las cuales son indispensables para la creación y el manejo de la documentación en cualquiera de los equipos de la Comunidad WordPress.
 
@@ -17,5 +17,7 @@ Dentro de nuestra biblioteca de recursos, encontrarás un manual dedicado a Mark
 Visitar el **[Manual de Markdown](https://es.wordpress.org/team/handbook/manuales/markdown/)**.
 
 ## Manual de GitHub
+
+Para llevar un mejor control de los cambios realizados en el manual de la comunidad de WordPress España, se trabaja con la plataforma de colaboración GitHub. Este manual te enseñará a trabajar con dicha herramienta, aunque no tengas experiencia con ella y no trabajes en desarrollo. 
 
 _(pronto)_
