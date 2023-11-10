@@ -32,8 +32,8 @@ Para colaborar en el manual de WordPress España, cualquier contribuidor que qui
 
 En este manual te explicamos cómo puedes acceder a esta herramienta, su funcionamiento y todo lo que tienes que conocer para colaborar en el proyecto de la forma más fácil posible. Sigue los siguientes pasos, si alguno ya lo has hecho previamente, puedes saltártelo:
 
-- Crear una cuenta en GitHub
-- Enlazar tu perfil de WordPress con GitHub
+- [Crear una cuenta en GitHub](https://es.wordpress.org/team/handbook/manuales/github/cuenta.md)
+- [Enlazar tu perfil de WordPress con GitHub](https://es.wordpress.org/team/handbook/manuales/github/enlazar-perfil.md)
 - Trabajar en el repositorio
 - Editar un documento/archivo
 - Solicitar la revisión y aceptación de los cambios
