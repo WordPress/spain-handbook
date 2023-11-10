@@ -1,4 +1,4 @@
-# El equipo
+# Quiénes somos
 
 ## Representantes de Equipo
 
