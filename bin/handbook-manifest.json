@@ -1,5 +1,5 @@
 {
-	"handbook": {
+	"index": {
 		"title": "Comunidad WordPress España",
 		"slug": null,
 		"markdown_source": "https:\/\/github.com\/WPES\/spain-handbook\/blob\/master\/index.md",
@@ -10,7 +10,7 @@
 		"title": "Manuales generales de la Comunidad",
 		"slug": "manuales",
 		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/index.md",
-		"parent": "handbook",
+		"parent": null,
 		"order": 1
 	},
 	"manuales\/wordpress": {
@@ -52,7 +52,49 @@
 		"title": "Equipo de la Comunidad WordPress España",
 		"slug": "equipo",
 		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/equipo\/index.md",
-		"parent": "handbook",
+		"parent": null,
 		"order": 2
+	},
+	"accesibilidad": {
+		"title": "Equipo de Accesibilidad",
+		"slug": "accesibilidad",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/accesibilidad\/index.md",
+		"parent": null,
+		"order": 10
+	},
+	"comunidad": {
+		"title": "Equipo de Comunidad",
+		"slug": "comunidad",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/comunidad\/index.md",
+		"parent": null,
+		"order": 11
+	},
+	"diseno": {
+		"title": "Equipo de Diseño",
+		"slug": "diseno",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/diseno\/index.md",
+		"parent": null,
+		"order": 12
+	},
+	"soporte": {
+		"title": "Equipo de Soporte",
+		"slug": "soporte",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/soporte\/index.md",
+		"parent": null,
+		"order": 13
+	},
+	"traducciones": {
+		"title": "Equipo de Traducciones",
+		"slug": "traducciones",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/traducciones\/index.md",
+		"parent": null,
+		"order": 14
+	},
+	"tv": {
+		"title": "Equipo de WordPress TV",
+		"slug": "tv",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/tv\/index.md",
+		"parent": null,
+		"order": 15
 	}
 }
