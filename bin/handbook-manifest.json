@@ -1,23 +1,51 @@
 {
 	"index": {
-		"title": "Manuales de la Comunidad de WordPress España",
+		"title": "Comunidad WordPress España",
 		"slug": null,
 		"markdown_source": "https:\/\/github.com\/WPES\/spain-handbook\/blob\/master\/index.md",
 		"parent": null,
 		"order": -1
 	},
 	"manuales": {
-		"title": "Manuales generales",
+		"title": "Manuales generales de la Comunidad",
 		"slug": "manuales",
 		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/index.md",
 		"parent": "index",
 		"order": 1
+	},
+	"manuales\/wordpress": {
+		"title": "Cuentas de WordPress.org",
+		"slug": "wordpress",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/wordpress\/index.md",
+		"parent": "manuales",
+		"order": 1
+	},
+	"manuales\/wordpress\/crear": {
+		"title": "Cómo crear tu cuenta de WordPress.org",
+		"slug": "crear",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/wordpresss\/crear\/index.md",
+		"parent": "wordpress",
+		"order": 1
+	},
+	"manuales\/wordpress\/recuperar": {
+		"title": "Cómo recuperar tu cuenta de WordPress.org",
+		"slug": "recuperar",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/wordpresss\/recuperar\/index.md",
+		"parent": "wordpress",
+		"order": 2
+	},
+	"manuales\/wordpress\/sincronizar": {
+		"title": "Cómo sincronizar tu cuenta de WordPress.org con GitHub",
+		"slug": "sincronizar",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/wordpresss\/sincronizar\/index.md",
+		"parent": "wordpress",
+		"order": 3
 	},
 	"manuales\/markdown": {
 		"title": "Manual de Markdown",
 		"slug": "markdown",
 		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/markdown\/index.md",
 		"parent": "manuales",
-		"order": 1
+		"order": 2
 	}
 }
