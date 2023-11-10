@@ -7,7 +7,7 @@
 		"order": -1
 	},
 	"manuales": {
-		"title": "Manuales generales de la Comunidad",
+		"title": "Cómo empezar",
 		"slug": "manuales",
 		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/index.md",
 		"parent": null,
@@ -49,11 +49,18 @@
 		"order": 2
 	},
 	"equipo": {
-		"title": "Equipo de la Comunidad WordPress España",
+		"title": "Quiénes somos",
 		"slug": "equipo",
 		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/equipo\/index.md",
 		"parent": null,
 		"order": 2
+	},
+	"equipo\/agenda": {
+		"title": "Agenda",
+		"slug": "agenda",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/equipo\/agenda.md",
+		"parent": "equipo",
+		"order": 1
 	},
 	"accesibilidad": {
 		"title": "Equipo de Accesibilidad",
