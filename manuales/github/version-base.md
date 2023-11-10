@@ -4,15 +4,15 @@ Los manuales de este repositorio son el resultado de un trabajo colaborativo. Pa
 
 Este manual pretende ser una guía de introducción a GitHub para principiantes. Para obtener información más completa se puede visitar la página oficial [GitHub Documentation](https://docs.github.com/es).
 
-## Crear una cuenta en GitHub {#crear-cuenta}
+## ~~Crear una cuenta en GitHub {#crear-cuenta}~~
 
-Para crearte una cuenta en GitHub, debes ir a su página principal [github.com](https://github.com/) y crearte una cuenta.
+~~Para crearte una cuenta en GitHub, debes ir a su página principal [github.com](https://github.com/) y crearte una cuenta.~~
 
-Nos damos de alta en GitHub a través de la opción de *"Sign up"* que está rodeada con un círculo rojo.
+~~Nos damos de alta en GitHub a través de la opción de *"Sign up"* que está rodeada con un círculo rojo.~~
 
 ![Alta cuenta Github](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/1.AltaGitHub.png)
 
-Una vez que hemos creado nuestra cuenta, ya podemos acceder el repositorio donde está ubicado el manual dentro de GitHub, que se encuentra en [WPES/spain-handbook](https://github.com/WPES/spain-handbook).
+~~Una vez que hemos creado nuestra cuenta, ya podemos acceder el repositorio donde está ubicado el manual dentro de GitHub, que se encuentra en [WPES/spain-handbook](https://github.com/WPES/spain-handbook).~~
 
 ### Enlazar perfiles WordPress y GitHub {#enlazar}
 
