@@ -83,6 +83,13 @@
 		"parent": "equipo",
 		"order": 1
 	},
+	"equipo\/chat": {
+		"title": "Chat / Slack",
+		"slug": "chat",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/equipo\/chat.md",
+		"parent": "equipo",
+		"order": 2
+	},
 	"accesibilidad": {
 		"title": "Equipo de Accesibilidad",
 		"slug": "accesibilidad",
@@ -96,6 +103,13 @@
 		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/comunidad\/index.md",
 		"parent": null,
 		"order": 11
+	},
+	"comunidad\/meetup": {
+		"title": "Meetup",
+		"slug": "meetup",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/comunidad\/meetup.md",
+		"parent": "comunidad",
+		"order": 1
 	},
 	"diseno": {
 		"title": "Equipo de Diseño",
