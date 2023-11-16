@@ -83,6 +83,13 @@
 		"parent": "equipo",
 		"order": 1
 	},
+	"equipo\/chat": {
+		"title": "Chat / Slack",
+		"slug": "chat",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/equipo\/chat.md",
+		"parent": "equipo",
+		"order": 2
+	},
 	"accesibilidad": {
 		"title": "Equipo de Accesibilidad",
 		"slug": "accesibilidad",
