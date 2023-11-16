@@ -48,6 +48,13 @@
 		"parent": "manuales",
 		"order": 2
 	},
+	"manuales\/markdown\/referencia": {
+		"title": "Referencia rápida de Markdown",
+		"slug": "referencia",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/markdown\/referencia.md",
+		"parent": "markdown",
+		"order": 1
+	},
 	"manuales\/github": {
 		"title": "Manual de GitHub",
 		"slug": "github",
