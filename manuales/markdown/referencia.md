@@ -1,10 +1,8 @@
-# Manual de Markdown
-
-## Referencia Rápida de Markdown
+# Referencia Rápida de Markdown
 
 Este cheatsheet proporciona una referencia rápida para la sintaxis de Markdown, facilitando la creación y edición de documentos en GitHub.
 
-### Encabezados
+## Encabezados
 
 ```markdown
 # Encabezado 1
@@ -15,7 +13,7 @@ Este cheatsheet proporciona una referencia rápida para la sintaxis de Markdown,
 ###### Encabezado 6
 ```
 
-### Énfasis
+## Énfasis
 
 ```markdown
 *Texto en itálica* o _Texto en itálica_
@@ -24,7 +22,7 @@ Este cheatsheet proporciona una referencia rápida para la sintaxis de Markdown,
 ~~Texto tachado~~
 ```
 
-### Listas
+## Listas
 
 ```markdown
 - Elemento de lista desordenada
@@ -35,19 +33,19 @@ Este cheatsheet proporciona una referencia rápida para la sintaxis de Markdown,
 2. Elemento de lista ordenada
 ```
 
-### Enlaces
+## Enlaces
 
 ```markdown
 [Texto del enlace](http://url.com "Título opcional")
 ```
 
-### Imágenes
+## Imágenes
 
 ```markdown
 ![Texto alternativo](http://url-a-la-imagen.com "Título opcional")
 ```
 
-### Código
+## Código
 
 ```markdown
 `Código en línea`
@@ -59,7 +57,7 @@ Este cheatsheet proporciona una referencia rápida para la sintaxis de Markdown,
  ```
 ~~~
 
-### Citas
+## Citas
 
 ```markdown
 > Esto es una cita.
@@ -67,7 +65,7 @@ Este cheatsheet proporciona una referencia rápida para la sintaxis de Markdown,
 > Esta es la continuación de la cita.
 ```
 
-### Tablas
+## Tablas
 
 ```markdown
 | Encabezado 1 | Encabezado 2 | Encabezado 3 |
@@ -76,7 +74,7 @@ Este cheatsheet proporciona una referencia rápida para la sintaxis de Markdown,
 | Más texto    | Más texto    | Más texto    |
 ```
 
-### Líneas horizontales
+## Líneas horizontales
 
 ```markdown
 ---
@@ -84,14 +82,14 @@ Este cheatsheet proporciona una referencia rápida para la sintaxis de Markdown,
 ___
 ```
 
-### Listas de tareas
+## Listas de tareas
 
 ```markdown
 - [ ] Tarea pendiente
 - [x] Tarea completada
 ```
 
-### Emojis
+## Emojis
 
 ```markdown
 :emoji_name:
