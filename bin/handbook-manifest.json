@@ -104,6 +104,13 @@
 		"parent": null,
 		"order": 11
 	},
+	"comunidad\/meetup": {
+		"title": "Meetup",
+		"slug": "meetup",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/comunidad\/meetup.md",
+		"parent": "comunidad",
+		"order": 1
+	},
 	"diseno": {
 		"title": "Equipo de Diseño",
 		"slug": "diseno",
