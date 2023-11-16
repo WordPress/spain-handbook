@@ -6,26 +6,14 @@ Todos los equipos de trabajo de la Comunidad de WordPress Español se organizan 
 
 Te recomendamos que visites la [página de Equipo](https://es.wordpress.org/team/) para validar las reuniones.
 
-## Diseño
+## Documentación
 
-* Día: martes (cada semana)
-* Hora: 19:00 a 20:00 (CET)
-* Lugar: [Slack de Diseño](https://wpes.slack.com/archives/CAF724L03).
-
-## Hosting
-
-* Día: jueves (primero y tercero del mes)
-* Horario: de 16:00 a 17:00 (CET)
-* Lugar: [Slack de Hosting](https://wpes.slack.com/archives/CGQF8PZ7T).
+* Día: jueves
+* Horario: de 09:00 a 10:00 (CET)
+* Lugar: [Slack de Documentación](https://wpes.slack.com/archives/C7SP11LQP).
 
 ## Marketing
 
 * Día: jueves (primero y tercero del mes)
 * Horario: de 18:00 a 19:00 (CET)
 * Lugar: [Slack de Marketing](https://wpes.slack.com/archives/C2MA1HA20).
-
-## Meta
-
-* Día: miércoles (segundo y cuarto del mes)
-* Horario: de 18:00 a 19:00 (CET)
-* Lugar: [Slack de Meta](https://wpes.slack.com/archives/C09HEV4H0).
