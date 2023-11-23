@@ -1,9 +1,4 @@
 # Cómo ser PTE
-# Cómo ser PTE
-# Cómo ser PTE
-## Contenidos de la Guía
-- Guía de traductores
-- Cómo ser PTE
 
 Siguiendo el camino de algunos otros lugares, aquí están las pautas para todos los desarrolladores de WordPress que deseen localizar sus productos (temas, complementos) en español (para España), para darle una mayor oportunidad de ser adoptados por usuarios españoles.
 
@@ -19,7 +14,8 @@ Con el fin de asegurar la mejor calidad posible para todas las traducciones (y, 
    - Un PTE o un GTE (Editor General de Traducciones) les dará (a ti o al traductor) la retroalimentación oportuna.
    - Si la calidad de la traducción cumple con los estándares que todos intentamos seguir (recuerden, una mala traducción es tan perjudicial para tu producto como lo es para todo el ecosistema de WP), tú (o tu traductor) obtendrán la autoridad de PTE.
 
-### Por qué seguimos estas pautas
+## Por qué seguimos estas pautas
+
 - Nos esforzamos por la perfección: nuestro objetivo es tener la mejor localización posible para todos los productos en el ecosistema de WP. Y eso requiere que todas las traducciones se hagan de la mejor manera posible.
 - Nos ayuda a crear una comunidad de traductores en español que se conozcan y puedan apoyarse mutuamente cuando sea necesario.
 - Pensamos de manera global y buscamos la consistencia.
