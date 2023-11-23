@@ -146,6 +146,20 @@
 		"parent": null,
 		"order": 16
 	},
+	"traducciones\/guia": {
+		"title": "Guía de traductores",
+		"slug": "guia",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/traducciones\/guia.md",
+		"parent": "traducciones",
+		"order": 1
+	},
+	"traducciones\/pte": {
+		"title": "Cómo ser PTE",
+		"slug": "pte",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/traducciones\/pte.md",
+		"parent": "traducciones",
+		"order": 2
+	},
 	"tv": {
 		"title": "Equipo de WordPress TV",
 		"slug": "tv",
