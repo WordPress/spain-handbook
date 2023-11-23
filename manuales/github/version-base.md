@@ -162,39 +162,39 @@ Este manual pretende ser una guía de introducción a GitHub para principiantes.
 
 ~~De esta forma, se podrán subir al manual imágenes optimizadas, pero de calidad. Aunque lo habitual es que solo haya que pasar la imagen por el programa sin necesidad de tocar ningún ajuste.~~
 
-### Fetch upstream {#fetch}
+### ~~Fetch upstream {#fetch}~~
 
-**Si nuestro *fork* deja de estar actualizado**
+~~**Si nuestro *fork* deja de estar actualizado**~~
 
-Cuando se trabaja en un _fork_, se trabaja paralelamente al archivo máster. Es decir, los cambios producidos en el archivo principal (_master_) no se sincronizan automáticamente con nuestro _fork_.
+~~Cuando se trabaja en un _fork_, se trabaja paralelamente al archivo máster. Es decir, los cambios producidos en el archivo principal (_master_) no se sincronizan automáticamente con nuestro _fork_.~~
 
-GitHub nos lo indicará con la siguiente frase: `This branch is 8 commits behind WPES:master`
+~~GitHub nos lo indicará con la siguiente frase: `This branch is 8 commits behind WPES:master`~~
 
-Significa que se han realizado 8 modificaciones desde que hicimos nuestra copia (*fork*).
+~~Significa que se han realizado 8 modificaciones desde que hicimos nuestra copia (*fork*).~~
 
-A continuación un ejemplo del aviso:
+~~A continuación un ejemplo del aviso:~~
 
-![branch-outdated](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/branch-outdated.png)
+~~![branch-outdated](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/branch-outdated.png)~~
 
-En este caso, si el archivo principal se ha adelantado a nuestra versión, tenemos dos opciones: *Contribute* o *Fetch upstream*
+~~En este caso, si el archivo principal se ha adelantado a nuestra versión, tenemos dos opciones: *Contribute* o *Fetch upstream*~~
 
-Si ya hemos editado nuestro archivo, pulsaremos *Contribute*, aparecerá una pequeña ventana que indica que el archivo no está actualizado y nos invita a hacer un *Pull request* para fusionar nuestra edición con el archivo principal (*master*).
+~~Si ya hemos editado nuestro archivo, pulsaremos *Contribute*, aparecerá una pequeña ventana que indica que el archivo no está actualizado y nos invita a hacer un *Pull request* para fusionar nuestra edición con el archivo principal (*master*).~~
 
-![contribute](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/contribute.png)
+~~![contribute](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/contribute.png)~~
 
-Si no hemos realizado aun cambios en nuestro *fork*, para trabajar en la versión aceptada más actualizada del archivo principal (*master*), podemos pulsar en *Fetch Upstream*, que nos dará a su vez dos opciones más: *Compare* o *Fetch and merge*
+~~Si no hemos realizado aun cambios en nuestro *fork*, para trabajar en la versión aceptada más actualizada del archivo principal (*master*), podemos pulsar en *Fetch Upstream*, que nos dará a su vez dos opciones más: *Compare* o *Fetch and merge*~~
 
-![fetch-upstream](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/fetch-upstream.png)
+~~![fetch-upstream](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/fetch-upstream.png)~~
 
-*Compare* nos permite comparar las distintas versiones que se han creado y *Fetch and merge* sincronizará nuestro *fork* con el archivo principal (*master*).
+~~*Compare* nos permite comparar las distintas versiones que se han creado y *Fetch and merge* sincronizará nuestro *fork* con el archivo principal (*master*).~~
 
-En cualquier caso, si hubiera algún conflicto entre ambas versiones, el sistema nos avisará y nos invitará a hacer antes un *Pull request*.
+~~En cualquier caso, si hubiera algún conflicto entre ambas versiones, el sistema nos avisará y nos invitará a hacer antes un *Pull request*.~~
 
-A continuación una imagen de lo que nos mostraría la opción *compare*:
+~~A continuación una imagen de lo que nos mostraría la opción *compare*:~~
 
-![Comparing-changes](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/Comparing-changes.png)
+~~![Comparing-changes](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/Comparing-changes.png)~~
 
-### Pull request {#pr}
+### ~~Pull request {#pr}~~
 
 ~~Cuando terminamos de editar nuestro archivo podemos proceder a realizar un *pull request*, nuestro archivo se enviará al administrador para su revisión y, una vez realizadas las comprobaciones pertinentes, nuestro *fork* se fusionará con el archivo principal.~~
 

@@ -38,6 +38,40 @@ Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se 
 
 ![Fork realizado](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/ForkRealizado.PNG)
 
+## Sincronizar nuestra copia con el repositorio original
+
+### Fetch upstream {#fetch}
+
+**Si nuestro *fork* deja de estar actualizado**
+
+Cuando se trabaja en un _fork_, se trabaja paralelamente al archivo máster. Es decir, los cambios producidos en el archivo principal (_master_) no se sincronizan automáticamente con nuestro _fork_.
+
+GitHub nos lo indicará con la siguiente frase: `This branch is 8 commits behind WPES:master`
+
+Significa que se han realizado 8 modificaciones desde que hicimos nuestra copia (*fork*).
+
+A continuación un ejemplo del aviso:
+
+![branch-outdated](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/branch-outdated.png)
+
+En este caso, si el archivo principal se ha adelantado a nuestra versión, tenemos dos opciones: *Contribute* o *Fetch upstream*
+
+Si ya hemos editado nuestro archivo, pulsaremos *Contribute*, aparecerá una pequeña ventana que indica que el archivo no está actualizado y nos invita a hacer un *Pull request* para fusionar nuestra edición con el archivo principal (*master*).
+
+![contribute](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/contribute.png)
+
+Si no hemos realizado aun cambios en nuestro *fork*, para trabajar en la versión aceptada más actualizada del archivo principal (*master*), podemos pulsar en *Fetch Upstream*, que nos dará a su vez dos opciones más: *Compare* o *Fetch and merge*
+
+![fetch-upstream](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/fetch-upstream.png)
+
+*Compare* nos permite comparar las distintas versiones que se han creado y *Fetch and merge* sincronizará nuestro *fork* con el archivo principal (*master*).
+
+En cualquier caso, si hubiera algún conflicto entre ambas versiones, el sistema nos avisará y nos invitará a hacer antes un *Pull request*.
+
+A continuación una imagen de lo que nos mostraría la opción *compare*:
+
+![Comparing-changes](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/Comparing-changes.png)
+
 ## Seleccionar un Issue
 
 ## Crear una rama
