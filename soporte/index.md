@@ -17,11 +17,11 @@ Algunos ejemplos de **actividades que realizamos** en soporte son:
 * Dirigir a las búsquedas cuando se realizan preguntas frecuentes (todos).
 * Eventualmente, contestar a preguntas aún sin ninguna respuesta, para animar a otros usuarios a participar (todos).
 
-## ¿Cómo colaborar en el equipo de soporte de WordPress español?
+## Cómo colaborar
 
-Para colaborar con el equipo de soporte sigue las pautas de [Cómo ayudar](https://es.wordpress.org/support/bienvenida/#c%C3%B3mo-ayudar), si tienes alguna duda en lo referente a esas pautas puedes plantearla en el canal [#colaboradores-soporte](https://wpes.slack.com/archives/C01369FSS10) de Slack. Únete siguiendo [estas instrucciones](https://es.wordpress.org/guias/chat/).
+Para colaborar con el equipo de soporte sigue las pautas de [Cómo ayudar](https://es.wordpress.org/support/bienvenida/#como-ayudar), si tienes alguna duda en lo referente a esas pautas puedes plantearla en el canal [#colaboradores-soporte](https://wpes.slack.com/archives/C01369FSS10) de Slack. Únete siguiendo las instrucciones del [Chat / Slack de España](https://es.wordpress.org/team/handbook/equipo/chat/).
 
-Si quieres participar en alguna acción de los proyectos indicados, entra en el canal de [](https://wpes.slack.com/archives/hosting/)[#foros-mods](https://wpes.slack.com/archives/C32MV89T6) de Slack, puesto que ahí es donde realizamos todas las comunicaciones y reuniones del equipo de soporte de WordPress español.
+Si quieres participar en alguna acción de los proyectos indicados, entra en el canal de [#foros-mods](https://wpes.slack.com/archives/C32MV89T6) de Slack, puesto que ahí es donde realizamos todas las comunicaciones y reuniones del equipo de soporte de WordPress español.
 
 Las reuniones son esporádicas, se convocan cuando se presenta un tema a debatir.
 
@@ -34,7 +34,7 @@ Las reuniones son esporádicas, se convocan cuando se presenta un tema a debatir
 
 * [Bienvenida a los foros](https://es.wordpress.org/support/bienvenida/).
 * [Guía del foro](https://es.wordpress.org/support/instrucciones/).
-* [Respuestas de soporte predefinidas](https://es.wordpress.org/support/manual-de-soporte/respuestas-predefinidas/). 
-* Debates sin respuesta: [https://es.wordpress.org/support/view/no-replies/](https://es.wordpress.org/support/view/no-replies/).
-* Acceder al canal de Slack: [#foros-mods](https://wpes.slack.com/archives/C32MV89T6).
-* Instrucciones para pedir [ayuda](https://es.wordpress.org/support/bienvenida/#c%C3%B3mo-pedir-ayuda).
+* [Respuestas de soporte predefinidas](https://es.wordpress.org/support/manual-de-soporte/respuestas-predefinidas/). 
+* [Debates sin respuesta](https://es.wordpress.org/support/view/no-replies/).
+* [Canal de Slack de #foros-mods](https://wpes.slack.com/archives/C32MV89T6).
+* [Cómo pedir ayuda](https://es.wordpress.org/support/bienvenida/#como-pedir-ayuda).

@@ -1,35 +1,24 @@
 # Equipo de Diseño
 
-El Equipo Global de Diseño de WordPress.org (conocido como el [Global Design Team](https://make.wordpress.org/design/)) colabora en la experiencia de usuario, la interfaz de usuario y el diseño visual de WordPress.
+El Equipo Global de Diseño de WordPress.org (conocido como el [Design Team](https://make.wordpress.org/design/)) colabora en la experiencia de usuario, la interfaz de usuario y el diseño visual de WordPress.
 
 En esta página aprenderás cómo colaborar con el equipo de Diseño de WordPress.
 
-## Cómo colaborar con el equipo de Diseño de WordPress
+## Cómo colaborar
 
 Puedes colaborar a través de tres vías:
 
-* **Internacionalmente,** contribuyendo al propio software, participando en el [Equipo de Diseño en WordPress.org.](https://make.wordpress.org/chat/)
-* **Nacionalmente,** uniéndote al [equipo de diseño](https://wpes.slack.com/messages/CAF724L03) de la comunidad española de WordPress.
-* **Localmente,** siempre puedes asistir al grupo de [Meetup](https://es.wordpress.org/colabora/comunidad/meetups-en-activo/) de WordPress de tu ciudad y ofrecer ayuda a los organizadores.
+* **Internacionalmente**, contribuyendo al propio software, participando en el [Equipo de Diseño en WordPress.org](https://make.wordpress.org/design/).
+* **Nacionalmente,** uniéndote al [equipo de diseño](https://wpes.slack.com/archives/CAF724L03) de la comunidad española de WordPress.
+* **Localmente,** siempre puedes asistir al grupo de [Meetup](https://www.meetup.com/pro/wordpress) de WordPress de tu ciudad y ofrecer ayuda a los organizadores.
 
-### Equipo Global de Diseño
+## Equipo Global
 
-#### Registro en WordPress.org
+- [Crea tu cuenta de WordPress.org](https://es.wordpress.org/team/handbook/manuales/wordpress/crear/)
+- [Chat en WordPress Global](https://wordpress.slack.com/archives/C02S78ZAL)
+- [Make WordPress Design](https://make.wordpress.org/design/)
 
-¡[Regístrate en WordPress.org](https://login.wordpress.org/register?locale=es_ES) para empezar a colaborar con WordPress!
-
-#### Comunicación en el canal de Slack
-
-Para participar en el **Equipo Global de Diseño de WordPress** tienes que acceder al canal de diseño de [Slack de Make WordPress](https://make.wordpress.org/chat/): [#design.](http://wordpress.slack.com/messages/design/) Como es un canal internacional, las charlas son en inglés.
-
-Hay dos reuniones a la semana:
-
-* Reunión de equipo
-* Triaje de tickets de Core/Meta y del editor de bloques.
-
-Puedes suscribirte al [blog](https://make.wordpress.org/design/) para enterarte de la agenda y los resúmenes de las últimas reuniones.
-
-#### Colaboración con las tareas pendientes
+### Colaboración con las tareas pendientes
 
 **Nota Importante:** Si quieres colaborar, el primer paso es [leerte el handbook](https://make.wordpress.org/design/handbook/) de cómo empezar a colaborar con el Equipo Global de Diseño de WordPress.
 

@@ -36,13 +36,13 @@ Este cheatsheet proporciona una referencia rápida para la sintaxis de Markdown,
 ## Enlaces
 
 ```markdown
-[Texto del enlace](http://url.com "Título opcional")
+[Texto del enlace](https://dominio.es "Título opcional")
 ```
 
 ## Imágenes
 
 ```markdown
-![Texto alternativo](http://url-a-la-imagen.com "Título opcional")
+![Texto alternativo](https://dominio.es/imagen.jpg "Título opcional")
 ```
 
 ## Código
