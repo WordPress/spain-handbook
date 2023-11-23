@@ -232,6 +232,8 @@ Este manual pretende ser una guía de introducción a GitHub para principiantes.
 
 ~~![pull-request-7](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/pull-request-7.png)~~
 
+# ==ESTE CAPÍTULO NO SE VA A INCLUIR EN EL MANUAL==
+
 ## Aceptación de los cambios propuestos (**solo Administradores**){#aceptar-cambios}
 
 A la hora de revisar los cambios realizados por los miembros del equipo, los administradores deberán seguir los siguientes pasos:
