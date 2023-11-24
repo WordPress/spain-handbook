@@ -36,201 +36,203 @@ Este manual pretende ser una guía de introducción a GitHub para principiantes.
 
 ![Autorizacion para enlazar las cuentas](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/6.Autorizacion.png)
 
-## Trabajar en repositorio {#repositorio}
+## ~~Trabajar en repositorio {#repositorio}~~
 
-Una vez registrados podemos acceder a la página principal de [GitHub](https://github.com/) y en la barra lateral aparecerá el listado de repositorios a los que tenemos acceso.
+~~Una vez registrados podemos acceder a la página principal de [GitHub](https://github.com/) y en la barra lateral aparecerá el listado de repositorios a los que tenemos acceso.~~
 
-Pinchamos en [WPES/spain-handbook](https://github.com/WPES/spain-handbook) para acceder al repositorio de manuales de WordPress España. En la parte superior izquierda podremos ver en todo momento en qué repositorio estamos.
+~~Pinchamos en [WPES/spain-handbook](https://github.com/WPES/spain-handbook) para acceder al repositorio de manuales de WordPress España. En la parte superior izquierda podremos ver en todo momento en qué repositorio estamos.~~
 
-Con el fin de evitar posibles errores o conflictos **es importante no trabajar nunca directamente en este repositorio principal**. Para poder editar con seguridad, crearemos una copia del repositorio principal (*fork*) que será donde trabajaremos.
+~~Con el fin de evitar posibles errores o conflictos **es importante no trabajar nunca directamente en este repositorio principal**. Para poder editar con seguridad, crearemos una copia del repositorio principal (*fork*) que será donde trabajaremos.~~
 
-### Hacer una copia del repositorio en nuestra cuenta de GitHub (*fork*) {#fork}
+### ~~Hacer una copia del repositorio en nuestra cuenta de GitHub (*fork*) {#fork}~~
 
-Crearemos el *fork* pinchando en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.
+~~Crearemos el *fork* pinchando en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.~~
 
-![Realización Fork](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/ForkCuentaPrincipal.png)
+~~![Realización Fork](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/ForkCuentaPrincipal.png)~~
 
-Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectará al repositorio original hasta que no hagamos un *Pull request* y éste no sea verificado y aprobado.
+~~Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectará al repositorio original hasta que no hagamos un *Pull request* y éste no sea verificado y aprobado.~~
 
-![Fork realizado](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/ForkRealizado.PNG)
+~~![Fork realizado](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/ForkRealizado.PNG)~~
 
 ## Edición del archivo {#edicion}
 
 ### Editar {#editar}
 
-#### Para editar
+#### ~~Para editar~~
 
-Una vez creado nuestro *fork* podemos proceder a editar el archivo, para ello pulsaremos el icono en forma de lápiz.
+~~Una vez creado nuestro *fork* podemos proceder a editar el archivo, para ello pulsaremos el icono en forma de lápiz.~~
 
 ![editar archivo](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/editar-archivo.png)
 
-#### Para validar los cambios de edición
+#### ~~Para validar los cambios de edición~~
 
-Al terminar la edición, para guardar los cambios, debemos ir al final de la página, rellenar los campos correspondientes a *commit changes* y pulsar *Commit changes*.
+~~Al terminar la edición, para guardar los cambios, debemos ir al final de la página, rellenar los campos correspondientes a *commit changes* y pulsar *Commit changes*.~~
 
-Si queremos añadir los cambios en nuestro *fork*, dejaremos seleccionada la opción "*Commit directly to the master branch.*". De lo contrario estaríamos creando una nueva rama a partir de nuestro *fork*.
+~~Si queremos añadir los cambios en nuestro *fork*, dejaremos seleccionada la opción "*Commit directly to the master branch.*". De lo contrario estaríamos creando una nueva rama a partir de nuestro *fork*.~~
 
-![commit changes](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/commit-changes.png)
+~~![commit changes](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/commit-changes.png)~~
 
-#### Inserción de imágenes
+#### ~~Inserción de imágenes~~
 
-Para insertar imágenes en el manual, éstas se subirán a la carpeta **assets** que se encuentra en la misma carpeta donde está el documento donde se va a insertar dicha imagen.
+~~Para insertar imágenes en el manual, éstas se subirán a la carpeta **assets** que se encuentra en la misma carpeta donde está el documento donde se va a insertar dicha imagen.~~
 
-A continuación, se referenciará la imagen con el comando correspondiente de *Markdown*, como se muestra a continuación:
+~~A continuación, se referenciará la imagen con el comando correspondiente de *Markdown*, como se muestra a continuación:~~
 
 ```
 ![Texto alternativo](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/imagen.jpg)
 ```
 
-Se muestra a continuación un ejemplo en el que la imagen quedará de la siguiente forma:
+~~Se muestra a continuación un ejemplo en el que la imagen quedará de la siguiente forma:~~
 
-![Ejemplo de cómo queda la imagen en el editor](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/ejemplo-imagen-insertada.jpeg)
+~~![Ejemplo de cómo queda la imagen en el editor](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/ejemplo-imagen-insertada.jpeg)~~
 
-Lo más importante es que hay que subir la imagen a la carpeta **assets** que se encuentre en la misma carpeta que el documento que se esté editando en ese momento. Para ello, hay que hacer clic sobre dicha carpeta hasta que veamos los archivos que hay dentro.
+~~Lo más importante es que hay que subir la imagen a la carpeta **assets** que se encuentre en la misma carpeta que el documento que se esté editando en ese momento. Para ello, hay que hacer clic sobre dicha carpeta hasta que veamos los archivos que hay dentro.~~
 
-![Carpeta a la que hay que subir la imagen](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/insertar-imagen-01.jpeg)
+~~![Carpeta a la que hay que subir la imagen](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/insertar-imagen-01.jpeg)~~
 
-A continuación, hay que hacer clic en el botón *Add file*, del que se desplegará un submenú. A continuación hay que hacer clic en el botón *Upload files*. De esta forma, aparecerá la página de subida de imágenes.
+~~A continuación, hay que hacer clic en el botón *Add file*, del que se desplegará un submenú. A continuación hay que hacer clic en el botón *Upload files*. De esta forma, aparecerá la página de subida de imágenes.~~
 
-![Botón subir imagen](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/insertar-imagen-02.jpeg)
+~~![Botón subir imagen](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/insertar-imagen-02.jpeg)~~
 
-Para subir la imagen es suficiente arrastrarla desde el ordenador hasta el área habilitada para ello, en la que indica el mensaje **Drag additional files herre to add them to your repository**. También se puede subir a través del enlace **choose your files**.
+~~Para subir la imagen es suficiente arrastrarla desde el ordenador hasta el área habilitada para ello, en la que indica el mensaje **Drag additional files herre to add them to your repository**. También se puede subir a través del enlace **choose your files**.~~
 
-Una vez subida la imagen, hay que rellenar la descripción del **commit** para aclarar de qué se trata la imagen, y finalmente habrá que hacer clic en el botón **commit changes**.
+~~Una vez subida la imagen, hay que rellenar la descripción del **commit** para aclarar de qué se trata la imagen, y finalmente habrá que hacer clic en el botón **commit changes**.~~
 
-![Pantalla de subida de imagen](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/insertar-imagen-03.jpeg)
+~~![Pantalla de subida de imagen](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/insertar-imagen-03.jpeg)~~
 
-Por último, para insertar la imagen en el texto, se usará el código **markdown** visto anteriormente. Por ejemplo, la imagen con la que se ha iniciado este ejemplo se llama **1.AltaGitHub.png**, y el texto alternativo que se le ha añadido es "Alta cuenta Github". Por tanto, el código utilizado es el que se muestra en la siguiente imagen.
+~~Por último, para insertar la imagen en el texto, se usará el código **markdown** visto anteriormente. Por ejemplo, la imagen con la que se ha iniciado este ejemplo se llama **1.AltaGitHub.png**, y el texto alternativo que se le ha añadido es "Alta cuenta Github". Por tanto, el código utilizado es el que se muestra en la siguiente imagen.~~
 
-![Código markdown para mostrar la imagen en el texto](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/insertar-imagen-04.jpeg)
+~~![Código markdown para mostrar la imagen en el texto](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/insertar-imagen-04.jpeg)~~
 
-El resultado será el que se muestra al principio de este apartado.
+~~El resultado será el que se muestra al principio de este apartado.~~
 
-#### Reducir el tamaño de las imágenes
+#### ~~Reducir el tamaño de las imágenes~~
 
-Aunque GitHub es muy potente y soporta imágenes de gran tamaño, es importante subir las imágenes reducidas para mejorar la experiencia del usuario que consulte el manual.
+~~Aunque GitHub es muy potente y soporta imágenes de gran tamaño, es importante subir las imágenes reducidas para mejorar la experiencia del usuario que consulte el manual.~~
 
-Por ello, se va a explicar a continuación una forma muy sencilla de reducir el tamaño de estas imágenes que se van a subir durante la edición de los manuales. Para ello se va a utilizar una aplicación gratuita [squoosh.app](https://squoosh.app/).
+~~Por ello, se va a explicar a continuación una forma muy sencilla de reducir el tamaño de estas imágenes que se van a subir durante la edición de los manuales. Para ello se va a utilizar una aplicación gratuita [squoosh.app](https://squoosh.app/).~~
 
-Con esta aplicacion solamente se puede redimensionar la imagen y reducir su tamaño de archivo (peso).
+~~Con esta aplicacion solamente se puede redimensionar la imagen y reducir su tamaño de archivo (peso).~~
 
-En cualquiera de los casos, una vez que se haya entrado en **Squoosh.app**, lo siguiente será pegar desde el portapapeles o arrastrar la imagen a la aplicación.
+~~En cualquiera de los casos, una vez que se haya entrado en **Squoosh.app**, lo siguiente será pegar desde el portapapeles o arrastrar la imagen a la aplicación.~~
 
-![Añadir la imagen a squoosh.app](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-01.jpeg)
+~~![Añadir la imagen a squoosh.app](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-01.jpeg)~~
 
-Al añadir la imagen, se observa a la izquierda el peso original de la misma, y a la derecha el peso y la reducción que aplicado el software. Se observa una reducción considerable solo por añadir la imagen a squoosh.app
+~~Al añadir la imagen, se observa a la izquierda el peso original de la misma, y a la derecha el peso y la reducción que aplicado el software. Se observa una reducción considerable solo por añadir la imagen a squoosh.app~~
 
-![Reducción de imagen inicial](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-02.jpeg)
+~~![Reducción de imagen inicial](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-02.jpeg)~~
 
-##### Redimensionar una imagen
+##### ~~Redimensionar una imagen~~
 
-Si la imagen que se va a insertar es excesivamente grande en dimensiones, esto no tendrá mucho sentido, lo máximo que se mostrará será una imagen de unos 2400px. Para ello, hay una opción llamada **Resize** que sirve para cambiar las dimensiones de la imagen.
+~~Si la imagen que se va a insertar es excesivamente grande en dimensiones, esto no tendrá mucho sentido, lo máximo que se mostrará será una imagen de unos 2400px. Para ello, hay una opción llamada **Resize** que sirve para cambiar las dimensiones de la imagen.~~
 
-![Botón resize](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-03.jpeg)
+~~![Botón resize](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-03.jpeg)~~
 
-Al activar esta opción se observan dos campos que muestran las dimensiones de la imagen. En ese caso, lo único que hay que hacer es ir a **Resize**, activar la opción y cambiar solamente el ancho de imagen (**Width**).
+~~Al activar esta opción se observan dos campos que muestran las dimensiones de la imagen. En ese caso, lo único que hay que hacer es ir a **Resize**, activar la opción y cambiar solamente el ancho de imagen (**Width**).~~
 
-![Modificación del ancho de imagen](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-04.jpeg)
+~~![Modificación del ancho de imagen](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-04.jpeg)~~
 
-![Ancho de imagen modificado](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-05.jpeg)
+~~![Ancho de imagen modificado](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-05.jpeg)~~
 
-Con este redimensionamiento de imagen veremos que se produce una reducción de tamaño de archivo considerable.
+~~Con este redimensionamiento de imagen veremos que se produce una reducción de tamaño de archivo considerable.~~
 
-![Diferencia en el peso de la imagen al cambiar las dimensiones](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-06.jpeg)
+~~![Diferencia en el peso de la imagen al cambiar las dimensiones](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-06.jpeg)~~
 
-##### Reducir el tamaño de imagen
+~~##### Reducir el tamaño de imagen~~
 
-Pero además, si no ha hecho falta redimensionar la imagen, pero el peso del archivo sigue siendo alto, existe la opción de cambiar la calidad de la imagen.
+~~Pero además, si no ha hecho falta redimensionar la imagen, pero el peso del archivo sigue siendo alto, existe la opción de cambiar la calidad de la imagen.~~
 
-Para ello, lo único que hay que hacer es mover el deslizador de **Quality** hacia la izquierda para reducir este tamaño. En todo momento, veremos debajo cuánto se reduce el peso de la imagen.
+~~Para ello, lo único que hay que hacer es mover el deslizador de **Quality** hacia la izquierda para reducir este tamaño. En todo momento, veremos debajo cuánto se reduce el peso de la imagen.~~
 
-![Deslizador Quality](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-07.jpeg)
+~~![Deslizador Quality](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-07.jpeg)~~
 
-En este ejemplo se observa la calidad de la imagen reducida a 75, que es la reducción que introduce el programa por defecto y el peso de la imagen, que es de 230kb.
+~~En este ejemplo se observa la calidad de la imagen reducida a 75, que es la reducción que introduce el programa por defecto y el peso de la imagen, que es de 230kb.~~
 
-![Deslizador y peso de la imagen a la calidad reducida por defecto](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-08.jpeg)
+~~![Deslizador y peso de la imagen a la calidad reducida por defecto](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-08.jpeg)~~
 
-A continuación, se observa cómo el peso se reduce a 109kb cuando el deslizador se desplaza a calidad 35.
+~~A continuación, se observa cómo el peso se reduce a 109kb cuando el deslizador se desplaza a calidad 35.~~
 
-![Deslizador y peso de la imagen tras reducir la calidad](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-09.jpeg)
+~~![Deslizador y peso de la imagen tras reducir la calidad](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-09.jpeg)~~
 
-En la pantalla se ve, sobre la imagen, un divisor que permite ver a la izquierda la imagen a calidad original y, a la derecha, la imagen con la nueva calidad. Lo óptimo es encontrar un punto en el que la imagen no se pixele, pero el peso de la misma no sea demasiado alto.
+~~En la pantalla se ve, sobre la imagen, un divisor que permite ver a la izquierda la imagen a calidad original y, a la derecha, la imagen con la nueva calidad. Lo óptimo es encontrar un punto en el que la imagen no se pixele, pero el peso de la misma no sea demasiado alto.~~
 
-A continuación se ve cómo, al reducir a calidad 35 la imagen, ha disminuido bastante el peso de la misma, pero no se aprecia pérdida de la calidad sobre la propia imagen.
+~~A continuación se ve cómo, al reducir a calidad 35 la imagen, ha disminuido bastante el peso de la misma, pero no se aprecia pérdida de la calidad sobre la propia imagen.~~
 
-![Comparador de imagen antes y después de la reducción](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-10.jpeg)
+~~![Comparador de imagen antes y después de la reducción](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/reducir-imagen-10.jpeg)~~
 
-De esta forma, se podrán subir al manual imágenes optimizadas, pero de calidad. Aunque lo habitual es que solo haya que pasar la imagen por el programa sin necesidad de tocar ningún ajuste.
+~~De esta forma, se podrán subir al manual imágenes optimizadas, pero de calidad. Aunque lo habitual es que solo haya que pasar la imagen por el programa sin necesidad de tocar ningún ajuste.~~
 
-### Fetch upstream {#fetch}
+### ~~Fetch upstream {#fetch}~~
 
-**Si nuestro *fork* deja de estar actualizado**
+~~**Si nuestro *fork* deja de estar actualizado**~~
 
-Cuando se trabaja en un _fork_, se trabaja paralelamente al archivo máster. Es decir, los cambios producidos en el archivo principal (_master_) no se sincronizan automáticamente con nuestro _fork_.
+~~Cuando se trabaja en un _fork_, se trabaja paralelamente al archivo máster. Es decir, los cambios producidos en el archivo principal (_master_) no se sincronizan automáticamente con nuestro _fork_.~~
 
-GitHub nos lo indicará con la siguiente frase: `This branch is 8 commits behind WPES:master`
+~~GitHub nos lo indicará con la siguiente frase: `This branch is 8 commits behind WPES:master`~~
 
-Significa que se han realizado 8 modificaciones desde que hicimos nuestra copia (*fork*).
+~~Significa que se han realizado 8 modificaciones desde que hicimos nuestra copia (*fork*).~~
 
-A continuación un ejemplo del aviso:
+~~A continuación un ejemplo del aviso:~~
 
-![branch-outdated](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/branch-outdated.png)
+~~![branch-outdated](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/branch-outdated.png)~~
 
-En este caso, si el archivo principal se ha adelantado a nuestra versión, tenemos dos opciones: *Contribute* o *Fetch upstream*
+~~En este caso, si el archivo principal se ha adelantado a nuestra versión, tenemos dos opciones: *Contribute* o *Fetch upstream*~~
 
-Si ya hemos editado nuestro archivo, pulsaremos *Contribute*, aparecerá una pequeña ventana que indica que el archivo no está actualizado y nos invita a hacer un *Pull request* para fusionar nuestra edición con el archivo principal (*master*).
+~~Si ya hemos editado nuestro archivo, pulsaremos *Contribute*, aparecerá una pequeña ventana que indica que el archivo no está actualizado y nos invita a hacer un *Pull request* para fusionar nuestra edición con el archivo principal (*master*).~~
 
-![contribute](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/contribute.png)
+~~![contribute](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/contribute.png)~~
 
-Si no hemos realizado aun cambios en nuestro *fork*, para trabajar en la versión aceptada más actualizada del archivo principal (*master*), podemos pulsar en *Fetch Upstream*, que nos dará a su vez dos opciones más: *Compare* o *Fetch and merge*
+~~Si no hemos realizado aun cambios en nuestro *fork*, para trabajar en la versión aceptada más actualizada del archivo principal (*master*), podemos pulsar en *Fetch Upstream*, que nos dará a su vez dos opciones más: *Compare* o *Fetch and merge*~~
 
-![fetch-upstream](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/fetch-upstream.png)
+~~![fetch-upstream](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/fetch-upstream.png)~~
 
-*Compare* nos permite comparar las distintas versiones que se han creado y *Fetch and merge* sincronizará nuestro *fork* con el archivo principal (*master*).
+~~*Compare* nos permite comparar las distintas versiones que se han creado y *Fetch and merge* sincronizará nuestro *fork* con el archivo principal (*master*).~~
 
-En cualquier caso, si hubiera algún conflicto entre ambas versiones, el sistema nos avisará y nos invitará a hacer antes un *Pull request*.
+~~En cualquier caso, si hubiera algún conflicto entre ambas versiones, el sistema nos avisará y nos invitará a hacer antes un *Pull request*.~~
 
-A continuación una imagen de lo que nos mostraría la opción *compare*:
+~~A continuación una imagen de lo que nos mostraría la opción *compare*:~~
 
-![Comparing-changes](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/Comparing-changes.png)
+~~![Comparing-changes](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/Comparing-changes.png)~~
 
-### Pull request {#pr}
+### ~~Pull request {#pr}~~
 
-Cuando terminamos de editar nuestro archivo podemos proceder a realizar un *pull request*, nuestro archivo se enviará al administrador para su revisión y, una vez realizadas las comprobaciones pertinentes, nuestro *fork* se fusionará con el archivo principal.
+~~Cuando terminamos de editar nuestro archivo podemos proceder a realizar un *pull request*, nuestro archivo se enviará al administrador para su revisión y, una vez realizadas las comprobaciones pertinentes, nuestro *fork* se fusionará con el archivo principal.~~
 
-Para hacer *pull request* a partir de nuestro *fork*:
+~~Para hacer *pull request* a partir de nuestro *fork*:~~
 
-1. Ir al repositorio principal y una vez allí, pulsar en *Pull requests*.
+~~1. Ir al repositorio principal y una vez allí, pulsar en *Pull requests*.~~
 
-![pull-request-1](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/pull-request-1.png)
+~~![pull-request-1](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/pull-request-1.png)~~
 
-2. En pantalla aparecerá un listado con los *pull requests* existentes en ese momento (si los hay), para crear el nuestro pulsaremos en *New pull request*.
+~~2. En pantalla aparecerá un listado con los *pull requests* existentes en ese momento (si los hay), para crear el nuestro pulsaremos en *New pull request*.~~
 
-![pull-request-2](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/pull-request-2.png)
+~~![pull-request-2](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/pull-request-2.png)~~
 
-3. En este paso tenemos la oportunidad de comparar el archivo principal con nuestra propuesta, como en nuestro caso lo estamos haciendo desde un *fork*, pulsaremos *compare accross forks*, puesto que necesitamos indicar qué dos archivos vamos a comparar.
+~~3. En este paso tenemos la oportunidad de comparar el archivo principal con nuestra propuesta, como en nuestro caso lo estamos haciendo desde un *fork*, pulsaremos *compare accross forks*, puesto que necesitamos indicar qué dos archivos vamos a comparar.~~
 
-![pull-request-3](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/pull-request-3.png)
+~~![pull-request-3](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/pull-request-3.png)~~
 
-4. Nos aparecerá un nuevo encabezado en el que podremos seleccionar nuestro *fork* pulsando en el desplegable *head repository*.
+~~4. Nos aparecerá un nuevo encabezado en el que podremos seleccionar nuestro *fork* pulsando en el desplegable *head repository*.~~
 
-![pull-request-4](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/pull-request-4.png)
+~~![pull-request-4](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/pull-request-4.png)~~
 
-5. Si no hay ningún conflicto entre ambas versiones, el sistema nos indicará *Able to merge*, lo que significa que ya podemos pulsar la opción *Create pull request*.
+~~5. Si no hay ningún conflicto entre ambas versiones, el sistema nos indicará *Able to merge*, lo que significa que ya podemos pulsar la opción *Create pull request*.~~
 
-![pull-request-5](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/pull-request-5.png)
+~~![pull-request-5](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/pull-request-5.png)~~
 
-6. En la siguiente pantalla aparecerá una ventana con los campos *Title* para poner un título a nuestra propuesta y *Write* para añadir los comentarios necesarios.
+~~6. En la siguiente pantalla aparecerá una ventana con los campos *Title* para poner un título a nuestra propuesta y *Write* para añadir los comentarios necesarios.~~
 
-Es imprescindible rellenar el campo *Title* para que se habilite la opción *Create pull request*, de lo contrario, la selección permanecerá deshabilitada.
+~~Es imprescindible rellenar el campo *Title* para que se habilite la opción *Create pull request*, de lo contrario, la selección permanecerá deshabilitada.~~
 
-![pull-request-6](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/pull-request-6.png)
+~~![pull-request-6](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/pull-request-6.png)~~
 
-7. Cuando terminamos de rellenar los campos, pulsamos sobre *create pull request* y se abre un desplegable con dos opciones como vemos en la siguiente imagen.
+~~7. Cuando terminamos de rellenar los campos, pulsamos sobre *create pull request* y se abre un desplegable con dos opciones como vemos en la siguiente imagen.~~
 
-Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para revisión.
+~~Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para revisión.~~
 
-![pull-request-7](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/pull-request-7.png)
+~~![pull-request-7](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/pull-request-7.png)~~
+
+# ==ESTE CAPÍTULO NO SE VA A INCLUIR EN EL MANUAL==
 
 ## Aceptación de los cambios propuestos (**solo Administradores**){#aceptar-cambios}
 
