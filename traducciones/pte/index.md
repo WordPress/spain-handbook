@@ -25,3 +25,5 @@ Con el fin de asegurar la mejor calidad posible para todas las traducciones (y, 
 Creemos que puedes entender que estas reglas están destinadas a brindarte la mejor localización posible para tu(s) producto(s) y darle a toda la comunidad de WP una mejor experiencia de usuario, una plataforma más sólida y un ecosistema más saludable en el que trabajar.
 
 Esperamos que todo esté claro. Si no es así, siempre puedes encontrarnos en Slack para discutir esto más a fondo.
+
+.
