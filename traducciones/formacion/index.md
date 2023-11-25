@@ -1,9 +1,10 @@
 # Formación de traductores
-Translation is a great way to contribute to WordPress if you understand English and another language. This course will guide you through the process of becoming a knowledgeable Polyglots Team contributor.
 
-- [How WordPress Translations Work](traducir.md)
-- [Working with WordPress Core](core.md)
-- [Building a Locale Glossary + Style Guide](glosario.md)
-- [Collaboration and Team Building](colaboracion.md)
-- [How to Give Good Feedback](feedback.md)
-- [Thank You!](agradecimiento.md)
+La traducción es una gran manera de contribuir a WordPress si entiendes inglés y otro idioma. Este curso te guiará a través del proceso para convertirte en un experto colaborador del Polyglots Team.
+
+- [Cómo funcionan las traducciones de WordPress](traducir.md)
+- [Trabajar con el núcleo de WordPress](core.md)
+- [Creación de un glosario local y una guía de estilo](glosario.md)
+- [Colaboración y creación de equipos](colaboracion.md)
+- [Cómo dar buenos comentarios](feedback.md)
+- [Agradecimientos](agradecimiento.md)
