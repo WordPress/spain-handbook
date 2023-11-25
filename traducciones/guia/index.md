@@ -29,3 +29,5 @@ No se deben poner dobles mayúsculas como «Subir Archivo» (Incorrecto) es un a
 ## Vídeo: Traducciones a WordPress en Español
 
 https://wordpress.tv/2019/04/03/instrucciones-para-contribuir-con-la-traducciones-de-wordpress-en-espanol/
+
+.
