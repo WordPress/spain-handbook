@@ -1,5 +1,3 @@
-
-
 ## Creación de un Glosario y Guía de estilo
 
 ### Comprender el Glosario de configuración regional de WordPress
