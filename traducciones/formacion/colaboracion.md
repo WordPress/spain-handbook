@@ -1,88 +1,135 @@
+# Colaboración y creación de equipos
 
+## Introducción a la colaboración y formación de equipos
 
-## Colaboración y formación del equipo
+Traducir **y mantener las traducciones** para una localización es mucho trabajo. Solo en el proyecto principal de WordPress hay miles de cadenas. Los plugins, temas y otros proyectos incluyen aún más.
 
-### Introducción a la colaboración y formación de equipos
+Contar con otras personas que trabajen contigo y te ayuden en este  esfuerzo es importante.
+Crear una comunidad fuerte con muchos colaboradores es una de las mejores formas de garantizar que tu idioma local se mantenga activo durante mucho tiempo.
+Al dividir el trabajo, puedes asegurarte de evitar el agotamiento y, al mismo tiempo, animar a nuevos colaboradores con diferentes perspectivas.
 
-··· IMAGEN ··· Puede haber miles de contribuyentes a un lugar. ¡Se necesita una comunidad para traducir WordPress!
+## Construyendo tu equipo
 
-Traducir (y mantener las traducciones) para una localidad es mucho trabajo. Solo en el proyecto principal de WordPress, Hay miles de cadenas. Los complementos, temas y otros proyectos incluyen aún más.
+Cuando alguien crea una nueva solicitud de localización, **el equipo global de Polyglots** recomienda contar con al menos una o dos personas más para ayudar a gestionar la localización. 
 
-Es importante que otras personas trabajen con usted y lo ayuden en estos esfuerzos. Construir una comunidad sólida con muchos colaboradores es una de las mejores maneras de garantizar que su ubicación permanezca activa durante mucho tiempo. Al dividir el trabajo, puede asegurarse de evitar el agotamiento y alentar a nuevos colaboradores con diferentes perspectivas al mismo tiempo.
+¿Por qué? La traducción no es una tarea fácil.
 
-### Construyendo tu equipo
+Con varios colaboradores, la carga de trabajo es más fácil de gestionar. Incluso si una sola persona quiere traducir el proyecto de WordPress por su cuenta, las versiones posteriores se benefician de colaboradores adicionales, por lo que todo no depende de una sola persona.
 
-Cuando alguien una nueva solicitud de configuración regional, el equipo global de Polyglots recomienda tener al menos una o dos personas más para ayudar a administrar la configuración regional.
-¿por qué? ¡La traducción no es una tarea pequeña!
+![La repercusión de las contribuciones del **Día de la Traducción**. Las nuevas contribuciones y sugerencias de cadenas a WordPress y sus proyectos de traducción relacionados.]
 
-Con múltiples colaboradores, la carga de trabajo se vuelve más fácil de manejar. Incluso si una sola persona quiere traducir el proyecto de WordPress por su cuenta, los lanzamientos posteriores se benefician de colaboradores adicionales, por lo que no todo depende de una sola persona.
+                          img.10
 
-··· IMAGEN ··· El impacto de los eventos del día de la traducción en nuevas contribuciones y sugerencias de cadenas para WordPress y sus proyectos de traducción relacionados.
+Incluso cuando una localización cuenta con varios **gestores de localización (LM) y editores generales de traducción (GTE)**, sigue siendo útil reclutar nuevos colaboradores.
 
-Incluso cuando una configuración regional tiene varios administradores de configuración regional (LM) y editores generales de traducción (GTE), sigue siendo útil reclutar nuevos colaboradores. Cuantos más colaboradores activos tenga su localidad, más recursos tendrá ese equipo para hacer cosas, como terminar las traducciones principales de WordPress a tiempo para el lanzamiento y traducir otros proyectos, como complementos o temas populares.
+Cuantos más colaboradores activos tenga una localización, más recursos tendrá el equipo para hacer cosas como terminar las traducciones del núcleo de WordPress a tiempo para el lanzamiento y traducir otros proyectos, como plugins o temas populares.
 
-Encontrar nuevos colaboradores puede ser parte de su rutina habitual como editor de traducción. En primer lugar, es importante facilitar la participación de los nuevos colaboradores. Puedes hacer esto por:
+Encontrar nuevos colaboradores puede formar parte de su rutina habitual como editor de traducciones.
 
-1. Agregar participe* como como una página traducida en el sitio Rosetta de su localidad.
-2. Traducir las páginas de primeros pasos de traducción del manual de políglotas. Luego, cree un enlace a la página traducida desde el glosario de su comunidad.
-3. Cree la versión de su localidad del documento de aclaración de PTE https://make.wordpress.org/polyglots/handbook/frequently-asked-questions/#how-do-some-locales-manage-pte-requests  puede utilizar la siguiente plantilla: https://make.wordpress.org/polyglots/handbook/for-editors/translation-collaboration-team-building-tips/skeleton-pte-onboarding/ 
-4. Asegúrese de vincular todas estas instrucciones en varios lugares relevantes como:
-	1. El comentario principal en «Glosario local». Los GTE tienen un enlace “editar” en el banner superior.
-	2. En. Mensajes a nuevos colaboradores. Puede encontrar nuevos colaboradores ordenando los proyectos de traducción de cadenas pendientes en orden de fecha inverso. Luego, puede @mencionar a un colaborador en una publicación en su sitio/team.
-	3. En respuestas a temas relevantes en los foros de soporte. Puede encontrar temas relevantes agregando el nombre de su idioma como una palabra clave observada en su configuración de notificaciones, siguiendo este enlace: https://profiles.wordpress.org/me/profile/notifications/
+En primer lugar, es importante facilitar la participación de nuevos colaboradores. Para ello Puedes realizar varias accciones como:
 
-··· IMAGEN ··· La pantalla de notificaciones para su perfil de WordPress.org es donde puede establecer palabras clave para recibir notificaciones.
+- Añadir **implicarse** como página traducida en el sitio Rosetta de su localidad.
+- Traducción de las páginas de Primeros pasos de traducción del Manual mundial de políglotas a tu idioma local. A continuación, cree un enlace a la página traducida desde el glosario de su localidad.
+- Crea la versión de tu localidad del documento de aclaración de la (**solicitud de PTE**) [https://make.wordpress.org/polyglots/handbook/frequently-asked-questions/#how-do-some-locales-manage-pte-requests].   
+Si lo deseas, puedes utilizar (**esta plantilla**). [https://make.wordpress.org/polyglots/handbook/for-editors/translation-collaboration-team-building-tips/skeleton-pte-onboarding/]
 
-### Involucrar a nuevos colaboradores
+### Asegúrate de enlazar a todas estas instrucciones en varios lugares relevantes, como:
 
-Permitir que los nuevos colaboradores sepan cómo participar es el primer paso. La participación con el equipo y la construcción de una comunidad acogedora es lo que garantiza que los demás continúen ayudando durante mucho tiempo.
+- El comentario superior sobre "Glosario de Locale". Los **GTEs** tienen un enlace "editar" en el banner superior.
+- En los mensajes a los nuevos colaboradores. Puedes encontrar nuevos colaboradores ordenando los proyectos de traducción con cadenas pendientes por orden de fecha inverso. A continuación, puedes **@mencionar** a un colaborador en un mensaje en tu sitio /team.
+- En respuestas a temas relevantes en los foros de soporte. Puedes encontrar temas relevantes añadiendo el nombre de tu idioma como palabra clave vigilada en tu (Configuración de notificaciones). [https://profiles.wordpress.org/me/profile/notifications/]
 
-También es posible crear conscientemente una cultura acogedora por defecto de su localidad. Por ejemplo, muchas localidades tienen un canal específico para traducciones o colaboradores de polyglots en su instancia local de Slack. Esto puede ayudar a los nuevos colaboradores a sentirse parte de una comunidad donde las preguntas son bienvenidas y alentadas.
+![La pantalla de Notificaciones de su perfil de WordPress.org es donde puede establecer palabras clave para recibir notificaciones.]
 
-Otras formas de involucrar a nuevos colaboradores y construir una comunidad puede incluir:
+                              img11
 
-1. Celebración de reuniones periódicas de traducción. Incluso si la reunión es tranquila, puede ser tranquilizador para los nuevos colaboradores saber que hay un momento y una forma específicos para involucrarse con los demás.
-2. Alojar Sprints de traducción, ya sea en Slack o por video. Como, por ejemplo, la configuración regional japonesa alberga una hora de trabajo semanal para cualquier persona se una mientras trabaja en las traducciones.
-3. Establezca un programa de tutoría y considere alentar a los contribuyentes a largo plazo para que ayuden a orientar a otros. Esto puede ayudar a construir conexiones dentro de su comunidad, al mismo tiempo que apoya el crecimiento y desarrollo de colaboradores más experimentados. Como ejemplo, la localidad italiana tiene un programa de tutoría en el que un nuevo colaborador puede solicitar una tutoría 1:1 con un colaborador experimentado.
+### Atraer a nuevos colaboradores
 
-Ejemplo: invitamos a todos a unirse a la instancia italiana de Slack, de esa manera podemos hacer tutorías en un chat 1:1. A continuación, se confía a la persona a un traductor experimentado que responderá a todas sus preguntas en privado. Aunque alentamos a todos a leer nuestro manual (en italiano) y les informamos sobre el manual internacional, creemos que es alentador tener la capacidad de hacer preguntas sobre lo que no está claro a alguien específico y en privado. (firmado: equipo de políglotas italianos)
+Informar a los nuevos colaboradores sobre cómo participar es el primer paso. Comprometerse activamente con el equipo y construir una comunidad acogedora es lo que garantiza que otros seguirán ayudando durante mucho tiempo. 
 
-### Colaborando en equipo
+También es posible crear conscientemente una cultura de bienvenida por defecto en su localidad. 
 
-Si bien reclutar e involucrar a nuevos colaboradores ayuda a aumentar el tamaño de la comunidad, los procesos diarios ayudan a mantener una comunidad activa y saludable. Al considerar la organización de su equipo, estos consejos pueden ayudara fomentar la participación de otros colaboradores nuevos o activos.
+Por ejemplo, muchas locales tienen un canal específico para traductores o colaboradores políglotas en su espacio local de Slack.
 
-1. Delegación de tareas:
-	1. Muestre claramente las llamadas abiertas de ayuda o la priorización de proyectos para traducir, por ejemplo, qué complementos/temas principales traducir, como traducir artículos de HelpHub, o la documentación necesaria para su manual local. Esto puede ayudar a los nuevos contribuyentes a saber dónde pueden tener en mayor impacto.
-	2. Evite el modelo de guardián y otorgue los permisos adecuados a los miembros, es decir, al editor de traducción del proyecto (PTE) o al moderador del foro, para distribuir el trabajo.
-	3. Establezca una guía de estilo y un glosario para comunicar las pautas de traducción.
-	4. Crear oportunidades para el liderazgo. Permita que los colaboradores lideren un proyecto, incluso si solo significa ser alguien que puede responder preguntas.
-2. Administración de tareas.
-	1. Use la hoja de cálculo compartida públicamente, Trello o cualquier otra herramienta de administración de tareas para organizar quién es el responsable y el progreso/estado. Esto asegura que los demás conozcan el trabajo del equipo y les permite ofrecer ayuda.
-	2. Escriba una lista de a quién pueden preguntar los traductores sobre diferentes proyectos. Por ejemplo, si hay una persona que dirige la traducción de un complemento específico o dirige la documentación, se puedan encontrar fácilmente para solicitarles ayuda.
-3. Documentación
-	1. Cree una página de resumen de traducción de WordPress en /team/handbook. Se pueden encontrar ejemplos de glosarios y guías de estilo por página de configuración regional.
-	2. Intenta incorporar cualquier proceso o expectativa en la documentación de tu localidad o mensajes de bienvenida en Slack.
+Esto puede ayudar a que los nuevos colaboradores se sientan parte de una comunidad en la que las preguntas son bienvenidas y alentadas.
 
-··· IMAGEN ··· Una captura de pantalla del blog del equipo francés (fr_FR), que incluye instrucciones sobre cómo ponerse en contacto con el equipo, cómo unirse a las reuniones del equipo y cómo unirse al Slack del equipo, incluido un video para la configuración.
+Otras formas de atraer a nuevos colaboradores y crear comunidad pueden ser:
 
-Delinear claramente las tareas y necesidades disponibles es realmente útil para los nuevos colaboradores. A veces, es difícil saber por dónde empezar. Cuando los miembros de la comunidad crean este tipo de documentación, permite que otros identifiquen dónde sus habilidades pueden ser más útiles y se ofrezcan como voluntarios pata ayudar.
+- Celebrar reuniones periódicas de traducción. Incluso si la reunión es tranquila, puede ser tranquilizador para los nuevos colaboradores saber que hay un momento específico y una manera de involucrarse con los demás.
+
+- Organizar jornadas de traducción, ya sea en Slack o por vídeo. Por ejemplo, la sede japonesa organiza una hora de trabajo semanal a la que cualquiera puede unirse mientras trabaja en las traducciones.
+
+- Establecer un programa de mentores y animar a los colaboradores a largo plazo a que ayuden a otros. Esto puede ayudar a crear conexiones dentro de su comunidad, al tiempo que apoya el crecimiento y el desarrollo de los colaboradores más experimentados.
+Por ejemplo, la localidad italiana cuenta con un programa de mentores en el que un nuevo colaborador puede solicitar una tutoría personalizada con un colaborador experimentado.
+
+Normalmente, invitamos a todo el mundo a unirse a la instancia italiana de Slack, de esa forma podemos hacer la tutoría en un chat 1:1. A continuación, la persona es confiada a un traductor experimentado que responderá a todas sus preguntas en privado. Aunque animamos a todo el mundo a leer nuestro manual (en italiano) y les informamos del manual internacional, creemos que es alentador tener la posibilidad de hacer preguntas sobre lo que no está claro para alguien en concreto y en privado.
+_"Equipo de políglotas de Italia"_.
+
+## Colaboración en equipo
+
+Aunque reclutar y atraer a nuevos colaboradores ayuda a aumentar el tamaño de una comunidad, los procesos cotidianos contribuyen a mantener una comunidad activa y saludable. A la hora de organizar el  equipo, estos consejos pueden ayudar a fomentar la participación de más colaboradores nuevos o activos:
+
+### Delegación de tareas:
+
+- Muestra claramente las peticiones de ayuda abiertas o la priorización de proyectos para traducir, por ejemplo, qué plugins/temas principales se deben traducir primero, cómo traducir los artículos del HelpHub o la documentación necesaria para tu manual de localización. Esto puede ayudar a los nuevos colaboradores a saber dónde pueden tener más impacto.
+
+- Evita el modelo de portero y concede los permisos adecuados a los miembros, es decir, al Editor de Traducción de Proyectos (PTE) o al moderador del foro, para distribuir el trabajo.
+Establece una guía de estilo y un glosario para comunicar las directrices de traducción.
+
+- Crea oportunidades de liderazgo. Permite que los colaboradores lideren un proyecto, aunque solo sea para responder a preguntas.
+
+### Gestión de tareas:
+
+- Utiliza una hoja de cálculo compartida públicamente, Trello o cualquier otra herramienta de gestión de tareas para organizar quién es responsable y el progreso/estado. Esto garantiza que los demás estén al tanto del trabajo del equipo y les permite ofrecer ayuda.
+
+- Escribe una lista de a quiénes pueden preguntar los traductores sobre los distintos proyectos. Por ejemplo, si una persona dirige la traducción de un plugin específico o la documentación del HelpHub, crea una lista fácil de encontrar para que los nuevos colaboradores sepan dónde pedir ayuda.
+
+### Documentación:
+
+- Crea una página de resumen de la traducción de WordPress en /team/handbook.
+Puedes encontrar ejemplos en la página de (**glosarios y guías de estilo por localización**). [https://make.wordpress.org/polyglots/handbook/translating/list-of-glossaries-per-locale/]
+
+- Intenta incorporar cualquier proceso o expectativa en la documentación de tu localización o en los mensajes de bienvenida en Slack.
+
+![Captura de pantalla del blog del equipo de la localidad francesa (fr_FR), que incluye instrucciones sobre cómo ponerse en contacto con el equipo, cómo unirse a las reuniones del equipo y cómo unirse al Slack del equipo, incluido un vídeo de configuración.]
+
+                           img.12
+
+Definir claramente las tareas disponibles y las necesidades es realmente útil para los nuevos colaboradores.
+
+A veces es difícil saber por dónde empezar. Cuando los miembros de la comunidad crean este tipo de documentación, permiten que otros identifiquen dónde pueden ser más útiles sus habilidades y se ofrezcan voluntarios para ayudar.
 
 ### Herramientas para trabajar en equipo
 
-Cada lugar determina qué estructura y herramientas funcionan mejor para ellos. Al considerar qué herramientas usar, lo más importante es que las herramientas respalden los procesos. Las herramientas deben respaldar, no crear más trabajo.
+Cada lugar determina la estructura y las herramientas que mejor le funcionan.
 
-Algunas herramientas de colaboración que han funcionado para otros lugares incluyen:
+A la hora de decidir qué herramientas utilizar, lo más importante es que apoyen sus procesos. Las herramientas deben apoyar su trabajo, no crear más trabajo.
 
-1. [Documentos Google](https://docs.google.com/). Google docs es probablemente la herramienta más fácil para comenzar con la traducción colaborativa de una documentación o publicación de blog. Este artículo es útil, si deseas más información sigue este enlace: https://medium.com/@RaoOfPhysics/a-guide-to-collaborative-translation-workflows-48c259100614
-2. [OmegaT](https://omegat.org/). OmegaT es una aplicación de memoria de traducción gratuita. Combinado con un repositorio Git, Puede ser útil para un equipo de traductores colaborar en contenido de formatolargo actualizado continuamente.
-3. [GitHub](https://github.com/). Esta puede ser una buena opción si muchos de sus traductores se sienten. Cómodos con los comandos de Git o la GUI, o pueden aprender a usarlos. Como, por ejemplo, el quipo japonés lo usa para la traducción del manual de la comunidad. Puedes verlo en el siguiente enlace: https://github.com/jawordpressorg/community-handbook
+Algunas herramientas de colaboración que han funcionado en otras localidades son:
 
-### Colaborando en equipo
+- (Google Docs) [https://docs.google.com/document/u/0/]
 
-¡Muchos colaboradores de Polyglots llegan al proyecto queriendo ayudar a traducir, no a construir una comunidad!
+Google Docs es probablemente la herramienta más sencilla para iniciarse en la traducción colaborativa de documentación o entradas de blog.
 
-Sin embargo, como proyecto de traducción de código abierto, dedicar tiempo a la construcción de la comunidad es una forma eficaz de aumentar y mejorar la cantidad de traducciones a su idioma.
+Este artículo te resultará útil si desea obtener más información: (Guía de flujos de trabajo de traducción colaborativa). [https://medium.com/@RaoOfPhysics/a-guide-to-collaborative-translation-workflows-48c259100614]
 
-La construcción de comunidad está relacionada con la construcción de confianza. A medida que se genera confianza dentro de un equipo, los colaboradores pueden trabajar juntos de manera más eficaz y eficiente. Al considerar los esfuerzos para dar y recibir comentarios (consulte la lección relacionada en este curso), la construcción de una comunidad genera confianza y una cultura en la que los colaboradores se sienten cómodos compartiendo sus comentarios e ideas.
+- (OmegaT) [https://omegat.org/]
 
-Al incorporar el alcance en sus tareas habituales o configurar su entorno local. Para que sea fácil para los nuevos colaboradores involucrarse, crea un entorno más acogedor. Alienta a otros a contribuir a la comunidad y fortalece el equipo cuando planifica y prioriza proyectos en su localidad con transparencia. Con un equipo de localización fuerte y dinámico, se asegura de que WordPress y sus proyectos relacionados se traduzcan en su entorno local durante mucho, mucho tiempo.
+OmegaT es una aplicación gratuita de memoria de traducción.
+Combinada con un repositorio Git, puede ser útil para que un equipo de traductores colabore en la actualización continua de contenidos de formato largo.
+
+- (GitHub) [https://github.com/] o (GitLab) [https://about.gitlab.com/]
+
+Puede ser una buena opción si muchos de tus traductores se sienten cómodos con los comandos o la interfaz gráfica de Git, o pueden aprender a usarla. 
+
+Por ejemplo, el equipo japonés lo utiliza para traducir el (Manual de la Comunidad) [https://github.com/jawordpressorg/community-handbook].
+
+## Repaso general de la colaboración y la creación de equipos
+
+Muchos colaboradores de Polyglots llegan al proyecto con la intención de ayudar a traducir, ¡no de construir una comunidad! Sin embargo, como proyecto de traducción de código abierto, dedicar tiempo a la creación de una comunidad es una forma eficaz de aumentar y mejorar el número de traducciones a su idioma.
+
+La creación de comunidad está relacionada con la creación de confianza. A medida que aumenta la confianza dentro de un equipo, los colaboradores pueden trabajar juntos de forma más eficaz y eficiente. Al considerar los esfuerzos para dar y recibir comentarios, la creación de comunidades genera confianza y una cultura en la que los colaboradores se sienten cómodos compartiendo sus comentarios e ideas.
+
+Al incorporar la divulgación a tus tareas habituales o configurar tu local de modo que facilite a los nuevos colaboradores participar, crea un entorno más acogedor.
+
+Anima a otros a contribuir a la comunidad y fortalece el equipo cuando planifiques y priorices proyectos en tu localización con transparencia. Con un equipo de localización fuerte y dinámico, te aseguras de que WordPress y sus proyectos relacionados se traduzcan a tu localización durante mucho, mucho tiempo.
