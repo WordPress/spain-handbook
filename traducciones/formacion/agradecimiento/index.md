@@ -2,7 +2,7 @@
 
 Gracias por llegar aquí. A estas alturas deberías sentirte con más seguridad sobre cómo funcionan las traducciones de WordPress, las herramientas para ayudar con la coherencia y las formas de construir y fortalecer tu comunidad local.
 
-A medida que continúes contribuyendo a tu equipo local de traducores, hay algunos recursos adicionales que pueden ser útiles:
+A medida que continúes contribuyendo a tu equipo local de traductores, hay algunos recursos adicionales que pueden ser útiles:
 
 - El blog del [equipo Make/Polyglots](https://make.wordpress.org/polyglots/) para seguir las noticias y debates globales sobre Polyglots.
 - El [manual del equipo Make/Polyglots](https://make.wordpress.org/polyglots/handbook/).
