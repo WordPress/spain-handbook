@@ -18,7 +18,7 @@ Algunos ejemplos de **actividades que realizamos en accesibilidad** son:
 
 ¿Es necesario saber programar? ¡No! Cualquier persona que pueda usar WordPress puede colaborar en tareas de accesibilidad porque es un trabajo colectivo: diseño, programación, contenidos, etc. El único requisito es querer colaborar.
 
-Las **tareas del equipo** estarán organizadas en [Trello](https://trello.com/b/iOWyBsTl/marketingwp-espa%C3%B1a) y la documentación se desarrollará en [Google Drive](https://drive.google.com/drive/folders/1qZrFldwzDpUE8YiEZqENFlnnEWiOqiTu). A ambas plataformas tendrás acceso para participar en la realización de los proyectos una vez que te unas al equipo y solicites acceso a [@visanju](https://profiles.wordpress.org/visanju/).
+Las **tareas del equipo** estarán organizadas en [Trello](https://trello.com/b/iOWyBsTl/marketingwp-espa%C3%B1a) y la documentación se desarrollará en [Google Drive](https://drive.google.com/drive/folders/1qZrFldwzDpUE8YiEZqENFlnnEWiOqiTu). Deberás solicitar acceso a ambas plataformas a [@visanju](https://profiles.wordpress.org/visanju/).
 
 Por norma general, las **reuniones** no son periódicas y se convocan a petición de cualquier miembro de la comunidad WordPress. La forma de hacer la solicitud es o bien en el canal de accesibilidad o bien por mensajería privada con [@visanju](https://profiles.wordpress.org/visanju/).
 
@@ -32,3 +32,4 @@ Por norma general, las **reuniones** no son periódicas y se convocan a petició
 - [Themes Accessibility](https://developer.wordpress.org/themes/functionality/accessibility/): Requisitos accesibilidad del manual de desarrollo de temas para WordPress.
 - [Themes Review Accessibility](https://make.wordpress.org/themes/handbook/review/accessibility/): Revisión de accesibilidad del manual de revisión de temas de WordPress.
 - [Accessibility Ready WordPress Themes — WordPress.com](https://wordpress.org/themes/tags/accessibility-ready/): Temas de WordPress en el repositorio que han pasado la revisión de accesibilidad.
+- [Accessibility Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/accessibility/): Estándar de accesibilidad para el código de WordPress
