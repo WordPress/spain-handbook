@@ -16,9 +16,7 @@ En otra sección de este módulo se explicarán con más exactitud estos roles d
 
 El equipo global de Políglotas también cuenta con el rol de **(Mentores Globales)** [https://make.wordpress.org/polyglots/handbook/polyglots-global-team-leads-and-mentors/#current-polyglots-global-team] que pueden ayudar y orientar a los colaboradores con preguntas sobre el proceso de traducción, la colaboración en equipo y otros aspectos que puedan surgir.
 
-![Estructura básica de un grupo de traducción]
-
-                             img.1
+![Estructura básica de un grupo de traducción] (img.1.webp)
 
 ## ¿Qué traduimos?
 
@@ -69,15 +67,11 @@ Si aún no estás seguro de por dónde seguir, puedes decidir basándote en el i
 
 Existen dos formas de traducir texto relacionado con proyectos de WordPress (además de algunas excepciones diversas).
 
-![En la plataforma translate.wordpress.org]
-
-                             img.2
+![Número de cadenas y su prioridad] (img.2.webp)
 
 (translate.wordpress.org) [https://translate.wordpress.org/] es una plataforma de traducción colaborativa basada en la web para el proyecto WordPress, impulsada por un plugin de WordPress llamado GlotPress. En esta plataforma, cualquier persona con una cuenta de usuario en wordpress.org puede participar en la traducción del propio software de WordPress, temas y plugins alojados en wordpress.org, varios sitios web oficiales y aplicaciones móviles.
 
-![menú principal de la página de traducción local] 
-                            
-                             img.3
+![menú principal de la página de traducción local] (img.3.webp)
 
 Para obtener más información sobre cómo utilizar la plataforma, visita la página 'translate.wordpress.org (GlotPress)' en el(Manual de Políglotas). [https://make.wordpress.org/polyglots/handbook/translating/glotpress-translate-wordpress-org/]
 
@@ -131,9 +125,7 @@ Depende de cada equipo decidir la asignación, pero animamos a los **GTE** a for
 
 Puede consultar la lista de colaboradores de traducción accediendo a la página Equipos de traducción y haciendo clic en el enlace (Ver página del equipo) [https://make.wordpress.org/polyglots/teams/] correspondiente a su idioma local.
 
-![ejemplo del equipo local de Español_México]
-
-                               img.4
+![ejemplo del equipo local de Español_México] (img.4,webp)
 
 Aquí tienes una lista con el ejemplo de los miembros del equipo del idioma local español (México), es_MX.
 La sección Colaboradores de traducción actuales muestra a todos los que han estado activos en los últimos 12 meses y la sección Colaboradores de traducción anteriores muestra a los que estuvieron activos hace 1 año o más.
