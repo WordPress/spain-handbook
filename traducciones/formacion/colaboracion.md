@@ -16,9 +16,7 @@ Cuando alguien crea una nueva solicitud de localización, **el equipo global de 
 
 Con varios colaboradores, la carga de trabajo es más fácil de gestionar. Incluso si una sola persona quiere traducir el proyecto de WordPress por su cuenta, las versiones posteriores se benefician de colaboradores adicionales, por lo que todo no depende de una sola persona.
 
-![La repercusión de las contribuciones del **Día de la Traducción**. Las nuevas contribuciones y sugerencias de cadenas a WordPress y sus proyectos de traducción relacionados.]
-
-                          img.10
+![La repercusión de las contribuciones del **Día de la Traducción**. Las nuevas contribuciones y sugerencias de cadenas a WordPress y sus proyectos de traducción relacionados.] (img.10,webp)
 
 Incluso cuando una localización cuenta con varios **gestores de localización (LM) y editores generales de traducción (GTE)**, sigue siendo útil reclutar nuevos colaboradores.
 
@@ -39,9 +37,7 @@ Si lo deseas, puedes utilizar (**esta plantilla**). [https://make.wordpress.org/
 - En los mensajes a los nuevos colaboradores. Puedes encontrar nuevos colaboradores ordenando los proyectos de traducción con cadenas pendientes por orden de fecha inverso. A continuación, puedes **@mencionar** a un colaborador en un mensaje en tu sitio /team.
 - En respuestas a temas relevantes en los foros de soporte. Puedes encontrar temas relevantes añadiendo el nombre de tu idioma como palabra clave vigilada en tu (Configuración de notificaciones). [https://profiles.wordpress.org/me/profile/notifications/]
 
-![La pantalla de Notificaciones de su perfil de WordPress.org es donde puede establecer palabras clave para recibir notificaciones.]
-
-                              img11
+![La pantalla de Notificaciones de su perfil de WordPress.org es donde puede establecer palabras clave para recibir notificaciones.] (img.11.webp)
 
 ### Atraer a nuevos colaboradores
 
@@ -91,9 +87,7 @@ Puedes encontrar ejemplos en la página de (**glosarios y guías de estilo por l
 
 - Intenta incorporar cualquier proceso o expectativa en la documentación de tu localización o en los mensajes de bienvenida en Slack.
 
-![Captura de pantalla del blog del equipo de la localidad francesa (fr_FR), que incluye instrucciones sobre cómo ponerse en contacto con el equipo, cómo unirse a las reuniones del equipo y cómo unirse al Slack del equipo, incluido un vídeo de configuración.]
-
-                           img.12
+![Captura de pantalla del blog del equipo de la localidad francesa (fr_FR), que incluye instrucciones sobre cómo ponerse en contacto con el equipo, cómo unirse a las reuniones del equipo y cómo unirse al Slack del equipo, incluido un vídeo de configuración.] (img.12.webp)
 
 Definir claramente las tareas disponibles y las necesidades es realmente útil para los nuevos colaboradores.
 
