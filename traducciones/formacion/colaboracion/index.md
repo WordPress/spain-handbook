@@ -26,13 +26,13 @@ Encontrar nuevos colaboradores puede formar parte de su rutina habitual como edi
 
 En primer lugar, es importante facilitar la participación de nuevos colaboradores. Para ello Puedes realizar varias accciones como:
 
-- Añadir **Contribuye** como página traducida en el sitio Rosetta de su localidad.
+- Añadir **Colabora** como página traducida en el sitio Rosetta de tu locale.
 - Crear una [Guía de traductores](https://es.wordpress.org/team/handbook/traducciones/guia/).
 - Crea la guía de [Cómo ser PTE](https://es.wordpress.org/team/handbook/traducciones/pte/). Se puede [usar esta plantilla](https://make.wordpress.org/polyglots/handbook/for-editors/translation-collaboration-team-building-tips/skeleton-pte-onboarding/).
 
 Asegúrate de enlazar a todas estas instrucciones en varios lugares relevantes, como:
 
-- El comentario superior sobre "Glosario de Locale". Los **GTEs** tienen un enlace "editar" en el banner superior.
+- El comentario superior sobre «Locale Glossary». Los **GTEs** tienen un enlace «Edit» en el banner superior.
 - En los mensajes a los nuevos colaboradores. Puedes encontrar nuevos colaboradores ordenando los proyectos de traducción con cadenas pendientes por orden de fecha inverso. A continuación, puedes **@mencionar** a un colaborador en un mensaje en tu sitio /team.
 - En respuestas a temas relevantes en los foros de soporte. Puedes encontrar temas relevantes añadiendo el nombre de tu idioma como palabra clave vigilada en tu [Configuración de notificaciones](https://profiles.wordpress.org/me/profile/notifications/).
 
@@ -65,7 +65,6 @@ Aunque reclutar y atraer a nuevos colaboradores ayuda a aumentar el tamaño de u
 ### Delegación de tareas
 
 - Muestra claramente las peticiones de ayuda abiertas o la priorización de proyectos para traducir, por ejemplo, qué plugins y temas principales se deben traducir primero, cómo traducir los artículos del HelpHub o la documentación necesaria para tu manual de localización. Esto puede ayudar a los nuevos colaboradores a saber dónde pueden tener más impacto.
-- Evita el modelo de _portero de discoteca_ y concede los permisos adecuados a los miembros, es decir, al PTE o al moderador del foro, para distribuir el trabajo.
 - Establece una guía de estilo y un glosario para comunicar las directrices de traducción.
 - Crea oportunidades de liderazgo. Permite que los colaboradores lideren un proyecto, aunque solo sea para responder a preguntas.
 
@@ -77,7 +76,7 @@ Aunque reclutar y atraer a nuevos colaboradores ayuda a aumentar el tamaño de u
 ### Documentación
 
 - Crea una página de resumen de la traducción de WordPress en [/team/handbook](https://es.wordpress.org/team/handbook/traducciones/).
-- Intenta incorporar cualquier proceso o expectativa en la documentación de tu localización o en los mensajes de bienvenida en Slack.
+- Intenta incorporar cualquier proceso o expectativa en la documentación de tu locale o en los mensajes de bienvenida en Slack.
 
 ![Captura de pantalla del blog del equipo de la localidad francesa (fr_FR), que incluye instrucciones sobre cómo ponerse en contacto con el equipo, cómo unirse a las reuniones del equipo y cómo unirse al Slack del equipo, incluido un vídeo de configuración](https://raw.githubusercontent.com/WPES/spain-handbook/main/assets/traducciones-formacion-traducir-12.webp)
 
@@ -105,7 +104,7 @@ Visita su página desde [GitHub](https://github.com/)
 
 Google Docs es probablemente la herramienta más sencilla para iniciarse en la traducción colaborativa de documentación o entradas de blog.
 
-Puedes encontrar más informació en [A Guide to Collaborative Translation Workflows](https://medium.com/@RaoOfPhysics/a-guide-to-collaborative-translation-workflows-48c259100614).
+Puedes encontrar más información en [A Guide to Collaborative Translation Workflows](https://medium.com/@RaoOfPhysics/a-guide-to-collaborative-translation-workflows-48c259100614).
 
 Visita su página desde [Google Docs](https://docs.google.com/)
 
@@ -121,6 +120,6 @@ Visita su página desde [Poedit](https://poedit.net/)
 
 OmegaT es una aplicación gratuita de memoria de traducción.
 
-Combinada con un repositorio Git, puede ser útil para que un equipo de traductores colabore en la actualización continua de contenidos de formato largo.
+Combinada con un repositorio Git, puede ser útil para que un equipo de traductores colabore en la actualización continua de contenidos extensos.
 
 Visita su página desde [OmegaT](https://omegat.org/)
