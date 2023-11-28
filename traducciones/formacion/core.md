@@ -21,9 +21,7 @@ Gettext utiliza la traducción a nivel de mensaje. Cada “mensaje” que se mue
 
 Busca en el módulo de localización la traducción de ‘mensaje’ y pasa la traducción a la declaración de retorno de PHP. Si no encuentra ninguna traducción para ‘mensaje’, simplemente devuelve ‘mensaje’.
 
-![Un ejemplo de la página Configuración > General] Cadena de traducción disponible.
-
-                             img.5
+![Un ejemplo de la página Configuración > General] (img.5.webp)
 
 **Hay tres tipos de archivos utilizados en el marco de traducción Gettext.**
 
@@ -65,9 +63,7 @@ Aunque GNU gettext funciona bien para la mayoría de los aspectos de WordPress, 
 - license.txt: Por razones legales, debe mantenerse en inglés. Sin embargo, puede añadir una versión traducida al archivo.
 - wp-config-sample.php
 
-![Un ejemplo de archivo wp-config-sample.php traducido.]
-
-                           img.6
+![Un ejemplo de archivo wp-config-sample.php traducido.] (img.6.webp)
 
 ### Parámetros de localización
 
@@ -83,9 +79,7 @@ Como se mencionó anteriormente, muchas localizaciones contribuyen con traduccio
 
 Para plugins, temas y otros proyectos en translate.wordpress.org, los paquetes de idiomas se publicarán automáticamente cuando el proyecto esté traducido al menos en un 90%.
 
-![Ejemplo de un plugin que no ha alcanzado el umbral para su liberación.]
-
-                          img.7
+![Ejemplo de un plugin que no ha alcanzado el umbral para su liberación.] (img.7.webp)
 
 Cuando se publica una nueva versión del plugin/tema con cadenas añadidas o actualizadas, las nuevas traducciones aprobadas para el proyecto siempre activarán la creación de un nuevo paquete de idioma.
 
