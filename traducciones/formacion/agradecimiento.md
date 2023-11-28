@@ -1,15 +1,25 @@
-## Gracias y recursos
+# Agradecimientos y recursos
 
-¡Gracias por completar el entrenamiento polyglots! A estas alturas, debería sentirse más seguro acerca de cómo funcionan las traducciones de WordPress, las herramientas para ayudarlo con coherencia y las formas de construir y fortalecer su comunidad local.
+Gracias por completar el curso de formación para políglotas. A estas alturas, deberías sentirte más seguro sobre cómo funcionan las traducciones de WordPress, las herramientas para ayudar con la coherencia y las formas de construir y fortalecer tu comunidad local.
 
-A medida que continúe contribuyendo a polyglots, existen algunos recursos adicionales que pueden ser útiles:
+A medida que continúes contribuyendo a tu equipo local de Polyglots, hay algunos recursos adicionales que pueden ser útiles:
+s
+- El blog del (equipo Make/Polyglot)[https://make.wordpress.org/polyglots/]
+Para seguir las noticias y debates globales sobre Polyglots.
 
-1. El blog del equipo de make/Polyglots, para seguir las noticias y debates globales de polyglots en el siguiente enlace: https://make.wordpress.org/polyglots/
-2. El manual internacional de polyglots en el siguiente enlace: https://make.wordpress.org/polyglots/handbook/
-3. La instancia Making WordPress Slack, donde puede unirse al canal #polyglots para conectarse con otros colaboradores a nivel mundial.
+- (El manual internacional para políglotas).[https://make.wordpress.org/polyglots/handbook/]
 
-Si nota algún error o tiene alguna sugerencia para mejorar este curso, ¡compártelo! Tus comentarios son siempre bienvenidos y ayudan a garantizar que esta información sea clara y útil para todos lo slectores. Puede compartir cualquier pregunta o comentario en el canal global de Slack #polyglots o a través del enlace háganos saber en este sitio.
+- La (instancia de Slack de Making WordPress) [https://make.wordpress.org/chat/] donde puedes unirte al canal global #polyglots para conectar con otros colaboradores de todo el mundo.
 
-### Agradecimientos
+Si detectas algún error o tienes alguna sugerencia para mejorar este curso, ¡compártelo! Tu retroalimentación es bienvenida y ayuda a asegurar que esta información sea clara y útil para todos los que la lean.
+Puedes compartir cualquier pregunta o comentario en el(canal global Polyglots Slack) [https://wordpress.slack.com/?redir=%2Fmessages%2Fpolyglots] o a través del enlace (Let Us Know) [https://learn.wordpress.org/report-content-feedback/] en este sitio.
 
-Gracias a quienes contribuyeron con este curso: @nao, @evarlese, @psmits1567, @vladytimy, @lidialab, @yoga1103, @arasae, @markscottrobson.
+## Agradecimientos
+
+Gracias a quienes contribuyeron a este curso: (@nao)[https://profiles.wordpress.org/nao/](@evarlese)[https://profiles.wordpress.org/evarlese/]
+(@psmits1567)[https://profiles.wordpress.org/psmits1567/]
+(@vladytimy)[https://profiles.wordpress.org/vladytimy/]
+(@lidialab)[https://profiles.wordpress.org/lidialab/]
+(@yoga1103)[https://profiles.wordpress.org/yoga1103/]
+(@arasae)[https://profiles.wordpress.org/arasae/]
+(@markscottrobson)[https://profiles.wordpress.org/markscottrobson/]
