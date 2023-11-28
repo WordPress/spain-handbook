@@ -1,30 +1,161 @@
+# Cómo dar un buen comentario
 
+## Introducción a la retroalimentación positiva
 
-## Recibir comentarios
+La retroalimentación es una parte importante de cualquier equipo. En su forma más básica, La retroalimentación es simplemente información. Es información que permite a un equipo, producto o persona saber si se está acercando o alejando de su objetivo.
 
-Hasta ahora, nos hemos centrado en la forma de dar retroalimentación. Pero ¿Qué pasa cuando recibimos comentarios?
+![Proceso de una cadena de traducción y su posible retroalimentación] (img.13.webp)
 
-La retroalimentación debe ser una conversación abierta. En otras palabras, va en ambas direcciones. Puede enviar comentarios a un colega o a un nuevo traductor y ellos, a su vez, pueden tener comentarios para compartir con usted. Al recibir los comentarios:
+En la comunidad de traductores de WordPress, la retroalimentación ayuda a  compartir información con los colaboradores para que todos trabajen juntos hacia un objetivo común. 
 
-1. Mantenga una mente abierta. Puede parecer que los comentarios son sobre usted, pero intente escuchar lo que la otra persona quiere decirle. Cuando enfoca sus comentarios a expresar que se trata de una retroalimentación, es posible que descubra que puede encontrar solución realmente buena.
-2. Agradezca a la persona que le realiza un comentario. Se necesita tiempo para revisar el trabajo de alguien y compartir comentarios reflexivos. Incluso sin estar de acuerdo de inmediato con los comentarios que recibe, es importante la amabilidad y saber reconocer el esfuerzo de la persona que emite el comentario.
-3. Centrarse en objetivos comunes. Tal vez no estés de acuerdo con una regla de la guía de estilo o quieres priorizar un proyecto diferente al del resto de tu equipo. En esta última instancia, el objetivo es el mismo: brindar a los usuarios finales la mejor experiencia WordPress en su propio idioma. ¿Cómo se puede tomar un objetivo común y encontrar una mejor solución?
-4. Comprométete a cambiar. Una vez que tú y la otra persona han llegado a un acuerdo sobre lo que se debe cambiar, ¡es importante hacer un seguimiento de ese cambio! La buena retroalimentación es importante, pero actuar en base a la retroalimentación aún lo es más.
+En el caso de los administradores y editores de traducciones, esto puede consistir en explicar por qué se ha rechazado una traducción, o en hacer comentarios sobre un cambio propuesto en el glosario o la guía de estilo de la localización.
 
-### Gestión de desacuerdos
+Es habitual tener miedo a los comentarios, ¡tanto a recibirlos como a darlos! Las traducciones de WordPress las realizan voluntarios que ponen mucho empeño en sus contribuciones.
 
-Recibir retroalimentación a menudo puede desencadenar una respuesta emocional en las personas. Para la persona que ofrece esta retroalimentación, puede ser difícil tener que lidiar con la frustración, la tristeza o incluso la ira después de pasar tiempo revisando y escribiendo comentarios para alguien.
+Los comentarios, especialmente los negativos, pueden parecer personales.
 
-Primero, está bien sentirse enojado o frustrado si alguien responde a sus comentarios de una manera muy crítica. ¡Puede sentirse dolido cuando alguien no asume que tiene una intención positiva! Es importante darle tiempo y espacio para permitir que las emociones se asienten antes de volver a retomar la conversación.
+Pero también puede generar confianza y formas saludables de comunicación dentro de un equipo, permitiendo a los nuevos colaboradores crecer a través de los comentarios que reciben. 
 
-Cuando vuelvas a revisar la conversación, trata de entender lo que la persona te está diciendo realmente. ¿Realmente no están de acuerdo con el término que sugieres o hay una frustración más profunda? Trate de escuchar abiertamente, para poder comprender el problema subyacente.
+Hablemos de cómo dar buenos comentarios.
 
-Asegúrese de pedir apoyo. Si no está seguro de cómo responder o se siente incómodo, pida ayuda a sus colegas editores de traducción global y administradores locales. Tal vez ellos tengan una perspectiva deferente sobre los comentarios o puedan ayudar a encontrar una solución contigo. También puede comunicarse con los mentores globales mediante este enlace: https://make.wordpress.org/polyglots/handbook/polyglots-global-team-leads-and-mentors/
+## Por qué dar retroalimentación
 
-En el cual puede obtener apoyo adicional y un lugar donde preguntar sobre las expectativas, la colaboración y el manejo de conflictos.
+Todos necesitamos retroalimentación. La retroalimentación es lo que nos permite saber si nuestros esfuerzos están funcionando bien o no.
 
-### Recursos adicionales
+En un equipo, la retroalimentación ayuda a asegurarse de que todos los implicados actúan de forma que apoyan los objetivos del equipo.
 
-1. Comunicación compasiva en línea, siguiendo el siguiente enlace:
-https://make.wordpress.org/community/handbook/community-deputy/resources-for-community-deputies/compassionate-communication-online/
-2. Disminuir el conflicto en la comunicación de texto, en este enlace: https://make.wordpress.org/community/handbook/community-deputy/resources-for-community-deputies/de-escalating-conflict-in-text-communication/
+La retroalimentación es también una excelente forma de crecer. Sin retroalimentación, no sabes qué cambiar, ni siquiera cómo hacerlo.
+
+Proporcionar retroalimentación a otros colaboradores de tu localidad tiene una serie de ventajas, entre ellas:
+
+- Ayuda a los colaboradores a crecer. Traducir WordPress es una habilidad. Con el tiempo, muchas partes del proceso de traducir, se realizan de forma natural, sin la necesidad de pensar. Los nuevos colaboradores pueden sentirse inseguros sobre las mejores prácticas o sobre cómo interpretar la documentación existente. La retroalimentación les permite entender lo que están haciendo bien y dónde pueden mejorar.
+
+- Una buena retroalimentación mantiene y mejora la calidad del proyecto, de lo contrario podríamos utilizar cualquier traducción. Los colaboradores de traducción son los responsables de la calidad del proyecto. 
+La retroalimentación garantiza que todos los que contribuyen al proyecto ofrezcan traducciones coherentes y contextuales que ayuden a mejorar la experiencia del usuario, independientemente de su lengua materna.
+
+- Genera confianza entre los colaboradores. Dar y recibir retroalimentación puede resultar vulnerable. La persona que da la retroalimentación puede sentirse insegura de cómo se percibirá.
+En cuanto a la persona que los recibe, puede sentirse insegura sobre el valor de sus contribuciones o sobre si está haciendo un "buen" trabajo.
+Utilizar la retroalimentación para colaborar con los demás -y superar la incertidumbre que pueda surgir al hacerlo- ayuda a generar confianza entre las personas. La persona que recibe la retroalimentación sabe que alguien se preocupa por lo que está haciendo; la persona que da la retroalimentación sabe que su tutoría es significativa.
+
+- Podemos entenderlo como una forma de formación.
+Cuando alguien no sigue las directrices o las mejores prácticas desarrolladas por tu equipo, dar retroalimentación permite corregirlo.
+La mayoría de la gente no ignora las directrices propuestas. Más bien, puede que no las conozcan, o que no estén de acuerdo, pero no sepan cómo plantearlas.
+
+- Al dar una buena retroalimentación, en lugar de simplemente rechazar sus contribuciones, estás ayudando a educar  sobre por qué se toman ciertas decisiones, consiguiendo mejores contribuciones y cómo mejorar el trabajo en el futuro.
+**Este tipo de mejora ayudará a construir futuros líderes y mentores en su comunidad**.
+
+## Cuándo dar retroalimentación
+
+Liderar un proyecto de código abierto requiere mucha confianza. Ofrecer tu tiempo a WordPress suele significar que te apasiona su misión y puede que sientas la misma pasión por saber por qué contribuyes de la forma en que lo haces. Conectar con la razón por la que te involucraste en el proyecto WordPress es un gran recurso para guiar y dar retroalimentación a los demás.
+
+Al mismo tiempo, es importante tener en cuenta que, al dar retroalimentación, es mejor centrarse en los procesos documentados y acordados dentro de su comunidad.
+
+En otras palabras, **el hecho de que alguien haga algo de forma diferente a la tuya no significa que necesariamente requiera retroalimentación**. A la hora de considerar cuándo dar retroalimentación, puede ser útil preguntarse:
+
+- ¿Este comportamiento afecta negativamente a los objetivos de nuestra comunidad?
+- ¿Infringe alguna norma o directriz acordada por nuestra comunidad?
+- Si no doy retroalimentación, ¿qué puede ocurrir como consecuencia?
+
+Mantener la documentación o las notas de reuniones puede ser una herramienta muy útil para explicar por qué algo merece recibir retroalimentación.
+
+Si alguien no está de acuerdo con una palabra del glosario de localización, especialmente en el contexto de una cadena que está traduciendo, puede ser útil indicarle dónde se han producido conversaciones similares en el pasado.
+
+Dado que la retroalimentación a menudo puede parecer un ataque personal, poder hacer referencia a documentación y conversaciones públicas también ayuda a confirmar que se trata de ofrecer ayuda a una persona a mejorar, en lugar de criticarla personalmente.
+
+### Consejo: La retroalimentación positiva puede ser tan importante como la constructiva. Cuando alguien haga un buen trabajo, ¡házselo saber!
+
+### Dónde dar una retroalimentación
+
+![Una forma de ofrecer una retroalimentación es a través de Slack.] (img.14.webp)
+
+El lugar de ofrecer una retroalimentación varía según la localización.
+En general, es una buena práctica que todos los colaboradores de traducción se unan a la instancia de Slack de su localización.
+Para ver una lista de los equipos locales de Slack, consulta (**Equipos locales de Slack**). [https://make.wordpress.org/polyglots/handbook/translating/teams/local-slacks/]
+
+Si el traductor ya se ha unido al Slack de tu localidad, puedes compartir la retroalimentación en un canal público, por ejemplo, si tienes un canal políglota o centrado en la traducción.
+
+Este tipo de retroalimentación pública es útil, ya que permite que otros aprendan también de la retroalimentación, pero también puedes compartir retroalimentación en un mensaje directo con el traductor si te parece más apropiado o cómodo.
+
+Si el colaborador no forma parte de tu Slack local, intenta ponerte en contacto con él a través del Slack global de Making WordPress, o considera la posibilidad de abrir una nueva entrada en el foro a través de tus foros locales o escribir una entrada en tu blog /team/.
+
+Puedes **@mencionar** su nombre de usuario para que reciba una notificación por correo electrónico.
+
+## Cómo ofrecer una buena retroalimentación
+
+**Al ofrecer una retroalimentación, el objetivo debe ser siempre ayudar a la otra persona a tener éxito o a mejorar**. Del mismo modo, después de dar una retroalimentación, lo ideal sería:
+
+- Que  una retroalimentación sea capaz de aclarar lo que no funcionaba bien.
+
+- Que los receptores de una retroalimentación se sientan más capacitados y comprometidos para mejorar.
+
+Teniendo todo esto en cuenta, aquí tenemos algunos consejos adicionales sobre cómo dar una retroalimentación constructiva y práctica:
+
+- **Procura hacerlo en el momento oportuno**. No esperes demasiado para dar una retroalimentación, ya que puede parecer menos relevante.
+Del mismo modo, dar una retroalimentación a tiempo (en la medida de lo posible) refuerza la sensación de lo que te importan las contribuciones de la otra persona.
+
+- **Sé claro**. Puede resultar difícil formular una retroalimentación: no hay que ser demasiado duro, pero también hay que asegurarse de que sea clara. Haz todo lo posible para que tu retroalimentación sea directa y fácil de entender.
+
+- **Deje espacio para la conversación**. Después de compartir claramente tu retroalimentación, pide que te hagan preguntas.
+Esto permite que la otra persona colabore contigo, pida aclaraciones y se sienta apoyada.
+
+- **Justifica tu retroalimentación.
+Las palabras marcan la diferencia, pero se necesita tiempo para redactar el mensaje de retroalimentación perfecto. Para ahorrar tiempo, puede confeccionar una plantilla que contenga los puntos principales de la retroalimentación. Por ejemplo:
+
+- **La retroalimentación debe ser práctica**. Siempre que sea posible, cuando proporciones una retroalimentación, ofrece también una solución sobre cómo mejorar. Recibir una retroalimentación que incluya una llamada a la acción es potenciadora, mientras que recibir una retroalimentación sobre la que no puedes hacer nada, puede resultar desmotivador.
+
+- **No olvides que la retroalimentación positiva también es retroalimentación**. Una buena forma de sentirse cómodo dando retroalimentación es hacerlo cuando veas buenas prácticas.
+Si das retroalimentación positiva públicamente, también muestras a otras personas de tu comunidad cosas que deberían emular, y haces que la otra persona se sienta bien.
+También puedes utilizar el método "positivo, constructivo, positivo" que se ejemplifica a continuación:
+
+**Puedes comenzar diciendo que el equipo aprecia mucho su contribución y hazle sentirse bienvenido.
+Continúa con la retroalimentación constructiva: las cosas que pueden mejorarse y lo que concretamente no se ajusta a las normas y estilos.
+Por último, termina con una nota positiva, agradeciéndoles de nuevo su contribución**.
+
+- **Seguimiento**. Una vez hecha la retroalimentación, pídele al traductor que te diga si se han hecho mejoras. Esto le ayudará a hacerse una idea de si la  retroalimentación ha sido útil.
+Del mismo modo, asegúrate de que tu equipo sabe que estás dando retroalimentación a un colaborador específico para evitar el caso de que un colaborador reciba retroalimentación simultánea de varios **GTEs**.
+
+- **Por último, no generes desánimo por la falta de respuesta**.
+Puede que no recibas una respuesta directa a todas tus retroalimentaciones, ¡pero no te rinda! Hay muchas razones por las que alguien puede contribuir con traducciones una sola vez.
+Aunque el traductor no responda a tus comentarios, habrás contribuido a crear una cultura abierta y favorable a la retroalimentación por el mero hecho dichos comentarios.
+
+## Recepción de una retroalimentación
+
+Hasta ahora nos hemos centrado en cómo dar una retroalimentación. Pero, ¿qué pasa con esa retroalimentación?
+
+La retroalimentación debe ser una conversación abierta. Es decir, en ambas direcciones. Puedes dar retroalimentación a un compañero o a un nuevo traductor y ellos, a su vez, pueden tener retroalimentación que compartir contigo. Al recibir una retroalimentación:
+
+- **Mantén la mente abierta**. Puede parecer que la retroalimentación se refiere a ti, pero intenta escuchar lo que dice la otra persona. Si te centras en la retroalimentación, es posible que encuentres una buena solución.
+
+- **Agradecele a la persona su retroalimentación**.
+Lleva tiempo revisar el trabajo de alguien y compartir una retroalimentación bien pensada. Aunque no estés por completo de acuerdo con la retroalimentación que recibes, es importante y educado reconocer el esfuerzo de la otra persona.
+
+- **Céntrate en objetivos comunes**. Puede que no estés de acuerdo con una norma de la guía de estilo o que quieras dar prioridad a un proyecto distinto al del resto de tu equipo.
+En última instancia, el objetivo es el mismo: ofrecer a los usuarios finales la mejor experiencia de WordPress en tu idioma.
+¿Cómo puedes tomar este objetivo común y encontrar una solución mejor?
+
+- **Comprométete a cambiar**. Una vez que tú y la otra persona hayáis llegado a un acuerdo sobre lo que hay que cambiar, es importante que lo hagáis.
+Una buena retroalimentación es importante, pero actuar en consecuencia lo es aún más.
+
+### Gestión de los desacuerdos
+
+Recibir retroalimentación a veces puede desencadenar una respuesta emocional en las personas.
+Para la persona que da la retroalimentación, puede ser muy difícil manejar la frustración, la tristeza o incluso la ira después de pasar tiempo revisando y escribiendo la retroalimentación para alguien.
+
+En primer lugar, no pasa nada por sentirse enfadado o incluso frustrado si alguien responde a tu retroalimentación de forma muy crítica.
+Puede resultar hiriente que alguien no asuma una intención positiva.
+**Es importante que te des tiempo y espacio para que tus emociones se calmen antes de retomar la conversación**.
+
+Cuando retomes la conversación, intenta **entender** lo que la persona está diciendo realmente.
+¿Está realmente en desacuerdo con el término que sugieres o hay una frustración más profunda?
+Intenta escuchar con mucha atención  para entender la cuestión de fondo.
+
+**Asegúrate de pedir ayuda**.
+Si no estás seguro de cómo responder o te sientes incómodo, pide ayuda a tus compañeros editores de traducción global y gestores locales.
+Tal vez tengan una perspectiva diferente sobre la retroalimentación o puedan ayudarte a encontrar una solución.
+También puedes ponerte en contacto con los **Mentores Globales de Polyglots para obtener más ayuda y resolver dudas sobre expectativas, colaboración y gestión de conflictos**.
+
+## Recursos adicionales
+
+- (Comunicación compasiva online)[https://make.wordpress.org/community/handbook/community-deputy/resources-for-community-deputies/compassionate-communication-online/]
+
+- (Reducción de conflictos en la comunicación textual) [https://make.wordpress.org/community/handbook/community-deputy/resources-for-community-deputies/de-escalating-conflict-in-text-communication/]
