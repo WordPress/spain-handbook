@@ -18,7 +18,7 @@ En otra sección de este manual se explicará con más exactitud estos roles de 
 
 El equipo global de políglotas también cuenta con el rol de **[Mentores Globales](https://make.wordpress.org/polyglots/handbook/polyglots-global-team-leads-and-mentors/#current-polyglots-global-team)** que pueden ayudar y orientar a los colaboradores con preguntas sobre el proceso de traducción, la colaboración en equipo y otros aspectos que puedan surgir.
 
-![Estructura básica de un grupo de traducción](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/traducciones-formacion-traducir-1.webp)
+![Estructura básica de un grupo de traducción](https://raw.githubusercontent.com/WPES/spain-handbook/main/assets/traducciones-formacion-traducir-1.webp)
 
 ## ¿Qué traduimos?
 
@@ -56,13 +56,13 @@ Para aquellos que simplemente desean ayudar al proyecto de WordPress traduciendo
 
 Existen dos formas de traducir texto relacionado con proyectos de WordPress (además de algunas excepciones diversas).
 
-![Número de cadenas y su prioridad](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/traducciones-formacion-traducir-2.webp)
+![Número de cadenas y su prioridad](https://raw.githubusercontent.com/WPES/spain-handbook/main/assets/traducciones-formacion-traducir-2.webp)
 
 [translate.wordpress.org](https://translate.wordpress.org/) es una plataforma de traducción colaborativa basada en la web para el proyecto WordPress, impulsada por un plugin de WordPress llamado [GlotPress](https://es.wordpress.org/plugins/glotpress/).
 
 En esta plataforma, cualquier persona con una [cuenta de usuario en WordPress.org](https://es.wordpress.org/team/handbook/manuales/wordpress/) puede participar en la traducción del propio software de WordPress, temas y plugins alojados en WordPress.org, varios sitios web oficiales y aplicaciones móviles.
 
-![Menú principal de la página de traducción local](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/traducciones-formacion-traducir-3.webp)
+![Menú principal de la página de traducción local](https://raw.githubusercontent.com/WPES/spain-handbook/main/assets/traducciones-formacion-traducir-3.webp)
 
 Para obtener más información sobre cómo utilizar la plataforma, visita la página '[translate.wordpress.org](https://translate.wordpress.org/) (GlotPress)' en el [Translator Handbook](https://make.wordpress.org/polyglots/handbook/translating/glotpress-translate-wordpress-org/).
 

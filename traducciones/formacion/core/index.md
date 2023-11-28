@@ -59,7 +59,7 @@ Aunque gettext funciona bien para la mayoría de los aspectos de WordPress, hay 
 - `license.txt`: Por razones legales, debe mantenerse en inglés. Sin embargo, puede añadir una versión traducida al archivo.
 - `wp-config-sample.php`
 
-![Un ejemplo de archivo wp-config-sample.php traducido](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/traducciones-formacion-traducir-6.webp)
+![Un ejemplo de archivo wp-config-sample.php traducido](https://raw.githubusercontent.com/WPES/spain-handbook/main/assets/traducciones-formacion-traducir-6.webp)
 
 ### Parámetros de localización
 
@@ -75,7 +75,7 @@ Como se mencionó anteriormente, muchas localizaciones contribuyen con traduccio
 
 Para plugins, temas y otros proyectos en [translate.wordpress.org](https://translate.wordpress.org/), los paquetes de idiomas se publicarán automáticamente cuando el proyecto esté traducido al menos en un 90%.
 
-![Ejemplo de un plugin que no ha alcanzado el umbral para su liberación](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/traducciones-formacion-traducir-7.webp)
+![Ejemplo de un plugin que no ha alcanzado el umbral para su liberación](https://raw.githubusercontent.com/WPES/spain-handbook/main/assets/traducciones-formacion-traducir-7.webp)
 
 Cuando se publica una nueva versión del plugin o tema con cadenas añadidas o actualizadas, las nuevas traducciones aprobadas para el proyecto siempre activarán la creación de un nuevo paquete de idioma.
 

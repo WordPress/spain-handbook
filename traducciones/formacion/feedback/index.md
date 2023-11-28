@@ -2,9 +2,9 @@
 
 Los comentarios constructivos son una parte importante de cualquier equipo. En su forma más básica es simplemente información. Es información que permite a un equipo, producto o persona saber si se está acercando o alejando de su objetivo.
 
-![Proceso de una cadena de traducción y su posible comentario](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/img.13.webp)
+![Proceso de una cadena de traducción y su posible comentario](https://raw.githubusercontent.com/WPES/spain-handbook/main/assets/traducciones-formacion-traducir-13.webp)
 
-En la comunidad de traductores de WordPress, los comentarios constructivos ayudan a compartir información con los colaboradores para que todos trabajen juntos hacia un objetivo común. 
+En la comunidad de traductores de WordPress, los comentarios constructivos ayudan a compartir información con los colaboradores para que todos trabajen juntos hacia un objetivo común.
 
 En el caso de los administradores y editores de traducciones, esto puede consistir en explicar por qué se ha rechazado una traducción o en hacer comentarios sobre un cambio propuesto en el glosario o la guía de estilo de la localización.
 
@@ -58,7 +58,7 @@ Consejo: Los comentarios positivos pueden ser tan importantes como los construct
 
 ### Dónde hacer los comentarios
 
-![Una forma de ofrecer una retroalimentación es a través de Slack](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/img.14.webp)
+![Una forma de ofrecer una retroalimentación es a través de Slack](https://raw.githubusercontent.com/WPES/spain-handbook/main/assets/traducciones-formacion-traducir-14.webp)
 
 El lugar para ofrecer comentarios varían según la localización.
 

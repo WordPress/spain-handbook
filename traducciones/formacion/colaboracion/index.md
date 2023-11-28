@@ -16,7 +16,7 @@ Cuando alguien crea una nueva solicitud de localización, **el equipo global de 
 
 Con varios colaboradores, la carga de trabajo es más fácil de gestionar. Incluso si una sola persona quiere traducir el proyecto de WordPress por su cuenta, las versiones posteriores se benefician de colaboradores adicionales, por lo que todo no depende de una sola persona.
 
-![Repercusión de las contribuciones del Translation Day](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/traducciones-formacion-traducir-10.webp)
+![Repercusión de las contribuciones del Translation Day](https://raw.githubusercontent.com/WPES/spain-handbook/main/assets/traducciones-formacion-traducir-10.webp)
 
 Incluso cuando una localización cuenta con varios Locale Manager y GTE, sigue siendo útil reclutar nuevos colaboradores.
 
@@ -36,7 +36,7 @@ Asegúrate de enlazar a todas estas instrucciones en varios lugares relevantes, 
 - En los mensajes a los nuevos colaboradores. Puedes encontrar nuevos colaboradores ordenando los proyectos de traducción con cadenas pendientes por orden de fecha inverso. A continuación, puedes **@mencionar** a un colaborador en un mensaje en tu sitio /team.
 - En respuestas a temas relevantes en los foros de soporte. Puedes encontrar temas relevantes añadiendo el nombre de tu idioma como palabra clave vigilada en tu [Configuración de notificaciones](https://profiles.wordpress.org/me/profile/notifications/).
 
-![La pantalla de Notificaciones de su perfil de WordPress.org es donde puede establecer palabras clave para recibir notificaciones](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/traducciones-formacion-traducir-11.webp)
+![La pantalla de Notificaciones de su perfil de WordPress.org es donde puede establecer palabras clave para recibir notificaciones](https://raw.githubusercontent.com/WPES/spain-handbook/main/assets/traducciones-formacion-traducir-11.webp)
 
 ## Atraer a nuevos colaboradores
 
@@ -79,7 +79,7 @@ Aunque reclutar y atraer a nuevos colaboradores ayuda a aumentar el tamaño de u
 - Crea una página de resumen de la traducción de WordPress en [/team/handbook](https://es.wordpress.org/team/handbook/traducciones/).
 - Intenta incorporar cualquier proceso o expectativa en la documentación de tu localización o en los mensajes de bienvenida en Slack.
 
-![Captura de pantalla del blog del equipo de la localidad francesa (fr_FR), que incluye instrucciones sobre cómo ponerse en contacto con el equipo, cómo unirse a las reuniones del equipo y cómo unirse al Slack del equipo, incluido un vídeo de configuración](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/traducciones-formacion-traducir-12.webp)
+![Captura de pantalla del blog del equipo de la localidad francesa (fr_FR), que incluye instrucciones sobre cómo ponerse en contacto con el equipo, cómo unirse a las reuniones del equipo y cómo unirse al Slack del equipo, incluido un vídeo de configuración](https://raw.githubusercontent.com/WPES/spain-handbook/main/assets/traducciones-formacion-traducir-12.webp)
 
 Definir claramente las tareas disponibles y las necesidades es realmente útil para los nuevos colaboradores.
 
