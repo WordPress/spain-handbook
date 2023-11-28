@@ -15,11 +15,11 @@ Si detectas algún error o tienes alguna sugerencia para mejorar este curso, ¡c
 
 Gracias a quienes contribuyeron a este curso:
 
-- (@arasae)[https://profiles.wordpress.org/arasae/]
-- (@evarlese)[https://profiles.wordpress.org/evarlese/]
-- (@lidialab)[https://profiles.wordpress.org/lidialab/]
-- (@markscottrobson)[https://profiles.wordpress.org/markscottrobson/]
-- (@nao)[https://profiles.wordpress.org/nao/]
-- (@psmits1567)[https://profiles.wordpress.org/psmits1567/]
-- (@vladytimy)[https://profiles.wordpress.org/vladytimy/]
-- (@yoga1103)[https://profiles.wordpress.org/yoga1103/]
+- [@arasae](https://profiles.wordpress.org/arasae/)
+- [@evarlese](https://profiles.wordpress.org/evarlese/)
+- [@lidialab](https://profiles.wordpress.org/lidialab/)
+- [@markscottrobson](https://profiles.wordpress.org/markscottrobson/)
+- [@nao](https://profiles.wordpress.org/nao/)
+- [@psmits1567](https://profiles.wordpress.org/psmits1567/)
+- [@vladytimy](https://profiles.wordpress.org/vladytimy/)
+- [@yoga1103](https://profiles.wordpress.org/yoga1103/)
