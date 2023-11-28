@@ -4,7 +4,7 @@
 
 ### Comprender el glosario
 
-Este es un plan práctico, paso a paso, para organizar un taller en el que elaborar un glosario de localización.
+Este es un plan práctico, paso a paso, para organizar un taller en el que elaborar un glosario de traducción.
 
 ### Características del glosario
 
@@ -14,7 +14,7 @@ En [translate.wordpress.org](https://translate.wordpress.org/locale/es/default/g
 
 ![Ejemplo de un glosario local (francés)](https://raw.githubusercontent.com/WPES/spain-handbook/main/assets/traducciones-formacion-traducir-8.webp)
 
-Una vez añadida una entrada al glosario, puedes comprobar la traducción utilizando [translate.wordpress.org](https://translate.wordpress.org/locale/es/). Pasa el ratón por encima de cualquier palabra de la cadena original que tenga una línea discontinua y verás que aparece un tooltip con su traducción (y comentarios, si los hay).
+Una vez añadida una entrada al glosario, puedes comprobar la traducción utilizando [translate.wordpress.org](https://translate.wordpress.org/locale/es/). Pasa el ratón por encima de cualquier palabra de la cadena original que tenga una línea discontinua y verás que aparece una ventana emergente con su traducción (y comentarios, si los hay).
 
 No se espera que los colaboradores de traducción, especialmente los que están empezando, memoricen todos los elementos del glosario y sus traducciones. No obstante, animamos a todos a que presten atención a las palabras subrayadas y comprueben la traducción cuando sea necesario.
 
