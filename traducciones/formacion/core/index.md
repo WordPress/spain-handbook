@@ -12,7 +12,7 @@ Ahora, exploraremos más sobre cómo se usan las traducciones, los componentes t
 
 Los desarrolladores de WordPress optaron por utilizar el sistema de localización [GNU gettext](https://www.gnu.org/software/gettext/) para proporcionar infraestructura de localización a WordPress. gettext en un sistema maduro y ampliamente utilizado para la traducción modular de software y, es el estándar para la localización en el ámbito del código abierto / software libre.
 
-gettext utiliza la traducción a nivel de mensaje. Cada "mensaje" que se muestra a los usuarios se traduce individualmente, ya sea un párrafo o una sola palabra. En WordPress, dichos "mensajes" son generados, traducidos y utilizados por los archivos PHP de WordPress a través de dos funciones PHP.
+gettext utiliza la traducción a nivel de cadena. Cada cadena de texto que se muestra a los usuarios se traduce individualmente, ya sea un párrafo o una sola palabra. En WordPress, dichas cadenas son generadas, traducidos y utilizados por los archivos PHP de WordPress a través de dos funciones PHP.
 
 1. [__()](https://developer.wordpress.org/reference/functions/__/) se usa cuando el mensaje se pasa como argumento a otra función.
 2. [_e()](https://developer.wordpress.org/reference/functions/_e/) se usa para escribir el mensaje directamente en la página.
@@ -65,7 +65,7 @@ Aunque gettext funciona bien para la mayoría de los aspectos de WordPress, hay 
 
 Los proyectos de traducción para cada localización contienen algunos parámetros que nunca deben ser "traducidos", sino adaptados a las especificidades del idioma de destino.
 
-Los más importantes están marcados como "high prio" y se encuentran en el núcleo principal de traducción y en la parte "admin" y se pueden encontrar ordenando las cadenas de traducción en orden de prioridad descendente.
+Los más importantes están marcados como «Priority: high» y se encuentran en el núcleo principal de traducción y en la parte «Administration» y se pueden encontrar ordenando las cadenas de traducción en orden de prioridad descendente.
 
 Puede ver una lista completa de estos parámetros, así como cómo o si localizarlos, en [Localization parameters](https://make.wordpress.org/polyglots/handbook/for-editors/working-with-core/#localization-parameters).
 
@@ -115,7 +115,7 @@ Los paquetes de versiones y los paquetes de idiomas para versiones estables se c
 
 ### Umbrales de traducción
 
-Los paquetes de lanzamiento y los paquetes de idiomas para versiones estables se suelen crear cada hora en punto después de que el subproyecto "Desarrollo" esté al menos al 90% Y el subproyecto "Administración" esté al menos al 75%.
+Los paquetes de lanzamiento y los paquetes de idiomas para versiones estables se suelen crear cada hora en punto después de que el subproyecto «x.x.x - Development» esté al menos al 90% Y el subproyecto «Administration» esté al menos al 75%.
 
 ### Liberación manual
 
@@ -123,9 +123,9 @@ Nota: No es recomendable liberar paquetes manualmente, por lo que se recomienda 
 
 En primer lugar debes obtener el número de revisión del paquete de WordPress correspondiente.
 
-Las versiones están disponibles en la lista de etiquetas en el núcleo de Trac o en esta página en la sección "Release Revisions".
+Las versiones están disponibles en la lista de etiquetas en el núcleo de Trac o en esta página en la sección «Release Revisions».
 
-Esta lista no incluye las versiones preliminares, incluidas las betas y las versiones candidatas. Para ellos, tendrás que buscar una referencia a la versión "bump" en el registro de revisiones [build.trac.wordpress.org](https://build.trac.wordpress.org/).
+Esta lista no incluye las versiones preliminares, incluidas las betas y las versiones candidatas. Para ellos, tendrás que buscar una referencia a la versión «bump» en el registro de revisiones [build.trac.wordpress.org](https://build.trac.wordpress.org/).
 
 Una vez que tengas el número de revisión de la versión que vas a empaquetar, es hora de construir el paquete. Para ello, sigue estos pasos:
 
