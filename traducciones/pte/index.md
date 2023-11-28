@@ -1,5 +1,6 @@
 # Cómo ser PTE
-(English version below)
+
+_(English version below)_
 
 Siguiendo el camino de algunos otros lugares, aquí están las pautas para todos los desarrolladores de WordPress que deseen localizar sus productos (temas, complementos) en español (para España), para darle una mayor oportunidad de ser adoptados por usuarios españoles.
 
@@ -23,10 +24,11 @@ Con el fin de asegurar la mejor calidad posible para todas las traducciones (y, 
 - Simplifica y optimiza el proceso, reduciendo la cantidad de traducciones incorrectas y, por consiguiente, el tiempo dedicado a rechazar y revisar traducciones. (Lo que permite dedicar más tiempo a la localización real).
 - No es diferente a lo que sucede en GitHub, donde el acceso no se da directamente al código original, sino que se permite a través de *forks* y *pull requests* (solo para darte una metáfora que podría estar más cerca de tu enfoque).
 
-Esperamoes que entiendas que estas reglas están destinadas a brindarte la mejor localización posible para tu(s) producto(s) y darle a toda la comunidad de WordPress una mejor experiencia de usuario, una plataforma más sólida y un ecosistema más saludable en el que trabajar.
+Esperamos que entiendas que estas reglas están destinadas a brindarte la mejor localización posible para tu(s) producto(s) y darle a toda la comunidad de WordPress una mejor experiencia de usuario, una plataforma más sólida y un ecosistema más saludable en el que trabajar.
 
 Esperamos que todo esté claro. Si no es así, siempre puedes encontrarnos en Slack para discutir esto más a fondo.
 
+---
 
 ## How Spanish for Spain community handles PTE requests
 
