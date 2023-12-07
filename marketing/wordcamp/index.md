@@ -1,4 +1,4 @@
-# *Que es una Wordcamp*
+# Qué es una WordCamp
 
 Las WordCamps son eventos comunitarios que reúnen a entusiastas, desarrolladores, diseñadores, empresarios y usuarios de WordPress en un ambiente dinámico y colaborativo. Organizadas por voluntarios apasionados, estas conferencias celebran la plataforma de código abierto WordPress, ofreciendo un espacio para aprender, compartir ideas y conectar con otros miembros de la comunidad.
 
