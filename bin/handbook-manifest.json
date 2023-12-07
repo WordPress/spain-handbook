@@ -83,6 +83,13 @@
 		"parent": "equipo",
 		"order": 1
 	},
+	"equipo\/chat": {
+		"title": "Chat / Slack",
+		"slug": "chat",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/equipo\/chat.md",
+		"parent": "equipo",
+		"order": 2
+	},
 	"accesibilidad": {
 		"title": "Equipo de Accesibilidad",
 		"slug": "accesibilidad",
@@ -97,6 +104,13 @@
 		"parent": null,
 		"order": 11
 	},
+	"comunidad\/meetup": {
+		"title": "Meetup",
+		"slug": "meetup",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/comunidad\/meetup.md",
+		"parent": "comunidad",
+		"order": 1
+	},
 	"diseno": {
 		"title": "Equipo de Diseño",
 		"slug": "diseno",
@@ -104,25 +118,53 @@
 		"parent": null,
 		"order": 12
 	},
+	"hosting": {
+		"title": "Equipo de Hosting",
+		"slug": "hosting",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/hosting\/index.md",
+		"parent": null,
+		"order": 13
+	},
+	"marketing": {
+		"title": "Equipo de Marketing",
+		"slug": "marketing",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/marketing\/index.md",
+		"parent": null,
+		"order": 14
+	},
 	"soporte": {
 		"title": "Equipo de Soporte",
 		"slug": "soporte",
 		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/soporte\/index.md",
 		"parent": null,
-		"order": 13
+		"order": 15
 	},
 	"traducciones": {
 		"title": "Equipo de Traducciones",
 		"slug": "traducciones",
 		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/traducciones\/index.md",
 		"parent": null,
-		"order": 14
+		"order": 16
+	},
+	"traducciones\/guia": {
+		"title": "Guía de traductores",
+		"slug": "guia",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/traducciones\/guia.md",
+		"parent": "traducciones",
+		"order": 1
+	},
+	"traducciones\/pte": {
+		"title": "Cómo ser PTE",
+		"slug": "pte",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/traducciones\/pte.md",
+		"parent": "traducciones",
+		"order": 2
 	},
 	"tv": {
 		"title": "Equipo de WordPress TV",
 		"slug": "tv",
 		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/tv\/index.md",
 		"parent": null,
-		"order": 15
+		"order": 17
 	}
 }

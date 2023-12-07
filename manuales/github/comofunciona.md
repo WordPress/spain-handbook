@@ -1,1 +1,0 @@
-# Cómo funciona GitHub

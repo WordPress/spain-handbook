@@ -1,1 +1,0 @@
-# Editar imágenes para GitHub
