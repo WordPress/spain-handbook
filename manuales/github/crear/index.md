@@ -10,6 +10,43 @@ Haz clic en el botón *"Sign up"*, que está rodeado con un círculo rojo en la 
 
 ## Activar el 2FA
 
+Una vez que te hayas registrado, lo primero que deberás hacer es activar el 2FA, es decir, la autentificación de doble factor. GitHub nos obliga a hacer esto por seguridad.
+
+Para activar el 2FA, no tienes más que hacer clic en la foto de perfil arriba, en la esquina derecha.
+
+
+![Hacer clic en el avatar del perfil en la esquina derecha](https://raw.githubusercontent.com/WPES/spain-handbook/master/assets/activar-2FA-2.jpg)
+
+A continuación, haz clic en la opción **Settings**.
+
+![Haz clic en Settings](https://raw.githubusercontent.com/WPES/spain-handbook/master/assets/activar-2FA-1.jpg)
+
+Una vez que haz entrado en los ajustes de tu perfil, puedes aprovechar para personalizar tu cuenta de GitHub (nombre, etc.). Y, a continuación, haz clic en **Password and authentication**.
+
+![Haz clic en Password and authentification](https://raw.githubusercontent.com/WPES/spain-handbook/master/assets/activar-2FA-2.jpg)
+
+Si haces un poco de scroll hasta el final de la página, verás que hay un botón que invita a activar la autentificación de doble factor. Haz clic en ese botón.
+
+![Haz scroll hasta el final de la página y haz clic en Enable two-factor authentication](https://raw.githubusercontent.com/WPES/spain-handbook/master/assets/activar-2FA-3.jpg)
+
+La aplicación te ofrecerá un proceso de tres pasos, que deberás completar con la ayuda de una herramienta de autentificación o de gestión de contraseñas como 1Password, Authy, Microsoft Authenticator, Google Authenticator, etc.
+
+Una vez que tengas esta herramienta, que normalmente se trata de una app que podrás instalar en tu móvil, lo único que tendrás es que crear una contraseña nueva dentro de dicha herramienta, y te ofrecerá escanear el código QR que GitHub te está ofreciendo en pantalla. 
+
+Una vez que lo hayas hecho, te ofrecerá un número de seis cifras, el cual deberás introducir en el espacio que hay debajo del código QR en pantalla, donde dice "**Verify the code from the app**". 
+
+Si lo prefieres, este proceso lo puedes hacer también mediante SMS, como puedes ver un poco más abajo.
+
+![Escanea el QR con una app de autentificación e introduce el código que te ofrece en la casilla bajo el mismo QR](https://raw.githubusercontent.com/WPES/spain-handbook/master/assets/activar-2FA-4.jpg)
+
+En cualquier caso, se trata de hacer la doble autentificación con tu dispositivo móvil.
+
+Una vez que hagas esto, verás que te aparece una pantalla con un montón de números. Estos códigos, o el archivo que te puedes descargar, deberás guardarlos en un lugar seguro ya que, si algún día no funcionase correctamente la autentificación de doble factor, **éstos códigos son tu llave para poder entrar a GitHub y no perder para siempre tu cuenta**.
+
+Finalmente, una vez que hayas completado todo el proceso, tienes varias opciones para configurar métodos adicionales de autentificación como Passkey, llaves de seguridad físicas o con GitHub Mobile, que es el que recomendamos por su comodidad.
+
+![Una vez finalizado el proceso puedes activar métodos adicionales de autentificación](https://raw.githubusercontent.com/WPES/spain-handbook/master/assets/activar-2FA-5.jpg)
+
 ## Instalar la App del móvil
 
 Es conveniente que instales la App de GitHub para el móvil, ya que es la que te va a permitir autentificarte en su web utilizando el 2FA. Además, podrás recibir, si quieres, las notificaciones de cambios que puedan afectarte.
