@@ -6,4 +6,4 @@ Haz clic en el botón *"Sign up"*, que está rodeado con un círculo rojo en la 
 
 ![Imagen de la pantalla de bienvenida de Github y resaltado del botón Sign Up](https://raw.githubusercontent.com/WPES/spain-handbook/master/assets/manuales-wordpress-crear-cuenta-github.png)
 
-Una vez que hemos creado nuestra cuenta, ya podemos acceder el repositorio, donde encontrarás todas las carpetas de los equipos con los diferentes manuales. Ten en cuenta que, para trabajar en ellas, deberás crear una nueva tarea (Issue) para proponer cambios, o bien solicitar en una tarea existente para que te sea asignada.
+Una vez que hemos creado nuestra cuenta, ya podemos acceder el [repositorio de WordPress en español](https://github.com/WordPress/spain-handbook), donde encontrarás todas las carpetas de los equipos con los diferentes manuales. Ten en cuenta que, para trabajar en ellas, deberás crear una nueva tarea (Issue) para proponer cambios, o bien solicitar en una tarea existente para que te sea asignada.
