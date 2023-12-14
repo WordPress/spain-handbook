@@ -37,3 +37,14 @@ Por norma general, las reuniones son todos los jueves de 19:00 a 20:00 (hora Esp
 * [Participar](https://es.wordpress.org/colabora/participa/) escribiendo un artículo en el blog.
 * [Dar una idea](https://es.wordpress.org/colabora/participa/) de un artículo que te gustaría que publicaremos.
 * [Recomendaciones](https://es.wordpress.org/guias/publicar/) para enviar contenido para el blog.
+
+## Qué es una WordCamp
+
+Una WordCamp es un evento comunitario de WordPress que congrega a entusiastas, desarrolladores, diseñadores y usuarios de WordPress, en un ambiente inclusivo, amigable y acogedor que anima a la participación.
+
+El espíritu principal de una WordCamp se fundamenta en compartir conocimientos, fomentar la colaboración y fortalecer las conexiones entre sus asistentes, todo organizado por voluntarios sin ánimo de lucro.
+
+Ofrece una variedad de formatos para profundizar sobre temas de WordPress, con ponencias ofrecidas por expertos destacados. Además, proporciona espacios para networking crear conexiones profesionales y oportunidades de colaboración.
+
+En síntesis, es una experiencia enriquecedora que va más allá de una simple conferencia, impulsando el aprendizaje y las relaciones en una comunidad comprometida.
+

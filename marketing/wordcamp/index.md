@@ -1,1 +1,0 @@
-# WordCamp en España
