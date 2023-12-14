@@ -1,0 +1,1 @@
+# Preparación carpeta equipo y documentos
