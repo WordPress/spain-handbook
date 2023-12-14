@@ -34,6 +34,6 @@ En este manual te explicamos cómo puedes acceder a esta herramienta, su funcion
 
 - [Crear una cuenta en GitHub](https://es.wordpress.org/team/handbook/manuales/github/crear/)
 - [Enlazar tu perfil de WordPress con GitHub](https://es.wordpress.org/team/handbook/manuales/wordpress/sincronizar/)
-- Trabajar en el repositorio
+- [Trabajar en el repositorio spain-handbook en GitHub](https://es.wordpress.org/team/handbook/manuales/github/comofunciona/)
 - Editar un documento/archivo
 - Solicitar la revisión y aceptación de los cambios
