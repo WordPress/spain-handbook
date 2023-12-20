@@ -5,10 +5,10 @@ WordPress se utiliza en todo el mundo en diferentes idiomas. Si sabes inglés y 
 ## Manuales y Guías
 
 * [Translator Handbook](https://make.wordpress.org/polyglots/handbook/translating/expectations/) _(en inglés)_
-* [Guía de Traductores (es\_ES Español de España)](https://es.wordpress.org/guias/traduccion/)
+* [Guía de Traductores (es\_ES Español de España)](https://es.wordpress.org/team/handbook/traducciones/guia/)
 * [Glosario del núcleo de WordPress](https://translate.wordpress.org/locale/es/default/glossary/)
 * [GlotPress en Español](https://translate.wordpress.org/locale/es/)
-* [Cómo ser PTE (Project Translation Editor)](https://es.wordpress.org/guias/traduccion/pte/).
+* [Cómo ser PTE (Project Translation Editor)](https://es.wordpress.org/team/handbook/traducciones/pte/).
 
 ## Slack
 
@@ -17,11 +17,9 @@ El equipo de traducción se organiza a través de canales en el [Slack de WordPr
 Lista de canales:
 
 * [#traducciones](https://wpes.slack.com/archives/C03DANZSC)
-* [#traductores-bp](https://wpes.slack.com/archives/C03DCGCT8)
-* [#traductores-codex](https://wpes.slack.com/archives/C0ASR1SNS)
-* [#traductores-plugins](https://wpes.slack.com/archives/C03DCJM36)
-* [#traductores-temas](https://wpes.slack.com/archives/C0GQWMR4Z)
-* [#traductores-wp\_org](https://wpes.slack.com/archives/C03DCFNG6)
+* [#traducciones-plugins](https://wpes.slack.com/archives/C03DCJM36)
+* [#traducciones-temas](https://wpes.slack.com/archives/C0GQWMR4Z)
+* [#traducciones-avisos](https://wpes.slack.com/archives/C03DCEV1Q)
 * [#meta](https://wpes.slack.com/archives/C09HEV4H0)
 
 **[Conviértete en traductor](https://translate.wordpress.org/locale/es/)**, ¡mira a ver si hace falta ayuda en la traducción al Español (España)!
