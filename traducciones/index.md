@@ -17,9 +17,9 @@ El equipo de traducción se organiza a través de canales en el [Slack de WordPr
 Lista de canales:
 
 * [#traducciones](https://wpes.slack.com/archives/C03DANZSC)
+* [#traducciones-avisos](https://wpes.slack.com/archives/C03DCEV1Q)
 * [#traducciones-plugins](https://wpes.slack.com/archives/C03DCJM36)
 * [#traducciones-temas](https://wpes.slack.com/archives/C0GQWMR4Z)
-* [#traducciones-avisos](https://wpes.slack.com/archives/C03DCEV1Q)
 * [#meta](https://wpes.slack.com/archives/C09HEV4H0)
 
 **[Conviértete en traductor](https://translate.wordpress.org/locale/es/)**, ¡mira a ver si hace falta ayuda en la traducción al Español (España)!
