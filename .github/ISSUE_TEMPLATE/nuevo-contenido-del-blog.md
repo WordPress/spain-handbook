@@ -2,7 +2,7 @@
 name: Nuevo contenido del Blog
 about: Plantilla para solicitar datos de lo necesario para crear una entrada en el
   blog.
-title: "[Blog] Tútulo de la entrada"
+title: "[Blog] Título de la entrada"
 labels: "[Contenido] Blog, [Equipo] Marketing"
 assignees: ''
 
