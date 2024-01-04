@@ -33,12 +33,12 @@ Si lo tienes, en tu perfil aparecerá tu usuario de GitHub. Si no, puedes leer [
 
 ### Tareas de nivel principiante
 
-- [] Ejemplo 1
-- [] Ejemplo 2
-- [] Ejemplo 3
+- [ ] Ejemplo 1
+- [ ] Ejemplo 2
+- [ ] Ejemplo 3
 
 ### Tareas de nivel avanzado
 
-- [] Ejemplo 1
-- [] Ejemplo 2
-- [] Ejemplo 3
+- [ ] Ejemplo 1
+- [ ] Ejemplo 2
+- [ ] Ejemplo 3
