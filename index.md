@@ -44,6 +44,6 @@ Además, el Handbook incluye material instructivo sobre la creación y edición 
 
 Para participar activamente en el desarrollo y la mejora del Handbook de la Comunidad de WordPress España, los colaboradores deben utilizar GitHub, una plataforma de control de versiones y colaboración.
 
-El trabajo se realiza dentro de un repositorio específico, accesible en la siguiente URL: [github.com/WPES/spain-handbook](https://github.com/WPES/spain-handbook/). Este repositorio es el punto central donde los contribuyentes pueden encontrar tareas pendientes, conocidas como "Issues", así como proponer nuevas tareas o involucrarse en la optimización de los contenidos ya existentes.
+El trabajo se realiza dentro de un repositorio específico, accesible en la siguiente URL: [github.com/wordpress/spain-handbook](https://github.com/wordpress/spain-handbook/). Este repositorio es el punto central donde los contribuyentes pueden encontrar tareas pendientes, conocidas como "Issues", así como proponer nuevas tareas o involucrarse en la optimización de los contenidos ya existentes.
 
 El uso de GitHub permite una colaboración transparente y eficiente, donde cualquier persona puede contribuir al Handbook. Ya sea creando nuevas "Issues" para sugerir mejoras, colaborando en tareas pendientes, o trabajando en la mejora de los contenidos existentes, la comunidad se beneficia del conocimiento colectivo y del esfuerzo conjunto. Este enfoque colaborativo asegura que el Handbook se mantenga como un recurso valioso y actualizado para todos los usuarios de WordPress en España.
