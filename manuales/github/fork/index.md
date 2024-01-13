@@ -28,7 +28,7 @@ Significa que se han realizado 3 modificaciones desde que hicimos nuestra copia 
 
 En este caso, si el archivo principal se ha adelantado a nuestra versión, tenemos dos opciones: Contribute o Update branch.
 Si no hemos realizado aun cambios en nuestro fork, para trabajar en la versión aceptada más actualizada del archivo principal (main), podemos pulsar en *Sync fork*, que nos dará a su vez la opción: _Update branch_.
-![Actualizamos Rama]([./img/](https://raw.githubusercontent.com/WPES/spain-handbook/master/assets/3.UpdateBranch.png)
+![Actualizamos Rama](https://raw.githubusercontent.com/WPES/spain-handbook/master/assets/3.UpdateBranch.png)
 
 Si ya hemos editado nuestro archivo, pulsaremos Contribute, aparecerá una pequeña ventana que indica que el archivo no está actualizado y nos invita a hacer un Pull request para fusionar nuestra edición con el archivo principal (main).
 ![Solicitamos Pull Request](https://raw.githubusercontent.com/WPES/spain-handbook/master/assets/4.Contribute-btn-and-send-PR.png)
