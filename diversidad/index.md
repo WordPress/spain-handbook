@@ -20,3 +20,6 @@ Las instrucciones para el Slack Global están en The WordPress project uses Slac
 
 Las instrucciones para el Slack de España estan en Chat / Slack de España.
 
+<h2>Diversidad</h2>
+
+Ahora mismo, no hay equipo como tal de diversidad ni en global ni en España. Se está trabajando en un posible equipo en el <a href="https://wordpress.slack.com/archives/C05ND1KPW0Y">grupo de trabajo DEIB-</a>
