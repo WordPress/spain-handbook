@@ -4,7 +4,7 @@ Slack es un programa que está utilizando la comunidad global de WordPress para 
 
 Si quieres trabajar con la comunidad global de WordPress, puedes hacerlo siguiendo las instrucciones que encontrarás en WordPress ♥ Slack.
 
-EL SLACK NO ES PARA SOPORTE, todo lo relacionado con soporte se realiza en los foros de la comunidad
+<strong>EL SLACK NO ES PARA SOPORTE,</strong> todo lo relacionado con soporte se realiza en los foros de la comunidad
 
 Y si quieres trabajar con la Comunidad de WordPress en español:
 
