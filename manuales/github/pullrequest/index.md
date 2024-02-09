@@ -38,6 +38,6 @@ Dejaremos seleccionada la primera opción si nuestro archivo ya está listo para
 
 8. Una vez creado el *Pull request* existen tres opciones posibles:
 
-	- Aceptado: Quiere decir que está todo correcto y tu propuesta pasa a la rama principal.
+  - Aceptado: Quiere decir que está todo correcto y tu propuesta pasa a la rama principal.
   - Rechazado: Tu propuesta ha sido rechazada y se darán al autor las explicaciones necesarias.
   - Solicitud de cambios: Puede ocurrir que se soliciten pequeñas modificaciones, las cuales se realizarán en la misma rama abierta. Una vez realizadas las modificaciones volverán a ser revisadas.
