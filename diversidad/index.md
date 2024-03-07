@@ -1,25 +1,27 @@
 # Equipo de Diversidad
 
-Slack es un programa que está utilizando la comunidad global de WordPress para organizarse.
+El equipo de diversidad proporciona ayuda en materia de diversidad de forma transversal a todo el proyecto WordPress con el objetivo de mejorar la diversidad, inclusión e integración. Aunque al principio nos centremos más en eventos (WordCamps, meetups) nuestro objetivo es que sea transversal a todo el equipo de WordPress.
 
-Si quieres trabajar con la comunidad global de WordPress, puedes hacerlo siguiendo las instrucciones que encontrarás en WordPress ♥ Slack.
 
-<strong>EL SLACK NO ES PARA SOPORTE,</strong> todo lo relacionado con soporte se realiza en los foros de la comunidad
+Ejemplos de tareas que realizamos ahora mismo en diversidad:
 
-Y si quieres trabajar con la Comunidad de WordPress en español:
+- Creación de documentación (Handbook) para eventos de WordPress.
+- Talleres para organizadores y organizadoras de eventos de WordPress.
+- Talleres para ponentes de eventos de WordPress.
+- Mentorías para ponentes de eventos de WordPress.
+- Mentorías para organizadores y organizadoras de eventos de WordPress.
 
-ayudando en los foros
-ayudando con las traducciones
-organizando una Meetup
-organizando una WordCamp
-o, si ya lo haces, ayudando a otros a organizar su evento u orientarles con sus primeras traducciones
-Para formar parte del equipo de trabajo te pediremos que aceptes las normas para voluntarios generales de WordPress y para eventos de WordPress, descritas en Representing WordPress y Agreement among WordCamp Organizers, Speakers, Sponsors, and Volunteers.
+## ¿Cómo colaborar en el equipo de accesibilidad de WordPress español?
 
-¿Cómo me doy de alta en Slack?
-Las instrucciones para el Slack Global están en The WordPress project uses Slack.
+**Si quieres participar** en alguno de los proyectos indicados, entra en el canal de [#diversidad](https://wpes.slack.com/archives/C03E5S46P) de Slack. Ahí es donde comunicamos todo lo necesario para posibles tareas o sugerencias de este nuevo equipo.
 
-Las instrucciones para el Slack de España estan en Chat / Slack de España.
+Las **tareas del equipo** estarán organizadas Github para que esté todo centralizado. 
 
-<h2>Diversidad</h2>
+Por norma general, las **reuniones** no son periódicas y se convocan a petición de cualquier miembro de la comunidad WordPress. La forma de hacer la solicitud es o bien en el canal de diversidad o bien por mensajería privada con [@martatorre](https://profiles.wordpress.org/martatorre/).
 
-Ahora mismo, no hay equipo como tal de diversidad ni en global ni en España. Se está trabajando en un posible equipo en el <a href="https://wordpress.slack.com/archives/C05ND1KPW0Y">grupo de trabajo DEIB-</a>
+## Representantes de este equipo
+
+- [Marta Torre](https://profiles.wordpress.org/martatorre/)
+- [Fran Rosa](https://profiles.wordpress.org/franrosa/)
+
+
