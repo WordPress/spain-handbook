@@ -16,7 +16,7 @@ Algunos ejemplos de **actividades que realizamos** en marketing son:
 
 Si eres amante del marketing y tienes ganas de ayudar al proyecto de WordPress desde esta área, te aseguramos de que en el equipo de marketing ¡no te aburrirás!
 
-Si quieres **participar** en alguno de los proyectos indicados, entra en el canal de [#marketing-wp](https://wpes.slack.com/archives/C2MA1HA20) de Slack, puesto que ahí es donde realizamos todas las comunicaciones y reuniones del equipo de marketing de WordPress España. Únete siguiendo [estas instrucciones](https://es.wordpress.org/guias/chat/).
+Si quieres **participar** en alguno de los proyectos indicados, entra en el canal de [#marketing](https://wpes.slack.com/archives/C2MA1HA20) de Slack, puesto que ahí es donde realizamos todas las comunicaciones y reuniones del equipo de marketing de WordPress España. Únete siguiendo [estas instrucciones](https://es.wordpress.org/guias/chat/).
 
 Las tareas del equipo estarán organizadas en [Trello](https://trello.com/b/iOWyBsTl/marketingwp-espa%C3%B1a) y la documentación se desarrollará en [Google Drive](https://drive.google.com/drive/folders/1qZrFldwzDpUE8YiEZqENFlnnEWiOqiTu). A ambas plataformas tendrás acceso para participar en la realización de los proyectos una vez que te unas al equipo.
 

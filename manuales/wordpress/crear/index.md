@@ -2,17 +2,17 @@
 
 **Si no tienes una cuenta de usuario**, puedes [acceder al Registro de una nueva cuenta](https://login.wordpress.org/register?locale=es_ES) e introducir el _nombre de usuario_ deseado y una _cuenta de correo electrónico_ donde recibirás los emails. Una vez completado, recibirás un correo electrónico para validar la cuenta, y podrás acceder con tu nombre de usuario y contraseña.
 
-![Pantalla de registro de WordPress](https://raw.githubusercontent.com/WPES/spain-handbook/master/assets/manuales-wordpress-crear-1.png)
+![Pantalla de registro de WordPress](https://raw.githubusercontent.com/WPES/spain-handbook/master/assets/manuales-wordpress-crear-1.jpg)
 
 Para verificar tu perfil de WordPress, visita tu [Página de Perfil](https://profiles.wordpress.org/me/).
 
 **Si ya tienes una cuenta de usuario**, puedes acceder a la [pantalla de Inicio de sesión e ingresar](https://login.wordpress.org/?locale=es_ES).
 
-![Pantalla de acceso de WordPress](https://raw.githubusercontent.com/WPES/spain-handbook/master/assets/manuales-wordpress-crear-2.png)
+![Pantalla de acceso de WordPress](https://raw.githubusercontent.com/WPES/spain-handbook/master/assets/manuales-wordpress-crear-2.jpg)
 
 **Si no recuerdas tu contraseña**, puedes [recibir un correo electrónico para cambiarla](https://login.wordpress.org/lostpassword?locale=es_ES).
 
-![Pantalla de acceso de WordPress](https://raw.githubusercontent.com/WPES/spain-handbook/master/assets/manuales-wordpress-crear-3.png)
+![Pantalla de acceso de WordPress](https://raw.githubusercontent.com/WPES/spain-handbook/master/assets/manuales-wordpress-crear-3.jpg)
 
 ## ¿Problemas con tu cuenta?
 

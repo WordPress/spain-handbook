@@ -1,0 +1,1 @@
+# Reunión con el Líder (Responsable principal) y los responsables de los otros equipos
