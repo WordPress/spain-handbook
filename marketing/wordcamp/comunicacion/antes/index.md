@@ -1,1 +1,1 @@
-# Antes de la WordCamp
+# Antes inicio comunicación
