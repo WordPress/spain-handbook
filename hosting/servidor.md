@@ -1,4 +1,4 @@
-# Entorno del servidor
+# Configuración del servidor
 
 Aunque WordPress puede funcionar en casi cualquier entorno, incluso en los más mínimos, hay que reconocer que no funciona completamente bien en estos. Por eso, aquí vamos a hacer algunas recomendaciones mínimas sobre el entorno en el que funcionaría más eficazmente, teniendo en cuenta que la mayoría de los sitios web de WordPress utilizan plugins y temas de terceros que comúnmente introducen requisitos adicionales a nivel de servidor.
 
