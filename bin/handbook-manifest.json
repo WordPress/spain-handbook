@@ -132,6 +132,13 @@
 		"parent": null,
 		"order": 14
 	},
+	"marketing\/wordcamp": {
+		"title": "Qué es una WordCamp",
+		"slug": "wordcamp",
+		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/marketing\/wordcamp\/index.md",
+		"parent": "marketing",
+		"order": 1
+	},
 	"soporte": {
 		"title": "Equipo de Soporte",
 		"slug": "soporte",

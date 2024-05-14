@@ -8,15 +8,15 @@ Si ya tienes una cuenta, puedes continuar en este camino.
 
 ## Qué es un repositorio
 
-Llamamos repositorio a un lugar, que se podría comparar con una unidad de disco duro o una carpeta principal de un servidor, en definitiva, un lugar de almacenamiento de archivos.
+Llamamos _repositorio_ a un lugar, que se podría comparar con una unidad de disco duro o una carpeta principal de un servidor, en definitiva, un lugar de almacenamiento de archivos.
 
-En este repositorio se pueden almacenar todo tipo de archivos, desde carpetas y ficheros sin un orden concreto, un programa completo o un manual como el que estás leyendo ahora mismo, que fue escrito en GitHub antes de ser publicado en la web.
+En este _repositorio_ se pueden almacenar todo tipo de archivos, desde carpetas y ficheros sin un orden concreto, un programa completo o un manual como el que estás leyendo ahora mismo, que fue escrito en GitHub antes de ser publicado en la web.
 
 ## Acceder al repositorio de WordPress España
 
 Para acceder al repositorio de WordPress, no tienes más que acceder a través de la siguiente dirección:
 
-[https://github.com/WPES/spain-handbook/](https://github.com/WPES/spain-handbook)
+[https://github.com/WordPress/spain-handbook](https://github.com/WordPress/spain-handbook)
 
 En este repositorio están alojados todos los archivos que conforman todo el manual de WordPress en español.
 
@@ -24,7 +24,7 @@ Aquí es donde vas a hacer todos los cambios que, una vez aceptados, se reflejar
 
 Una vez registrados podemos acceder a la página principal de [GitHub](https://github.com/) y en la barra lateral aparecerá el listado de repositorios a los que tenemos acceso.
 
-Pinchamos en [WPES/spain-handbook](https://github.com/WPES/spain-handbook) para acceder al repositorio de manuales de WordPress España. En la parte superior izquierda podremos ver en todo momento en qué repositorio estamos.
+Pinchamos en [WordPress/spain-handbook](https://github.com/WordPress/spain-handbook) para acceder al repositorio de manuales de WordPress España. En la parte superior izquierda podremos ver en todo momento en qué repositorio estamos.
 
 Con el fin de evitar posibles errores o conflictos **es importante no trabajar nunca directamente en este repositorio principal**. Para poder editar con seguridad, crearemos una copia del repositorio principal (*fork*) que será donde trabajaremos.
 
@@ -34,7 +34,7 @@ Crearemos el *fork* pinchando en el último botón que aparece en la parte super
 
 ![Realización Fork](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/ForkCuentaPrincipal.png)
 
-Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectará al repositorio original hasta que no hagamos un *Pull request* y éste no sea verificado y aprobado.
+Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectará al repositorio original hasta que no hagamos un *Pull request* (solicitud de revisión) y éste no sea verificado y aprobado.
 
 ![Fork realizado](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/ForkRealizado.PNG)
 
@@ -44,9 +44,13 @@ Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se 
 
 **Si nuestro *fork* deja de estar actualizado**
 
-Cuando se trabaja en un _fork_, se trabaja paralelamente al archivo máster. Es decir, los cambios producidos en el archivo principal (_master_) no se sincronizan automáticamente con nuestro _fork_.
+Cuando se trabaja en un _fork_, se trabaja paralelamente al repositorio principal (wordpress/spain-handbook) en tu cuenta de github (micuenta/spain-handbook). 
 
-GitHub nos lo indicará con la siguiente frase: `This branch is 8 commits behind WPES:master`
+Por tanto es posible que, mientras estés trabajando, otros contribuidores estén haciendo lo mismo en sus respectivos forks y hayan mandado los cambios al repositorio principal. Esos cambios no se aplicarán en tu fork mientras no sincronices tu repositorio con el principal.
+
+De hecho, verás un mensaje como el siguiente:
+
+`This branch is 8 commits behind WPES:master`
 
 Significa que se han realizado 8 modificaciones desde que hicimos nuestra copia (*fork*).
 
