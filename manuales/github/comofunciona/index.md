@@ -118,7 +118,7 @@ A continuación, hay que hacer clic en el botón *Add file*, del que se desplega
 
 ![Botón subir imagen](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/insertar-imagen-02.jpeg)
 
-Para subir la imagen es suficiente arrastrarla desde el ordenador hasta el área habilitada para ello, en la que indica el mensaje **Drag additional files herre to add them to your repository**. También se puede subir a través del enlace **choose your files**.
+Para subir la imagen es suficiente arrastrarla desde el ordenador hasta el área habilitada para ello, en la que indica el mensaje **Drag additional files here to add them to your repository**. También se puede subir a través del enlace **choose your files**.
 
 Una vez subida la imagen, hay que rellenar la descripción del **commit** para aclarar de qué se trata la imagen, y finalmente habrá que hacer clic en el botón **commit changes**.
 
