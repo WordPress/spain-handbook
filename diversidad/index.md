@@ -11,7 +11,7 @@ Ejemplos de tareas que realizamos ahora mismo en diversidad:
 - Mentorías para ponentes de eventos de WordPress.
 - Mentorías para organizadores y organizadoras de eventos de WordPress.
 
-## ¿Cómo colaborar en el equipo de accesibilidad de WordPress español?
+## ¿Cómo colaborar en el equipo de diversidad de WordPress español?
 
 **Si quieres participar** en alguno de los proyectos indicados, entra en el canal de [#diversidad](https://wpes.slack.com/archives/C03E5S46P) de Slack. Ahí es donde comunicamos todo lo necesario para posibles tareas o sugerencias de este nuevo equipo.
 
