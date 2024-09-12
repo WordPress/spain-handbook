@@ -42,8 +42,8 @@ En este manual te explicamos cómo puedes acceder a esta herramienta, su funcion
 - _Paso 8_: [Crear una instantánea de los cambios realizados (commit)](https://es.wordpress.org/team/handbook/manuales/github/commit/)
 - _Paso 9_: [Solicitar revisión de los cambios (Pull Request o PR)](https://es.wordpress.org/team/handbook/manuales/github/pullrequest/)
 
-
 NOTA: ELIMINAR LOS SIGUIENTES ENLACES, CARPETAS Y ARCHIVOS CUANDO SE HAYAN CREADO LOS ANTERIORES
+
 - [Trabajar en el repositorio spain-handbook en GitHub](https://es.wordpress.org/team/handbook/manuales/github/comofunciona/)
 - Editar un documento/archivo
 - Solicitar la revisión y aceptación de los cambios
