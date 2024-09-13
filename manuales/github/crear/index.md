@@ -40,7 +40,8 @@ Si lo prefieres, este proceso lo puedes hacer también mediante SMS, como puedes
 En cualquier caso, se trata de hacer la doble autentificación con tu dispositivo móvil.
 
 Una vez que hagas esto, verás que te aparece una pantalla con un montón de números. Estos códigos (llamados "recovery codes" en GitHub), o el archivo que te puedes descargar, deberás guardarlos en un lugar seguro ya que, si algún día no funcionase correctamente la autentificación de doble factor, **éstos códigos son tu llave para poder entrar a GitHub y no perder para siempre tu cuenta**.
- (aquí falta una imagen de la lista de códigos)
+  
+ AQUÍ FALTA UNA IMAGEN CON LA LISTA DE CÓDIGOS
  
 Finalmente, una vez que hayas completado todo el proceso, tienes varias opciones para configurar métodos adicionales de autentificación como Passkey, llaves de seguridad físicas o con GitHub Mobile, que es el que recomendamos por su comodidad.
 
@@ -58,7 +59,7 @@ Una vez descargada, solo tienes que identificarte en ella y tenerla a mano para 
 
 ## Instalar la App de Escritorio
 
-Si eres un usuario que no ha utilizado nunca GitHub o Git, es preferible que realices todas tus colaboraciones desde la propia web de GitHub. De hecho, en este manual encontrarás todas las explicaciones para este caso.
+Si no has utilizado nunca GitHub o Git, es preferible que realices todas tus colaboraciones desde la propia web de GitHub. De hecho, en este manual encontrarás todas las explicaciones para este caso.
 
 Pero, si te dedicas al desarrollo web o tienes experiencia utilizando Git o GitHub, puede que te sientas con más comodidad trabajando en Escritorio. En ese caso, puede interesarte descargarte las diferentes herramientas de escritorio en tu ordenador.
 
