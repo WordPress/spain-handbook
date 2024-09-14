@@ -1,42 +1,42 @@
 # Cómo funciona GitHub
 
-GitHub puede parecer, a priori, un poco intimidante, pero nada más lejos si se se siguen unos pasos concretos.
+~~GitHub puede parecer, a priori, un poco intimidante, pero nada más lejos si se se siguen unos pasos concretos.~~
 
-Lo más importante es que te hayas creado una cuenta en GitHub. Si todavía no lo has hecho, puedes [ir al apartado del manual en el que se explica cómo crear una cuenta en GitHub](https://es.wordpress.org/team/handbook/manuales/github/crear/).
+~~Lo más importante es que te hayas creado una cuenta en GitHub. Si todavía no lo has hecho, puedes [ir al apartado del manual en el que se explica cómo crear una cuenta en GitHub](https://es.wordpress.org/team/handbook/manuales/github/crear/).~~
 
-Si ya tienes una cuenta, puedes continuar en este camino.
+~~Si ya tienes una cuenta, puedes continuar en este camino.~~
 
 ## Qué es un repositorio
 
-Llamamos _repositorio_ a un lugar, que se podría comparar con una unidad de disco duro o una carpeta principal de un servidor, en definitiva, un lugar de almacenamiento de archivos.
+~~Llamamos _repositorio_ a un lugar, que se podría comparar con una unidad de disco duro o una carpeta principal de un servidor, en definitiva, un lugar de almacenamiento de archivos.~~
 
-En este _repositorio_ se pueden almacenar todo tipo de archivos, desde carpetas y ficheros sin un orden concreto, un programa completo o un manual como el que estás leyendo ahora mismo, que fue escrito en GitHub antes de ser publicado en la web.
+~~En este _repositorio_ se pueden almacenar todo tipo de archivos, desde carpetas y ficheros sin un orden concreto, un programa completo o un manual como el que estás leyendo ahora mismo, que fue escrito en GitHub antes de ser publicado en la web.~~
 
 ## Acceder al repositorio de WordPress España
 
-Para acceder al repositorio de WordPress, no tienes más que acceder a través de la siguiente dirección:
+~~Para acceder al repositorio de WordPress, no tienes más que acceder a través de la siguiente dirección:~~
 
-[https://github.com/WordPress/spain-handbook](https://github.com/WordPress/spain-handbook)
+~~[https://github.com/WordPress/spain-handbook](https://github.com/WordPress/spain-handbook)~~
 
-En este repositorio están alojados todos los archivos que conforman todo el manual de WordPress en español.
+~~En este repositorio están alojados todos los archivos que conforman todo el manual de WordPress en español.~~
 
-Aquí es donde vas a hacer todos los cambios que, una vez aceptados, se reflejarán en la esta web que estás leyendo.
+~~Aquí es donde vas a hacer todos los cambios que, una vez aceptados, se reflejarán en la esta web que estás leyendo.~~
 
-Una vez registrados podemos acceder a la página principal de [GitHub](https://github.com/) y en la barra lateral aparecerá el listado de repositorios a los que tenemos acceso.
+~~Una vez registrados podemos acceder a la página principal de [GitHub](https://github.com/) y en la barra lateral aparecerá el listado de repositorios a los que tenemos acceso.~~
 
-Pinchamos en [WordPress/spain-handbook](https://github.com/WordPress/spain-handbook) para acceder al repositorio de manuales de WordPress España. En la parte superior izquierda podremos ver en todo momento en qué repositorio estamos.
+~~Pinchamos en [WordPress/spain-handbook](https://github.com/WordPress/spain-handbook) para acceder al repositorio de manuales de WordPress España. En la parte superior izquierda podremos ver en todo momento en qué repositorio estamos.~~
 
-Con el fin de evitar posibles errores o conflictos **es importante no trabajar nunca directamente en este repositorio principal**. Para poder editar con seguridad, crearemos una copia del repositorio principal (*fork*) que será donde trabajaremos.
+~~Con el fin de evitar posibles errores o conflictos **es importante no trabajar nunca directamente en este repositorio principal**. Para poder editar con seguridad, crearemos una copia del repositorio principal (*fork*) que será donde trabajaremos.~~
 
 ## Crear un fork
 
-Crearemos el *fork* pinchando en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.
+~~Crearemos el *fork* pinchando en el último botón que aparece en la parte superior derecha, está rodeado en azul para que puedas localizarlo más fácilmente.~~
 
-![Realización Fork](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/ForkCuentaPrincipal.png)
+~~![Realización Fork](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/ForkCuentaPrincipal.png)~~
 
-Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectará al repositorio original hasta que no hagamos un *Pull request* (solicitud de revisión) y éste no sea verificado y aprobado.
+~~Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectará al repositorio original hasta que no hagamos un *Pull request* (solicitud de revisión) y éste no sea verificado y aprobado.~~
 
-![Fork realizado](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/ForkRealizado.PNG)
+~~![Fork realizado](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/ForkRealizado.PNG)~~
 
 ## Sincronizar nuestra copia con el repositorio original
 
@@ -44,35 +44,35 @@ Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se 
 
 **Si nuestro *fork* deja de estar actualizado**
 
-Cuando se trabaja en un _fork_, se trabaja paralelamente al repositorio principal (wordpress/spain-handbook) en tu cuenta de github (micuenta/spain-handbook). 
+~~Cuando se trabaja en un _fork_, se trabaja paralelamente al repositorio principal (wordpress/spain-handbook) en tu cuenta de github (micuenta/spain-handbook). ~~
 
-Por tanto es posible que, mientras estés trabajando, otros contribuidores estén haciendo lo mismo en sus respectivos forks y hayan mandado los cambios al repositorio principal. Esos cambios no se aplicarán en tu fork mientras no sincronices tu repositorio con el principal.
+~~Por tanto es posible que, mientras estés trabajando, otros contribuidores estén haciendo lo mismo en sus respectivos forks y hayan mandado los cambios al repositorio principal. Esos cambios no se aplicarán en tu fork mientras no sincronices tu repositorio con el principal.~~
 
-De hecho, verás un mensaje como el siguiente:
+~~De hecho, verás un mensaje como el siguiente:~~
 
-`This branch is 8 commits behind WPES:master`
+~~`This branch is 8 commits behind WPES:master`~~
 
-Significa que se han realizado 8 modificaciones desde que hicimos nuestra copia (*fork*).
+~~Significa que se han realizado 8 modificaciones desde que hicimos nuestra copia (*fork*).~~
 
-A continuación un ejemplo del aviso:
+~~A continuación un ejemplo del aviso:~~
 
 ![branch-outdated](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/branch-outdated.png)
 
-En este caso, si el archivo principal se ha adelantado a nuestra versión, tenemos dos opciones: *Contribute* o *Fetch upstream*
+~~En este caso, si el archivo principal se ha adelantado a nuestra versión, tenemos dos opciones: *Contribute* o *Fetch upstream*~~
 
-Si ya hemos editado nuestro archivo, pulsaremos *Contribute*, aparecerá una pequeña ventana que indica que el archivo no está actualizado y nos invita a hacer un *Pull request* para fusionar nuestra edición con el archivo principal (*master*).
+~~Si ya hemos editado nuestro archivo, pulsaremos *Contribute*, aparecerá una pequeña ventana que indica que el archivo no está actualizado y nos invita a hacer un *Pull request* para fusionar nuestra edición con el archivo principal (*master*).~~
 
 ![contribute](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/contribute.png)
 
-Si no hemos realizado aun cambios en nuestro *fork*, para trabajar en la versión aceptada más actualizada del archivo principal (*master*), podemos pulsar en *Fetch Upstream*, que nos dará a su vez dos opciones más: *Compare* o *Fetch and merge*
+~~Si no hemos realizado aun cambios en nuestro *fork*, para trabajar en la versión aceptada más actualizada del archivo principal (*master*), podemos pulsar en *Fetch Upstream*, que nos dará a su vez dos opciones más: *Compare* o *Fetch and merge*~~
 
 ![fetch-upstream](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/fetch-upstream.png)
 
-*Compare* nos permite comparar las distintas versiones que se han creado y *Fetch and merge* sincronizará nuestro *fork* con el archivo principal (*master*).
+~~*Compare* nos permite comparar las distintas versiones que se han creado y *Fetch and merge* sincronizará nuestro *fork* con el archivo principal (*master*).~~
 
-En cualquier caso, si hubiera algún conflicto entre ambas versiones, el sistema nos avisará y nos invitará a hacer antes un *Pull request*.
+~~En cualquier caso, si hubiera algún conflicto entre ambas versiones, el sistema nos avisará y nos invitará a hacer antes un *Pull request*.~~
 
-A continuación una imagen de lo que nos mostraría la opción *compare*:
+~~A continuación una imagen de lo que nos mostraría la opción *compare*:~~
 
 ![Comparing-changes](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/Comparing-changes.png)
 

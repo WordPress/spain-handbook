@@ -2,7 +2,7 @@
 
 Una vez creado nuestro *fork* y creada la rama sobre la que vamos a trabajar, seleccionaremos el archivo que vamos a editar y, a continuación seleccionaremos el lápiz que hay sobre el marco del contenido.
 
-![editar archivo](https://raw.githubusercontent.com/WPES/spain-handbook/master/manuales/github/assets/editar-archivo.png)
+![editar archivo](/assets/editardocumento-abrir-sesion-edicion.webp)
 
 De esta forma abriremos la sesión de edición y podremos escribir.
 

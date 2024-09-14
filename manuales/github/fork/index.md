@@ -6,17 +6,19 @@ Con el fin de evitar posibles errores o conflictos **es importante no trabajar n
 
 ## Crear un fork
 
-Crearemos el fork pinchando en el último botón que aparece en la parte superior derecha, está rodeado en rojo para que puedas localizarlo más fácilmente.
+Crearemos el fork pinchando en el botón **Fork**, que aparece en la parte superior derecha. Está rodeado en rojo para que puedas localizarlo más fácilmente.
 
-![Crear un Fork]( https://raw.githubusercontent.com/WordPress/spain-handbook/master/assets/Fork-crear.jpg)
+![Crear un Fork](/assets/fork-crear-copia.webp)
 
-Después de hacerlo la ventana cambiará y, si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda, ya aparecerá nuestro nombre de usuario. Desde este momento cualquier cambio que hagamos en este repositorio, **no afectará al repositorio original hasta que no hagamos una solicitud de revisión (Pull request), y éste no sea verificado y aprobado por los moderadores.
+En la siguiente pantalla nos pedirá confirmación para crear la copia del repositorio en nuestra cuenta. Únicamente tendremos que hacer clic en **Create Fork**
 
-![Estamos en nuestro Fork](https://raw.githubusercontent.com/WordPress/spain-handbook/master/assets/Fork-estamos-en-fork.jpg)
+![Confirmar creación del Fork](/assets/fork-confirma-crear-fork.webp)
 
-Fíjate que, bajo el nombre del archivo, aparece _forked from_ y una ruta, que se corresponde con la del repositorio original.
+Una vez confirmada la creación del _Fork_, nos llevará a la página principal de nuestra copia del repositorio. Para reconocer claramente cuándo estamos en nuestra copia **y no en el repositorio original**, es importante fijarse en la ruta que se muestra en la parte de arriba a la izquierda, ya que aparecerá nuestro nombre de usuario (subrayado en rojo).
 
-Esto te permitirá saber que estás trabajando en tu copia del manual.
+![Estamos en nuestro Fork](/assets/fork-estamos-en-fork.webp)
+
+Fíjate que, bajo el nombre del archivo, aparece _forked from_ y una ruta, que se corresponde con la del repositorio original. Esto te permitirá saber que estás trabajando en tu copia del manual.
 
 A partir de ahora, cualquier cambio que hagas en este repositorio (tu copia o _fork_) se quedará ahí y no afectará al repositorio original.
 
