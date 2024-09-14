@@ -6,7 +6,7 @@ Para crearte una cuenta en GitHub, debes ir a su página principal [github.com](
 
 Haz clic en el botón *"Sign up"*, que está rodeado con un círculo rojo en la siguiente imagen:
 
-![Imagen de la pantalla de bienvenida de Github y resaltado del botón Sign Up](https://raw.githubusercontent.com/WordPress/spain-handbook/master/assets/manuales-wordpress-crear-cuenta-github.jpg)
+![Imagen de la pantalla de bienvenida de Github y resaltado del botón Sign Up](https://raw.githubusercontent.com/WordPress/spain-handbook/master/assets/crear-crear-cuenta-github.jpg)
 
 ## Activar el 2FA
 
