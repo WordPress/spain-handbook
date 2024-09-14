@@ -8,15 +8,15 @@ Con el fin de evitar posibles errores o conflictos **es importante no trabajar n
 
 Crearemos el fork pinchando en el botón **Fork**, que aparece en la parte superior derecha. Está rodeado en rojo para que puedas localizarlo más fácilmente.
 
-![Crear un Fork](/assets/fork-crear-copia.webp)
+![Crear un Fork](https://raw.githubusercontent.com/jesusyesares/spain-handbook/main/assets/fork-crear-copia.webp)
 
 En la siguiente pantalla nos pedirá confirmación para crear la copia del repositorio en nuestra cuenta. Únicamente tendremos que hacer clic en **Create Fork**
 
-![Confirmar creación del Fork](/assets/fork-confirma-crear-fork.webp)
+![Confirmar creación del Fork](https://raw.githubusercontent.com/jesusyesares/spain-handbook/main/assets/fork-confirma-crear-fork.webp)
 
 Una vez confirmada la creación del _Fork_, nos llevará a la página principal de nuestra copia del repositorio. Para reconocer claramente cuándo estamos en nuestra copia **y no en el repositorio original**, es importante fijarse en la ruta que se muestra en la parte de arriba a la izquierda, ya que aparecerá nuestro nombre de usuario (subrayado en rojo).
 
-![Estamos en nuestro Fork](/assets/fork-estamos-en-fork.webp)
+![Estamos en nuestro Fork](https://raw.githubusercontent.com/jesusyesares/spain-handbook/main/assets/fork-estamos-en-fork.webp)
 
 Fíjate que, bajo el nombre del archivo, aparece _forked from_ y una ruta, que se corresponde con la del repositorio original. Esto te permitirá saber que estás trabajando en tu copia del manual.
 
