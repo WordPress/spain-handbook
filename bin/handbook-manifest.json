@@ -9,168 +9,175 @@
 	"manuales": {
 		"title": "Cómo empezar",
 		"slug": "manuales",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/index.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/manuales\/index.md",
 		"parent": null,
 		"order": 1
 	},
 	"manuales\/wordpress": {
 		"title": "Cuentas de WordPress.org",
 		"slug": "wordpress",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/wordpress\/index.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/manuales\/wordpress\/index.md",
 		"parent": "manuales",
 		"order": 1
 	},
 	"manuales\/wordpress\/crear": {
 		"title": "Cómo crear tu cuenta de WordPress.org",
 		"slug": "crear",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/wordpresss\/crear\/index.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/manuales\/wordpresss\/crear\/index.md",
 		"parent": "wordpress",
 		"order": 1
 	},
 	"manuales\/wordpress\/recuperar": {
 		"title": "Cómo recuperar tu cuenta de WordPress.org",
 		"slug": "recuperar",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/wordpresss\/recuperar\/index.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/manuales\/wordpresss\/recuperar\/index.md",
 		"parent": "wordpress",
 		"order": 2
 	},
 	"manuales\/wordpress\/sincronizar": {
 		"title": "Cómo sincronizar tu cuenta de WordPress.org con GitHub",
 		"slug": "sincronizar",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/wordpresss\/sincronizar\/index.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/manuales\/wordpresss\/sincronizar\/index.md",
 		"parent": "wordpress",
 		"order": 3
 	},
 	"manuales\/markdown": {
 		"title": "Manual de Markdown",
 		"slug": "markdown",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/markdown\/index.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/manuales\/markdown\/index.md",
 		"parent": "manuales",
 		"order": 2
 	},
 	"manuales\/markdown\/referencia": {
 		"title": "Referencia rápida de Markdown",
 		"slug": "referencia",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/markdown\/referencia.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/manuales\/markdown\/referencia.md",
 		"parent": "markdown",
 		"order": 1
 	},
 	"manuales\/github": {
 		"title": "Manual de GitHub",
 		"slug": "github",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/github\/index.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/manuales\/github\/index.md",
 		"parent": "manuales",
 		"order": 3
 	},
 	"manuales\/github\/crear": {
 		"title": "Crear una cuenta en GitHub",
 		"slug": "crear",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/manuales\/github\/crear.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/manuales\/github\/crear.md",
 		"parent": "github",
 		"order": 1
 	},
 	"equipo": {
 		"title": "Quiénes somos",
 		"slug": "equipo",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/equipo\/index.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/equipo\/index.md",
 		"parent": null,
 		"order": 2
 	},
 	"equipo\/agenda": {
 		"title": "Agenda",
 		"slug": "agenda",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/equipo\/agenda.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/equipo\/agenda.md",
 		"parent": "equipo",
 		"order": 1
 	},
 	"equipo\/chat": {
 		"title": "Chat / Slack",
 		"slug": "chat",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/equipo\/chat.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/equipo\/chat.md",
 		"parent": "equipo",
 		"order": 2
 	},
 	"accesibilidad": {
 		"title": "Equipo de Accesibilidad",
 		"slug": "accesibilidad",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/accesibilidad\/index.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/accesibilidad\/index.md",
 		"parent": null,
 		"order": 10
 	},
 	"comunidad": {
 		"title": "Equipo de Comunidad",
 		"slug": "comunidad",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/comunidad\/index.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/comunidad\/index.md",
 		"parent": null,
 		"order": 11
 	},
 	"comunidad\/meetup": {
 		"title": "Meetup",
 		"slug": "meetup",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/comunidad\/meetup.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/comunidad\/meetup.md",
 		"parent": "comunidad",
 		"order": 1
 	},
 	"diseno": {
 		"title": "Equipo de Diseño",
 		"slug": "diseno",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/diseno\/index.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/diseno\/index.md",
 		"parent": null,
 		"order": 12
 	},
 	"hosting": {
 		"title": "Equipo de Hosting",
 		"slug": "hosting",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/hosting\/index.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/hosting\/index.md",
 		"parent": null,
 		"order": 13
+	},
+	"servidor": {
+		"title": "Configuración del servidor",
+		"slug": "servidor",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/hosting\/servidor.md",
+		"parent": "hosting",
+		"order": 1
 	},
 	"marketing": {
 		"title": "Equipo de Marketing",
 		"slug": "marketing",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/marketing\/index.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/marketing\/index.md",
 		"parent": null,
 		"order": 14
 	},
 	"marketing\/wordcamp": {
 		"title": "Qué es una WordCamp",
 		"slug": "wordcamp",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/marketing\/wordcamp\/index.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/marketing\/wordcamp\/index.md",
 		"parent": "marketing",
 		"order": 1
 	},
 	"soporte": {
 		"title": "Equipo de Soporte",
 		"slug": "soporte",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/soporte\/index.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/soporte\/index.md",
 		"parent": null,
 		"order": 15
 	},
 	"traducciones": {
 		"title": "Equipo de Traducciones",
 		"slug": "traducciones",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/traducciones\/index.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/traducciones\/index.md",
 		"parent": null,
 		"order": 16
 	},
 	"traducciones\/guia": {
 		"title": "Guía de traductores",
 		"slug": "guia",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/traducciones\/guia.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/traducciones\/guia.md",
 		"parent": "traducciones",
 		"order": 1
 	},
 	"traducciones\/pte": {
 		"title": "Cómo ser PTE",
 		"slug": "pte",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/traducciones\/pte.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/traducciones\/pte.md",
 		"parent": "traducciones",
 		"order": 2
 	},
 	"tv": {
 		"title": "Equipo de WordPress TV",
 		"slug": "tv",
-		"markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/master\/tv\/index.md",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/master\/tv\/index.md",
 		"parent": null,
 		"order": 17
 	}
