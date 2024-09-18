@@ -1,39 +1,27 @@
 # Crear una copia (fork) del repositorio principal del manual de WordPress en Español a tu cuenta de GitHub
 
+Una vez que tenemos cuenta en GitHub, podremos acceder a su página principal, y en la barra lateral aparecerá el listado de repositorios a los que tenemos acceso, o bien ir directamente al repositorio del manual de WordPress en Español ([WordPress/spain-handbook](https://github.com/WordPress/spain-handbook)) para acceder al repositorio de manuales de WordPress España. En la parte superior izquierda podremos ver en todo momento en qué repositorio estamos.
 
-# CREAR UN FORK
-Crearemos el fork pinchando en el último botón que aparece en la parte superior derecha, está rodeado en rojo para que puedas localizarlo más fácilmente.
+Con el fin de evitar posibles errores o conflictos **es importante no trabajar nunca directamente en este repositorio principal**. De hecho, prácticamente ningún usuario tiene permisos para hacerlo. Por eso, para poder editar con seguridad, crearemos una copia del repositorio principal (_fork_), que será donde trabajaremos.
 
-![Crear un Fork]( https://raw.githubusercontent.com/WordPress/spain-handbook/master/assets/Fork-crear.jpg)
+## Crear un fork
 
-Después de realizarlo, la ventana cambiará y si nos fijamos en la ruta que se muestra en la parte de arriba a la izquierda ya aparecerá nuestro nombre de usuario, desde este momento cualquier cambio que hagamos en este repositorio, no afectará al repositorio original hasta que no hagamos un Pull request (solicitud de revisión) y éste no sea verificado y aprobado.
+Crearemos el fork pinchando en el botón **Fork**, que aparece en la parte superior derecha. Está rodeado en rojo para que puedas localizarlo más fácilmente.
 
-![Estamos en nuestro Fork](https://raw.githubusercontent.com/WordPress/spain-handbook/master/assets/Fork-estamos-en-fork.jpg)
+![Crear un Fork](https://raw.githubusercontent.com/jesusyesares/spain-handbook/main/assets/fork-crear-copia.webp)
 
-## Sincronizar nuestra copia con el repositorio original
+En la siguiente pantalla nos pedirá confirmación para crear la copia del repositorio en nuestra cuenta. Únicamente tendremos que hacer clic en **Create Fork**
 
-### Fetch upstream {#fetch}
+![Confirmar creación del Fork](https://raw.githubusercontent.com/jesusyesares/spain-handbook/main/assets/fork-confirma-crear-fork.webp)
 
-**Si nuestro *fork* deja de estar actualizado**
+Una vez confirmada la creación del _Fork_, nos llevará a la página principal de nuestra copia del repositorio. Para reconocer claramente cuándo estamos en nuestra copia **y no en el repositorio original**, es importante fijarse en la ruta que se muestra en la parte de arriba a la izquierda, ya que aparecerá nuestro nombre de usuario (subrayado en rojo).
 
-Cuando se trabaja en un _fork_, se trabaja paralelamente al repositorio principal (wordpress/spain-handbook) en tu cuenta de github (micuenta/spain-handbook). 
+![Estamos en nuestro Fork](https://raw.githubusercontent.com/jesusyesares/spain-handbook/main/assets/fork-estamos-en-fork.webp)
 
-Por tanto es posible que, mientras estés trabajando, otros contribuidores estén haciendo lo mismo en sus respectivos forks y hayan mandado los cambios al repositorio principal. Esos cambios no se aplicarán en tu fork mientras no sincronices tu repositorio con el principal.
+Fíjate que, bajo el nombre del archivo, aparece _forked from_ y una ruta, que se corresponde con la del repositorio original. Esto te permitirá saber que estás trabajando en tu copia del manual.
 
-De hecho, verás un mensaje como el siguiente:
+A partir de ahora, cualquier cambio que hagas en este repositorio (tu copia o _fork_) se quedará ahí y no afectará al repositorio original.
 
-`This branch is 3 commits behind WPES:master`
+Cuando terminemos de editar será cuando solicitemos una revisión de los cambios ([_Pull request_](https://es.wordpress.org/team/handbook/manuales/github/pullrequest/)), y éstos serán verificados y aprobados o no por un moderador.
 
-Significa que se han realizado 3 modificaciones desde que hicimos nuestra copia (*fork*).
-
-En este caso, si el archivo principal se ha adelantado a nuestra versión, tenemos dos opciones: Contribute o Update branch.
-Si no hemos realizado aun cambios en nuestro fork, para trabajar en la versión aceptada más actualizada del archivo principal (main), podemos pulsar en *Sync fork*, que nos dará a su vez la opción: _Update branch_.
-![Actualizamos Rama](https://raw.githubusercontent.com/WordPress/spain-handbook/master/assets/Fork-actualizar-rama.jpg)
-
-Si ya hemos editado nuestro archivo, pulsaremos Contribute, aparecerá una pequeña ventana que indica que el archivo no está actualizado y nos invita a hacer un Pull request para fusionar nuestra edición con el archivo principal (main).
-![Solicitamos Pull Request](https://raw.githubusercontent.com/WordPress/spain-handbook/master/assets/Fork-contribute-send-PR.jpg)
-
-*Compare* nos permite comparar las distintas versiones que se han creado.
-En cualquier caso, si hubiera algún conflicto entre ambas versiones, el sistema nos avisará y nos invitará a hacer antes un *Pull request*.
-
-
+Pero eso será más adelante, ya que el siguiente paso es [revisar los _issues_ o tareas](https://es.wordpress.org/team/handbook/manuales/github/issues/) para ver en qué puedes trabajar.
