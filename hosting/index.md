@@ -11,9 +11,11 @@ Algunos ejemplos de **actividades que realizamos** en hosting son:
 
 ## ¿Cómo colaborar en el equipo de hosting de WordPress español?
 
-Entra en el canal de [#hosting](https://wpes.slack.com/archives/hosting/) de Slack, puesto que ahí es donde realizamos todas las comunicaciones y reuniones del equipo de Hosting de WordPress Español. Únete [siguiendo estas instrucciones](https://es.wordpress.org/guias/chat/).
+Entra en el canal de [#hosting](https://wordpress.slack.com/archives/hosting/) de Slack, puesto que ahí es donde realizamos todas las comunicaciones y reuniones del equipo de Hosting de WordPress. Únete [siguiendo estas instrucciones](https://wordpress.org/chat/).
 
-Por norma general, las **reuniones** son el primer y tercer jueves del mes de 16:00 a 17:00 (hora España peninsular).
+Este equipo no tiene charlas en español. Todas las comunicaciones se hacen en el Slack Global, en inglés.
+
+Las **reuniones** son casa semana, los miércoles, de forma alterna a las 0900 UTC y a las 1800 UTC.
 
 ## Representantes del equipo
 
