@@ -39,4 +39,7 @@ En cualquier caso, si hubiera algún conflicto entre ambas versiones, el sistema
 
 Pero eso será más adelante, puesto que estamos en el supuesto de que estamos empezando a contribuir y todavía no hemos hecho ninguna edición.
 
+> [!IMPORTANT]
+> Recuerda, siempre que entres en tu _Fork_ hacer clic en **Sync fork**, incluso si tienes experiencia con GitHub y trabajas en local.
+
 El siguiente paso que debemos llevar a cabo es [crear una rama en nuestro fork](https://es.wordpress.org/team/handbook/manuales/github/rama/) para editar en ella sin peligro de modificar nada en la rama principal.

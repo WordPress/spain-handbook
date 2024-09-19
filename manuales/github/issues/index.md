@@ -70,4 +70,7 @@ Una vez que te haya sido una tarea asignada, puedes volver a tu copia del reposi
 
 ![Abrir el menú principal de GitHub](https://raw.githubusercontent.com/WordPress/spain-handbook/main/assets/issues-ir-a-nuestro-fork-2.webp)
 
+> [!CAUTION]
+> Cualquier sugerencia que se quiera hacer, deberá hacerse mediante la creación de un Issue nuevo, **Nunca en los comentarios de un _Pull Request_**.
+
 Ahora sí, el siguiente paso es que [Sincronices tu fork con el repositorio principal](https://es.wordpress.org/team/handbook/manuales/github/fetch/) para empezar a trabajar con todo actualizado.
