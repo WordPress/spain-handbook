@@ -19,7 +19,7 @@ A continuación, haz clic en la opción **Settings**.
 
 ![Haz clic en Settings](https://raw.githubusercontent.com/WordPress/spain-handbook/main/assets/crear-activar-2FA-1.webp)
 
-Una vez que haz entrado en los ajustes de tu perfil, puedes aprovechar para personalizar tu cuenta de GitHub (nombre, etc.). Y, a continuación, haz clic en **Password and authentication**.
+Una vez que has entrado en los ajustes de tu perfil, puedes aprovechar para personalizar tu cuenta de GitHub (nombre, etc.). Y, a continuación, haz clic en **Password and authentication**.
 
 ![Haz clic en Password and authentification](https://raw.githubusercontent.com/WordPress/spain-handbook/main/assets/crear-activar-2FA-2.webp)
 
@@ -39,7 +39,7 @@ Si lo prefieres, este proceso lo puedes hacer también mediante SMS, como puedes
 
 En cualquier caso, se trata de hacer la doble autentificación con tu dispositivo móvil.
 
-Una vez que hagas esto, verás que te aparece una pantalla con un montón de números. Estos códigos (llamados "recovery codes" en GitHub), o el archivo que te puedes descargar, deberás guardarlos en un lugar seguro ya que, si algún día no funcionase correctamente la autentificación de doble factor, **éstos códigos son tu llave para poder entrar a GitHub y no perder para siempre tu cuenta**.
+Una vez que hagas esto, verás que te aparece una pantalla con un montón de números. Estos códigos (llamados "recovery codes" en GitHub), o el archivo que te puedes descargar, deberás guardarlos en un lugar seguro, ya que, si algún día no funcionase correctamente la autentificación de doble factor, **estos códigos son tu llave para poder entrar a GitHub y no perder para siempre tu cuenta**.
   
 ![Lista de códigos de recuperación de GitHub](https://raw.githubusercontent.com/WordPress/spain-handbook/main/assets/crear-codigos-recuperacion.webp)
  
@@ -75,7 +75,7 @@ Si tienes experiencia y prefieres trabajar con esta herramienta, puedes descarga
 
 ## Una vez que tengas una cuenta de GitHub
 
-Una vez que has creado tu cuenta, ya puedes acceder el [repositorio de WordPress en español](https://github.com/WordPress/spain-handbook), donde encontrarás todas las carpetas de los equipos con los diferentes manuales. Ten en cuenta que, para trabajar en ellas, deberás crear una nueva tarea (Issue) para proponer cambios, o bien solicitar en una tarea existente para que te sea asignada.
+Una vez que has creado tu cuenta, ya puedes acceder el [repositorio de WordPress España](https://github.com/WordPress/spain-handbook), donde encontrarás todas las carpetas de los equipos con los diferentes manuales. Ten en cuenta que, para trabajar en ellas, deberás crear una nueva tarea (Issue) para proponer cambios, o bien solicitar en una tarea existente para que te sea asignada.
 
 Si no tienes todavía cuenta en WordPress.org, puedes hacerlo siguiendo el [manual para crear una cuenta de WordPress.org](https://es.wordpress.org/team/handbook/handbook/manuales/wordpress/sincronizar/).
 
