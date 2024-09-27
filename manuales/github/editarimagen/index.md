@@ -8,11 +8,11 @@ Por ello, se va a explicar a continuación una forma muy sencilla de reducir el 
 
 Con esta aplicacion solamente se puede redimensionar la imagen y reducir su tamaño de archivo (peso).
 
-En cualquiera de los casos, una vez que se haya entrado en **Squoosh.app**, lo siguiente será pegar desde el portapapeles o arrastrar la imagen a la aplicación.
+En cualquiera de los casos, una vez que se haya entrado en la herramienta, lo siguiente será pegar desde el portapapeles o arrastrar la imagen a la aplicación.
 
 ![Añadir la imagen a squoosh.app](https://raw.githubusercontent.com/WordPress/spain-handbook/main/assets/reducir-imagen-01.jpeg)
 
-Al añadir la imagen, se observa a la izquierda el peso original de la misma, y a la derecha el peso y la reducción que aplicado el software. Se observa una reducción considerable solo por añadir la imagen a squoosh.app
+Al añadir la imagen, se observa a la izquierda el peso original de la misma, y a la derecha el peso y la reducción que aplicado el software. Se observa una reducción considerable solo por añadir la imagen a la herramienta.
 
 ![Reducción de imagen inicial](https://raw.githubusercontent.com/WordPress/spain-handbook/main/assets/reducir-imagen-02.jpeg)
 
@@ -40,11 +40,11 @@ Para ello, lo único que hay que hacer es mover el deslizador de **Quality** hac
 
 ![Deslizador Quality](https://raw.githubusercontent.com/WordPress/spain-handbook/main/assets/reducir-imagen-07.jpeg)
 
-En este ejemplo se observa la calidad de la imagen reducida a 75, que es la reducción que introduce el programa por defecto y el peso de la imagen, que es de 230kb.
+En este ejemplo se observa la calidad de la imagen reducida a 75, que es la reducción que introduce el programa por defecto y el peso de la imagen, que es de 230 kB.
 
 ![Deslizador y peso de la imagen a la calidad reducida por defecto](https://raw.githubusercontent.com/WordPress/spain-handbook/main/assets/reducir-imagen-08.jpeg)
 
-A continuación, se observa cómo el peso se reduce a 109kb cuando el deslizador se desplaza a calidad 35.
+A continuación, se observa cómo el peso se reduce a 109 kB cuando el deslizador se desplaza a calidad 35.
 
 ![Deslizador y peso de la imagen tras reducir la calidad](https://raw.githubusercontent.com/WordPress/spain-handbook/main/assets/reducir-imagen-09.jpeg)
 
