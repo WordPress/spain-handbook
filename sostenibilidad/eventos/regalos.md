@@ -17,5 +17,5 @@ Los regalos de bienvenida son otra historia. Aunque poco necesarios, suelen ser 
 Planifica qué hacer con los artículos promocionales sobrantes después del evento.
 
 - Establece un punto de entrega para las cintas de acreditaciones.
-- Cuando sea posible, envía los artículos promocionales que se puedan usar a WordCamp Central.
+- Cuando sea posible, contacta con otros organizadores de eventos WordPress para compartir materiales. 
 - Coordina una donación de los artículos promocionales sobrantes, que no se puedan volver a usar, a una organización benéfica local.
