@@ -1,6 +1,6 @@
 # Solicitar revisión de los cambios realizados (Pull Request o PR)
 
-Cuando terminamos de editar nuestro archivo podemos proceder a realizar un *pull request*, nuestro archivo se enviará al administrador para su revisión y, una vez realizadas las comprobaciones pertinentes, nuestro *fork* se fusionará con el archivo principal.
+Cuando terminamos de editar nuestro archivo podemos realizar un *pull request*, nuestro archivo se enviará al administrador para su revisión y, una vez realizadas las comprobaciones pertinentes, nuestro *fork* se fusionará con el archivo principal.
 
 Para hacer *pull request* a partir de nuestro *fork*:
 
@@ -21,7 +21,6 @@ Para hacer *pull request* a partir de nuestro *fork*:
 
 ![Seleccionar ramas](https://raw.githubusercontent.com/WordPress/spain-handbook/main/assets/pull-request-peticion-revision-realizada.webp)
 
-> [!CAUTION]
-> En el _Pull request_ únicamente se discutirá acerca de los cambios solicitados y en revisión. Si surge alguna sugerencia o nueva tarea, **inmediatamente se debe convertir en un _Issue_**.
+[alert]En el _Pull request_ únicamente se discutirá acerca de los cambios solicitados y en revisión. Si surge alguna sugerencia o nueva tarea, **inmediatamente se debe convertir en un _Issue_**.[/alert]
 
 En este punto, habrá finalizado tu contribución con ese _issue_ o tarea que has elegido.

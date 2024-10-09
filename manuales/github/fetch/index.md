@@ -8,7 +8,7 @@ Ya sabes, recuerda que para saber que estás en tu copia, verás la frase `forke
 
 ![Indicación de que estamos en nuestro fork](https://raw.githubusercontent.com/WordPress/spain-handbook/main/assets/Fork-estamos-en-fork.webp)
 
-En el caso de que acabes de crear el fork, y esté todo actualizado, verás un mensaje como éste:
+En el caso de que acabes de crear el fork, y esté todo actualizado, verás un mensaje como este:
 
 `This branch is up to date with WordPress/spain-handbook:main`
 
@@ -26,7 +26,7 @@ Significaría que se han realizado 2 modificaciones en el repositorio original d
 
 En este caso, si el archivo principal se ha adelantado a nuestra versión, tenemos dos opciones: Contribute o Update branch.
 
-Si **no hemos realizado aun cambios** en nuestro fork, para trabajar en la versión aceptada más actualizada del archivo principal (main), podemos pulsar en **Sync fork**, que nos dará a su vez la opción: _Update branch_.
+Si **no hemos realizado aún cambios** en nuestro fork, para trabajar en la versión aceptada más actualizada del archivo principal (main), podemos pulsar en **Sync fork**, que nos dará a su vez la opción: _Update branch_.
 
 ![Actualizamos Rama](https://raw.githubusercontent.com/WordPress/spain-handbook/main/assets/Fork-actualizar-rama.jpg)
 
@@ -39,7 +39,6 @@ En cualquier caso, si hubiera algún conflicto entre ambas versiones, el sistema
 
 Pero eso será más adelante, puesto que estamos en el supuesto de que estamos empezando a contribuir y todavía no hemos hecho ninguna edición.
 
-> [!IMPORTANT]
-> Recuerda, siempre que entres en tu _Fork_ hacer clic en **Sync fork**, incluso si tienes experiencia con GitHub y trabajas en local.
+[tip]Recuerda, siempre que entres en tu _Fork_ hacer clic en **Sync fork**, incluso si tienes experiencia con GitHub y trabajas en local.[/tip]
 
 El siguiente paso que debemos llevar a cabo es [crear una rama en nuestro fork](https://es.wordpress.org/team/handbook/manuales/github/rama/) para editar en ella sin peligro de modificar nada en la rama principal.

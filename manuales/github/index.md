@@ -14,17 +14,17 @@ Es por ello que hay herramientas que facilitan su uso como GitHub.
 
 ### Qué es GitHub
 
-GitHub es una plataforma online, basada en Git, que funciona como un espacio colaborativo para el desarrollo de software. Podría compararse con una red social para proyectos de programación. 
+GitHub es una plataforma en línea, basada en Git, que funciona como un espacio colaborativo para el desarrollo de software. Podría compararse con una red social para proyectos de programación. 
 
-En lugar de compartir fotos o mensajes, los desarrolladores utilizan GitHub para almacenar y compartir el código fuente de sus aplicaciones. Esto facilita la colaboración entre equipos, ya que múltiples personas pueden trabajar en un proyecto al mismo tiempo. Además GitHub, al trabajar sobre GIT, guarda un historial de todos los cambios realizados, lo que permite volver a versiones anteriores del software si es necesario. 
+En lugar de compartir fotos o mensajes, los desarrolladores utilizan GitHub para almacenar y compartir el código fuente de sus aplicaciones. Esto facilita la colaboración entre equipos, ya que múltiples personas pueden trabajar en un proyecto al mismo tiempo. Además, GitHub, al trabajar sobre GIT, guarda un historial de todos los cambios realizados, lo que permite volver a versiones anteriores del software si es necesario. 
 
-No obstante, en Github también se puede trabajar con documentos de texto con formato, gracias al uso de [Markdown](https://es.wordpress.org/team/handbook/manuales/markdown/), permitiendo tener un control de todas las modificaciones que se realizan en el documento por los diferentes colaboradores. Por eso, es una herramienta perfecta para contribuir en el manual de WordPress en Español en un entorno colaborativo.
+No obstante, en GitHub también se puede trabajar con documentos de texto con formato, gracias al uso de [Markdown](https://es.wordpress.org/team/handbook/manuales/markdown/), permitiendo tener un control de todas las modificaciones que se realizan en el documento por los diferentes colaboradores. Por eso, es una herramienta perfecta para contribuir en el manual de WordPress de España en un entorno colaborativo.
 
 ### Diferencias entre Git y GitHub
 
 Si has leído los dos apartados anteriores, puedes concluir que **Git** es un sistema de control de versiones que se instala en el sistema operativo de nuestro ordenador o de un servidor.
 
-Por el contrario, **Github** es una plataforma colaborativa con funciones de red social, basada en Git, que permite llevar, además del control de versiones de un proyecto, la gestión del propio proyecto, de los tickets con propuestas que van surgiendo durante el proyecto, y de las propuestas de cambio realizadas por los colaboradores.
+Por el contrario, **GitHub** es una plataforma colaborativa con funciones de red social, basada en Git, que permite llevar, además del control de versiones de un proyecto, la gestión del propio proyecto, de los tickets con propuestas que van surgiendo durante el proyecto, y de las propuestas de cambio realizadas por los colaboradores.
 
 ## Qué es un repositorio
 
@@ -34,15 +34,15 @@ En este _repositorio_ se pueden almacenar todo tipo de archivos, desde carpetas 
 
 ## Cómo colaborar en el manual de WordPress España con GitHub
 
-Para colaborar en el manual de WordPress España, cualquier contribuidor que quiera, podrá hacerlo a través de GitHub, accediendo al repositorio del Manual de WordPress España ([https://github.com/WordPress/spain-handbook](https://github.com/WordPress/spain-handbook)).
+Para colaborar en el manual de WordPress España, cualquier contribuidor que quiera, podrá hacerlo a través de GitHub, accediendo al [repositorio del Manual de WordPress España](https://github.com/WordPress/spain-handbook).
 
-En este repositorio están alojados todos los archivos que conforman todo el manual de WordPress en español. Aquí es donde vas a hacer todos los cambios que, una vez aceptados, se reflejarán en la esta web que estás leyendo.
+En este repositorio están alojados todos los archivos que conforman todo el manual de WordPress en español. Aquí es donde vas a hacer todos los cambios que, una vez aceptados, se reflejarán en esta web que estás leyendo.
 
 A continuación te explicamos cómo puedes acceder a GitHub, su funcionamiento y todo lo que tienes que saber para colaborar en el proyecto de la forma *más fácil posible*. Sigue los siguientes pasos, si alguno ya lo has hecho previamente, puedes saltártelo:
 
 - _Paso 1_: [Crear una cuenta en GitHub](https://es.wordpress.org/team/handbook/manuales/github/crear/)
 - _Paso 2_: [Enlazar tu perfil de WordPress con GitHub](https://es.wordpress.org/team/handbook/manuales/wordpress/sincronizar/)
-- _Paso 3_: [Crear una copia (fork) del repositorio principal del manual de WordPress en Español a tu cuenta de GitHub](https://es.wordpress.org/team/handbook/manuales/github/fork/)
+- _Paso 3_: [Crear una copia (fork) del repositorio principal del manual de WordPress de España a tu cuenta de GitHub](https://es.wordpress.org/team/handbook/manuales/github/fork/)
 - _Paso 4_: [Revisar los issues (tareas)](https://es.wordpress.org/team/handbook/manuales/github/issues/)
 - _Paso 5_: [Sincronizar tu fork desde el repositorio principal (fetch)](https://es.wordpress.org/team/handbook/manuales/github/fetch/)
 - _Paso 6_: [Crear una rama en tu fork](https://es.wordpress.org/team/handbook/manuales/github/rama/)

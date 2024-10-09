@@ -2,7 +2,7 @@
 
 En GitHub llamamos _Issues_ a lo que comúnmente se llaman tareas. Dentro de GitHub se pueden gestionar tareas igual que se puede hacer en herramientas como Trello, nos las podemos asignar y trabajar en ellas. 
 
-Para ver las tareas, hay que ir al repositorio principal del Manual de WordPress en Español, ya que todos los proyectos se gestionan allí directamente. Por tanto, ten cuidado de no hacer nada de lo que se va a explicar a continuación en tu copia del repositorio.
+Para ver las tareas, hay que ir al repositorio principal del Manual de WordPress de España, ya que todos los proyectos se gestionan allí directamente. Por tanto, ten cuidado de no hacer nada de lo que se va a explicar a continuación en tu copia del repositorio.
 
 Para ir al repositorio principal, no tienes más que hacer clic al enlace que aparece en la cabecera de tu repositorio.
 
@@ -26,11 +26,11 @@ Si entras en cada uno de ellos, podrás ver las tareas en columnas que definen e
 
 Antes de empezar, lo más recomendable es leerse todas las tareas que haya en la primera columna, puesto que ahí encontrarás las instrucciones y todo lo que debes tener en cuenta a la hora de trabajar en ese proyecto en concreto.
 
-A continuación encontrarás la columna de tareas sin asignar. Normalmente será ahí donde debas empezar, puesto que el resto de columnas que encuentres más adelante estarán asignadas. Tan solo en la columna de tareas fantasma podrías solicitar que se te asigne una de las tareas que ahí haya porque ha quedado abandonada.
+A continuación encontrarás la columna de tareas sin asignar. Normalmente, será ahí donde debas empezar, puesto que el resto de columnas que encuentres más adelante estarán asignadas. Tan solo en la columna de tareas fantasma podrías solicitar que se te asigne una de las tareas que ahí haya porque ha quedado abandonada.
 
 ![Columnas en formato Kanban con las tareas](https://raw.githubusercontent.com/WordPress/spain-handbook/main/assets/issues-elegir-tarea-kanban.webp)
 
-Cuando hagas clic en la tarea que hayas elegido, se abrirá un desplegable lateral con las instrucciones de dicha tarea y la historia de la misma, si es que ha sido asignada anteriormente y se ha desarrolado trabajo dentro de ella.
+Cuando hagas clic en la tarea que hayas elegido, se abrirá un desplegable lateral con las instrucciones de dicha tarea y la historia de la misma, si es que ha sido asignada anteriormente y se ha desarrollado trabajo dentro de ella.
 
 Si es la tarea en la que quieres trabajar, lo siguiente será ir a comentarios y solicitar que te sea asignada dicha tarea, ya que si no, no podrás trabajar en ella. Para ello, simplemente escribe un mensaje y haz clic en **Comment**.
 
@@ -46,7 +46,7 @@ La otra forma de seleccionar una tarea es ir a la opción **Issues** del reposit
 
 ![Lista de todos los Issues](https://raw.githubusercontent.com/WordPress/spain-handbook/main/assets/issues-ir-a-lista-issues.webp)
 
-Esto puede ser un poco intimidante, pero no te preocupes, puesto que puedes filtrar por diferentes criterios. Normalmente lo harás por las etiquetas (_Labels_). De esta forma, puedes seleccionar por proyecto, nivel, prioridad... Recorre las etiquetas y verás que hay varios criterios.
+Esto puede ser un poco intimidante, pero no te preocupes, puesto que puedes filtrar por diferentes criterios. Normalmente, lo harás por las etiquetas (_Labels_). De esta forma, puedes seleccionar por proyecto, nivel, prioridad... Recorre las etiquetas y verás que hay varios criterios.
 
 ![Filtrar issues por labels](https://raw.githubusercontent.com/WordPress/spain-handbook/main/assets/issues-filtrar-por-etiquetas.webp)
 
@@ -56,7 +56,7 @@ Como ejemplo, vamos a filtrar aquellas tareas que sean **para principiantes** y 
 
 El siguiente paso es el mismo explicado anteriormente, es decir, entra en la tarea que elijas, solicita en comentarios que te sea asignada y espera a que un moderador te confirme tu petición.
 
-Una vez que te haya sido una tarea asignada, puedes volver a tu copia del repositorio de WordPress en Español para trabajar en ella. Para ir a tu copia del repositorio, puedes hacerlo de varias formas:
+Una vez que te haya sido una tarea asignada, puedes volver a tu copia del repositorio de WordPress de España para trabajar en ella. Para ir a tu copia del repositorio, puedes hacerlo de varias formas:
 
 - Desde el menú lateral de GitHub. Haz clic en el botón de la parte superior izquierda y a continuación haz clic en el enlace de tu copia del repositorio que aparece en el menú lateral. Recuerda que debe tener el nombre `tuusuario/spain-handbook`.
 
@@ -70,7 +70,7 @@ Una vez que te haya sido una tarea asignada, puedes volver a tu copia del reposi
 
 ![Abrir el menú principal de GitHub](https://raw.githubusercontent.com/WordPress/spain-handbook/main/assets/issues-ir-a-nuestro-fork-2.webp)
 
-> [!CAUTION]
-> Cualquier sugerencia que se quiera hacer, deberá hacerse mediante la creación de un Issue nuevo, **Nunca en los comentarios de un _Pull Request_**.
+[alert]Atención
+Cualquier sugerencia que se quiera hacer, deberá hacerse mediante la creación de un Issue nuevo, **Nunca en los comentarios de un _Pull Request_**.[/alert]
 
 Ahora sí, el siguiente paso es que [Sincronices tu fork con el repositorio principal](https://es.wordpress.org/team/handbook/manuales/github/fetch/) para empezar a trabajar con todo actualizado.
