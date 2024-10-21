@@ -5,7 +5,7 @@ Como organizador de eventos, eres responsable de proporcionar agua, café, y nor
 - Revisa si el lugar donde se celebrará el evento tiene restricciones en la comida que puede traer la gente de catering y los patrocinadores.
 - Si el lugar del evento no tiene fuentes o sistemas para rellenar agua, habla con el catering o la empresa encargada de la comida.
 - A la hora de elegir una empresa de catering, busca una que cumpla con el mayor número de los siguientes criterios:
-  - Es un negocio local, que cocina comida de la zona, usa ingredientes locales y que idealmente elabora menús de temporada. También es recomendable    - que use productos de comercio justo, orgánicos o de origen vegetal, siempre y cuando sean locales.
+  - Es un negocio local, que cocina comida de la zona, usa ingredientes locales y que idealmente elabora menús de temporada. También es recomendable que use productos de comercio justo, orgánicos o de origen vegetal, siempre y cuando sean locales.
   - Hace comida vegana y vegetariana. Si se sirve carne, prioriza el pescado y las aves de corral frente a la carne roja.
   - Usa más cereales integrales que refinados.
   - Sirve la comida en envases reutilizables, reciclables o compostables.
