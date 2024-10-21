@@ -1,6 +1,6 @@
 # Regalos
 
-WordCamp Central te proporcionará [cintas para las acreditaciones y otros materiales de oficina](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/supplies/) que puedas necesitar para el evento.
+WordCamp Central te proporciona [diseños para cintas de acreditación, pegatinas, chapas y otros materiales](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/swag/swag-source-files/) que puedas necesitar durante el evento con el objetivo de que los imprimas de forma local.
 
 Los regalos de bienvenida son otra historia. Aunque poco necesarios, suelen ser un detalle de cara a los asistentes y los ponentes. Puedes hacerlo más sostenible de la siguiente forma:
 
