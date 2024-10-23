@@ -23,6 +23,7 @@ En este apartado figuran adaptaciones y consideraciones reconmendables para aseg
 - Estacionamiento (si es posible): Verificar el número de plazas disponibles de estacionamiento cerca de la entrada del evento. Estas plazas deben estar debidamente señalizadas, ser accesibles y cumplir con las normativas autonómicas.
 
 ## Recursos gráficos
+
 A continuación se exponen algunos recursos gráficos que pueden favorecer el bienestar de los asistentes al evento.
 
 - Ofrecer materiales del evento en diferentes formatos (impresos, digitales, audio) adaptados para diversas necesidades. Ejemplos: Mapas con todos los espacios del evento asociados a colores, símbolos, tramas y/o pictogramas, señalizaciones en braille e información textual.
@@ -31,7 +32,8 @@ A continuación se exponen algunos recursos gráficos que pueden favorecer el bi
 - Uso de textos grandes, contrastes de color y símbolos universales para facilitar la comprensión. Incluir señales en braille y mapas táctiles en puntos estratégicos. Conviene tener en cuenta que las normas de contraste de color solo están definidas para el espacio RGB por lo que no se puede aplicar en colores CMYK, etc. Por ello, se recomienda que el color del texto contraste con el fondo. Herramienta para comprobaro: https://webaim.org/resources/contrastchecker/
 - Colores acordes y uniformes: la coherencia en los colores facilita la comprensión y el reconocimiento de áreas específicas. Usar un código de colores o símbolos constantes en todos los mapas y señales ayudará a reducir la confusión. Por ejemplo, si la zona de descanso tiene en el mapa un símbolo de color verde, la puerta de la zona de descanso debe tener el mismo símbolo con el mismo color.
 
-## Atención y asistencia 
+## Atención y asistencia
+
 Se entiende que tanto la atención como la asistencia a estos eventos deben realizarse de forma controlada y con el mayor bienestar para todos los asistentes, pero esto no siempre es sencillo. Por ello, se establecen algunas pautas a seguir para posibilitar que estos actos sean reales:
 
 - Dar instrucciones al personal y a los voluntarios en la medida de lo posible para que puedan ayudar a personas con diferentes tipos de necesidades. Colocar puntos de información en lugares accesibles donde las personas puedan recibir asistencia o indicaciones. 
@@ -40,6 +42,7 @@ Se entiende que tanto la atención como la asistencia a estos eventos deben real
 Los asistentes que necesiten un “asistente personal” deben recibir una entrada gratuita para dicho asistente personal.
 
 ## Iluminación
+
 La iluminación es un aspecto muy importante para muchas personas. El posicionamiento, la dirección, temperatura e intensidad pueden afectar a personas que son sensibles a la luz. Esto puede provocar que muchas personas no se sientan cómodas entrando en diferentes áreas del evento, no pudiendo disfrutar al completo de la experiencia del evento.
 
 - Asegurar previamente que las áreas del evento estén bien iluminadas, pero sin ser demasiado intensa ni deslumbrante para que las personas puedan desplazarse con seguridad. Utilizar una iluminación suave y difusa, como luces LED regulables, para crear un ambiente cálido y acogedor, asegurando al mismo tiempo que el espacio esté bien iluminado.
@@ -47,6 +50,7 @@ La iluminación es un aspecto muy importante para muchas personas. El posicionam
 - Comprobar que las áreas clave, como entradas, salidas y zonas de circulación, tengan suficiente contraste en la iluminación para que sean fácilmente identificables. Usar luz cálida para diferenciar estas áreas de las zonas más oscuras o neutrales.
 
 ## Zonas de Emergencia y Seguridad
+
 La falta de accesos adaptados, señalización adecuada y personal capacitado puede resultar en retrasos en las respuestas y aumentar el caos y la confusión durante una emergencia. Sin las medidas pertinentes se pueden generar situaciones de verdadero peligro para ciertos colectivos con más dificultades a la hora de interpretar o ejecutar medidas.
 
 - Asegurarse de que organizadores y voluntariado estén informados sobre el plan de evacuación de cada sede en caso de emergencia. 
@@ -57,6 +61,7 @@ La falta de accesos adaptados, señalización adecuada y personal capacitado pue
 - Añadir en los mapas del evento información o señalización de las salidas de emergencia, puntos de encuentro, extintores, etc. 
 
 ## Comunicación previa
+
 El uso de lenguaje y mensaje claros, sin ambigüedades y legible, garantiza que, desde un comienzo, todas las personas comprendan perfectamente los detalles importantes del evento. De esta forma, nos aseguramos de que nadie se sienta excluido o confundido por la comunicación, promoviendo un entorno más accesible, respetuoso y acogedor.
 
 - Comunicar claramente la accesibilidad del evento en los materiales promocionales, incluyendo detalles sobre las adaptaciones disponibles (como rampas, baños accesibles, transporte adaptado). 
@@ -67,6 +72,7 @@ El uso de lenguaje y mensaje claros, sin ambigüedades y legible, garantiza que,
 - Revisar previamente el código de conducta para garantizar que se respetará el bienestar de todas las personas y eso incluye respetar las zonas de silencio, no obstaculizar el paso, tener en cuenta las plazas destinadas a personas con movilidad reducida, la alimentación específica de personas con alergias o intolerancias, etc.
 
 ## Contaminación acústica
+
 La contaminación acústica en un evento puede afectar negativamente a personas altamente sensibles en lo relativo a lo auditivo, causando estrés, ansiedad y exclusión. Este hecho crea barreras de comunicación, impactando en la inclusión y la calidad de la experiencia para todas las personas. Por tanto, es crucial considerar el control del ruido para asegurar un ambiente accesible y acogedor.
 
 - Realizar una inspección previa para detectar áreas donde el ruido pueda ser excesivo o donde el sonido rebote (eco). Considerar el uso de materiales absorbentes de sonido, como paneles acústicos, para reducir la reverberación y mejorar la calidad acústica del espacio.
@@ -75,6 +81,7 @@ La contaminación acústica en un evento puede afectar negativamente a personas 
 Controlar el volumen de los altavoces y proporcionar si procede tapones para la reducción de ruido.
 
 ## Espacios de silencio
+
 Esta propuesta está directamente relacionada con el anterior punto, pero bien merece su propio apartado. Proveer espacios tranquilos es crucial para aquellas personas que pueden sentirse abrumadas por el ruido y la multitud. Los rincones de silencio pueden constituirse en habitaciones sin uso asignado del local donde se da el evento. Se deben considerar los siguientes aspectos:
 
 - Proveer áreas designadas como “espacios tranquilos” donde las personas puedan retirarse si necesitan un descanso del ruido y la multitud.
@@ -89,6 +96,7 @@ Esta propuesta está directamente relacionada con el anterior punto, pero bien m
 - Sala de lactancia (si la hubiera): Debe ser un lugar tranquilo y acogedor en el que se garantice la intimidad de las personas asistentes a la hora de realizar los cuidados necesarios para sus bebés. 
 
 ## Herramientas y técnicas de autorregulación
+
 La autorregulación es la capacidad de una persona para gestionar sus propias emociones, comportamientos y reacciones ante estímulos internos y externos. Implica una serie de habilidades que permiten a las personas mantener el equilibrio emocional, controlar impulsos y gestionar el estrés. Estas habilidades incluyen la capacidad de calmarse, concentrarse y ajustar su nivel de alerta para adaptarse a diferentes situaciones.
 
 Para ayudar a las personas que requieran algún tipo de adaptación a manejar su entorno, es vital permitir y normalizar el uso de herramientas de autorregulación. Algunas consideraciones incluyen:
