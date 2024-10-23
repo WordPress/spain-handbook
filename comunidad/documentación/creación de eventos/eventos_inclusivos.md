@@ -1,16 +1,16 @@
 # Recomendaciones para eventos de WordPress inclusivos
 
-De acuerdo con [WordCamp Central y el programa de eventos de comunidad de WordPress](https://central.wordcamp.org/what-to-expect/),  es primordial crear espacios en eventos como las WordCamps (u otros tipos de eventos de WordPress) que reflejen la inclusión en todas sus vertientes haciendo por ello, que todas las personas se sientan parte de un clima de aceptación y de respeto hacia la diversidad.
+De acuerdo con [WordCamp Central y el programa de eventos de comunidad de WordPress](https://central.wordcamp.org/what-to-expect/),  es primordial crear espacios en eventos como las WordCamp (u otros tipos de eventos de WordPress) que reflejen la inclusión en todas sus vertientes haciendo por ello, que todas las personas se sientan parte de un clima de aceptación y de respeto hacia la diversidad.
 
 La diversidad es una cualidad inherente en el ser humano que valora la existencia de diferencias en distintos niveles y ámbitos de la vida. La diversidad enriquece la cultura y la sociedad, aportando una variedad de experiencias, conocimientos y prácticas que permiten a las comunidades crecer y desarrollarse.
 
 En diversos entornos, gestionar la diversidad de manera efectiva requiere conciencia cultural, flexibilidad, y un compromiso con la equidad.
 
-Por estos motivos, a continuación se exponen algunas **recomendaciones** clave **flexibles, no vinculantes y revisables** para mejorar la accesibilidad, comodidad y bienestar de todas las personas en las WordCamps teniendo en cuenta que cada lugar del evento tiene sus particularidades y posibilidades.
+Por estos motivos, a continuación se exponen algunas **recomendaciones** clave **flexibles, no vinculantes y revisables** para mejorar la accesibilidad, comodidad y bienestar de todas las personas en las WordCamp teniendo en cuenta que cada lugar del evento tiene sus particularidades y posibilidades.
 
 ## Unas instalaciones accesibles
 
-En este apartado figuran adaptaciones y consideraciones reconmendables para asegurar que todas las personas puedan acceder al evento sin complicaciones, teniendo en cuenta la normativa técnica a las que se deben ceñir los lugares de eventos. 
+En este apartado figuran adaptaciones y consideraciones recomendables para asegurar que todas las personas puedan acceder al evento sin complicaciones, teniendo en cuenta la normativa técnica a las que se deben ceñir los lugares de eventos. 
 
 - Rampas y ascensores: Las rampas deben cumplir con los [estándares de inclinación](https://accesibilidad4all.com/rampas-en-edificios/) y tener barandillas si es necesario. Los ascensores podrían presentar señalizaciones en braille de los indicadores.
 - Pasillos y espacios amplios con al menos 90 cm de ancho.
@@ -28,7 +28,7 @@ A continuación se exponen algunos recursos gráficos que pueden favorecer el bi
 - Ofrecer materiales del evento en diferentes formatos (impresos, digitales, audio) adaptados para diversas necesidades. Ejemplos: Mapas con todos los espacios del evento asociados a colores, símbolos, tramas y/o pictogramas, señalizaciones en braille e información textual.
 - Colocar pictogramas claros y visibles o tener en cuenta la [normativa ISO](https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma?c=norma-une-en-iso-7010-2020-n0063566) para señalizar adecuadamente áreas como espacios, baños accesibles, salidas de emergencia y otras instalaciones importantes. Los pictogramas se pueden extraer de https://arasaac.org/pictograms/search y se pueden seguir la normativa ISO 17049 sobre diseño accesible e ISO 23599 sobre productos de apoyo para personas ciegas y con problemas de visión.
 - Cartelería de buen tamaño y profesional: de tipografía clara y legible y un aspecto profesional y confiable. Esto asegura que la información sea tomada en consideración, visible desde la distancia y accesible para personas con diferentes niveles de visión. Para ello, utiliza una gama de colores accesibles con texturas y formas diversas. Puedes comprobar tus materiales con un simulador como este https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3 
-- Uso de textos grandes, contrastes de color y símbolos universales para facilitar la comprensión. Incluir señales en braille y mapas táctiles en puntos estratégicos. Conviene tener en cuenta que las normas de contraste de color solo están definidas para el espacio RGB por lo que no se puede aplicar en colores CMYK, etc. Por ello, se recomienda que el color del texto contraste con el fondo. Herramienta para comprobaro: https://webaim.org/resources/contrastchecker/
+- Uso de textos grandes, contrastes de color y símbolos universales para facilitar la comprensión. Incluir señales en braille y mapas táctiles en puntos estratégicos. Conviene tener en cuenta que las normas de contraste de color solo están definidas para el espacio RGB por lo que no se puede aplicar en colores CMYK, etc. Por ello, se recomienda que el color del texto contraste con el fondo. Herramienta para comprobarlo: https://webaim.org/resources/contrastchecker/
 - Colores acordes y uniformes: la coherencia en los colores facilita la comprensión y el reconocimiento de áreas específicas. Usar un código de colores o símbolos constantes en todos los mapas y señales ayudará a reducir la confusión. Por ejemplo, si la zona de descanso tiene en el mapa un símbolo de color verde, la puerta de la zona de descanso debe tener el mismo símbolo con el mismo color.
 
 ## Atención y asistencia 
@@ -93,6 +93,6 @@ La autorregulación es la capacidad de una persona para gestionar sus propias em
 
 Para ayudar a las personas que requieran algún tipo de adaptación a manejar su entorno, es vital permitir y normalizar el uso de herramientas de autorregulación. Algunas consideraciones incluyen:
 
-- Diversidad de técnicas y herramientas: existen multitud de opciones, ya que cada persona encuentra la que más le funcione. Organización y voluntariado deberían ser conocedoras de las más comunes y permitirlas e incentivarlas siempre y cuando no dificulten el normal desarrollo de las actividades del evento y no supongan un peligro para el resto de las personas. Por ejemplo, el uso de squishies, gomas elásticas cortas, libros, material sensorial, etc.
+- Diversidad de técnicas y herramientas: existen multitud de opciones, ya que cada persona encuentra la que más le funcione. Organización y voluntariado deberían ser conocedoras de las más comunes y permitirlas e incentivarlas siempre y cuando no dificulten el normal desarrollo de las actividades del evento y no supongan un peligro para el resto de las personas. Por ejemplo, el uso de squishies (antiestrés blandos), gomas elásticas cortas, libros, material sensorial, etc.
 - Mención aparte merecen los cascos o auriculares bloqueadores de sonido. Se debe permitir y facilitar su entrada y uso, puesto que existen personas muy sensibles al ruido y el bullicio que necesitan escapar de él de forma intermitente.
 - Información previa: es deseable que las personas asistentes estén informadas sobre la posibilidad de ver a otras personas utilizando estas herramientas. Explicar su uso y objetivo ayuda a normalizar su existencia y reduce el estigma. 
