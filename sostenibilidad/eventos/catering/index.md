@@ -1,6 +1,6 @@
 # Catering / Comida y bebida 
 
-Como organizador de eventos, eres responsable de proporcionar agua, café, y normalmente también comida o merienda. Las siguientes recomendaciones pueden ayudarte a ofrecer un menú más sostenible.
+Como organizador de eventos, eres responsable de proporcionar agua, café y, normalmente, también comida o merienda. Las siguientes recomendaciones pueden ayudarte a ofrecer un menú más sostenible.
 
 - Revisa si el lugar donde se celebrará el evento tiene restricciones en la comida que puede traer la gente de catering y los patrocinadores.
 - Si el lugar del evento no tiene fuentes o sistemas para rellenar agua, habla con el catering o la empresa encargada de la comida.

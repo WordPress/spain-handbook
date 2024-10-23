@@ -1,7 +1,6 @@
 # Marketing y comunicación
 
 Cómo atraer patrocinadores, ponentes y asistentes utilizando sus recursos online y offline, y otros consejos de marketing de sostenibilidad.
-
 - Crea un sitio web sostenible y accesible para el evento.
 - Invierte tu presupuesto de publicación en empresas y servicios locales.
 - Establece una fecha límite para la inscripción. Entre otras cosas, te permitirá evitar el desperdicio de alimentos.
