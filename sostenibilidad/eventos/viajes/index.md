@@ -1,6 +1,6 @@
 # Viajes
 
-Una vez que hayas seleccionado el lugar donde se celebrará el evento, es hora de compartir la información con los asistentes y patrocinadores.
+Una vez que hayas seleccionado [el lugar donde se celebrará el evento](https://es.wordpress.org/make/handbook/sostenibilidad/eventos/lugar), es hora de compartir la información con los asistentes y patrocinadores.
 
 Crea una página de «Cómo llegar»:
 - Fomenta los viajes en tren, bus o coche compartido por encima de los vuelos.
