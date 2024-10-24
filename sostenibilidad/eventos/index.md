@@ -6,7 +6,7 @@ Cada evento de WordPress, sea en persona o en línea, tiene un impacto medioambi
 
 Encontrarás todo lo que necesitas saber para organizar una WordCamp, una [Meetup](https://es.wordpress.org/team/handbook/comunidad/meetup/), o un evento de WordPress presencial o en línea en los manuales de los eventos. Sin embargo, las siguientes sugerencias ayudarán a que tu evento sea más sostenible. 
 
-Este manual también incluye algunos trucos para asistentes que puedes mostrar en la página web de tu evento.
+Este manual también incluye algunos [trucos para asistentes](https://es.wordpress.org/make/handbook/sostenibilidad/eventos-sostenibles/asistentes) que puedes mostrar en la página web de tu evento.
 
 A continuación puedes ver los consejos para crear un evento de WordPress más sostenible por temáticas: 
 
