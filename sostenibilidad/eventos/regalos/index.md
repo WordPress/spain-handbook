@@ -10,7 +10,7 @@ Los regalos de bienvenida son otra historia. Aunque poco necesarios, suelen ser 
   - Opción para la cinta de la acreditación (_lanyard_), invitando a que traigan la suya.
   - Opción para recibir o no taza o botella de regalo.
   - Opción para pedir o no camiseta del evento.
-- Prioriza los artículos promocionales sostenibles para los ponentes. Consulta la sección Inspiración para obtener ideas.
+- Prioriza los artículos promocionales sostenibles para los ponentes. Consulta la sección [Inspiración](https://es.wordpress.org/make/handbook/sostenibilidad/eventos/inspiracion)) para obtener ideas.
 - Cuando imprimas artículos promocionales localmente, considera un diseño atemporal: solo incluye el logotipo de WordPress. Esto garantiza que los artículos promocionales sobrantes se puedan usar en otros eventos. Tienes enlaces a los diseños oficiales de WordPress en el [WordCamp Organizer Handbook](https://make.wordpress.org/community/handbook/wordcamp-organizer/planning-details/swag/swag-source-files/) (en inglés).
 
 Planifica qué hacer con los artículos promocionales sobrantes después del evento.
