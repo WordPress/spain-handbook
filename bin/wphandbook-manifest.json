@@ -1,0 +1,290 @@
+{
+	"index": {
+		"slug": null,
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/index.md",
+		"parent": null,
+		"order": -1
+	},
+	"manuales": {
+		"slug": "manuales",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/manuales/index.md",
+		"parent": null,
+		"order": 1
+	},
+	"manuales/wordpress": {
+		"slug": "wordpress",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/manuales/wordpress/index.md",
+		"parent": "manuales",
+		"order": 1
+	},
+	"manuales/wordpress/crear": {
+		"slug": "crear",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/manuales/wordpress/crear/index.md",
+		"parent": "wordpress",
+		"order": 1
+	},
+	"manuales/wordpress/recuperar": {
+		"slug": "recuperar",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/manuales/wordpress/recuperar/index.md",
+		"parent": "wordpress",
+		"order": 2
+	},
+	"manuales/wordpress/sincronizar": {
+		"slug": "sincronizar",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/manuales/wordpress/sincronizar/index.md",
+		"parent": "wordpress",
+		"order": 3
+	},
+	"manuales/markdown": {
+		"slug": "markdown",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/manuales/markdown/index.md",
+		"parent": "manuales",
+		"order": 2
+	},
+	"manuales/markdown/referencia": {
+		"slug": "referencia",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/manuales/markdown/referencia/index.md",
+		"parent": "markdown",
+		"order": 1
+	},
+	"manuales/github": {
+		"slug": "github",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/manuales/github/index.md",
+		"parent": "manuales",
+		"order": 3
+	},
+	"manuales/github/crear": {
+		"slug": "crear",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/manuales/github/crear/index.md",
+		"parent": "github",
+		"order": 1
+	},
+	"manuales/github/fork": {
+		"slug": "fork",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/manuales/github/fork/index.md",
+		"parent": "github",
+		"order": 2
+	},
+	"manuales/github/issues": {
+		"slug": "issues",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/manuales/github/issues/index.md",
+		"parent": "github",
+		"order": 3
+	},
+	"manuales/github/fetch": {
+		"slug": "fetch",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/manuales/github/fetch/index.md",
+		"parent": "github",
+		"order": 4
+	},
+	"manuales/github/rama": {
+		"slug": "rama",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/manuales/github/rama/index.md",
+		"parent": "github",
+		"order": 5
+	},
+	"manuales/github/editardocumento": {
+		"slug": "editardocumento",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/manuales/github/editardocumento/index.md",
+		"parent": "github",
+		"order": 6
+	},
+	"manuales/github/commit": {
+		"slug": "commit",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/manuales/github/commit/index.md",
+		"parent": "github",
+		"order": 7
+	},
+	"manuales/github/pullrequest": {
+		"slug": "pullrequest",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/manuales/github/pullrequest/index.md",
+		"parent": "github",
+		"order": 8
+	},
+	"manuales/github/editarimagen": {
+		"slug": "editarimagen",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/manuales/github/editarimagen/index.md",
+		"parent": "github",
+		"order": 9
+	},
+	"equipo": {
+		"slug": "equipo",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/equipo/index.md",
+		"parent": null,
+		"order": 2
+	},
+	"equipo/agenda": {
+		"slug": "agenda",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/equipo/agenda/index.md",
+		"parent": "equipo",
+		"order": 1
+	},
+	"equipo/chat": {
+		"slug": "chat",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/equipo/chat/index.md",
+		"parent": "equipo",
+		"order": 2
+	},
+	"accesibilidad": {
+		"slug": "accesibilidad",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/accesibilidad/index.md",
+		"parent": null,
+		"order": 10
+	},
+	"comunidad": {
+		"slug": "comunidad",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/comunidad/index.md",
+		"parent": null,
+		"order": 11
+	},
+	"comunidad/meetup": {
+		"slug": "meetup",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/comunidad/meetup/index.md",
+		"parent": "comunidad",
+		"order": 1
+	},
+	"comunidad/meetup/programa": {
+		"slug": "programa",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/comunidad/meetup/programa/index.md",
+		"parent": "meetup",
+		"order": 1
+	},
+	"comunidad/meetup/crear": {
+		"slug": "crear",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/comunidad/meetup/crear/index.md",
+		"parent": "meetup",
+		"order": 2
+	},
+	"comunidad/meetup/aprobacion": {
+		"slug": "aprobacion",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/comunidad/meetup/aprobacion/index.md",
+		"parent": "meetup",
+		"order": 3
+	},
+	"comunidad/meetup/sitio": {
+		"slug": "sitio",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/comunidad/meetup/sitio/index.md",
+		"parent": "meetup",
+		"order": 4
+	},
+	"diseno": {
+		"slug": "diseno",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/diseno/index.md",
+		"parent": null,
+		"order": 12
+	},
+	"hosting": {
+		"slug": "hosting",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/hosting/index.md",
+		"parent": null,
+		"order": 13
+	},
+	"hosting/servidor": {
+		"slug": "servidor",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/hosting/servidor/index.md",
+		"parent": "hosting",
+		"order": 1
+	},
+	"marketing": {
+		"slug": "marketing",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/marketing/index.md",
+		"parent": null,
+		"order": 14
+	},
+	"marketing/publicar": {
+		"slug": "publicar",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/marketing/publicar/index.md",
+		"parent": "marketing",
+		"order": 1
+	},
+	"marketing/wordcamp": {
+		"slug": "wordcamp",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/marketing/wordcamp/index.md",
+		"parent": "marketing",
+		"order": 2
+	},
+	"marketing/wordcamp/preguntas": {
+		"slug": "preguntas",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/marketing/wordcamp/preguntas/index.md",
+		"parent": "wordcamp",
+		"order": 1
+	},
+	"soporte": {
+		"slug": "soporte",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/soporte/index.md",
+		"parent": null,
+		"order": 15
+	},
+	"traducciones": {
+		"slug": "traducciones",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/traducciones/index.md",
+		"parent": null,
+		"order": 16
+	},
+	"traducciones/guia": {
+		"slug": "guia",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/traducciones/guia/index.md",
+		"parent": "traducciones",
+		"order": 1
+	},
+	"traducciones/pte": {
+		"slug": "pte",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/traducciones/pte/index.md",
+		"parent": "traducciones",
+		"order": 2
+	},
+	"tutorias": {
+		"slug": "tutorias",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/tutorias/index.md",
+		"parent": null,
+		"order": 17
+	},
+	"tutorias/formacion": {
+		"slug": "formacion",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/tutorias/formacion/index.md",
+		"parent": "tutorias",
+		"order": 1
+	},
+	"tutorias/formacion/traducir": {
+		"slug": "traducir",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/tutorias/formacion/traducir/index.md",
+		"parent": "formacion",
+		"order": 1
+	},
+	"tutorias/formacion/core": {
+		"slug": "core",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/tutorias/formacion/core/index.md",
+		"parent": "formacion",
+		"order": 2
+	},
+	"tutorias/formacion/glosario": {
+		"slug": "glosario",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/tutorias/formacion/glosario/index.md",
+		"parent": "formacion",
+		"order": 3
+	},
+	"tutorias/formacion/colaboracion": {
+		"slug": "colaboracion",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/tutorias/formacion/colaboracion/index.md",
+		"parent": "formacion",
+		"order": 4
+	},
+	"tutorias/formacion/feedback": {
+		"slug": "feedback",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/tutorias/formacion/feedback/index.md",
+		"parent": "formacion",
+		"order": 5
+	},
+	"tutorias/formacion/agradecimiento": {
+		"slug": "agradecimiento",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/tutorias/formacion/agradecimiento/index.md",
+		"parent": "formacion",
+		"order": 6
+	},
+	"tv": {
+		"slug": "tv",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/tv/index.md",
+		"parent": null,
+		"order": 18
+	}
+}
