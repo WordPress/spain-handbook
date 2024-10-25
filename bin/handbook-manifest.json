@@ -251,12 +251,19 @@
 		"parent": null,
 		"order": 15
 	},
+	"sostenibilidad": {
+		"title": "Equipo de Sostenibilidad",
+		"slug": "sostenibilidad",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/sostenibilidad\/index.md",
+		"parent": null,
+		"order": 16
+	},
 	"traducciones": {
 		"title": "Equipo de Traducciones",
 		"slug": "traducciones",
 		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/traducciones\/index.md",
 		"parent": null,
-		"order": 16
+		"order": 17
 	},
 	"traducciones\/guia": {
 		"title": "Guía de traductores",
@@ -277,7 +284,7 @@
 		"slug": "tutorias",
 		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/tutorias/index.md",
 		"parent": null,
-		"order": 17
+		"order": 18
 	},
 	"tutorias\/formacion": {
 		"title": "Formación de traductores",
@@ -333,6 +340,6 @@
 		"slug": "tv",
 		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/tv\/index.md",
 		"parent": null,
-		"order": 18
+		"order": 19
 	}
 }
