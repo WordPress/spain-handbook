@@ -1,0 +1,1 @@
+# Cómo hacerlo más inclusivo
