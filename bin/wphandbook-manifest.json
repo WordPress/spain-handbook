@@ -173,11 +173,17 @@
 		"parent": null,
 		"order": 12
 	},
+	"documentacion": {
+		"slug": "documentacion",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/documentacion/index.md",
+		"parent": null,
+		"order": 13
+	},
 	"hosting": {
 		"slug": "hosting",
 		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/hosting/index.md",
 		"parent": null,
-		"order": 13
+		"order": 14
 	},
 	"hosting/servidor": {
 		"slug": "servidor",
@@ -189,7 +195,7 @@
 		"slug": "marketing",
 		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/marketing/index.md",
 		"parent": null,
-		"order": 14
+		"order": 15
 	},
 	"marketing/publicar": {
 		"slug": "publicar",
@@ -213,19 +219,19 @@
 		"slug": "soporte",
 		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/soporte/index.md",
 		"parent": null,
-		"order": 15
+		"order": 16
 	},
 	"sostenibilidad": {
 		"slug": "sostenibilidad",
 		"markdown_source": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/sostenibilidad/index.md",
 		"parent": null,
-		"order": 16
+		"order": 17
 	},
 	"traducciones": {
 		"slug": "traducciones",
 		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/traducciones/index.md",
 		"parent": null,
-		"order": 17
+		"order": 18
 	},
 	"traducciones/guia": {
 		"slug": "guia",
@@ -243,7 +249,7 @@
 		"slug": "tutorias",
 		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/tutorias/index.md",
 		"parent": null,
-		"order": 18
+		"order": 19
 	},
 	"tutorias/formacion": {
 		"slug": "formacion",
@@ -291,6 +297,6 @@
 		"slug": "tv",
 		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/tv/index.md",
 		"parent": null,
-		"order": 19
+		"order": 20
 	}
 }
