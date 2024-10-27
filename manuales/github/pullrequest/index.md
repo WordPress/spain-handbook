@@ -12,6 +12,10 @@ Para hacer *pull request* a partir de nuestro *fork*:
 
 ![Crear un nuevo Pull Request](https://raw.githubusercontent.com/WordPress/spain-handbook/main/assets/pull-request-boton-peticion-pull-request.webp)
 
+Existe la posibilidad de que no aparezca la pantalla anterior. En ese caso se puede desplegar el botón de **contribute** donde encontraremos el acceso al botón de **Open Pull Request**, como se muestra en la imagen.
+
+![Crear un nuevo Pull Request alternativo](https://raw.githubusercontent.com/WordPress/spain-handbook/main/assets/alt-open-pull-request.webp)
+
 3. A continuación cambiará la pantalla y **es importante saber dónde estamos**. Si te fijas arriba, verás que estamos en el repositorio principal de WordPress (mira el recuadro de arriba a la izquierda), y en la opción **Pull requests**. Además, a continuación, tenemos un formulario en el que podemos modificar el título de la solicitud de revisión, y añadir comentarios y explicaciones de los cambios realizados. Otros datos que podemos ver son desde qué rama de nuestro _fork_ estamos mandando los cambios hacia el repositorio principal. Esto es más a título informativo. Un poco más abajo verás la información detallada de los cambios que se han realizado.
 
 ![Comparar ramas](https://raw.githubusercontent.com/WordPress/spain-handbook/main/assets/pull-request-pantalla-peticion-revision.webp)
