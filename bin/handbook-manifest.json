@@ -160,6 +160,83 @@
 		"parent": "eventos",
 		"order": 8
 	},
+	"eventos/sostenibilidad": {
+		"title": "Eventos más sostenibles",
+		"slug": "sostenibilidad",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/eventos\/sostenibilidad\/index.md",
+		"parent": "eventos",
+		"order": 9
+	},
+	"eventos/sostenibilidad/ubicacion": {
+		"title": "Ubicación",
+		"slug": "ubicacion",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/eventos\/sostenibilidad\/ubicacion\/index.md",
+		"parent": "sostenibilidad",
+		"order": 1
+	},
+	"eventos/sostenibilidad/lugar": {
+		"title": "Lugar del evento",
+		"slug": "lugar",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/eventos\/sostenibilidad\/lugar\/index.md",
+		"parent": "sostenibilidad",
+		"order": 2
+	},
+	"eventos/sostenibilidad/viajes": {
+		"title": "Viajes",
+		"slug": "viajes",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/eventos\/sostenibilidad\/viajes\/index.md",
+		"parent": "sostenibilidad",
+		"order": 3
+	},
+	"eventos/sostenibilidad/patrocinadores": {
+		"title": "Patrocinadores",
+		"slug": "patrocinadores",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/eventos\/sostenibilidad\/patrocinadores\/index.md",
+		"parent": "sostenibilidad",
+		"order": 4
+	},
+	"eventos/sostenibilidad/catering": {
+		"title": "Catering / Comida y bebida",
+		"slug": "catering",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/eventos\/sostenibilidad\/catering\/index.md",
+		"parent": "sostenibilidad",
+		"order": 5
+	},
+	"eventos/sostenibilidad/regalos": {
+		"title": "Regalos",
+		"slug": "regalos",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/eventos\/sostenibilidad\/regalos\/index.md",
+		"parent": "sostenibilidad",
+		"order": 6
+	},
+	"eventos/sostenibilidad/contenido": {
+		"title": "Contenido",
+		"slug": "contenido",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/eventos\/sostenibilidad\/contenido\/index.md",
+		"parent": "sostenibilidad",
+		"order": 7
+	},
+	"eventos/sostenibilidad/marketing": {
+		"title": "Marketing y comunicación",
+		"slug": "marketing",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/eventos\/sostenibilidad\/marketing\/index.md",
+		"parent": "sostenibilidad",
+		"order": 8
+	},
+	"eventos/sostenibilidad/inspiracion": {
+		"title": "Inspiración",
+		"slug": "inspiracion",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/eventos\/sostenibilidad\/inspiracion\/index.md",
+		"parent": "sostenibilidad",
+		"order": 9
+	},
+	"eventos/sostenibilidad/asistentes": {
+		"title": "Consejos para asistentes",
+		"slug": "asistentes",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/eventos\/sostenibilidad\/asistentes\/index.md",
+		"parent": "sostenibilidad",
+		"order": 10
+	},
 	"accesibilidad": {
 		"title": "Equipo de Accesibilidad",
 		"slug": "accesibilidad",
