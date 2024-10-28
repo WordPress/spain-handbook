@@ -1,4 +1,4 @@
-# Catering / Comida y bebida 
+# Catering / Comida y bebida
 
 Como organizador de eventos, eres responsable de proporcionar agua, café y, normalmente, también comida o merienda. Las siguientes recomendaciones pueden ayudarte a ofrecer un menú más sostenible.
 

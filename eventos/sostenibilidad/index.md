@@ -1,4 +1,4 @@
-# Manual de eventos sostenibles
+# Eventos más sostenibles
 
 El camino hacia un mundo más sostenible es largo, pero cada acción cuenta.
 
