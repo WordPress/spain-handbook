@@ -1,4 +1,4 @@
-# Recomendaciones para eventos de WordPress inclusivos
+# Eventos más inclusivos
 
 De acuerdo con [WordCamp Central y el programa de eventos de comunidad de WordPress](https://central.wordcamp.org/what-to-expect/),  es primordial crear espacios en eventos como las WordCamps (u otros tipos de eventos de WordPress) que reflejen la inclusión en todas sus vertientes haciendo por ello, que todas las personas se sientan parte de un clima de aceptación y de respeto hacia la diversidad.
 
