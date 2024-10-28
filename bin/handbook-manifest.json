@@ -169,7 +169,7 @@
 	},
 	"eventos/sostenibilidad/ubicacion": {
 		"title": "Ubicación",
-		"slug": "sostenibilidad",
+		"slug": "ubicacion",
 		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/eventos\/sostenibilidad\/ubicacion\/index.md",
 		"parent": "sostenibilidad",
 		"order": 1
