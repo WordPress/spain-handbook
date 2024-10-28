@@ -146,19 +146,33 @@
 		"parent": "equipo",
 		"order": 2
 	},
+	"eventos": {
+		"title": "Organizador de Eventos",
+		"slug": "eventos",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/eventos\/index.md",
+		"parent": null,
+		"order": 10
+	},
+	"eventos\/inclusion": {
+		"title": "Eventos más inclusivos",
+		"slug": "inclusion",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/eventos\/inclusion\/index.md",
+		"parent": "eventos",
+		"order": 8
+	},
 	"accesibilidad": {
 		"title": "Equipo de Accesibilidad",
 		"slug": "accesibilidad",
 		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/accesibilidad\/index.md",
 		"parent": null,
-		"order": 10
+		"order": 11
 	},
 	"comunidad": {
 		"title": "Equipo de Comunidad",
 		"slug": "comunidad",
 		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/comunidad\/index.md",
 		"parent": null,
-		"order": 11
+		"order": 12
 	},
 	"comunidad\/meetup": {
 		"title": "Meetup",
@@ -200,14 +214,21 @@
 		"slug": "diseno",
 		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/diseno\/index.md",
 		"parent": null,
-		"order": 12
+		"order": 13
+	},
+	"documentacion": {
+		"title": "Equipo de Documentación",
+		"slug": "documentacion",
+		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/documentacion\/index.md",
+		"parent": null,
+		"order": 14
 	},
 	"hosting": {
 		"title": "Equipo de Hosting",
 		"slug": "hosting",
 		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/hosting\/index.md",
 		"parent": null,
-		"order": 13
+		"order": 15
 	},
 	"hosting\/servidor": {
 		"title": "Configuración del servidor",
@@ -221,7 +242,7 @@
 		"slug": "marketing",
 		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/marketing\/index.md",
 		"parent": null,
-		"order": 14
+		"order": 16
 	},
 	"marketing\/publicar": {
 		"title": "Publicar en WordPress.org",
@@ -249,21 +270,21 @@
 		"slug": "soporte",
 		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/soporte\/index.md",
 		"parent": null,
-		"order": 15
+		"order": 17
 	},
 	"sostenibilidad": {
 		"title": "Equipo de Sostenibilidad",
 		"slug": "sostenibilidad",
 		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/sostenibilidad\/index.md",
 		"parent": null,
-		"order": 16
+		"order": 18
 	},
 	"traducciones": {
 		"title": "Equipo de Traducciones",
 		"slug": "traducciones",
 		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/traducciones\/index.md",
 		"parent": null,
-		"order": 17
+		"order": 19
 	},
 	"traducciones\/guia": {
 		"title": "Guía de traductores",
@@ -284,7 +305,7 @@
 		"slug": "tutorias",
 		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/tutorias/index.md",
 		"parent": null,
-		"order": 18
+		"order": 20
 	},
 	"tutorias\/formacion": {
 		"title": "Formación de traductores",
@@ -340,6 +361,6 @@
 		"slug": "tv",
 		"markdown_source": "https:\/\/github.com\/WordPress\/spain-handbook\/blob\/main\/tv\/index.md",
 		"parent": null,
-		"order": 19
+		"order": 21
 	}
 }

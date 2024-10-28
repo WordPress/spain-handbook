@@ -125,17 +125,29 @@
 		"parent": "equipo",
 		"order": 2
 	},
+	"eventos": {
+		"slug": "eventos",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/eventos/index.md",
+		"parent": null,
+		"order": 10
+	},
+	"eventos/inclusion": {
+		"slug": "inclusion",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/eventos/inclusion/index.md",
+		"parent": "eventos",
+		"order": 8
+	},
 	"accesibilidad": {
 		"slug": "accesibilidad",
 		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/accesibilidad/index.md",
 		"parent": null,
-		"order": 10
+		"order": 11
 	},
 	"comunidad": {
 		"slug": "comunidad",
 		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/comunidad/index.md",
 		"parent": null,
-		"order": 11
+		"order": 12
 	},
 	"comunidad/meetup": {
 		"slug": "meetup",
@@ -171,13 +183,19 @@
 		"slug": "diseno",
 		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/diseno/index.md",
 		"parent": null,
-		"order": 12
+		"order": 13
+	},
+	"documentacion": {
+		"slug": "documentacion",
+		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/documentacion/index.md",
+		"parent": null,
+		"order": 14
 	},
 	"hosting": {
 		"slug": "hosting",
 		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/hosting/index.md",
 		"parent": null,
-		"order": 13
+		"order": 15
 	},
 	"hosting/servidor": {
 		"slug": "servidor",
@@ -189,7 +207,7 @@
 		"slug": "marketing",
 		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/marketing/index.md",
 		"parent": null,
-		"order": 14
+		"order": 16
 	},
 	"marketing/publicar": {
 		"slug": "publicar",
@@ -213,19 +231,19 @@
 		"slug": "soporte",
 		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/soporte/index.md",
 		"parent": null,
-		"order": 15
+		"order": 17
 	},
 	"sostenibilidad": {
 		"slug": "sostenibilidad",
 		"markdown_source": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/sostenibilidad/index.md",
 		"parent": null,
-		"order": 16
+		"order": 18
 	},
 	"traducciones": {
 		"slug": "traducciones",
 		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/traducciones/index.md",
 		"parent": null,
-		"order": 17
+		"order": 19
 	},
 	"traducciones/guia": {
 		"slug": "guia",
@@ -243,7 +261,7 @@
 		"slug": "tutorias",
 		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/tutorias/index.md",
 		"parent": null,
-		"order": 18
+		"order": 20
 	},
 	"tutorias/formacion": {
 		"slug": "formacion",
@@ -291,6 +309,6 @@
 		"slug": "tv",
 		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/tv/index.md",
 		"parent": null,
-		"order": 19
+		"order": 21
 	}
 }
