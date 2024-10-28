@@ -1,9 +1,9 @@
 # Organizador de Eventos
 
-- [Por dónde empezar](./empezar/)
-- [Equipo de organización](./organizadores/)
-- [Presupuesto](./presupuesto/)
-- [Patrocinadores](./patrocinadores/)
-- [Cómo comunicar el evento](./comunicacion/)
-- [Cómo hacerlo más inclusivo](./inclusion/)
-- [Cómo hacerlo más sostenible](./sostenibilidad/)
+- Por dónde empezar
+- Equipo de organización
+- Presupuesto
+- Patrocinadores
+- Cómo comunicar el evento
+- [Eventos más inclusivos](https://es.wordpress.org/team/handbook/eventos/inclusion/)
+- [Eventos más sostenibles](https://es.wordpress.org/team/handbook/eventos/sostenibilidad/)
