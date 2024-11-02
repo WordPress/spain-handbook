@@ -1,6 +1,6 @@
 {
-	"index": {
-		"slug": "index",
+	"handbook": {
+		"slug": "handbook",
 		"markdown": "https://raw.githubusercontent.com/WordPress/spain-handbook/refs/heads/main/index.md",
 		"parent": null,
 		"order": -1
