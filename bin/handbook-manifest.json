@@ -1,7 +1,7 @@
 {
-	"index": {
+	"handbook": {
 		"title": "Comunidad WordPress España",
-		"slug": null,
+		"slug": "handbook",
 		"markdown_source": "https:\/\/github.com\/WPES\/spain-handbook\/blob\/main\/index.md",
 		"parent": null,
 		"order": -1
