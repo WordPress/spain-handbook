@@ -24,7 +24,7 @@ Por norma general, las reuniones son el primer jueves de cada mes de 19:00 a 20:
 ## Representantes de este equipo
 
 - [Ana Gavilán](https://profiles.wordpress.org/anagavilan/)
-- [Alvaro Torres](https://profiles.wordpress.org/algato333/))
+- [Alvaro Torres](https://profiles.wordpress.org/algato333/)
 
 ## Documentación útil del equipo de marketing
 
